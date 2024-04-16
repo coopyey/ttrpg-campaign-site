@@ -15,7 +15,7 @@ All of that said, below is an overview of the campaigns I'm currently in and pre
 These are in order of start date, so the longest-running campaigns are going to be at the top.
 ### Stepstone Isles
 **System:** Dungeons & Dragon 5E \
-**DM:** [Matt Doyle](https://twitter.com/MattDoyleSmit) \
+**DM:** <a href="https://twitter.com/MattDoyleSmit" target="_blank">Matt Doyle</a> \
 **Start Date:** January 13, 2023 \
 **Character:** Calthel Lorvarax; Black Dragonborn Great Old One Warlock \
 **Vibe:**
@@ -24,14 +24,14 @@ These are in order of start date, so the longest-running campaigns are going to 
 ### Nuclear Chrome 
 **System:** Cyberpunk RED \
 **DM:** Ceildread \
-**Start Date:** Jan 19, 2023 \
+**Start Date:** January 19, 2023 \
 **Character:** Emerick Kline; 4 Media \
 ***Vibe:***
 > A cyberpunk horror campaign in which the group works for a ruthless, abusive fixer that only cares about making money at any cost. As in any cyberpunk fiction, everything's terrible all of the time and the group is only trying to make it through the ruthless Night City unscathed. *Please note that Cyberpunk RED is set in 2045 so you will not see Cyberpunk 2077 wireless mechanics such as quickhacking.*
 
 ### Danse Macabre
 **System:** Dungeons & Dragons 5E -> Pathfinder 2E \
-**DM:** [Alan](https://startplaying.games/gm/alanofalltrades) \
+**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** January 22, 2023 \
 **Character:** Arythas Ialdethish; Silver Dragon Battle Oracle \
 **Vibe:**
@@ -39,7 +39,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 
 ### Gatewalkers
 **System:** Pathfinder 2E (Adventure Path) \
-**DM:** [Alan](https://startplaying.games/gm/alanofalltrades) \
+**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** May 20, 2023 \
 **Character:** Killian; Toy Poppet Betrayal Warlock (homebrew) \
 **Vibe:**
@@ -47,7 +47,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 
 ### Seal of Infinity
 **System:** Pathfinder 2E \
-**DM:** [Alan](https://startplaying.games/gm/alanofalltrades) \
+**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** June 26, 2023 \
 **Character:** Faylen Ianthe; Changeling Elf Laughing Shadow Magus \
 **Vibe:**
@@ -55,7 +55,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 
 ### Strahd Has Risen from the Dead
 **System:** Pathfinder 2E \
-**DM:** [Alan](https://startplaying.games/gm/alanofalltrades) \
+**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** pending \
 **Character:** Atheya Calhras; Dhampir Elf Life Oracle \
 **Vibe:**
