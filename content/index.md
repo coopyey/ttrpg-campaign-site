@@ -3,6 +3,8 @@ title: Welcome to Coop's TTRPG Site
 ---
 Hello and welcome to my TTRPG campaign vault!
 
+**PLEASE NOTE THIS SITE IS VERY MUCH A WORK IN PROGRESS AT THIS TIME AS I WORK TO MIGRATE ALL MY NOTES FROM SEVERAL DISPARATE PLACES TO HERE.**
+
 This site is meant to include notes for all of the TTRPG campaigns that I'm in. This provides a vault with history for each campaign I've been in, as well as a reference to other players if they miss a session or need to refresh themselves on what happened in a previous session. I would love to have this heavily interlinked with each other so that you can review NPCs or locations and understand the context of what's going on with detail - we'll see if I actually accomplish that. 😅
 
 Please be aware that while I type notes my focus is to keep up with the action rather than focus on spelling or grammatical accuracy. I do not always have the time or energy to edit and fix notes, so please be forgiving when reviewing notes and realize that spelling of names may not be consistent, or there may be glaring errors in terms of grammar or sentence structure. I'm doing my best out here. 💜

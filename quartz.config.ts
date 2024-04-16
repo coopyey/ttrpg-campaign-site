@@ -53,6 +53,11 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      Plugin.CrawlLinks({
+        markdownLinkResolution: "shortest",
+        prettyLinks: true,
+        lazyLoad: true,
+      }),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
