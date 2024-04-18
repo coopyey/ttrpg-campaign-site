@@ -4,19 +4,11 @@ Campaign: Danse Macabre
 Status: Alive
 Organization:
 ---
-AKA The Earthshaker
+**Aliases:**
 
-The most famous is that he used his power to destroy a dam and it drowned a small town. There was a magical project being developed in the town that would have caused devastation but the town wasn’t evacuated so it was stopped at what cost.
+- The Earthshaker
+- Amtal
 
-## General Information
+A blue dragonborn that lived isolated in the mountains between the [[Abbey of St. Cuthbert]] and [[Oceanscar]]. Some of his scales are cracked, and he holds himself like a warrior.
 
-**Ancestry**: Dragonborn
-
-**Friendly**? Yes
-
-**Class**: Paladin
-
-**Location**:
-
-- Important Relationships
-    - [[Kalvag the Wrath]]
+A legendary paladin from the war. His most famous story is that he used his power to destroy a dam and it drowned a small town. There was a magical project being developed in the town that would have caused devastation but the town wasn’t evacuated so it was stopped at what cost.

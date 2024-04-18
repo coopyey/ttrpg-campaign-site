@@ -3,19 +3,21 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-02-19
 ---
-While Inky is in the library, he reads as much as he can. He tries to figure out all of the filing systems — the books he already know and from his home are organized in a familiar way. The books are very focused on dragons and some on goblins. Goblins are an empire on another landmass, separated by the sea. Elves have a kingdom, and Dia’s family is a Republic in Akria. Inky and Arythas are from a pocket of land that nobody cares about. Inky goes from book to book, reading, learning. He does learn a new spell while looking around and he learns distort value.
+While [[Inky]] is in the library, he reads as much as he can. He tries to figure out all of the filing systems — the books he already know and from his home are organized in a familiar way. The books are very focused on dragons and some on goblins. Goblins are an empire on another landmass, separated by the sea. Elves have a kingdom, and [[Dia]]’s family is a Republic in Akria. Inky and [[Arythas]] are from a pocket of land that nobody cares about. Inky goes from book to book, reading, learning. He does learn a new spell while looking around and he learns distort value.
 
-Inky decides it’s time to go back home and Mattai explains that it seems that the groupis in a less magical area than where Inky entered, but the magic library will take Inky to the nearest to them library. The books here are a little eclectic — fencing, Pelor prayers, comics, etc. He is in a tent. In a glass case is the gilded sword that Dia summoned prior.
+Inky decides it’s time to go back home and [[Mattai]] explains that it seems that the group is in a less magical area than where Inky entered, but the magic library will take Inky to the nearest to them library. The books here are a little eclectic — fencing, Pelor prayers, comics, etc. He is in a tent. In a glass case is the gilded sword that Dia summoned prior.
 
-He hears two people approaching ahe hides in the books, moving them to see who enters. Inky recognizes Rafferty, Dia’s brother. A bugbear woman is with him and is very, very professional. Rafferty is whining about something. He takes a moment and almost reflects on things, then moves on.
+He hears two people approaching and he hides in the books, moving them to see who enters. Inky recognizes [[Rafferty]], Dia’s brother. A bugbear woman is with him and is very, very professional. Rafferty is whining about something. He takes a moment and almost reflects on things, then moves on.
 
-Rafferty decides to try something and he takes a by the book fencing position against a mannequin and a bit of magic discharges, with a capsule discharging. The sword is dwarven made and the bugbear woman stole the formular for the cartridges, but it will take time to get them into mass production, so he should not use the sword much until then. Rafferty and the bugbear woman leaves.
+Rafferty decides to try something and he takes a by the book fencing position against a mannequin and a bit of magic discharges, with a capsule discharging. The sword is dwarven made and the bugbear woman stole the formula for the cartridges, but it will take time to get them into mass production, so he should not use the sword much until then. Rafferty and the bugbear woman leaves.
 
-Inky notices that most of the camp is humans but there are also some elves — they are snotty and the upper crust type. There are a few human/dwarf/bugbear/goblin professionals. None of these people will bother him unless he starts some shit, so Inky just gets up and leaves. He stops to ask if the guards know here Dia is (no) or if there is a group of adventurers nearby, to which they say the Bloodsoaked Banner’s camp has some newcomers.
+Inky notices that most of the camp is humans but there are also some elves — they are snotty and the upper crust type. There are a few human/dwarf/bugbear/goblin professionals. None of these people will bother him unless he starts some shit, so Inky just gets up and leaves. He stops to ask if the guards know here Dia is (no) or if there is a group of adventurers nearby, to which they say the [[Bloodsoaked Banner]]’s camp has some newcomers.
 
 Inky comes over to the Bloodsoaked Banner camp and asks if the guards have seen Arythas. They let him in with a warning and Inky runs in to find his new friends.
 
-Arythas gets breakfast while Rohan and Iskra have a lay in and try not to get up, and Dia has found a quiet place to write in her diary.
+---
+
+[[Arythas]] gets breakfast while [[Rohan]] and [[Iskra]] have a lay in and try not to get up, and Dia has found a quiet place to write in her diary.
 
 Inky finds Arythas and rushes up to him, saying he found things to talk about. He says he met Dia’s brother, though Dia’s brother didn’t meet him. He thinks Dia’s brother is an ass (Arythas confirms) and then asks where Dia is. Arythas isn’t sure where she is but will help Inky find her. They find Dia outside of the tent serving as the temple for this camp. Inky rushes up to her and apologizes because he met her brother, then gives her some documents he found:
 

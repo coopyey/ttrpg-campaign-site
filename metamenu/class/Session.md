@@ -15,10 +15,10 @@ fields:
     options:
       sourceType: ValuesListNotePath
       valuesList: {}
-      valuesListNotePath: class sources/Campaign List.md
+      valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
     id: fKlfOC
-version: "2.8"
+version: "2.9"
 limit: 20
 mapWithTag: false
 icon: package

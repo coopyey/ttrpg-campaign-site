@@ -7,6 +7,8 @@ Status: Alive
 ---
 ### General Information
 
+**Full Name:** Inksnout
+
 **Ancestry:** Kobold
 
 **Heritage:** 

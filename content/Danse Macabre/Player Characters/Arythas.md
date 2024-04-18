@@ -7,6 +7,8 @@ Status: Alive
 ---
 ## General Information
 
+**Full Name:** Arythas Ialdethish
+
 **Ancestry**: Dragon
 
 **Heritage**: Silver Dragon

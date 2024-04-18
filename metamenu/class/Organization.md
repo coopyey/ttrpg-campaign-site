@@ -5,21 +5,19 @@ fields:
     options:
       sourceType: ValuesListNotePath
       valuesList: {}
-      valuesListNotePath: class sources/Campaign List.md
+      valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
-    id: ueyO8x
-  - name: Type
-    type: Input
+    id: GCJitS
+  - name: Status
+    type: Select
     options:
-      template: ""
+      sourceType: ValuesList
+      valuesList:
+        "1": Active
+        "2": Inactive
     path: ""
-    id: 3IAZ34
-  - name: Organization
-    type: Input
-    options: {}
-    path: ""
-    id: fyFIz5
-version: "2.10"
+    id: 1kZQ1t
+version: "2.3"
 limit: 20
 mapWithTag: false
 icon: package
@@ -31,7 +29,6 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder:
-  - ueyO8x
-  - 3IAZ34
-  - fyFIz5
+  - GCJitS
+  - 1kZQ1t
 ---

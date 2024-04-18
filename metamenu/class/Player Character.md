@@ -15,7 +15,7 @@ fields:
     options:
       sourceType: ValuesListNotePath
       valuesList: {}
-      valuesListNotePath: class sources/Campaign List.md
+      valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
     id: 4wnLA2
   - name: Status
@@ -28,7 +28,7 @@ fields:
         "3": Retired
     path: ""
     id: bBmUqI
-version: "2.12"
+version: "2.13"
 limit: 20
 mapWithTag: false
 icon: package

@@ -5,10 +5,10 @@ fields:
     options:
       sourceType: ValuesListNotePath
       valuesList: {}
-      valuesListNotePath: class sources/Campaign List.md
+      valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
     id: CPsHDO
-version: "2.0"
+version: "2.1"
 limit: 20
 mapWithTag: false
 icon: package

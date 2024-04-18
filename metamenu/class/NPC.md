@@ -10,20 +10,20 @@ fields:
         "3": Dead
     path: ""
     id: 2vfDe7
-  - name: Organization
-    type: Input
-    options: {}
-    path: ""
-    id: w0CxIu
   - name: Campaign
     type: Select
     options:
       sourceType: ValuesListNotePath
       valuesList: {}
-      valuesListNotePath: class sources/Campaign List.md
+      valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
     id: Hhqr3p
-version: "2.5"
+  - name: Organization
+    type: MultiFile
+    options: {}
+    path: ""
+    id: LWU4Lr
+version: "2.14"
 limit: 20
 mapWithTag: false
 icon: package
@@ -37,5 +37,5 @@ favoriteView:
 fieldsOrder:
   - Hhqr3p
   - 2vfDe7
-  - w0CxIu
+  - LWU4Lr
 ---

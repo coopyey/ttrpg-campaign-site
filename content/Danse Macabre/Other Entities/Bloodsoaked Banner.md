@@ -3,22 +3,10 @@ Class: Organization
 Campaign: Danse Macabre
 Status: Active
 ---
-# Demographics
-
-**Continent of Operation**: Where
-
-**Main City of Operation**: Everywhere, all over the place
-
-**Size of Organization:** HowBig
-
-**Leader**: Whomst
-
-# The Organization
-
 ## The Mission
 
-This is a group of veterans from the war. They are a renegade group that hunts down supernatural things such as werewolves,vampires, and the like. They also often act as security and peacekeepers in tense situations, as well as a acting as mercs to help others.
+This is a group of veterans from the war. They are a renegade group that hunts down supernatural things such as werewolves, vampires, and the like. They also often act as security and peacekeepers in tense situations, as well as a acting as mercs to help others.
 
 ## Additional Notes
 
-More notes
+This is a pretty intense group that specializes in hunting down the supernatural. Despite being rough around the edges, they wish to do good. They are definitely not a well-loved group, but because of their reputation to generally do good they are tolerated in most places.
