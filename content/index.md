@@ -55,7 +55,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **Vibe:**
 > Built to be a classic high fantasy adventure, this campaign follows a group of misfits as they attempt to do good and wrangle all of the pieces of a now shattered powerful artifact before it ends up in the hands of ne'er-do-wells. This campaign includes political intrigue, silly cartoonish hijinx, and a group of players doing their damndest to avoid combat in any and all circumstances.
 
-### Strahd Has Risen from the Dead
+### Strahd Has Risen from the Grave
 **System:** Pathfinder 2E \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** pending \
