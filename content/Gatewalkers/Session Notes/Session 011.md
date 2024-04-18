@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-08-26
 ---
 After our rest, we go to the door at the direct east of the vivisection room. Ria listens to the door and hears a bubbling noise. Hiera can definitely hear someone in the room - they are laughing and coughing. Hiera explains there’s one person on the other side of the room while Ria says possibly chemistry stuff — together it sounds like a mad alchemist?

@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-08-12
 ---
 We take some time to heal up and we try to recall if we know anything bout tooth fairies. We recall they’re very vicious and won’t respond very well to diplomacy: they want teeth. They want to steal our teeth. They are also a swarm, so they will be immune to precision damage in this instance. They are weak to area or splash damage. We manage to kill the fairies and they explode into a sticky white dust.

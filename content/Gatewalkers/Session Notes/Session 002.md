@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-05-27
 ---
 Valentine — Aasimar human swashbuckler

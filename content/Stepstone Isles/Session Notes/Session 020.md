@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Stepstone Isles]]"
+Class: Session
+Campaign: Stepstone Isles
 Session Date: 2024-03-08
 ---
 I missed session 19.

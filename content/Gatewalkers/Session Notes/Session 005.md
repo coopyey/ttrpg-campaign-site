@@ -1,9 +1,9 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-07-01
 ---
-[[Bolan WIP]] surrendered previously. As a reminder, we are here to get the gate key. The Sunflower leshy was almost cut in half.
+[[Bolan]] surrendered previously. As a reminder, we are here to get the gate key. The Sunflower leshy was almost cut in half.
 
 ---
 

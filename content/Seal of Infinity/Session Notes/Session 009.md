@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-08-21
 ---
 Session 8 — combat with Lord Darkrose in the theatre where we defeated the roses that were suffocating him. We retrieve a second shard of the seal of infinity, which has joined with the shard we originally had. We let Danny skip town and he has learned A lesson of some sort.

@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-08-19
 ---
 We stand outside the door to the next room. I recall this is a D’ziriak that is a creature native to the plane of shadows, not the First World (which is what we’re in). The D’ziriak is extremely colorful, which is in opposition to the plane’s monochromatic palette. Four arms, two legs, and termite-like abdomen, and the person is 7’ish tall. There are ladders connecting the two floors of this library, with a balcony on the second floor. A firefly chandelier are in the top. There are two doors into the library: one to the east, one to the south - the south is where we’re entering. There’s also two doors on the east.

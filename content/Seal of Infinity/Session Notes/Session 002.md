@@ -1,19 +1,19 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-07-03
 ---
 The “creature” moves very slowly, seemingly unconcerned with time. It takes a step closer and a crack forms in the glass of the observation deck. Faylen runs to find Sage Axamonar to make sure he is aware of what is happening.
 
 Bosch peers at the cracks to see if they are in the glass or the sky and makes sure he isn’t imagining it. He asks if anyone knows what it is, and nobody does. Mary is quick to tuck Taletha away to ekep her safe, while Tabby readies his crossbow even though he knows it won’t help. The thing turns and appears to be headed toward the steel-reinforced car of the train.
 
-Faylen meets [[Clement WIP]] (and the party not long after) and asks if the Sage is aware of what is happening (yes). The Sage is with the box in the special carriage. Clement explains he believes this creature is from the Dark Domain. We recall that across the sea a strange island appeared and we cannot contact it — it happened a few months ago.
+Faylen meets [[Clement]] (and the party not long after) and asks if the Sage is aware of what is happening (yes). The Sage is with the box in the special carriage. Clement explains he believes this creature is from the Dark Domain. We recall that across the sea a strange island appeared and we cannot contact it — it happened a few months ago.
 
 Faylen pushes past Clement and Pippin is just behind him. Axamonar is already out on the train, casting spells at the behemoth lumbering toward us. The creature seems to be made of static and just seems to negate the effects of the spells flung at him. Mary manages to convince Clement to go help people escape.
 
 Pippin kicks the door to the steel cart in (to his surprise) and Bosch readies opening the box with a crowbar. Faylen stops him to make sure it is safe to do so, and realizes that Bosch’s idea may very well be perfect. Bosch pries it open and the box falls to the ground as the protection wards fizzle out and the wall of the train begins to disintegrate.
 
-The creature isn’t engagin with [[Axamonar WIP]]  at all. The man grows dejected and Faylen begs him to live and to go, but he reefuses and slams his staff into the roof of the train car and a huge explosion of energy spreads. A sphere of power pushes everything away — the creature is moved a step back.
+The creature isn’t engagin with [[Axamonar]]  at all. The man grows dejected and Faylen begs him to live and to go, but he reefuses and slams his staff into the roof of the train car and a huge explosion of energy spreads. A sphere of power pushes everything away — the creature is moved a step back.
 
 We were knocked back, so we all get up and run into the forest. We grow lost as we run blindly, but after a while we all stop to catch our breath. Bosch looks inside of the box and sees what is essentially a grey stone. It is clearly the shard of something larger. Pippin and Bosch can tell this is a sliver of the [[TTRPG Campaigns/Key Items/Seal of Infinity|Seal of Infinity]] . Bosch has heard rumors that the Seal was stolen, and he himself has had dreams of stealing it.
 

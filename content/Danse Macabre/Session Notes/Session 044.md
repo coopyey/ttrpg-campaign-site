@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2024-02-25
 ---
 The silver dragonborn sees Arythas and dashes inside, and Arythas stands there awkwardly. Dia asks if he would like to speak to them, and Arythas specifically says that the man was clearly not comfortable and he didn’t want to bother him. Dia rolls her eyes and huffs as she walks up to the cottage. There are windows in the cottage (after a very long conversation about defenestration) and the cottage is very nice, built by hand. It’s well maintained and well loved, clearly.

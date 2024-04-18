@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-03-26
 ---
 We wake up in the morning. Tomorrow is the soiree, and the wine is 4 days out.
@@ -41,7 +41,7 @@ Taraaq is scared of angry mom Dia. >:3c
 
 Inky goes to the [[The Library Between WIP]] to study and found someone else there, though Inky doesn’t see them. Inky waits around for the other person to come forth, pretending to read. He eventually comes across a feathere Yuan-Ti. Inky is aware that the feathered type are more related to coatls and they are seperate from the evil snake-based Yuan-Ti empire. They don’t notice as Inky walks past.
 
-Inky says hello and surprises them. They didn’t expect anyone else to be here and they introduce themself as [[Szotszi WIP]] (shot-shee), a blue feathered Yuan-Ti that uses she/they pronouns. Inky is curious if Szotszi sees the caretaker as another form, but they do not and wonder if the caretaker can only take on draonic forms.
+Inky says hello and surprises them. They didn’t expect anyone else to be here and they introduce themself as [[Szotszi]] (shot-shee), a blue feathered Yuan-Ti that uses she/they pronouns. Inky is curious if Szotszi sees the caretaker as another form, but they do not and wonder if the caretaker can only take on draonic forms.
 
 Szotzi is so glad to be able to use the library and attain knowledge from other races, especially the elves. She and Inky talk for quite a while, the conversation being very pleasant. Szotzi explains where they are from and what they are studying — divine magic — and Inky dances around the fact that he is studying necromancy, though he eventually works his way up to asking if she knows anything about it. Szotzi assumes he means shadow magic (nethermancy) and offers to ask question to a contact she has that is studying shadow magic currently. Once he clarifies that he means bringing the dead back to life, she grows afraid and Inky explains that he is against this as well and that he is just trying to understand so that he can work against it. They aren’t very sure, but they are going to the soiree the following day, though, and explains they can talk more in depth there. She can network and try to dance her way around the nobles to see if anyone knows anything there.
 
@@ -59,7 +59,7 @@ Satisfied, Dia goes to talk to Rohan and apologizes for being so tough on him. S
 
 Iskra eventually heads out over the night and starts checking around for signs of Tristan being here. He cannot find any evidence of Tristan here at all, though it is possible he may simply be operating in another district if he is here at all.
 
-Iskra heads to the kobold’s and finds Clinky on break drinking tea. He asks if they have heard of anyone matching Tristan’s description and Clinky just stares at Iskra, wanting more information. He ultimately recommends asking [[Bugsy WIP]] so they head to the back.
+Iskra heads to the kobold’s and finds Clinky on break drinking tea. He asks if they have heard of anyone matching Tristan’s description and Clinky just stares at Iskra, wanting more information. He ultimately recommends asking [[Bugsy]] so they head to the back.
 
 Bugsy comes out and they are a mantis-person. Iskra asks for more information on a werewofl named Tristan. He hasn’t heard anything, but he reassures Iskra that he will ask around. Iskra says that he wants to keep his friends safe, and recommends keeping tabs on someone named Tristan because he is very dangerous.
 

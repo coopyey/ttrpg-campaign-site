@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-07-02
 ---
 I missed session 19. Iskra’s debt to the mafia was squared and he got a [[Party Communication Broach]] that allows the party to speak to each other across the city. It is powered by a friend of Taraaq’s and may occasionally not work correctly. Arythas went with Dia to find something to wear for the party.
@@ -19,15 +19,15 @@ Dia asks them to burn the dress and Iskra does so at her request, and Dia is cle
 
 Dia clings to Arythas, who hugs her, and explains that this is a replica of her wedding dress, which she was shown when she learned that she was to be married. Inky apologizes and leaves the room sadly, and Iskra makes a joke to try to break the tension, and reassures her. Dia realizes that someone in the city must have seen the dress despite it never being worn or used, and she realizes her mother may have actually held Dia’s wedding anyway.
 
-Inky notices a newspaper with information about a wedding — it looks like it may be Dia next to an older man in his 50s/60s with a very wild beard.The headline reads: [[Lord Liyon WIP]] takes as bride the youngest daughter of the Family of Light. We know that Dia is the youngest, and the article names her once. Iskra asks how they could have a wedding without her and she explains that the Family can pay enchanters to make people look like her.
+Inky notices a newspaper with information about a wedding — it looks like it may be Dia next to an older man in his 50s/60s with a very wild beard.The headline reads: [[Lord Liyon]] takes as bride the youngest daughter of the Family of Light. We know that Dia is the youngest, and the article names her once. Iskra asks how they could have a wedding without her and she explains that the Family can pay enchanters to make people look like her.
 
-[[Inali WIP]] comes in and asks if Dia has a twin sister and shows us the article. Iskra holds the paper up to the wolf so that he can see it, and he can tell that it is a spell put to the paper and it keeps only a few elements of the moment in the paper — he recognizes _something_ about the groom, but he’s not sure what or why.
+[[Inali]] comes in and asks if Dia has a twin sister and shows us the article. Iskra holds the paper up to the wolf so that he can see it, and he can tell that it is a spell put to the paper and it keeps only a few elements of the moment in the paper — he recognizes _something_ about the groom, but he’s not sure what or why.
 
 Everyone begins to pour over this and Arythas takes his leave of everyone to find Inky and check in on him. It becomes apparent that Inky has gone and Arythas uses the communication broaches to check in with Inky. He doesn’t respond and Arythas realizes that he wants to be left alone, so Arythas honors that and returns to the rest of the party.
 
 He walks in as Rohan is explaining that the marriage was announced and we can actually weaponize that. We can use the party to fake kill Dia after her wedding to poison the news cycle, but Dia’s issue with that is that her double is still having to pretend to be her and if she is dead then they will kill her double. She suspects that her groom isn’t even aware that she is gone and that is why the Family is actually still looking for her.
 
-We realize that we have to take care of Lord Liyon before anything else regarding her marriage can happen. Iskra says that he gets a bad feeling about Lord Liyon, though he can’t quite put his finger on what it is. Dia wonders if [[Tristan WIP]] is somehow related to the man, and Iskra explains that Tristan couldn’t turn back to a normal human form and there is no person behind those eyes. He is confused that Lord Liyon is not Tristan in human form. Rohan suggests that maybe Iskra recognizes the curse in him, but Iskra isn’t sure.
+We realize that we have to take care of Lord Liyon before anything else regarding her marriage can happen. Iskra says that he gets a bad feeling about Lord Liyon, though he can’t quite put his finger on what it is. Dia wonders if [[Tristan]] is somehow related to the man, and Iskra explains that Tristan couldn’t turn back to a normal human form and there is no person behind those eyes. He is confused that Lord Liyon is not Tristan in human form. Rohan suggests that maybe Iskra recognizes the curse in him, but Iskra isn’t sure.
 
 Arythas recalls some information about Lord Liyon:
 

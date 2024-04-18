@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: Session
+Campaign: Nuclear Chrome
 Session Date: 2023-07-27
 ---
 4 cigarettes survived the thing. All checks are -2 for [[Net]] as he hasn’t smoked.
@@ -9,7 +9,7 @@ Session Date: 2023-07-27
 
 Net was knocked on his ass with a sucker punch and [[Crack Pipe]] is over him saying “Never. Again.” Net checks to see if he’s bleeding and sure enough his nose is bleeding. He looks up at Crack Pipe and says thanks, not bothering to sit up or anything. As Net is lying there, Crack Pipe pulls out a rather large wrench, holding it. He tells Net that he needs to agree to these terms or he won’t have lungs anymore. Net slowly pulls out a cigarette and puts it in his mouth. Crack Pipe cracks the man’s face with the wrench. Crack Pipe explains that Net was supposed to agree before using them, and Net says he can fuck off, and Crack Pipe disengages. Net lights his cigarette and takes a long drag and is finally happy.
 
-[[Emerick Kline]] gives [[Garf]] her shotgun back and leaves the situation to go back to his room, away from the rest of the situation.
+[[Emerick]] gives [[Garf]] her shotgun back and leaves the situation to go back to his room, away from the rest of the situation.
 
 Garf takes her shotgun and then walks up to Net and asks if he is better. Net says he’s more than better and that he’s so much better. Garf offers him a ride to get more cigarettes and Net asks for five minutes. After the five minutes they head out and go to a convenience store and pick up sweet tea, chips (one of them multipacks with Doritos and Cheetos) and gets Net some more cigarettes so that he doesn’t go off the deep end again. Garf ultimately takes Net to her new apartment and says that her apartment is a safe place if he needs to decompress. Net says that he’s not a chain smoker and that he’s trying real hard to quit.
 

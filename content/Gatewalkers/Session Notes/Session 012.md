@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-09-09
 ---
 We begin with Kaneepo combat. It’s a tough battle, but Ria finally bites into and tears Kaneepo apart and he dies, the temagyr dissolves into shadow, dead. We take some time to heal everyone up, and Killian goes to pick up the key we are searching for while Opal sends Zircon over to free Hubert.

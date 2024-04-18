@@ -1,10 +1,8 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-06-03
 ---
-## Session Notes:
-
 Three corrupt druids are around an altar with a unicorn up there, asleep. The druids have eerie leaf-shaped masks marking them as followers of Bolan.
 
 After a combat, we knock one druid unconscious, kill another, and the last one surrenders. We free the unicorn and looks at Valentine, eyes hazy with ritual wounds. The unicorn is in a magically induced state of panic. Valen calms it down, reassuring it that we do not wish to harm it.

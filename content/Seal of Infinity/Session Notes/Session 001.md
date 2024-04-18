@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-06-26
 ---
 It is around noon on a train.
@@ -33,7 +33,7 @@ Pippin is trying to leave the observation deck as both Tabby and Bosch attempt t
 
 ---
 
-Faylen is in first class, relaxing, and it is not long before [[Axamonar WIP]]  and [[Clement WIP]] enter. Axamonar is the Sage that Pippin saw earlier, and Faylen knows that he is quite famous for his power and skill. Faylen has previously attended his talks as their shared focus is being a battlemage. Axamonar holds himself knowing he is powerful. Faylen and Axamonar talk in the lounge about magic and battle strategies, going quite in depth with it, while Clement shakes like a nervous chihuahua. He does eventually leave.
+Faylen is in first class, relaxing, and it is not long before [[Axamonar]]  and [[Clement]] enter. Axamonar is the Sage that Pippin saw earlier, and Faylen knows that he is quite famous for his power and skill. Faylen has previously attended his talks as their shared focus is being a battlemage. Axamonar holds himself knowing he is powerful. Faylen and Axamonar talk in the lounge about magic and battle strategies, going quite in depth with it, while Clement shakes like a nervous chihuahua. He does eventually leave.
 
 Eventually, Axamonar pulls out a small silver mirror. Faylen peeks over to see that in the mirror is an image of a chest made of steel and encrusted with gems that act as magical conduits. It hovers inside of what appears to be the locked steel carriage. Axamonar explains he must leave to continue his work, and Faylen thanks him for his time.
 

@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-09-17
 ---
 We make it to Arcfort, the Orcish capital. It is early morning when we arrive. Bronze is with us, Pratima is gathering her things and coming up, and Edruch is carrying a lot of bits and bobs in his arms. Bronze tips his hat to us in goodbye, and when we look back for him he’s already gone.

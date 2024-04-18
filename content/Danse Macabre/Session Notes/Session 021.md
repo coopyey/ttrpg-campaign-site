@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-07-16
 ---
 Dia and Arythas get the lay of the land of the party and it isn’t too long before Inky, Keenan, and Iskra showed up. Kestrel eventually updates Keenan that he got his daughter and that they will likely meet up at a later time in another city, maybe, if they’re lucky.

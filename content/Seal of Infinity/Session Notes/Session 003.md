@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-07-10
 ---
 ## Loot

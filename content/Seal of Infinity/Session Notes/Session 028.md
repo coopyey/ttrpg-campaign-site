@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2024-03-11
 ---
 We return to the inn. On the way we discuss the bloodstone issue and Mary recommends we seek out a jewelry or alchemy shop, but she’s not sure where to start with that. Faylen recommends we return to the inn and speak to the barkeep as they may have an idea of where such shops are, and could possibly broker a deal with our money and their custom of favors. We return and have some food and some chat with the innkeeper.

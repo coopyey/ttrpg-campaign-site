@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-10-22
 ---
 We disembark from the boat with Bronze and are traveling to the city of Apamea. We have all heard that Apamea is called the City of Peace. Dia knows her father was upset that the city wouldn’t allow him a foothold. Inky knows that there was a project to create Apamea and it was not particularly successful: the city was built and everyone lives there dealing with the consequences of it.

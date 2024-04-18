@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2024-01-07
 ---
 I was gone for session 37. Apparently the entire party gambled. Rohan’s father was a demon lord known as Fraz-Urb’luu, the Prince of Deception, which we also figured out in session 37 while I was gone. Inky also summoned red Inky, the rogue, to steal something.
@@ -25,7 +25,7 @@ Belavor Brill — Dia recognizes the Brill name. They’re definitely a rich fam
 
 Rohan asks about the crossbow and Belavor explains that the crossbow is light and there are also runes that make it lighter and easier to handle. This is a hunting weapon, not a battle weapon. The crowd begins to grow bigger and Belavor is excited as his “shot” is already arriving, and he asks to take his leave. He looks directly at Dia and invites her to come along. Dia decides to accept this invite and links arm with him. He asks her to share anything about herself and Dia deflects and asks him to tell her about him. Belavor explains that in Harros there’s a special prey to hunt, which Dia feigns interest.
 
-Belavor explains that she will learn what this prey is soon enough.They continue walking and we find an elevated platform in the center of a square, and there is also a free space there. Most of the people are from Harros while there are also people from the train that went to the crowd to see what’s going on. [[Belavor Brill WIP]] is the only outsider that seems to know what’s going on. On the platform there are people on the platform made to kneel with their hands behind their back and sack cloths on their heads. Before them stands a man that looks a bit like a preacher but he doesn’t seem to be overtly religious. He waits for everyone to settle and for the crowd to form, then he raises his hands and explains he is Judge Orus Graf and this trial has now begun.
+Belavor explains that she will learn what this prey is soon enough.They continue walking and we find an elevated platform in the center of a square, and there is also a free space there. Most of the people are from Harros while there are also people from the train that went to the crowd to see what’s going on. [[Belavor Brill]] is the only outsider that seems to know what’s going on. On the platform there are people on the platform made to kneel with their hands behind their back and sack cloths on their heads. Before them stands a man that looks a bit like a preacher but he doesn’t seem to be overtly religious. He waits for everyone to settle and for the crowd to form, then he raises his hands and explains he is Judge Orus Graf and this trial has now begun.
 
 The first has been accused of burglary, murder, and stealing cattle. The accused is unable to speak and the Judge explains we know what the verdict will be and that we all know why we are here. The people begin to chant “Wolves’ Head” over and over. The Judge explains the rules of man have been broken so they will be treated as animals, so divine judgement shall begin. Two people’s backs arch and something goes on within the sack cloth. The cloth bursts and they have malformed wolves heads rather than human heads. This is a polymorph magic of some kind. The guards cut their ropes and the Judge says that these are no longer people and they are pariahs. The guards kick them off of the platform and seeing the circle of people broken, a street is open and the half transformed begin running toward the free street while Belavor takes aim at the people.
 

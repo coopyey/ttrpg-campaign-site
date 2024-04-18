@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-08-07
 ---
 We travel with Vim, Vigor, and Vogue and the townsfolk to their town. This is a smaller town, not an actual city.
@@ -27,7 +27,7 @@ The next section is a sprawling metropolis and Bosch figures out that the illusi
 
 Mary sees a poster:
 
-Medley of Famous Plays by the “Famous” [[Danny “Lord Darkrose” Shrug WIP]] (Danny is holding a rose on the poster)
+Medley of Famous Plays by the “Famous” [[Lord Darkrose]] (Danny is holding a rose on the poster)
 
 Danny sure looks like a dude. He doesn’t even have a good face, he’s just out here vibing. We review the poster and Faylen doesn’t recognize him at all - he’s a nobody when it comes to the theatre. Bosch sees a statue of the very handsome Lord Darkrose. Now, when Bosch points at the castle within the castle, we can tell it’s a small theatre that appears to be closed. Faylen explains that he has no way to track down a magic item off-hand, but he figured to go by the “throne room” as he figured Danny would be there.
 

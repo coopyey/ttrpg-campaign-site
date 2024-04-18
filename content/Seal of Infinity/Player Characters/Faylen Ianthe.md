@@ -1,8 +1,9 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
-Class: Magus
+Class: Player Character
+Campaign: Seal of Infinity
+Player Class: Magus
 Subclass: Laughing Shadow
+Status: Alive
 ---
 ## General Information
 

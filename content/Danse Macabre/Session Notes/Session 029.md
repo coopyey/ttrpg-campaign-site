@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-10-01
 ---
 Arythas and Dia rouse everyone and gets them ready to battle, but Inky is gone. The fascists are demanding to come in and look at the museum. Edruch explains that he can stall the group and he pushes for us to leave. Edruch explains that he won’t be safe, but he needs us to be safe. We decide we will hide. Rohan recommends giving Arythas the hat of disguise so that he can look like and pretend to be an Orc. Dia and Rohan hide in the rafters, and Iskra and his wolf prestidigitation a blanket to look like a pile of clothes and hide in plainer sight.

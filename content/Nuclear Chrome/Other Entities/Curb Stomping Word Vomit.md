@@ -1,7 +1,6 @@
 ---
-Type: Organization
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: Organization
+Campaign: Nuclear Chrome
 Status: Active
 ---
 The band that we work with under Juice. Juice seems to have an invested interest in bringing them back to the top of the charts and to knock [[Nuclear Chrome]] off their high horse.

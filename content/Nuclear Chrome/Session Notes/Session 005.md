@@ -1,13 +1,13 @@
 ---
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: Session
+Campaign: Nuclear Chrome
 Session Date: 2023-02-16
 ---
 [[Omen]] is upset as he comes down the stairs. He walks with purpose as [[Seo Tae-Woo]] comes down the hall to join the entire group with a carryall.
 
 ----
 
-Omen, Seo, [[Garf]], and [[Emerick Kline]] all pile into cars and head to an abandoned building near the target to stake out the location to try to gain more information about what we will be up against. Emerick and Seo talk on the ride over while Omen drives. There is a car in front of us that rolls out in front of us that is bellowing smoke. Omen and Garf go to drive around it, and Emerick and Seo notice that the car is filled with explosives. Emerick tells Omen and Garf to fucking gun it.
+Omen, Seo, [[Garf]], and [[Emerick]] all pile into cars and head to an abandoned building near the target to stake out the location to try to gain more information about what we will be up against. Emerick and Seo talk on the ride over while Omen drives. There is a car in front of us that rolls out in front of us that is bellowing smoke. Omen and Garf go to drive around it, and Emerick and Seo notice that the car is filled with explosives. Emerick tells Omen and Garf to fucking gun it.
 
 We get past the explosion and a biker zips out of an alley and comes up on Garf, another pulling up to Omen's vehicle on Emerick's side. Emerick notices that the gangers are [[6th Street]], and Garf shoots the hand of the biker next to her. Omen bashes the bike next to us and the rider loses control of the bike, crashing and thus inoperable. Emerick kills the biker next to Garf and they continue on to the stakeout location.
 

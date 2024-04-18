@@ -1,9 +1,9 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-07-31
 ---
-Sarah had to dip due to work reasons so we will pretend K’Whu doesn’t exist.
+K'Whu's player had to dip due to work reasons so we will pretend K’Whu doesn’t exist.
 
 ---
 
@@ -11,13 +11,13 @@ We are in the back of the wagon. It very comfortably fits 3 but we currently hav
 
 Faylen is currently uncomfortable with the current travel situation, and Pippin is asleep after his day. Tabby is comfortable enough in the moment. Mary is backed up into a corner chatting with Talita and trying not to take up too much space. Mary is talking to Pippin’s familiar, Squire. Bosch climbs up to the top of the cart to hang from it when we complain about the space and he hangs upside down. He calls himself a bat and gets a good laugh out of everyone awake.
 
-[[Vogue WIP]] is playing solitaire in the corner.
+[[Vogue]] is playing solitaire in the corner.
 
 When Bosch is mentioned as having enough abs, he says there is no such thing and does some crunches. Faylen mentions he’s impressed and has never seen someone do this before and Bosch more or less says that there are some goblins that are boring and won’t do such things. Tabby says he would hardly call Bosch boring and Bosch returns the sentiment.
 
-[[Vim WIP]]  is interacting with us and asking us questions. I play poker with Vim and it’s not awful but I don’t win against him.
+[[Vim]]  is interacting with us and asking us questions. I play poker with Vim and it’s not awful but I don’t win against him.
 
-We travel for a while and eventually [[Vigor WIP]]  calls out saying that there are some folks on the road. He asks if he should try to move past them or if he should stop. We glance out to see who’s in the road and we see two guys standing on the opposite side of the road - one has a dog. They look like bandits - there’s something that looks off about them. Pippin, Bosch, and Tabby, explain to Faylen there’s definitely more than the two. Mary notices that the dog is confused and doesn’t seem to understand what is happening here.
+We travel for a while and eventually [[Vigor]]  calls out saying that there are some folks on the road. He asks if he should try to move past them or if he should stop. We glance out to see who’s in the road and we see two guys standing on the opposite side of the road - one has a dog. They look like bandits - there’s something that looks off about them. Pippin, Bosch, and Tabby, explain to Faylen there’s definitely more than the two. Mary notices that the dog is confused and doesn’t seem to understand what is happening here.
 
 Tabby rolls out of the wagon and between the two in the road who stopped us and says to call out the rest of their guys from the forest as we’re ready to rumble. Combat begins.
 

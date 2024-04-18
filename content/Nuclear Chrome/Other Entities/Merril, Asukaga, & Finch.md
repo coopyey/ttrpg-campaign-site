@@ -1,7 +1,6 @@
 ---
-Type: Organization
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: Organization
+Campaign: Nuclear Chrome
 Status: Alive
 ---
 **Sector:** Finance

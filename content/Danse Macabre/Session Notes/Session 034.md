@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-11-05
 ---
 Kroil’vend is the only prison that matches the description of a prison up north, according to Soldas. He explains that he’s not sure what we’ll have to deal with but once we get to the last station we will have to travel the rest of the way to the country, then trek further north to get to the prison. There are places we will need to be very wary of due to danger, such as ice trolls. Once we get there he isn’t sure if we’ll be able to be there as guests or if we will have to break in and enter. He explains that the warden, General Chase, is an old ally and that we likely will not be going there as guests.

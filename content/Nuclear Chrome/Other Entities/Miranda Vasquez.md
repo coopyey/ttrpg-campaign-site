@@ -1,7 +1,6 @@
 ---
-Type: NPC
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: NPC
+Campaign: Nuclear Chrome
 Status: Alive
+Organization: "[[Night City Police Department]]"
 ---
-To be filled out later.

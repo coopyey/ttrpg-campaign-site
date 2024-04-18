@@ -1,9 +1,9 @@
 ---
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: Session
+Campaign: Nuclear Chrome
 Session Date: 2023-01-19
 ---
-Thursday, the day for mission details. Meet @ the Afterlife, ask for [[Serpent]] or Charles.
+Thursday, the day for mission details. Meet @ [[The Afterlife]], ask for [[Serpent]] or Charles.
 
 [[Omen]]:
 - Mute by choice
@@ -25,7 +25,7 @@ Omen drives us over and we discuss how to reach floor 15, room 10.
 [[Net]] comes up with the following plan:
 - [[Net]] and Charles sneak into the room.
 - [[Garf]] will go into the vents and scout things out.
-- [[Omen]] and [[Emerick Kline]] will grapple onto the outer balcony and wait for commotion.
+- [[Omen]] and [[Emerick]] will grapple onto the outer balcony and wait for commotion.
 
 *We learn that there is a fixer in the Glen that we are aware of named [[Mr. Steele]]. We realize that he set up a hit on this client that we are rescuing. Mr. Steel is rumored to be nearing cyberpsychosis.*
 

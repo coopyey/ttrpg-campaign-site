@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-10-16
 ---
 Things start heating up. Zerch is hoping that Bosch’s plan will work and Craforde will give up the Seal of Infinity shard. Crawforde draws his rapier and acts like he’s definitely a big scary guy, but nobody buys it at all. Zerch rushes Crawforde and tries to attack him, to be stopped by Tabby, This pisses him off and combat begins. We manage to take care of the ghouls and Zerch and protect all of the passengers. The officer that stuck around, Horgat, introduces himself to us, and he thinks he did an awful lot in this combat (it was Faylen). It’s not long before everyone else on the train (not Horgat and Crawforde) recognizes Tabby, Mary, and Faylen as the heroes of the hour. The three of us also explain that Bosch was also part of the plan and we couldn’t have done it without them.

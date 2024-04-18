@@ -1,9 +1,9 @@
 ---
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: Session
+Campaign: Nuclear Chrome
 Session Date: 2023-08-03
 ---
-[[Emerick Kline]] reached out to [[Juice]] for the doses of blue glass for the party. Juice responded saying that it would be ready in the morning. Emerick gets up in the morning and makes his way upstairs to Juice’s office and knock on the door and Juice shuffles some shit around then says to come in. Emerick enters and finds Juice at his desk, leafing through papers while [[Ogre]] stands off to his right. Juice tells Emerick to have a seat and Emerick listens. Juice motions with his hand, offering to sit as well as to point Ogre. As Emerick sits, Ogre shuts the office door. Juice looks at Emerick and says he knew that this would happen sooner or later, he just didn’t expect they’d send Emerick to do it for everyone.
+[[Emerick]] reached out to [[Juice]] for the doses of blue glass for the party. Juice responded saying that it would be ready in the morning. Emerick gets up in the morning and makes his way upstairs to Juice’s office and knock on the door and Juice shuffles some shit around then says to come in. Emerick enters and finds Juice at his desk, leafing through papers while [[Ogre]] stands off to his right. Juice tells Emerick to have a seat and Emerick listens. Juice motions with his hand, offering to sit as well as to point Ogre. As Emerick sits, Ogre shuts the office door. Juice looks at Emerick and says he knew that this would happen sooner or later, he just didn’t expect they’d send Emerick to do it for everyone.
 
 Emerick tries to say they are probably just busy with their parts of this job, and Juice points out that everything Emerick does for them - the party just keeps giving him more, and more, and more to do, and it’s not like they’re showing Emerick any appreciation. Juice walks over and paces behind the chair Emerick sits in, saying that Emerick deserves something for his loyalty to them, but they’re not giving it to him. If they keep this up, Juice says, bossing Emerick around, treating him like he’s beneath them, then let Juice know, and he’ll make sure it’s addressed. Right now, Juice continues, everyone works for Juice, and none of us works for each other, and none of us should be treating anyone as lesser than another. Juice reaches over Emerick’s shoulder and places the bag of blue glass doses in Emerick’s lap.
 

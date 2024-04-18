@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2024-02-03
 ---
 It takes half a day to march to the east to the spire. It is 60’ tall with windows and terraces at every floor. At the uppermost ledge is the giant horn to signal. They urge us forward as we stand outside and tells us that it is our part.

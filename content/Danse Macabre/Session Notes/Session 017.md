@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-06-04
 ---
 ## Loot
@@ -22,7 +22,7 @@ Dia approaches the guard and asks to be let in. She shows the letter of confiden
 Lore moment: The Felu
 > The Felu are the losers of the wore, and man are they sore. They are incredibly patriotic and are a fascist-like movement that has risen up. They spend time preparing to ensure in the next war they will not lose. The war was under the previous king, and the new king is more practical: he’s brought magic to the people, created nationalized healthcare, etc.
 
-Dia and Arythas stand around and wait for a little and eventually [[Captain Tavrion WIP]], the captain of the Royal Guard, comes out. They’re an elfin magma genasi (nonbinary, currently masc) that comes over to look us over. Dia explains that we have important business with the king. They review the letter of confidence as Dia explains the current situation is not suitable to speak in a public area. Dia convinces them to allow Inky, Iskra, and Rohan in to wait with us. We are led into the guardhouse. The captain kicks everyone out and sits so that we can explain what is going on in more detail.
+Dia and Arythas stand around and wait for a little and eventually [[Captain Tavrion]], the captain of the Royal Guard, comes out. They’re an elfin magma genasi (nonbinary, currently masc) that comes over to look us over. Dia explains that we have important business with the king. They review the letter of confidence as Dia explains the current situation is not suitable to speak in a public area. Dia convinces them to allow Inky, Iskra, and Rohan in to wait with us. We are led into the guardhouse. The captain kicks everyone out and sits so that we can explain what is going on in more detail.
 
 We ultimately allow them to examine the bottle of corrupted wine and they call their sibling in to bring the king back to the palace. The captain gives us a special piece of magical bark as a deputy badge, and also a jade sending stone to communicate with them. Tavrion will send people to help the prisoners from the soiree, and we are to take care of the wine and destroy it as the guard cannot actually do anything in an official capacity because of the political landscape in Oceanscar.
 

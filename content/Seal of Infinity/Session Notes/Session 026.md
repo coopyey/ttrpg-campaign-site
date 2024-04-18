@@ -1,13 +1,13 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2024-02-19
 ---
 We make it to the Verdant Core and it is a city teeming with life. There are all sorts of types here from treant-like Arboreals, dryads, leshys of all shapes and sizes, creatures that are almost human but are made of plants instead of meat (Mary knows these are Ghoran) and there are also wood giants. They are not as large as the name implies, but they are rather just very tall. Everyone local is a plant, but there are some dwarves and gnomes that are congregating in a portion of the city with some stone buildings.
 
 The inn is The Growing Boy, with a dwarven innkeep and a gnomish cook. Most people inside are dwarves or gnomes and they seem to be in transit or traders. Montego does the whole greeting thing, but nobody seems to know him. We all sit down at the bar and try the gin, with Faylen not hating it but not loving it, and Montego sits with us and acts like a party member. The dwarf explains that they take regular money, but the locals also will trade on favors.
 
-Montego ends up clapping Bosch on the back and Bosch notices the way he doesn’t quite flinch and the math that Montego’s doing as he adjusts his perception of us. The burgers arrive for us to eat and the barkeep asks why we’re here, and we explain that we were brought here for court, and he asks if we are related to the wizard. We confirm, and explain we have no information outside of that, but everyone should know he has excellent abs. We chat some more, then get a burger to go just in case [[Axamonar WIP]] hasn’t eaten any time recently.
+Montego ends up clapping Bosch on the back and Bosch notices the way he doesn’t quite flinch and the math that Montego’s doing as he adjusts his perception of us. The burgers arrive for us to eat and the barkeep asks why we’re here, and we explain that we were brought here for court, and he asks if we are related to the wizard. We confirm, and explain we have no information outside of that, but everyone should know he has excellent abs. We chat some more, then get a burger to go just in case [[Axamonar]] hasn’t eaten any time recently.
 
 Florian helps us to navigate because he actually knows where to go now that he’s back home. We head to the courthouse and Florian explains that we are here to see the guy, and the employee doesn’t have any context so he waves us on through since Florian is with is. Florian leads us to an office that says, in fey, Prosecutor Altwidus Changestaff. It’s also added in common, but it was added recently and possibly for our benefit. We enter the office and Altwidus’ secretary greets us, explaining we were summoned to be witnesses for the prosecution against Axamonar. She gets us passes to visit Axamonar before the trial, as visiting hours are still going on.
 

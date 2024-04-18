@@ -1,12 +1,19 @@
 ---
-Type: PC
+Class: Player Character
 Campaign: 
-Class: 
-Status: Alive
+Player Class: 
+Subclass: 
+Status:
 ---
-## Basic Information
-**Ancestry:** Here
-**Class:** Here
+### General Information
+
+**Ancestry:** 
+
+**Heritage:** 
+
+**Class:** 
+
 **Subclass:** 
 
-## Other Notes
+**Background:** 
+### Additional Notes

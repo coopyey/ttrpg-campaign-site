@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-09-25
 ---
 We are in downtime due to the rail maintenance. We are all also aware that there is a potentially powerful person with another piece of the seal here.

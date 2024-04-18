@@ -1,9 +1,9 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-07-24
 ---
-Jack and Sarah are out today.
+Pippin and K'whu's players are out today.
 
 ---
 
@@ -11,7 +11,7 @@ Bosch is being badgered by the children, who think the frog is the owner here. H
 
 Mary rounds up the children to keep them away from the construction and Tabby tries to help keep them entertained. Tabby fails to juggle the balls but pretends that he did it on purpose and introduces the concept of slapstick comedy to the children.
 
-Faylen spends time with [[Clement WIP]]  and [[Axamonar WIP]] , which turns into mostly Axanomar telling stories of his glory days and Clement acting them out.
+Faylen spends time with [[Clement]]  and [[Axamonar]] , which turns into mostly Axanomar telling stories of his glory days and Clement acting them out.
 
 Pippin was whisked off by all the children and K’Whu is sleeping.
 
@@ -21,7 +21,7 @@ Mary and Bosch see a pretty big cart that seems to be a circus cart. There is on
 
 From the inside of the cart a gnomish guy gets out and asks what the hold up is. He’s wearing an old suit that has been repaired many times. There’s some back and forth about confusing the directions and ultimately the brothers introduce themselves and ask if everyone wants a performance.
 
-[[Vim WIP]]  and [[Vigor WIP]]  Brothers
+[[Vim]]  and [[Vigor]]  Brothers
 
 These guys are definitely not famous but Bosch has run into these brothers before. Vim is an illusionist, Vigor is a strong man. Bosch mentions he recognizes them and they talk a little bit, with Bosch mentioning he saw them in another city. Vigor mentioned that they had to leave due to heat and Vim butts in and coughs and says that it was definitely too hot and it was the weather. Bosch admits he had to leave because he knocked over a building.
 
@@ -33,7 +33,7 @@ Vigor does the normal strong man routine: he picks up heavy things, he bends str
 
 Tabby slips out of the performance to see if there is a third person stealing items. He sees a shadow of someone slip between a few buildings and enter the tavern. There is a voice bitching that they don’t have anyone. Tabby announces his presence and the girl jumps in surprise, at least partially goblin. She asks if Tabby wasn’t enjoying the show, and he replies it was a decent distraction but not good enough. She tries to say that times are tough and she offers to split the share with him, if there is anything to split. She asks how there is no money here and Tabby says that it’s a different society here. Tabby explains that there’s nothing worth stealing, he’ll let her and the brothers go if they return their things and he won’t mention it to anyone. She sighs and agrees as she starts to pull out some shiny shells and interesting rocks - nothing of value. She leaves to go tell her brothers and goes into the performance tent and makes a motion to Vim and Vigor that the jig is up.
 
-Vim and Vigor say it’s time to pack up and we express disappointment. They say to give it up for [[Vogue WIP]] , their sister. They perform for a little while longer and then pack up for the night. We all get wrapped up and go to the tavern, and the trio ultimately do come to the tavern for a drink. Tabby buys them a round to help alleviate their financial stress.
+Vim and Vigor say it’s time to pack up and we express disappointment. They say to give it up for [[Vogue]] , their sister. They perform for a little while longer and then pack up for the night. We all get wrapped up and go to the tavern, and the trio ultimately do come to the tavern for a drink. Tabby buys them a round to help alleviate their financial stress.
 
 Pippin is still being harassed by children, and K’Whu sleeps all day. We go to check on her and she is still asleep, sleep on her brow. We know that there is something wrong. Mary takes some time to check her out. This might be because she has some psychic powers and what is happening to her seems like a psychic attack. Mary knows that she will wake up sooner or later and she will most likely either recall nothing or have a few bad memories of the dream. She can’t determine if the attack is still happening or if it happened before. We explain to Bosch we can’t hit anything to fix this and he is confused.
 
@@ -41,4 +41,4 @@ About this time, Vim comes in and explains that Vogue explained to him what happ
 
 We get K’Whu packed into the cart, which is gently enchanted so the inside is larger than the outside. We set off with the caravan to Rosevale. Clement and Axanomar part ways with us here, finally ready to depart. Faylen addresses them and is thankful for the opportunity to have met and learned from them, and Clement hugs Mary and thanks her for the support. They teleport away and leaves the party with Vim, Vigor, and Vogue.
 
-Bosch asks for all the messy details about who they are in deep with. Vim begins and asks if we know about the thief’s guild in different places. Vim explains there’s a guy - he won’t say the name because he might be cursed - and he’s trying to unite the thieves guilds under one banner. The trio owes that specific guy some money. Bosch is aware of what’s happening and who it is - [[Kincaid WIP]] - but he isn’t fully aware of the deets, of course. He’s an undead crime boss.
+Bosch asks for all the messy details about who they are in deep with. Vim begins and asks if we know about the thief’s guild in different places. Vim explains there’s a guy - he won’t say the name because he might be cursed - and he’s trying to unite the thieves guilds under one banner. The trio owes that specific guy some money. Bosch is aware of what’s happening and who it is - [[Kincaid]] - but he isn’t fully aware of the deets, of course. He’s an undead crime boss.

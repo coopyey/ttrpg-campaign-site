@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-10-15
 ---
 Taraaq snaps to consciousness while going through a very narrow alleyway. Taraaq knows that he can turn the connection between them off and on in a sort of privacy moment, but he lost all contact with Rohan while Rohan was in the library, and again last night. Taraaq isn’t sure what happened or what’s going on. Taraaq is currently in Rohan’s body and Rohan’s taken quite the beating, with minimal health. He understands that Rohan is unconscious and will be back at some point. There are voices saying that he couldn’t have gotten far, search for him.

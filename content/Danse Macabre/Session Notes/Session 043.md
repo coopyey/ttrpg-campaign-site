@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2024-02-18
 ---
 We are in combat. Arythas has a spirit link with Dia active. There is a fire orb on the map still live. We manage to take care of and kill these creatures and Iskra mentions not to step where the patches of the corpses are. Iskra moves toward Dia, and Dia starts to realize that a spell was cast upon her. Iskra is in her face. He pats her and casts a three action heal to heal Iskra and Robin.

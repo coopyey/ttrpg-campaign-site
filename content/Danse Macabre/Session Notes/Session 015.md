@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-05-14
 ---
 We feed the cave dragon by taking it to a pack of bathounds, and then we continue our way with Iskra in the lead and Harmir helping. Captain Kearney is clearly uncomfortable being so deep within the earth, but she’s trying to pass off that she is not scared. Iskra tells Inky and the captain that he needs to blow something up for the kobold mob around this time.
@@ -25,7 +25,7 @@ We start off down the tunnel and the Professor continues to talk very loudly as 
 
 The ranger confirms that whatever is making their lives hard is a fey and is rather powerful: a count or higher. He also confirms that it is shifting the caves and says that this is a game to entertain it, but fey don’t necessarily realize that mortal beings need food and water to live.
 
-Iskra tries to commune with the fey — the echo of Iskra’s paws hitting the ground echos too much and a growl sounds as heavy footsteps approach. Four paws with wicked talons, horns, and the face of an elongated skull appears from the darkness. The fey creature looms over us and says that Iskra smells familiar, suddenly lunging forward to grab Iskra. There’s a very tense moment, then the creature laughs and its mood lightens as he introduces himself as the [[Duke of Depths WIP]].
+Iskra tries to commune with the fey — the echo of Iskra’s paws hitting the ground echos too much and a growl sounds as heavy footsteps approach. Four paws with wicked talons, horns, and the face of an elongated skull appears from the darkness. The fey creature looms over us and says that Iskra smells familiar, suddenly lunging forward to grab Iskra. There’s a very tense moment, then the creature laughs and its mood lightens as he introduces himself as the [[Duke of Depths]].
 
 It is a rather jovial creature as it exclaims that we helped his niece and that we are friends of the fey because of this. Iskra explains that we are on a quest to stop the forces that made the Frosty Princess sick to begin with, and he is glad to help us with this. He asks what to do with the derro and Harmir explains he wishes to meet with him, and Dia manages to talk him into letting her join him.
 

@@ -1,5 +1,6 @@
 ---
-Type: NPC
+Class: NPC
 Campaign: 
-Status: Alive
+Status: 
+Organization:
 ---

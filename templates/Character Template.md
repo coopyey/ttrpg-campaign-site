@@ -1,5 +1,0 @@
----
-Campaign: 
-Class: 
-Subclass:
----

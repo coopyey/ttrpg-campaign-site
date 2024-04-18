@@ -1,7 +1,7 @@
 ---
-Type: NPC
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: NPC
+Campaign: Nuclear Chrome
 Status: Alive
+Organization: 
 ---
-Someone related to [[The Thinkers]], [[Cipher]], and [[Net]].
+Someone related to [[Net]] and his gang affiliation.

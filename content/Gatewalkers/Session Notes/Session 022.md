@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2024-01-20
 ---
 We open the door and see ornate lanterns hanging from the ceiling and a strange humanoid greets us by speaking into our minds: _Greetings, scholars_. Opal chimes in saying that he is not a scholar, and the creature points out to Opal and says that they see what knowledge we seek and that they are contained in the memories in the Grove, and it asks what memories we wish to give up to access that knowledge. Opal offers Dragon Care 101. One of the creatures moves a little closer, though it doesn’t move with malice.
@@ -29,7 +29,7 @@ She is convinced the imprint is tied to the curse as well as possibly something 
 
 Ria explains Kaneepo the Slim, but who knows how he got the key. She isn’t sure about that, and she also isn’t sure if using the powers we’ve gained will cause us to lose our minds or lose ourselves. She does admit she’s waited long for this and she would like to help, but she isn’t sure how to get us home or anything.
 
-She explains that her soul is tethered to the material plane but her body is dead, so she is traditionally dead but she is bound here. Killian asks if there are other ways to tether a soul to the Universe and may put it into another vessel. She explains that what gave the others powers might have shunted him into a poppet body. Killian recalls how hazy his first days were, and he seems to recall that he became a warlock after — this goes into directly contrast to what [[Grandmother Hemlock WIP]] and [[Rend WIP]] suggested. Opal asks if he died would he transfer vessels, and she says she doesn’t know. Yuna asks if we can add more to him and she advises against it, but there may be rituals or magic that could help.
+She explains that her soul is tethered to the material plane but her body is dead, so she is traditionally dead but she is bound here. Killian asks if there are other ways to tether a soul to the Universe and may put it into another vessel. She explains that what gave the others powers might have shunted him into a poppet body. Killian recalls how hazy his first days were, and he seems to recall that he became a warlock after — this goes into directly contrast to what [[Grandmother Hemlock]] and [[Rend]] suggested. Opal asks if he died would he transfer vessels, and she says she doesn’t know. Yuna asks if we can add more to him and she advises against it, but there may be rituals or magic that could help.
 
 Valentine asks what is best in life and she doesn’t answer. When asked what the answer to life, the universe, and everything, and she calmly responds 42.
 

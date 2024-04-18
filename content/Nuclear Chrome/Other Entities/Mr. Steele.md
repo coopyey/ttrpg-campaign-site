@@ -1,8 +1,8 @@
 ---
-Type: NPC
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: NPC
+Campaign: Nuclear Chrome
 Status: Alive
+Organization: 
 ---
 **Class:** Fixer
 

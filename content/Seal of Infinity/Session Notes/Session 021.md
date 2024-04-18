@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2024-01-08
 ---
 Recap: the secret spy lady goes by Effiny Lundt and Agent Bryce.

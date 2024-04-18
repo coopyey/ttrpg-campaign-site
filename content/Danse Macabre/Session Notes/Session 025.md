@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-08-20
 ---
 Inky is searching for the memoirs of his father. There are five tones — fortuitous for their kind. Shadowbane is the ancestor. Inky learns his ancestor’s full name and learns that there are turns of phrase that are things his grandparents still say. There was a war between hobgoblins and elves and he mentions fighting in it, but he doesn’t mention who he was fighting for. Inky gets the sense he was an adventurer in his younger days.

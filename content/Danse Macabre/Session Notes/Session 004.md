@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-02-12
 ---
 Dia pulls the librarian aside and asks who we are and if he knows us. He explains he knows we are just adventurers and Dia names us all for him. The librarian points out we need to get to Oceanscar before the wine does because the thing that possessed the abbott kept his personality.

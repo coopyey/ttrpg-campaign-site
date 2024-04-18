@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-10-02
 ---
 The gentleman who comes in is very bombastic and currently crowded by everyone. He announces he has as shard of the Seal of Infinity. I sneakily cast detect magic and can tell that he’s emanating magic so he may not be lying. Mary and Tabby say that it seems silly he might be announcing it given the danger, but Faylen points out that if he had a cool power to make earthquakes like Bosch and he didn’t have friends to keep him level, he might end up arrogant and announcing things too. Mary does her sense nature to see if she can discern if it’s actually a shard of the Seal of Infinity and she isn’t quite sure, so she suggests we lay low and keep an eye on him. Tabby recommends a drinking contest to see if he can loosen the man’s tongue, and Faylen is all for this plan.

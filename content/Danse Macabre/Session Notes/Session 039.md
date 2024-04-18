@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2024-01-14
 ---
 We do a shopping trip:
@@ -14,7 +14,7 @@ We do a shopping trip:
 
 ---
 
-[[Belavor Brill WIP]] is not going to hunt anyone, returning to the train instead. He returns to his compartment to sulk so we do not see us. We go to the dead drop location and find a puzzle box that Inky needs to work through.
+[[Belavor Brill]] is not going to hunt anyone, returning to the train instead. He returns to his compartment to sulk so we do not see us. We go to the dead drop location and find a puzzle box that Inky needs to work through.
 
 We walk around a little bit, then return to the train. The train continues and then stops at a scheduled stop. There was not supposed to be a settlement here, but there’s actually a stronghold that’s been built up here. We and the crew of the train is surprised that this is here. There are two half-ogres that take and start moving things. Dia disguises herself as basically Rohan’s sister — femme version of him — and we watch Jyl struggle to offload the vampire casket.
 
@@ -39,7 +39,7 @@ The archon asks how much can be modified — the scientist says 4-5, and the arc
 
 Inky asks if he can take notes, and the archon says that the answer is no if he can reproduce the effects. The archon explains this is a weapon so no, Inky cannot take notes.
 
-Dia asks what battlefield and the archon recalls that we name things. He thinks as he tries to remember, then he says [[Amos Bridge WIP]] . He explains that he bought the land so that they could investigate. Dia asks if we may travel to investigate this area as well. He leans forward and says he will not parlay with people who use illusions, and she drops the illusion. He appreciates her candor and introduces himself as [[Ilxavar WIP]].
+Dia asks what battlefield and the archon recalls that we name things. He thinks as he tries to remember, then he says [[Amos Bridge WIP]] . He explains that he bought the land so that they could investigate. Dia asks if we may travel to investigate this area as well. He leans forward and says he will not parlay with people who use illusions, and she drops the illusion. He appreciates her candor and introduces himself as [[Ilxavar]].
 
 Dia explains that she is curious about the machine in front of her. He continues the experiment and some of the vampire goop goes through the machine and then slaps into a hobgoblin. It goes into him and bubbles, and he develops very big fangs, his eyes go red, and then he explodes. The goblin and mage pull out notebooks and take notes. Ilxavar says there is no reason to continue testing as there needs to be adjustments to this as they are not sure if it is a bodily thing or the divine energy. He explains that they have not made a new warrior variant in some time, and he is excited to find a new hybrid.
 
@@ -47,6 +47,6 @@ The older hybrids such as a varag typically breed through in the usual way, but 
 
 He explains that while the war has stopped, the conflict persists and war is inevitable. Rohan speaks up and says that those that go down the path of fiends do not get what they want in the end and that making a deal with the devil only gives the devil what they want. Ilxavar agrees and says he only wants the physical aspects and pacts have been attempted in the past and it was too much bullshit to deal with.
 
-Dia says that she does not wish to intrude any further as long as this is under control. She admits that we were concerned because those that deal with vampires rarely have good intentions and while she does not think preparing for a war that doesn’t exist is the best, she doesn’t think it is bad either. There is no morality in preparing for what they assume is the inevitable. She imagines that it will take them some time to gather what they need but we do not have time as a luxury. He asks if we wish to leave to the bridge, and Dia agrees: he is welcome to accompany us, or we may leave on our own. Ilxavar says we are welcome on _his_ expedition if we wish. The goblin scribe, [[Hushul WIP]], will show us our place to stay. He finds a tent that currently has three people and we are added there.
+Dia says that she does not wish to intrude any further as long as this is under control. She admits that we were concerned because those that deal with vampires rarely have good intentions and while she does not think preparing for a war that doesn’t exist is the best, she doesn’t think it is bad either. There is no morality in preparing for what they assume is the inevitable. She imagines that it will take them some time to gather what they need but we do not have time as a luxury. He asks if we wish to leave to the bridge, and Dia agrees: he is welcome to accompany us, or we may leave on our own. Ilxavar says we are welcome on _his_ expedition if we wish. The goblin scribe, [[Hushul]], will show us our place to stay. He finds a tent that currently has three people and we are added there.
 
 Dia sounds frazzled and apologizes for getting us into this situation and we can move on if we please. Arythas explains he has interest in seeing this battlefield. She starts doing what she needs to unwind as we wait for

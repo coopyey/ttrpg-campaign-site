@@ -1,8 +1,8 @@
 ---
-Type: NPC
-Campaign:
-  - "[[Stepstone Isles]]"
+Class: NPC
+Campaign: Stepstone Isles
 Status: Alive
+Organization:
 ---
 ## General Information
 
@@ -17,25 +17,3 @@ Status: Alive
 **Job**: Knight of Orrinshire
 
 **Location**: Orrinshire estate
-
-- Important Relationships
-    - Here we can keep track of who they know
-
-## Mechanics
-
-**Worst Save**:
-
-**AC**:
-
-- Immunity
-    - List known damage immunities here
-- Resistant
-    - List known damage resistances here
-- Weakness
-    - List known weaknesses here
-- Vulnerable
-    - List known vulnerabilities here
-
-## Other Notes
-
-Meow

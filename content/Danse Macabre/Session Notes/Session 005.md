@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-02-19
 ---
 While Inky is in the library, he reads as much as he can. He tries to figure out all of the filing systems — the books he already know and from his home are organized in a familiar way. The books are very focused on dragons and some on goblins. Goblins are an empire on another landmass, separated by the sea. Elves have a kingdom, and Dia’s family is a Republic in Akria. Inky and Arythas are from a pocket of land that nobody cares about. Inky goes from book to book, reading, learning. He does learn a new spell while looking around and he learns distort value.

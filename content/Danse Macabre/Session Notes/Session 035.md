@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-11-19
 ---
 We are headed to the Cruel Wind prison to pick up Bertram. To get there, we got on a party and casino train. Dia was discovered by Ace Freeman and we had to fight him and his henchmen, besting them easily.

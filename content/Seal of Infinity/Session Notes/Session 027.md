@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2024-03-04
 ---
 The Verdant Core in the Hollow World have five different creatures: arboreals, leshys, dryads, goran (human shaped human sized plant folk), and the wood giants. The jury is composed of a mix of all of these types of creatures. There is a female arboreal, a dryad, a small flower leshy, a goran man, and a wood giant woman. These are who we will be introducing ourselves to as they are the ones choosing the fate of Axamonar. What we have to do is convince at least three of these people.

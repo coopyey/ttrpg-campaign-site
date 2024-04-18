@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-08-06
 ---
 We open with some friendly sparring (read: reviewing how to do combat with new classes). This is the vast majority of the session.

@@ -1,4 +1,5 @@
 ---
+Class: Session
 Campaign: 
-Session Date:
+Session Date: ""
 ---

@@ -1,10 +1,8 @@
 ---
-Type: NPC
-Campaign:
-  - "[[Gatewalkers]]"
-Class: Fey Creature
-At-A-Glance Thoughts: BOSS; DECEASED; found in Thinlands, cause of people disappearing
+Class: NPC
+Campaign: Gatewalkers
 Status: Dead
+Organization: 
 ---
 ## General Information
 
@@ -35,5 +33,3 @@ DECEASED
 In the Thinlands and was the cause of people disappearing in that area of Galorian. Had the Shadewither Key on him, which Killian now carries.
 
 [[Shadewither Key]]
-
-[[Killian]]

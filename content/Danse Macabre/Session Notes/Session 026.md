@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-08-27
 ---
 We make landfall and say goodbye to everyone on the ship, with Captain Kearney giving Dia another kiss. Dia tries to convince her to go with them but she refuses.

@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-09-03
 ---
 We stare at the lady that jumped on the barge, realizing that she was definitely Rohan’s sibling. The tiefling part of Pratima is incredibly different from Rohan, but the human part was absolutely very similar. We’re all silent for a moment and Dia eventually introduces herself, then introduces the rest of us, though when he gets to Rohan — Rohan butts in and says his name is Max. Pratima takes Max’s hand and Taraaq says he wouldn’t have thought of anything better himself. Pratima clearly doesn’t think anything weird is happening, and she says she is going to take one of the corners of the barge. We agree and Dia looped her arm into Rohan’s and dragged him across the barge, which Pratima doesn’t pay any attention to.

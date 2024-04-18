@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: Session
+Campaign: Nuclear Chrome
 Session Date: 2024-04-11
 ---
 Monday August 13th, 2045
@@ -9,7 +9,7 @@ Torrent's player is having to drop the campaign due to some real life issues.
 
 ---
 
-We all arrive at the bar where [[Curb Stomping Word Vomit]]'s show is going to be. We get our drinks and feel the vibe of the place. We decide we do want to help out with the show and help set things up. We make our way over to [[Charley Cook]] and he has us help get things set up with the show, and he admits he has a small little treat planned for networking in the evening. As we are mingling, [[Garf]] tried to get [[Torrent]] to understand what a mac n cheese bite is like and she adamantly said mac n cheese is gross, and demanding boxed apple juice be put into a glass. Other than that, [[Omen]] is blind and missed the fact that the TMNT showed up and walked into the place. He then stared in disbelief that they were there, and was amazed that they were a poser gang of all things. Garf was also stumped by this turn of events. [[Emerick Kline]] was off hanging out with [[Ri Tae-Woo]] and [[Alice]], catching up with them and talking about the articles he's currently working on and the leads he has right now.
+We all arrive at the bar where [[Curb Stomping Word Vomit]]'s show is going to be. We get our drinks and feel the vibe of the place. We decide we do want to help out with the show and help set things up. We make our way over to [[Charley Cook]] and he has us help get things set up with the show, and he admits he has a small little treat planned for networking in the evening. As we are mingling, [[Garf]] tried to get [[Torrent]] to understand what a mac n cheese bite is like and she adamantly said mac n cheese is gross, and demanding boxed apple juice be put into a glass. Other than that, [[Omen]] is blind and missed the fact that the TMNT showed up and walked into the place. He then stared in disbelief that they were there, and was amazed that they were a poser gang of all things. Garf was also stumped by this turn of events. [[Emerick]] was off hanging out with [[Ri Tae-Woo]] and [[Alice]], catching up with them and talking about the articles he's currently working on and the leads he has right now.
 
 ---
 

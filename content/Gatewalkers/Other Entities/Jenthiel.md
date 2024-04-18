@@ -1,13 +1,11 @@
 ---
-Type: NPC
-Campaign:
-  - "[[Gatewalkers]]"
-Class: Scholar
-At-A-Glance Thoughts: Castrovel friend that helped us cure the onubilite curse
+Class: NPC
+Campaign: Gatewalkers
 Status: Alive
+Organization:
 ---
-**Ancestry**: Elf
+On Castrovel.
 
-**Friendly**? Yes
+Wizard friend of [[Alleli]] 
 
-Wizard friend of [[Alleli WIP]] Mother is in the Grove of Memories. Very concerned about helping resolve the onublite curse and getting us home.
+Mother is in the Grove of Memories. Very concerned about helping resolve the onublite curse and getting us home.

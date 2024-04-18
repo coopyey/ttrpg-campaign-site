@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-04-23
 ---
 Dia immediately calls out to those who can fight to prepare themselves, and instructs the rest to hide. Inky gives his familiar dragon’s breath and prepares for the battle ahead while Rohan calls out explaining that we need to destroy the window. Arythas attacks the window to try to break it as the first soldiers show and step through the portal. Each soldier is constructed to be an idealized elf — think Loegalas’ aryan brothers.

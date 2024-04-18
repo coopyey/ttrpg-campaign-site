@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-06-24
 ---
 We come into a storeroom that has:
@@ -39,7 +39,7 @@ Valentine takes the shiver to sell, and the cytillesh oil. Valentine, Ria, and V
 
 Valen sneaks up to the door and finds a trap. He tries to disarm the trap with Valentine's help but he doesn't quite get it. We all back up and Valen shoots an arrow at the trip wire, triggering the trap: a violet cloud of poison spills out and then dissipates.
 
-After this, there are no traps so Valen kicks the door open. [[Bolan WIP]] is visible with a sunflower leshy next to the door. He hits Valen with an attack and Valen's legs turn into wolf legs and he misses another attack. We continue fighting and get Bolan down to one knee, where he surrenders.
+After this, there are no traps so Valen kicks the door open. [[Bolan]] is visible with a sunflower leshy next to the door. He hits Valen with an attack and Valen's legs turn into wolf legs and he misses another attack. We continue fighting and get Bolan down to one knee, where he surrenders.
 
 ## Loot:
 

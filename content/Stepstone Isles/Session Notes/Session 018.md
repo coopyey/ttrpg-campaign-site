@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Stepstone Isles]]"
+Class: Session
+Campaign: Stepstone Isles
 Session Date: 2024-01-12
 ---
 The cultists have given us 100% confirmation they follow Sochet. Rector is fixed from geas. Also, the Bishop is dead.
@@ -24,7 +24,7 @@ Calthel also receives a response regarding the Book of Sigurdrifa:
 
 ---
 
-The plan is to hide out somewhere up here and ambush [[Azelais WIP]] as she comes back from the fjord. We were trying to figure this out.
+The plan is to hide out somewhere up here and ambush [[Azelais]] as she comes back from the fjord. We were trying to figure this out.
 
 Maps of the area around the hut:
 

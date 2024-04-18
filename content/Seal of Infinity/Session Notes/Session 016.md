@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-10-30
 ---
 We arrive in Bex Grana and the station is pretty close to empty — it’s still early in the morning yet, fog’s still hanging over the ground, and most of the other passengers disembarked from the train before this step. As we step outside of the station there is some fresh graffiti that is rude toward changelings — Hexspawn — something that isn’t quite a slur, but is very rude. Faylen pulls some gloves on and hides his ears so that he couldn’t be clocked as a changeling immediately on walking into the city. There are changelings in the city that are living here — some are more affected than others: crows feet, different color eyes, claws.

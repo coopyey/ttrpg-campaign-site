@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-07-30
 ---
 Iskra is up on the ship and is playing with his wolf, which is not something we see very often. He’s half smiling as they play. Later, he goes to speak with the Captain. Arythas gets up early and asks the Captain for a job and is put to physical labor. Dia finds a place where she can at least partially see everyone when they get up - she’s basically making sure fights don’t break out between Rohan and Arythas and starts sewing. Rohan tries very hard to get out of doing any work on the ship - mainly trying to flirt with shanty types and look busy rather than actually be busy. Inky is hiding somewhere in the hold of the ship, trying to cast spells and is unable to do it for some reason — something with Inky has changed but he isn’t sure what.

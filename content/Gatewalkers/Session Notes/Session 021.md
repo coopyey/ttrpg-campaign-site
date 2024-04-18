@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2024-01-13
 ---
 We get past the horrible memory trap and we come across a room filled with bones and there are three skeletons that animate and attack us. We begin combat. We manage to take care of the undead and then we take a breather and patch each other up. During the breather, Yuna teaches Killian how to play patticake — he didn’t know how to play, so she took the time to teach him. We all loot the skeletons and learn how to play.

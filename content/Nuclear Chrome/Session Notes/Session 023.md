@@ -1,6 +1,11 @@
+---
+Class: Session
+Campaign: Nuclear Chrome
+Session Date: 2023-08-31
+---
 Monday August 13th, 2045
 
-[[Emerick Kline]] goes into the kitchen and [[Charley Cook]] shows up. He asks Emerick how he and the group would want to go and help do some networking. Emerick says that sounds like it’ll be fun and he imagines the group would be fine with it so he agrees. He sends the information out to everyone with where to go and when and we get together.
+[[Emerick]] goes into the kitchen and [[Charley Cook]] shows up. He asks Emerick how he and the group would want to go and help do some networking. Emerick says that sounds like it’ll be fun and he imagines the group would be fine with it so he agrees. He sends the information out to everyone with where to go and when and we get together.
 
 While Emerick is hanging out, [[Alice]] and [[Ri Tae-Woo]] are talking at one point while they’re in the lounge area. The TV flashes to the news and Emerick sees a posting about the raid on [[Omnitech Industries]] (late coverage) — previously the information was more or less covered up to hide how big of an issue this was — so the heat around us has been nonexistent, especially because [[Markov]] is the bigger issue. This is a follow-up piece when the trial is going to take place for what Markov was doing, an ethics board is going to get involved, and I hear Ri and Alice start chit-chatting (at first) and then they hear the trial and everything going on and Ri ultimately looks at Emerick and says we haven’t worked much but we’re making serious moves around here. Ri pays Emerick a compliment that he struggles to accept, but Ri is satisfied when he does.
 
@@ -16,7 +21,7 @@ Emerick offers to help in any way that he can and reminds Seo that he doesn’t 
 
 Seo says that he knows Charley was wanting to take us with them to network — Seo thinks they’re going to try to... Seo trails off as he goes to turn his chair but stops because we’re holding hands, but stops so that he can guide Emerick back to his desk with him. When they get there Seo opens his laptop and pulls up a flyer. He’s been trying to get this doctored up to look better but he’s been struggling, and he feels something is missing, and he needs to get it finished. Seo is hoping for someone to get the vibe of the band down at the flyer and so Emerick helps him with it. They get the flyers printed out and together.
 
-Charley was thinking we’d get going around 4 or so to get set up, then 5 or 6 is when people start streaming in to actually hang out and vibe. This one will not be in the [[Afterlife]] — we will be at a club called [[Tranquil Infiniti]].
+Charley was thinking we’d get going around 4 or so to get set up, then 5 or 6 is when people start streaming in to actually hang out and vibe. This one will not be in the [[The Afterlife]] — we will be at a club called [[Tranquil Infiniti]].
 
 Emerick returns to the lounge area and just hangs out until it’s time to help them network.
 
@@ -46,7 +51,7 @@ Omen otherwise runs into an Aldecado by the name of [[Jamie Meyers]], a solo for
 
 She’s very combat focused and well- versed with all sorts of firearms. A lot of the work that Omen went to her for was needing strong muscle to deal with things. She cares a lot about the communities of the surrounding area — not just the Aldecados, but perhaps even someone living out in the badlands. She is able to reach out to her network and ask around for information. Omen messages her and says he’s trying to dig up some dirt on Police Chief Audun Bredall and Officer [[Miranda Vasquez]] — he’s noticed they’re trying to expand their territory in the badlands and he wants to stop this (obviously). The response comes pretty quickly and she says yeah, NCPD has been thick and missions have been hard to pick up because of it.
 
-They’re receiving word that the [[Badlands]] are completely lawless and they’re pushing for more forces out there to set up checkpoints and catch criminals. There are other things, though, that are throwing things for a loop: there was a certain sighting that happened a few weeks ago. A corps van left the city and ended up making its way out and a handful of the nomads around there saw something they shouldn’t have — Jamie doesn’t know what they saw, but after that had happened the NCPD pushed much more aggressively. The corpo van that had this item got pissed and flexed so that the NCPD would be far more aggressive, and they want to get rid of the unseen eyes in the badlands. Jamie’s been trying to discern patrol patterns, VIP people that walk through the area.
+They’re receiving word that the Badlands are completely lawless and they’re pushing for more forces out there to set up checkpoints and catch criminals. There are other things, though, that are throwing things for a loop: there was a certain sighting that happened a few weeks ago. A corps van left the city and ended up making its way out and a handful of the nomads around there saw something they shouldn’t have — Jamie doesn’t know what they saw, but after that had happened the NCPD pushed much more aggressively. The corpo van that had this item got pissed and flexed so that the NCPD would be far more aggressive, and they want to get rid of the unseen eyes in the badlands. Jamie’s been trying to discern patrol patterns, VIP people that walk through the area.
 
 Audun takes a convoy every week and makes a huge patrol through the area. There’s no seeming pattern to it and he changes it in the moment rather than plan things out. He seems to be trying to think like a nomad but is doing it wrong so he’s in over his head. This convoy is his personal cruiser, a couple other cruisers, and a couple ATCs.
 

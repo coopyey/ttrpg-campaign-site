@@ -1,8 +1,8 @@
 ---
-Type: NPC
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: NPC
+Campaign: Nuclear Chrome
 Status: Alive
+Organization: 
 ---
 Pacifica born and raised, this man hired the group initially for a client recovery job.
 

@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2024-02-10
 ---
 We take a short rest and cook up the monster we just killed. Valentine manages to knock it out of the park and we eat and rest. We pack up the rest of the cooked meat and put it in Killian’s void mouth and continue moving on. We head up the stairs to the catwalks that lead to the top of the tower, and there are two monsters that are waiting for us that Ria just about walks directly into.

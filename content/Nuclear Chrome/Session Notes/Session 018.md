@@ -1,11 +1,11 @@
 ---
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: Session
+Campaign: Nuclear Chrome
 Session Date: 2023-07-13
 ---
 7/13/2023
 
-[[Omen]] requests information from [[Emerick Kline]] -> library search 30
+[[Omen]] requests information from [[Emerick]] -> library search 30
 
 - There was a van chase with Girish
 - Cousin heard about this and is concerned about this because the NCPD doesn't go here

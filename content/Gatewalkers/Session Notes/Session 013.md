@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-09-16
 ---
 The portal we went through was to an entirely different planet: Castrovel. It is a lush green and a vibrant jungle here. If Hiera didn’t know that we were actually on another planet, we would have thought we were in another planet. Ria faints at the news and won’t wake, but she is breathing and okay. We put together a stretcher to carry Ria. We also fashion together something to clear the underbrush as we walk.

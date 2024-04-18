@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-12-03
 ---
 We make it to a Halfling city on the train and we make a stop. This is a pretty new settlement that already has roads, and is pretty established. They are quite fast at setting these up and typically will stay one week to six months. Dia goes to look for a bag of holding but nobody is willing to part of it, and then we hear a commotion from a group of guards with spears that are tipped with crystals.

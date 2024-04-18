@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-03-12
 ---
 Arythas attunes to Maroshak’s Tail and then we all get on our horses and leave the Earthshaker’s home to head towards Oceanscar.

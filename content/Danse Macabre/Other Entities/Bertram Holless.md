@@ -1,0 +1,12 @@
+---
+Class: NPC
+Campaign: Danse Macabre
+Status: Alive
+Organization:
+---
+# Party
+While in prison, he managed to put together a little party of his own. They consist of the following:
+- Wilhelm Fistman - monk human
+- Emily - ranger half elf
+- Jack - unknown deep dwarf
+- Megu - catfolk rogue

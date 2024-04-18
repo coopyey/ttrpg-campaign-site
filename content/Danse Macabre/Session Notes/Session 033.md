@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-10-29
 ---
 Soldas and Kalvag start to plan how to best help the land around and Dia is surprised at how well these two get along. We know that there is a train that we need to catch but it won’t be showing up for a while.

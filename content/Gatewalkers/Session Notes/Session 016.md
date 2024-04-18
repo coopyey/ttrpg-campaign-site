@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-10-28
 ---
 We’re on the gondola headed toward civilization. Opal’s trying to fix their hair. Ria and Valentine are keeping eyes open for danger while Hiera works on navigation to try to make sure we are headed where we want.

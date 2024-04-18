@@ -1,9 +1,9 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-07-29
 ---
-Valentine von Daude (full name attained)
+[[Valentine]] von Daude (full name attained)
 
 ---
 

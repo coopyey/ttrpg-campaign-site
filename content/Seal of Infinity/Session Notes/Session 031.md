@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2024-04-08
 ---
 We are using the now reacting Seal to try to find the wizard that caused pieces of reality to disappear. Tabby tries to look around, and then Bosch climbs a building to try to look around. The two of them aren’t sure where to go, and Faylen takes some time to recall all that he read about the city and gently guides Tabby. After a little while, he realizes that they are vaguely headed in the direction of the palace and says so, pointing out which way they need to go.

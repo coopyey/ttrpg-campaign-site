@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-10-21
 ---
 We enter a quarry and there is a tower in the center of the room with curved runic pillars creating the path with which the gondola is carried. We see some constructs that seem to be protecting the place. They’re a dark mineral here that sparkles like stars and is important to astral-loving elves that live in the city connected to the light lines. The gondola arrives at the quarry every 20 minutes — they’re wooden platforms connected to the light lines via enchanted cables. It arrives, waits to be loaded, then heads back to the city.

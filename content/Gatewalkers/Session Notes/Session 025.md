@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2024-02-24
 ---
 We finish combat and have to climb up to the next floor. There is a sphinx waiting Valentine as he climbs up to the next floor. He tries to talk to it and it squaks at him, beginning to attack the party.

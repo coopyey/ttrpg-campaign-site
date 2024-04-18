@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2024-02-05
 ---
 I was gone for session 23. Bosch was very angry and started destroying the building, which Tabby used to make all of the guards leave him alone while Mary took all of the explosives and weapons and dumped it in the sewers so they are no longer viable. Faylen had a looney toons moment running from a ton of guards. Everyone but Faylen went back to the Murky Dragonfruit. They found the guard captain trying to execute Gurt outside of the tavern, which everyone was against. They take care of the guard captain and kill him, thank goodness, fuck that guy. People in the neighborhood have since begun to build barricades during and after what happened, so there’s going to be consequences to the fact that we killed a guard captain.
@@ -30,6 +30,6 @@ She is Amaree Bloodwim, a guard lieutenant. She’s looking for the guard captai
 
 When we make it to where Joe is, his door is closed and he seems to be talking to someone. Bosch sneaks up to try to get a listen in on the conversation and peeks in, seeing that Joe has a plant-like creature on his desk and is speaking to it. He has a cigarette, but is not smoking. Bosch closes the door quietly and says that Joe is speaking to a bonsai Aboreal and Bosch explains that the little plant is trying to search for someone.
 
-Mary knocks on the door and Joe opens the door, surprised that it’s us and that the universe operates on the laws of comedy. The leshy comes over to speak with us and we all introduce ourselves to him, and he introduces himself as Florian, and that he is here to deliver a message. He hands over an intricately carved leaf that is essentially a subpoena, to which we will be a witness for the case against [[Axamonar WIP]]. Florian’s boss is Altwidus Changestaff.
+Mary knocks on the door and Joe opens the door, surprised that it’s us and that the universe operates on the laws of comedy. The leshy comes over to speak with us and we all introduce ourselves to him, and he introduces himself as Florian, and that he is here to deliver a message. He hands over an intricately carved leaf that is essentially a subpoena, to which we will be a witness for the case against [[Axamonar]]. Florian’s boss is Altwidus Changestaff.
 
 Joe leads us the long way back to the Hollow World in an attempt to avoid as much danger as possible. He takes us to a playground and speaks some words at a tree, and the tree opens up to a spiral staircase that descends to the Hollow World.

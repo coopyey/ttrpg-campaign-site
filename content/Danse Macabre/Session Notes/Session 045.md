@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2024-03-10
 ---
 While Arythas was talking to his uncle, Inky had gone off to commune with his uncle. He comes back and has grown to almost the size of Dia, which surprises all of us.

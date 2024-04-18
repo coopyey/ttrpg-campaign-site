@@ -1,13 +1,13 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2024-01-21
 ---
 Where we left off: we were given a tent and we are expected to fall in line. Dia and Arythas definitely just make sure to stay out of the way and not impede their day to day, while Inky takes a lot of notes of everything going on. Iskra himself doesn’t particularly care. There’s a lot of discussion amongst the hobgoblins regarding us: they are curious, and are interested in figuring us out. In addition, they aren’t even sure what to do with Iskra, Arythas, or Inky because they are unused to Harengon and Dragonborn and Kobolds are less common.
 
 Arythas, Rohan, and Iskra witnesses a trial of a soldier who had stolen something from another and the punishment is for his arm to be cut off and cauterized. Arythas knows that the arm to be regenerated in two weeks using high level magic. They typically use more alchemical-based magic, instead of divinity based magic. Alchemy is cheaper than real magic, though it takes more time. They are more inclined to use this for workplace accidents as well.
 
-Arythas gets up very early to do his normal morning things, and when we are finally being collected by [[Hushul WIP]] and **Kal** to go on our trip to [[Amos Bridge WIP]]. Arythas dumps Rohan in the snow to wake him up. Dia wakes up at the commotion and we all come together and get ready to go out. We are led out and on the way, with a handful of hobgoblins walking with us in case we all get separated.
+Arythas gets up very early to do his normal morning things, and when we are finally being collected by [[Hushul]] and **Kal** to go on our trip to [[Amos Bridge WIP]]. Arythas dumps Rohan in the snow to wake him up. Dia wakes up at the commotion and we all come together and get ready to go out. We are led out and on the way, with a handful of hobgoblins walking with us in case we all get separated.
 
 Dia asks for a shield from a hobgoblin and makes a sled from it: she ties some rope through the handles and offers for Inky to ride, tying the sled off on Arythas’ pack so that he will not be left behind. We all continue on toward the bridge. There is a flash of a shadow just barely beyond the wolf’s vision that Iskra can see through their connection. It is just beyond Rohan and Dia, and Iskra recommends that Arythas cover Dia. Iskra discovers that we are being followed by three **dire wolves**. They seem to be hungry, so Iskra tosses his rations to them. Dia follows suit, and manages to pet the wolf, and somehow manages to semi-tame this wolf for this time.
 

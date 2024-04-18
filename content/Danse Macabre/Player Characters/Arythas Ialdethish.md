@@ -1,8 +1,9 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
-Class: Oracle
+Class: Player Character
+Campaign: Danse Macabre
+Player Class: Oracle
 Subclass: Battle
+Status: Alive
 ---
 ## General Information
 

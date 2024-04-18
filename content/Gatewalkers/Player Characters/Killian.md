@@ -1,8 +1,9 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
-Class: Warlock
-Subclass: Betrayal (Ranalc)
+Class: Player Character
+Campaign: Gatewalkers
+Player Class: Warlock
+Subclass: Betrayal
+Status: Alive
 ---
 ## General Information
 
@@ -42,9 +43,9 @@ Due to his warlock pact, he has a devouring maw in his back, along the threading
 
 ### Golarion Betrayal Warlock, Pact of the Devouring Maw
 
-**Patron**: [[Count Ranalc WIP]]
+**Patron**: [[Count Ranalc]]
 
-**Active Patrons**: [[Grandmother Hemlock WIP]] & [[Rend WIP]]
+**Active Patrons**: [[Grandmother Hemlock]] & [[Rend]]
 
 - Patron Spells
     - Invocations:

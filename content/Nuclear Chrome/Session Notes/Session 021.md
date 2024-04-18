@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Nuclear Chrome]]"
+Class: Session
+Campaign: Nuclear Chrome
 Session Date: 2023-08-24
 ---
 Wednesday August 9th, 2045
@@ -9,7 +9,7 @@ Wednesday August 9th, 2045
 
 ---
 
-At the cryolab, we are finishing everything up. [[Phoenix]] gets everything she needs and while we are standing around, [[Emerick Kline]] and [[Omen]] hear the guards tuning into their ear pieces. We hear that there’s a suspicious pair of individuals that just came from the labs and went on to the elevators and are on the first floor of the bedrooms and are currently on that floor. All the guards are to be aware and they are sending guards to sweep that floor. Nobody is leaving the room we are in. One guard does tap [[Markov]] on the shoulder and relays this information to him. Markov looks at us and says that a few of our comrades are upstairs and are getting into trouble. He is specifically addressing Net, then looks at the rest of us.
+At the cryolab, we are finishing everything up. [[Phoenix]] gets everything she needs and while we are standing around, [[Emerick]] and [[Omen]] hear the guards tuning into their ear pieces. We hear that there’s a suspicious pair of individuals that just came from the labs and went on to the elevators and are on the first floor of the bedrooms and are currently on that floor. All the guards are to be aware and they are sending guards to sweep that floor. Nobody is leaving the room we are in. One guard does tap [[Markov]] on the shoulder and relays this information to him. Markov looks at us and says that a few of our comrades are upstairs and are getting into trouble. He is specifically addressing Net, then looks at the rest of us.
 
 [[Net]] explains that they’re adventurous when they shouldn’t be and Markov clearly is concerned about some information getting out. Markov will let us go if we can prove they haven’t gotten into anything. We’re on thin fucking ice but he seems to accept this. Net asks what Markov would like to get out and Markov says that Net owes him a favor, to be collected later. The favor would require Net to make something, perhaps. Net agrees and Markov says that we are being watched very carefully and he will be in contact very shortly. Net takes the business card being offered.
 

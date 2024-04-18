@@ -1,9 +1,9 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2024-02-12
 ---
-We go down to the Hollow World to follow up about [[Axamonar WIP]] ‘s court case that we were summoned to. We talk to Florian a little, awkwardly. He asks if we can grow our own stone, and we explain that we cannot, but we build with stone sometimes. We then ask where we need to go to get to the Hollow World and he says we need to keep going down, so we follow where he thinks is best. It’s clear that he does not specifically know where he’s going, but there’s only one route we can follow, so we do.
+We go down to the Hollow World to follow up about [[Axamonar]] ‘s court case that we were summoned to. We talk to Florian a little, awkwardly. He asks if we can grow our own stone, and we explain that we cannot, but we build with stone sometimes. We then ask where we need to go to get to the Hollow World and he says we need to keep going down, so we follow where he thinks is best. It’s clear that he does not specifically know where he’s going, but there’s only one route we can follow, so we do.
 
 Bosch asks what it’s like to grow your own house, and Florian says it’s normal, then apologizes and explains he doesn’t have a house: he goes into the soil and just waits. Bosch says he should try that sometime, and Tabby says no you shouldn’t. Bosch explains he can’t grow his own house, he just finds somewhere he can crash and sleeps there. We talk about the differences of plant people and meat people and how Bosch can’t just sleep in the rain.
 

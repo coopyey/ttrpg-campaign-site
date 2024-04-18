@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-08-28
 ---
 The entire party is together now and we have told Mary what is going on.
@@ -13,7 +13,7 @@ Bosch shows off the prop bomb and we aren’t sure if it’s real or not. It def
 
 We hadn’t heard anything about bombs or explosions so this bomb is definitely an escalation or it’s looking to blow something very specific up. There’s something there but violence hasn’t been in the pattern of this thing so far. We should ask around and see what’s happening around town.
 
-We are in a nicer part of town that seems to be where those that are better off are living. There’s a halfling woman peeking out of a building and someone is trying to pull her back inside. Mary asks what is going on and she says she has no clue, but she has questions for us. She offers us inside and to get tea. Faylen looks at her and she looks familiar in a way that he’s not completely sure: [[Sheryl Hanson WIP]] , not the author of my favorite book, but I’ve definitely read her. She writes more of romance angle so my sister read more of her. Faylen asks if she is Sheryl, and she excitedly says yes and grabs his hand and drags him inside, party following. Sheryl lives with her husband, a white collar worker who probably works for the city.
+We are in a nicer part of town that seems to be where those that are better off are living. There’s a halfling woman peeking out of a building and someone is trying to pull her back inside. Mary asks what is going on and she says she has no clue, but she has questions for us. She offers us inside and to get tea. Faylen looks at her and she looks familiar in a way that he’s not completely sure: [[Sheryl Hanson]] , not the author of my favorite book, but I’ve definitely read her. She writes more of romance angle so my sister read more of her. Faylen asks if she is Sheryl, and she excitedly says yes and grabs his hand and drags him inside, party following. Sheryl lives with her husband, a white collar worker who probably works for the city.
 
 We start to explain vaguely what is happening and it occurs to us that it’s possible that the akizandri was coming here to blow Sheryl’s house up, so we get the idea that she might actually know something. We share information with her as much as we can, anyway, and she ultimately says that possessions don’t last for very long. The creature jumps, does something mischievous or to induce chaos, then leaves. It would make sense for it to be summoned by someone or something. Tabby recommends that perhaps the captain’s ex wife is the reason for this but Sheryl explains that she had left, she’s not in the city.
 
@@ -29,7 +29,7 @@ The axiomite’s name is Empty Set 4-2-1.
 
 We know we will make it to the library long before Empty Set. We hustle and see some people outside, neighbors arguing about the possessions, etc. The library is open but there isn’t anyone inside outside of a 40 year old human man with a swooping mustache, and a young woman that is a student that has to work here.
 
-[[Ambrose Pierpoint WIP]] — an author that writes pulp fiction.
+[[Ambrose Pierpoint]] — an author that writes pulp fiction.
 
 Bosch is reading a book he started previously and he finds a line that was changed, as well as an entire fight sequence has been turned into cheese onomatopoeia that totally ruins the book. Faylen is reading a book about astral physics or some such complex topic — something that he was meant to go into next semester — and he gets a little stuck in reading it; he eventually notices that there is a symbol that’s been replaced with a bat and the equations are wrong. Mary finds a book that she’s very familiar with that has been Disney-fied. Tabby reads a children’s book about a big dog that’s now a werewolf for some reason.
 

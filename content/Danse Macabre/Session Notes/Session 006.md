@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-02-26
 ---
 Inky wakes up to the sound of two explosions. One was close, the second was far.

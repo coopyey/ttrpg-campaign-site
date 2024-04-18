@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-09-23
 ---
 Ria is in a half dream, half reality state. When she became a lion woman there was a connection with the idea of a lion — the overall spirit OF the animal — but that is now gone because there are no lions here. Her body and soul are working to compensate and she feels this intrinsically because she has embraced being part lion whole-heartedly and it’s still there. She lost consciousness because if she let go of the lion she may have taken another form, but she preferred to stay a lion. She’s groggy and still in this dreamlike state. She recalls a person in a mask that was in a dream before and she does not recognize his voice at all. She hears the intention of his words more than his actual voice.

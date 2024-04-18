@@ -1,9 +1,8 @@
 ---
-Type: NPC
-Campaign:
-  - "[[Danse Macabre]]"
-Class: Paladin
+Class: NPC
+Campaign: Danse Macabre
 Status: Alive
+Organization:
 ---
 AKA The Earthshaker
 
@@ -20,23 +19,4 @@ The most famous is that he used his power to destroy a dam and it drowned a smal
 **Location**:
 
 - Important Relationships
-    - [[Kalvag the Wrath WIP]]
-
-## Mechanics
-
-**Worst Save**:
-
-**AC**:
-
-- Immunity
-    - List known damage immunities here
-- Resistant
-    - List known damage resistances here
-- Weakness
-    - List known weaknesses here
-- Vulnerable
-    - List known vulnerabilities here
-
-## Other Notes
-
-Meow
+    - [[Kalvag the Wrath]]

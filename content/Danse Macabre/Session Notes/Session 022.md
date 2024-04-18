@@ -1,8 +1,7 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-07-23
-Summary/Left Off: rohan explains his patron is a fiend, dia calms arythas
 ---
 Inky is looking at Lohiss Cordan as she demands that he take her to the special library. He is uncomfortable and tied to a chair. He is also muzzled.
 

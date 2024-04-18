@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Gatewalkers]]"
+Class: Session
+Campaign: Gatewalkers
 Session Date: 2023-05-20
 ---
 Working for Dr. Edard Redleston, we are his most promising intakes. We are riding in a coach with him right now.

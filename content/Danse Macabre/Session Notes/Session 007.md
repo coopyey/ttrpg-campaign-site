@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Danse Macabre]]"
+Class: Session
+Campaign: Danse Macabre
 Session Date: 2023-03-05
 ---
 There is a commotion outside and Dia peeks out to see that there is an attack. Nearby is an elf using an orb to talk to someone, though she cannot tell what they are saying. We are to take care of evacuate the Earthshaker. Dia says we will take the horses to escape and Dia tells Rafferty to man up and command his army. He nods and leaves to go command.

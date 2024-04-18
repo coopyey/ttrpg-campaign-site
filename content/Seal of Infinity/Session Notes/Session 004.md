@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2023-07-17
 ---
 After the wispling, Pippin is somber while Fred is glad we managed to get through it all. Mary feels we got very lucky, while Bosch is glad it wasn’t focusing on us. Faylen is vaguely bothered that it seems that this group of hobgoblins were went to be killed. Overall there is no interest in us going out to try to save the main hobgoblin settlement from the bigger threat of the actual umbral dragon. We ultimately leave the hobgoblin fort with those that we saved and that survived and travel with them for a short while.
@@ -11,13 +11,13 @@ Bosch greets K’Whu, saying hello and asking if she is a grippli. K’Whu is a 
 
 Clouds begin to form over the village, and they look like storm clouds. They’re definitely weird clouds and K’Whu Mary can tell that they are less real clouds and that they were actually put up there. There is a singular lightning bolt that is striking into town as we hear the thunder echoing from where we are standing. K’Whu is going to yell crap, fill her bucket with water, and run into the town. She moves incredibly fast, seeming more to warp than to actually run.
 
-We hustle after her and find that there is no fire in the town, but at the center there is another cloud - misty, swirling in the center. Grippli are around with buckets and spells of water also waiting to see what is happening. We hear a voice coming out of the misty swirling, a voice Faylen recognizes: AHA YOU CANNOT KEEP A GOOD WIZARD DOWN, then he coughs and says that this isn’t good. The first voice is definitely the sage from the train, with a second voice that Mary recognizes and Faylen might. The mist dissipates and we see the Tyro [[Clement WIP]] - lanky, blond, glasses on his head, robes are singed, and he is holding something in his hand.
+We hustle after her and find that there is no fire in the town, but at the center there is another cloud - misty, swirling in the center. Grippli are around with buckets and spells of water also waiting to see what is happening. We hear a voice coming out of the misty swirling, a voice Faylen recognizes: AHA YOU CANNOT KEEP A GOOD WIZARD DOWN, then he coughs and says that this isn’t good. The first voice is definitely the sage from the train, with a second voice that Mary recognizes and Faylen might. The mist dissipates and we see the Tyro [[Clement]] - lanky, blond, glasses on his head, robes are singed, and he is holding something in his hand.
 
 The Grippli charge at Clement with spears, demanding who he is. K’Whu throws her bucket of water on him. He’s holding some sort of an orb in his hand. It’s a roughly cut piece of glass or crystal and there is some sort of energy swirling inside of it.
 
 Tabby tries to calm the townspeople down and it’s not particularly successful. Pippin walks up with hand on sword, but not drawn, and he does a soldier turnabout and looks at the grippli here. They put all their spears away while a small child stares on in awe. K’Whu is also intimidated and drops her bucket, which Pippin hands back to her.
 
-Faylen asks Clement what is going on, how he got here, where the Sage is, if he’s okay, if Clement’s okay. Clement just offers the orb to Faylen and the voice of Sage [[Axamonar WIP]]  comes through the orb. Tabby asks what happened and Axamonar was going to be destroyed, but now he’s an orb? Axamonar explains he was blown up and his physical form didn’t survive that exchange. K’Whu laughs at the joke, not realizing that this guy isn’t alive anymore, and Bosch chuckles. Mary stares, while Tabby smirks.
+Faylen asks Clement what is going on, how he got here, where the Sage is, if he’s okay, if Clement’s okay. Clement just offers the orb to Faylen and the voice of Sage [[Axamonar]]  comes through the orb. Tabby asks what happened and Axamonar was going to be destroyed, but now he’s an orb? Axamonar explains he was blown up and his physical form didn’t survive that exchange. K’Whu laughs at the joke, not realizing that this guy isn’t alive anymore, and Bosch chuckles. Mary stares, while Tabby smirks.
 
 Clement explains he went to help the people and sent everyone to a nearby outpost and then went back to see what was going on with Axamonar and the THING (wink wonk) and he explains that he saw a huge crater in place of what was the fight. Axamonar speaks up saying he was able to reconstitute something and now he’s a rock.
 

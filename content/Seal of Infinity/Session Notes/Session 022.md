@@ -1,6 +1,6 @@
 ---
-Campaign:
-  - "[[Seal of Infinity]]"
+Class: Session
+Campaign: Seal of Infinity
 Session Date: 2024-01-15
 ---
 After I left last session, the group goes to figure out what happened to Joe the druid. The creature had stomped him so we patched him up and explained that we took care of the werewolf. We explained that we needed a new place to stay because the tavern was no longer safe, so he took us down to the sewer. When we enter the proper sewer we are in a great stonework area. Joe explains he’s going to take us to see some friends, and by friends he means they haven’t argued in a few weeks and so we likely won’t be met by crossbow bolts.
