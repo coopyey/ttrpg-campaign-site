@@ -3,9 +3,9 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-02-26
 ---
-Inky wakes up to the sound of two explosions. One was close, the second was far.
+[[Inky]] wakes up to the sound of two explosions. One was close, the second was far.
 
-The guy that explodes does so from the inside out: first Dia is engulfed by read flame, then gone black. Dia comes to and Soldas had protected her. Arythas realizes that he is being healed at half and Dia is also aware of this. Everyone else gets to us and Iskra casts healing spirit and the spirit gets him back to normal order, the necrotic energy purged and cleansed. He explains he came to check on the rookies and this happened.
+The guy that explodes does so from the inside out: first [[Dia]] is engulfed by read flame, then gone black. Dia comes to and [[Soldas]] had protected her. [[Arythas]] realizes that he is being healed at half and Dia is also aware of this. Everyone else gets to us and Iskra casts healing spirit and the spirit gets him back to normal order, the necrotic energy purged and cleansed. He explains he came to check on the rookies and this happened.
 
 They did not receive wine from the abbey, they don’t have information of who recruited who. Rohan says there was a second explosion that also happened with the Family of Light.
 
