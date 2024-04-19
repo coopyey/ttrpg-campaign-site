@@ -2,5 +2,6 @@
 Class: NPC
 Campaign: Danse Macabre
 Status: Alive
-Organization: 
+Organization:
 ---
+God of war. Lawful.

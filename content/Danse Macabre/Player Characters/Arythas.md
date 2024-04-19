@@ -50,7 +50,7 @@ Typically always wears a scowl.
 > Warlike forces fill you with physical might and tactical knowledge, aiming to have you uphold the glory of combat, fight to improve the world, prepare against the necessity of conflict, or endure the inevitability of war.  
 > [https://2e.aonprd.com/Mysteries.aspx?ID=2](https://2e.aonprd.com/Mysteries.aspx?ID=2)  
 
-### Battle Oracle, Might Dedication
+### Battle Oracle, Might/Mauler Dedication
 
 **Weapon Mastery**: Hammer
 

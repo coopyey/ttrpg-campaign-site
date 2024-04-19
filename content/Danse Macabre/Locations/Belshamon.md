@@ -1,6 +1,7 @@
 ---
-Class: NPC
+Class: Location
 Campaign: Danse Macabre
-Status: Alive
+Type: City
 Organization:
 ---
+The capital.

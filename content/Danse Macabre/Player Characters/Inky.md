@@ -17,5 +17,12 @@ Status: Alive
 
 **Subclass:** 
 
-**Background:** 
 ### Additional Notes
+
+**Known Family:**
+- [[Trusty]]
+	- Lives in [[Oceanscar]]
+	- Works at [[Legitimate Business & Bar]] 
+- [[Clinky]]
+	- Lives in [[Oceanscar]]
+	- Works at [[Legitimate Business & Bar]]

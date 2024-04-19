@@ -5,15 +5,15 @@ Session Date: 2023-03-26
 ---
 We wake up in the morning. Tomorrow is the soiree, and the wine is 4 days out.
 
-The Bloodsoaked Banner offers up some old attempts at a uniform with red accenting. We can choose to represent them by wearing these if we would like, but we do not have to.
+The [[Bloodsoaked Banner]] offers up some old attempts at a uniform with red accenting. We can choose to represent them by wearing these if we would like, but we do not have to.
 
-Rohan’s patron offers to help at the soiree if necessary — feats of drinking, for example. He reassures Rohan that there is no intention to ever take over his body and possess him.
+[[Taraaq]] offers to help at the soiree if necessary — feats of drinking, for example. He reassures Rohan that there is no intention to ever take over his body and possess him.
 
 The kobolds are not yet calling in their favor.
 
 ---
 
-Rohan sneaks off to the bank to check in on his inquiry — the teller is not there, and the bank is not sure where she is. They ask Rohan if he knows if she is okay, but the teller that he is talking to cannot just give out Xenara’s address. He comes up with an excuse: he needs to check on a package for an address, and the teller lets him read Xenara’s address from a rolodex on the desk.
+[[Rohan]] sneaks off to the bank to check in on his inquiry — the teller is not there, and the bank is not sure where she is. They ask Rohan if he knows if she is okay, but the teller that he is talking to cannot just give out [[Xenara]]’s address. He comes up with an excuse: he needs to check on a package for an address, and the teller lets him read Xenara’s address from a rolodex on the desk.
 
 Xenara lives in what is essentially the shanty town of this area. Her building is crumbling. There is a goblin funeral going on in the street, with many goblins crying and waiting. Not long after a half-ogre arrives to help carry the small body.
 
@@ -21,15 +21,15 @@ Rohan sneaks into the building past all of the goblins. He finds Xenara’s apar
 
 ---
 
-Meanwhile, the rest of the group is shopping for the soiree with Dia throwing clothes at everyone to try on and put things together.
+Meanwhile, the rest of the group is shopping for the soiree with [[Dia]] throwing clothes at everyone to try on and put things together.
 
-Rohan returns and tries to say we lost him as he was trying on a vest. Literally nobody believes him but Iskra can smell the goblins on him. Iskra pieces things together and at least knows that Rohan was around the bank, but he doesn’t say anything about this to the rest of the group.
+Rohan returns and tries to say we lost him as he was trying on a vest. Literally nobody believes him but [[Iskra]] can smell the goblins on him. Iskra pieces things together and at least knows that Rohan was around the bank, but he doesn’t say anything about this to the rest of the group.
 
-We make it back to the Bloodsoaked Banner and Rohan explains that he took the bank note from the courier and cashed it. Arythas and Dia are **pissed** and they (mosty Dia) chew him out for his actions. It ultimately ends in an appreciation for his effort, but he needs to think more about the consequences of his actions. Attention turns back to the fact that Rohan gave his name out and that Rohan went to a crime scene, and then back here. Xenara or or death or both could have been related to this undeath plot and that this could all be very bad.
+We make it back to the Bloodsoaked Banner and Rohan explains that he took the bank note from the courier and cashed it. [[Arythas]] and Dia are **pissed** and they (mosty Dia) chew him out for his actions. It ultimately ends in an appreciation for his effort, but he needs to think more about the consequences of his actions. Attention turns back to the fact that Rohan gave his name out and that Rohan went to a crime scene, and then back here. Xenara or or death or both could have been related to this undeath plot and that this could all be very bad.
 
-Rohan, again, speaks to his patron, and the group overhears. We ask who he is talking to and Rohan tries to brush it off. Arythas and Dia press the question and tries to get him to admit to what is going on. He eventually admits that he has a friend in his head, and Dia asks for more elaboration. A red smoke exits Rohan’s mouth and forms into the shape of an ifreet with a turban. Taraaq introduces himself and acts very mighty and powerful as he speaks.
+Rohan, again, speaks to [[Taraaq]], and the group overhears. We ask who he is talking to and Rohan tries to brush it off. Arythas and Dia press the question and tries to get him to admit to what is going on. He eventually admits that he has a friend in his head, and Dia asks for more elaboration. A red smoke exits Rohan’s mouth and forms into the shape of an ifrit with a turban. Taraaq introduces himself and acts very mighty and powerful as he speaks.
 
-At a glance, Taraaq looks like he might be a djinn with the way he appears. Inky can tell that this guy may be a fiend, but the rest of us just think he might be a red djinn.
+At a glance, Taraaq looks like he might be a djinn with the way he appears. [[Inky]] can tell that this guy may be a fiend, but the rest of us just think he might be a red djinn.
 
 Taraaq tries to cover for Rohan, saying that he told Rohan not to tell us and he’s the reason Rohan did everything he did. Inky asks if Taraaq is evil, or has evil goals, and Taraaq says no. Dia and Iskra can tell that he is being genuine.
 
@@ -39,7 +39,7 @@ Taraaq is scared of angry mom Dia. >:3c
 
 ---
 
-Inky goes to the [[The Library Between WIP]] to study and found someone else there, though Inky doesn’t see them. Inky waits around for the other person to come forth, pretending to read. He eventually comes across a feathere Yuan-Ti. Inky is aware that the feathered type are more related to coatls and they are seperate from the evil snake-based Yuan-Ti empire. They don’t notice as Inky walks past.
+Inky goes to the [[The Library Between]] to study and found someone else there, though Inky doesn’t see them. Inky waits around for the other person to come forth, pretending to read. He eventually comes across a feathered Yuan-Ti. Inky is aware that the feathered type are more related to coatls and they are separate from the evil snake-based Yuan-Ti empire. They don’t notice as Inky walks past.
 
 Inky says hello and surprises them. They didn’t expect anyone else to be here and they introduce themself as [[Szotszi]] (shot-shee), a blue feathered Yuan-Ti that uses she/they pronouns. Inky is curious if Szotszi sees the caretaker as another form, but they do not and wonder if the caretaker can only take on draonic forms.
 
@@ -57,7 +57,7 @@ Satisfied, Dia goes to talk to Rohan and apologizes for being so tough on him. S
 
 ---
 
-Iskra eventually heads out over the night and starts checking around for signs of Tristan being here. He cannot find any evidence of Tristan here at all, though it is possible he may simply be operating in another district if he is here at all.
+Iskra eventually heads out over the night and starts checking around for signs of [[Tristan]] being here. He cannot find any evidence of Tristan here at all, though it is possible he may simply be operating in another district if he is here at all.
 
 Iskra heads to the kobold’s and finds Clinky on break drinking tea. He asks if they have heard of anyone matching Tristan’s description and Clinky just stares at Iskra, wanting more information. He ultimately recommends asking [[Bugsy]] so they head to the back.
 
