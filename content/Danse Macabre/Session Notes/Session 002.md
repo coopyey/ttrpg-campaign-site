@@ -3,6 +3,8 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-01-29
 ---
+**Session Date:** 1/29/2023
+
 [[Dia]] investigates the door and finds a secret symbol of St. Cuthbert and the door opens into light. The party rushes through with [[Arythas]] taking up the rear, and we are blinded by light.
 
 Dia comes to first:

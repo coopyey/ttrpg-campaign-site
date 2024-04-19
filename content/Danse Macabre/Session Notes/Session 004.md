@@ -3,6 +3,8 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-02-12
 ---
+**Session Date:** 2/12/2023
+
 [[Dia]] pulls the librarian aside and asks who we are and if he knows us. He explains he knows we are just adventurers and Dia names us all for him. [[Brother Raghnall]] points out we need to get to [[Oceanscar]] before the wine does because the thing that possessed the abbott kept his personality.
 
 We come across the corpse of an orc, dressed as a servant. In recent history we know that orcs have their own nation: orcs are related to elves and were made to be the servants of elves. This is no longer a common practice, but some still do it. The orc froze during the winter storm that the [[Frosty Princess Glaciebella]] stirred up. He may have been a courier, which seems accurate sinc ehe has a letter that was sent to the abbott. [[Rohan]] tries to get Dia to read it but she hands it back. The letter is asking for more barrels of wine in elvish, and is signed by [[Felu]].
@@ -33,13 +35,13 @@ Dia beings asking Arythas about his god and Arythas explains that he was put her
 
 As we continue, Rohan starts to play in the snow and it isn’t long before an older man is watching us. He is an older gentleman, a blue dragonborn with some cracked scales. He holds himself like a warrior and is very reserved around Arythas. The group stops to build a snowman, then continues playing. The dragonborn’s name is Amtal, which is familiar to Arythas, though he can’t recall why. He needs to speak with Inky to try to recall why.
 
-We continue on and reach a valley with two camps — the Bloodsoaked Banner and the [[Family of Light]] (Church of Pelor) camp. Dia is panicking and wants to avoid the actual valley but we say no. Dia agrees to go to the Bloodsoaked Banner’s camp. We are let in by our dwarven friend. He explains that each camp is looking for a legendary paladin and the situation is tense because they want him to train their people. Dia is aware they mean the dragonborn Artem, AKA the Earthshaker, that helped with the snowman.
+We continue on and reach a valley with two camps — the Bloodsoaked Banner and [[The Family of Light]] (Church of Pelor) camp. Dia is panicking and wants to avoid the actual valley but we say no. Dia agrees to go to the Bloodsoaked Banner’s camp. We are let in by our dwarven friend. He explains that each camp is looking for a legendary paladin and the situation is tense because they want him to train their people. Dia is aware they mean the dragonborn Artem, AKA the Earthshaker, that helped with the snowman.
 
 [[Rafferty]] — one of Dia’s brother — notices her and it is clearly very uncomfortable. Dia tries to back up and the group protectively encloses around her. He wants to know why she is around and if she would join him on his mission. She says no over and over, and tries to convince him the Earthshaker is gone. Rafferty isn’t listening and it goes until Govemon [[Soldas]] — the elfin leader of the Bloodsoaked Banner — steps in and sends him off.
 
 The Bloodsoaked Banner and the Family of Light are looking for [[Artem Vorvarax]], paladin of [[Bahamut]], the Earthshaker. The Bloodsoaked Banner want him to help with their initiative while the Family wants him to train their “paladins”. Dia gives a note to Govannon Soldas for Artem to read.
 
-Dia asks how he knows [[Bertram Holless]]. She cannot find him, as he is missing. She explains that he may be in a dungeon somewhere where it is snowy and she asks for any information on him if they find something. While he has no promises, they will add him to the list of people to search for.
+Dia asks how he knows [[Bertram]]. She cannot find him, as he is missing. She explains that he may be in a dungeon somewhere where it is snowy and she asks for any information on him if they find something. While he has no promises, they will add him to the list of people to search for.
 
 Iskra has some questions for Soldas:
 

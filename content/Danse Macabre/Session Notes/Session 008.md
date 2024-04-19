@@ -3,6 +3,8 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-03-12
 ---
+**Session Date:** 3/12/2023
+
 [[Arythas]] attunes to [[Marashok]]’s Tail and then we all get on our horses and leave [[Artem Vorvarax]]’s home to head towards [[Oceanscar]].
 
 Things are quiet for a while before [[Rohan]] speaks up about how we need to trust each other. [[Inky]] says that it’s okay that he is gay, and Roahn admits to the fact that he has magic. We all ask what else is new and point out that it’s more questionable that he is making such a big deal about having magic. Arythas asks if he should be concerned, and Rohan reassures him that it’s definitely totally 100% just normal magic. Quietly, Rohan speaks more with [[Taraaq]].

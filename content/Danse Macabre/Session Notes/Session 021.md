@@ -3,9 +3,11 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-07-16
 ---
-Dia and Arythas get the lay of the land of the party and it isn’t too long before Inky, Keenan, and Iskra showed up. Kestrel eventually updates Keenan that he got his daughter and that they will likely meet up at a later time in another city, maybe, if they’re lucky.
+**Session Date:** 7/16/2023
 
-Dia sees Rafferty in a corner of a round room that is as dark as he can, and Dia definitely starts to chortle. Arythas asks what she is seeing and she points to Rafferty, who is going through his emo phase. The man looks like an edgy dark knight as he’s pouting now. Arythas asks if she would like to go talk to him and she decides yes, and Arythas asks if she would like for him to go with her because he imagines that Rafferty will recognize him. She asks Arythas to stay within eye sight in case something goes wrong but otherwise not to seem associated with her. They split ways.
+[[Dia]] and [[Arythas]] get the lay of the land of the party and it isn’t too long before [[Inky]], [[Keenan]], and [[Iskra]] showed up. [[Kestrel St. Clair]] eventually updates Keenan that he got his daughter and that they will likely meet up at a later time in another city, maybe, if they’re lucky.
+
+Dia sees [[Rafferty]] in a corner of a round room that is as dark as he can, and Dia definitely starts to chortle. Arythas asks what she is seeing and she points to Rafferty, who is going through his emo phase. The man looks like an edgy dark knight as he’s pouting now. Arythas asks if she would like to go talk to him and she decides yes, and Arythas asks if she would like for him to go with her because he imagines that Rafferty will recognize him. She asks Arythas to stay within eye sight in case something goes wrong but otherwise not to seem associated with her. They split ways.
 
 ---
 
@@ -15,7 +17,7 @@ Dia presses for what questions and he says that he has a big family and not all 
 
 Dia asks what Rafferty is going to ask mother and he explains he was going to confront her about the wedding. He wanted her to lie to his face. Dia asks Rafferty not to tell mother that he’s seen her - not just at the party, but at all. Rafferty recognizes that he needs to improve and he needs to keep Dia’s cover. He says that he hopes that next time they meet Dia can be proud of him, and Bertram can be proud of him. He plans on making the entire family pay attention to him rather than Dia and her quest to find Bertram.
 
-Dia says that the Blood-Soaked Banner will be helping her look for Bertram and it’s possible that if he is nice they may let Rafferty look as well. Second, the wedding wasn’t enough for whatever reason - mother sent people after Dia; more than just the family’s hunters. She explains that there are some bad people she is trying to take down and there may come a time in the night where we may need a big distraction, and Rafferty says he can definitely do that. Dia will let him know.
+Dia says that the [[Bloodsoaked Banner]] will be helping her look for [[Bertram]] and it’s possible that if he is nice they may let Rafferty look as well. Second, the wedding wasn’t enough for whatever reason - mother sent people after Dia; more than just the family’s hunters. She explains that there are some bad people she is trying to take down and there may come a time in the night where we may need a big distraction, and Rafferty says he can definitely do that. Dia will let him know.
 
 Rafferty wipes his tears away and curses the deities and says he was looking so cool, which Dia says he really wasn’t. Dia says if he insists on being a try hard in the corner of a circular room she will leave him to it. He requests a hug and she gives it to him because there isn’t anyone particularly paying attention to this exchange.
 
@@ -23,7 +25,7 @@ She asks that Rafferty do not seek her out after this and to let her go to do he
 
 ---
 
-Shevore explains that she has a contract with Rafferty, not with the family. She explains that Rafferty is kind of growing on her.
+[[Shevore]] explains that she has a contract with Rafferty, not with the family. She explains that Rafferty is kind of growing on her.
 
 ---
 
@@ -33,7 +35,7 @@ A few ideas — use members of the family to act as a diversion or distraction t
 
 This party is being hosted by the king, so it’s the king’s ball.
 
-Rohan has the wand at this point. Do we want him hiding so he can’t be seen when casting, who do we want to cause a ruckus? The idea of getting her somewhere and then spilling wine on her dress to cause a scene is not a bad one — we just need to figure out how to get that done.
+[[Rohan]] has the wand at this point. Do we want him hiding so he can’t be seen when casting, who do we want to cause a ruckus? The idea of getting her somewhere and then spilling wine on her dress to cause a scene is not a bad one — we just need to figure out how to get that done.
 
 ---
 
@@ -41,25 +43,25 @@ A middle-aged woman walks into the party. She has an air of power around her and
 
 Dia is about to scream and Iskra commands his wolf to charge and knock Dia over to cover up the scream, loitering just a second, then trotting off. Iskra plays into apologizing and helping Dia up and explaining about the guide wolf and sometimes an animal just gets a wild hair. The older woman explains this is an outrage and Arythas comes in to link arms with Dia to sweep her away, chewing Iskra out about the wolf and how dare you not control that animal, and etc, etc. Rohan comes up explaining that his sister is so clumsy and Rohan starts to lean into placating them. The younger woman is digging the attention while the older woman is wanting to leave.
 
-Mom and sister(?) start to bicker a little each other. Inky goes up to Rohan and tugs on his shirt and says, “Dad, I need to use the restroom,” and Rohan starts to try to extract himself by recommending the younger woman rest a bit. The older woman looks at the younger one and says that she can’t believe the younger woman keeps doing this to her, and the younger woman says it’s fine. The older woman explains they are representing the Family of Light and she is drunk at the king’s ball - does she have no shame? No sense of decorum? Sister’s been doing shame and sense of decorum forever. They ultimately leave.
+Mom and sister(?) start to bicker a little each other. Inky goes up to Rohan and tugs on his shirt and says, “Dad, I need to use the restroom,” and Rohan starts to try to extract himself by recommending the younger woman rest a bit. The older woman looks at the younger one and says that she can’t believe the younger woman keeps doing this to her, and the younger woman says it’s fine. The older woman explains they are representing [[The Family of Light]] and she is drunk at the king’s ball - does she have no shame? No sense of decorum? Sister’s been doing shame and sense of decorum forever. They ultimately leave.
 
-Inky explains to Rohan that that was Dia’s family. The younger woman was Dia’s mother, with the older woman being Dia’s sister. The sister is the fucking buzzkill holy shit.
+Inky explains to Rohan that that was Dia’s family. *The younger woman was Dia’s mother, with the older woman being Dia’s sister*, [[Prudence]]. The sister is the fucking buzzkill holy shit.
 
 ---
 
-Iskra is outside smoking because he was escorted out for his wolf’s behavior. The captain gets him back in. The captain chews Iskra out for getting kicked out because we are trying to save the king and Iskra explains that this was important to do and he offers to go in without his wolf. The captain says he needs to be able to see. He explains that Iskra needs to care about this more than anything Iskra has ever cared about before and we can’t fuck this up. He explains he wants to deal with this without assassinating a sister or Iskra or the rest of our party - the captain will start with Iskra’s friends first.
+Iskra is outside smoking because he was escorted out for his wolf’s behavior. [[Captain Tavrion]] gets him back in. The captain chews Iskra out for getting kicked out because we are trying to save the [[King of Oceanscar]] and Iskra explains that this was important to do and he offers to go in without his wolf. The captain says he needs to be able to see. He explains that Iskra needs to care about this more than anything Iskra has ever cared about before and we can’t fuck this up. He explains he wants to deal with this without assassinating a sister or Iskra or the rest of our party - the captain will start with Iskra’s friends first.
 
 Iskra ultimately comes to an agreement with the captain and is told that people are running late and the rest of the party is to be appraised. Iskra notifies us via the sending broach.
 
 ---
 
-Inky sees everyone here that we’ve seen and met. He also sees where Prudence and Lorena have gone - they are at the buffet table. The eldest sister of the sisters finally enters the party. Inky is sitting on Arythas’s shoulder and telling him who’s where doing what.
+Inky sees everyone here that we’ve seen and met. He also sees where Prudence and [[Lorena]] have gone - they are at the buffet table. The eldest sister of the sisters finally enters the party. Inky is sitting on Arythas’s shoulder and telling him who’s where doing what.
 
 Rohan is mingling with a single drink that he is sipping on at this time. He’s the closest to Dia, other than Arythas and Inky.
 
 Meanwhile, Dia has a plate of food and a glass of wine and is trying to cast detect magic ritually to check on things while Arythas pretends to be in an animated conversation with her. Prudence sees disguised Dia casting and asks what she is doing. Dia starts to stutter and explains she’s practicing magic and she starts to stutter. Arythas cuts in and explains that she is practicing her magic and they had been discussing magical techniques and he had asked her to show him what she’d learned in front of him right now. He is being polite, but with his sharp gaze he’s also being intimidating toward Prudence and she decides it’s not worth it. She huffs and says that it’s not worth her time, but calls it rude, and storms off.
 
-Dia explains that if Prudence discovers her here, she’s dead. Arythas reassures that he will not let that happen. He explains that her disguise is clearly working very well and that we should be okay, but we only need to be here long enough to complete the job before us and then we can leave. Her detect magic doesn’t see any necromantic magic in the place so far. Dia also does get close to the eldest sister, Faalvi, to make sure it is actually her and not some illusion so that she’s posing. Dia does confirm that Faalvi is actually Faalvi here.
+Dia explains that if Prudence discovers her here, she’s dead. Arythas reassures that he will not let that happen. He explains that her disguise is clearly working very well and that we should be okay, but we only need to be here long enough to complete the job before us and then we can leave. Her detect magic doesn’t see any necromantic magic in the place so far. Dia also does get close to the eldest sister, [[Faalvi]], to make sure it is actually her and not some illusion so that she’s posing. Dia does confirm that Faalvi is actually Faalvi here.
 
 Inky can tell that Faalvi is rattled - something is wrong, though she is doing her best to pretend everything is fine.
 
@@ -83,4 +85,4 @@ The guards step in and take her away to elsewhere. At this point, our job is don
 
 Arythas and Dia are on the balcony above and we are quickly evacuating the building, with the rest of the party.
 
-Inky is gone suddenly. He is in an unfamiliar place in chains and standing above him is Lohiss, the last sister. She calls him a freak and she wants him to take her to the library he is aware of.
+**Inky is gone suddenly**. He is in an unfamiliar place in chains and standing above him is [[Lohiss]], the last sister. She calls him a freak and she wants him to take her to the library he is aware of.

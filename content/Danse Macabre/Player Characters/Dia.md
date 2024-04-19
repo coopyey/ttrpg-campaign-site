@@ -19,3 +19,5 @@ Status: Alive
 ### Additional Notes
 
 **Full Name:** Emlyn Dianna “Dia” Holless
+
+Her family information can be found under [[The Family of Light]].

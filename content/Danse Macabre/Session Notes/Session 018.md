@@ -3,11 +3,13 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-06-11
 ---
-We begin in combat with two undead minions and one of the sisters — Uzena, the roguish one. After we take care of her, Dia casts cure wounds on Kestrel and we take a few minutes to heal and come together and talk. Kestrel is ready to kill Uzena and Dia requests that he not act rationally, and we do manage to calm him down and tie Uzena up so that she is not a problem moving forward.
+**Session Date:** 6/11/2023
 
-Kestrel tells Rohan to ask where his daughter [[Robin (Not Dog)]] is, and she is an 8 year old aasimar, though silver instead of gold. She was in a safe house in the city and is smart and courageous. Iskra asks if she has a characteristic scent or sound and Kestral is excited that Iskra and the wolf will help.
+We begin in combat with two undead minions and one of the sisters — [[Uzena]], the roguish one. After we take care of her, Dia casts cure wounds on Kestrel and we take a few minutes to heal and come together and talk. [[Kestrel St. Clair]] is ready to kill Uzena and [[Dia]] requests that he not act rationally, and we do manage to calm him down and tie Uzena up so that she is not a problem moving forward.
 
-Inky speaks into the [[Jade Sending Stone]] and explains that the corrupted wine has been taken care of and that we captured Uzena because she attacked us. The guard tells us to let her go, and we argue because her family is what created this entire mess. Dia and Inky asks what would happen if she disappeared, and the guard cannot outwardly support it, so we all agree to meet.
+Kestrel tells [[Rohan]] to ask where his daughter [[Robin]] is, and she is an 8 year old aasimar, though silver instead of gold. She was in a safe house in the city and is smart and courageous. [[Iskra]] asks if she has a characteristic scent or sound and Kestral is excited that Iskra and the wolf will help.
+
+Inky speaks into the *jade sending stone* given to us by [[Captain Tavrion]] and explains that the corrupted wine has been taken care of and that we captured Uzena because she attacked us. The guard tells us to let her go, and we argue because her family is what created this entire mess. Dia and [[Inky]] asks what would happen if she disappeared, and the guard cannot outwardly support it, so we all agree to meet.
 
 We cast feign death on Uzena and get her back to the Bloodsoaked Banner. Our friends from the Bloodsoaked Banner are here, but so is [[Father Caleb Truestrike]] and [[Captain Tavrion]], who is currently in plainclothes and is femme today. Father Caleb is who greets us and lets us in, and we tie Uzena up to something. The Captain shackles her up. We explain that Kestrel’s daughter is missing. The Captain explains that there is much more that this family has done than just this, and they put a wand on the table for Rohan to take.
 
@@ -15,15 +17,15 @@ Kestrel explains that he is going to help search for his daughter. He gives Roha
 
 Because we have beaten one of the sisters we will have Drow hunters and sisters hunt them down. We can choose to leave the city or we can try to exact a confession or goad them into an attack — they are trying to spin a story that the soiree was taken over by radicals after they left. Dia offers to stay and try to help but doesn’t want to take the actual official help. She points out that there are other groups looking for her but it may help shake some things up and cause complications for the sisters should something happen to her.
 
-The Family of Light Army are actually nearby — 1-2 days — on the way somewhere else. The party is tomorrow and the army can send a contingent much faster if necessary. This is not Dian’s first choice, but she will keep it in mind. We can be smuggled into the ball and the guard can keep Uzema away from it all for a little while.
+[[The Family of Light]] Army are actually nearby — 1-2 days — on the way somewhere else. The party is tomorrow and the army can send a contingent much faster if necessary. This is not Dian’s first choice, but she will keep it in mind. We can be smuggled into the ball and the guard can keep Uzema away from it all for a little while.
 
-Iskra gets everyone ice cream, and gets Arythas blueberry. 🙂
+Iskra gets everyone ice cream, and gets [[Arythas]] blueberry. 🙂
 
 Plan:
 
-1. When the Captain is gone, we will call in the Army of Light and pit them against the sisters.
+1. When the Captain is gone, we will call in the [[Army of Light]] and pit them against the sisters.
     1. Issue: Dia did not leave with permission therefore the kindest thing they will do is kill her.
-    2. Dia could ask Rafferty for help — he’s the lesser of two evils — or she could invoke her sister, Prudence.
+    2. Dia could ask [[Rafferty]] for help — he’s the lesser of two evils — or she could invoke her sister, [[Prudence]].
         1. We opt for Prudence.
     3. The goal is to:
         1. Distract the sisters so Kestrel finds his daughter, Robin.

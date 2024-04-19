@@ -9,15 +9,18 @@ Status: Alive
 
 **Ancestry:** 
 
-**Heritage:** 
+**Heritage:** Tiefling
 
-**Class:** 
+**Class:** Investigator
 
 **Subclass:** 
 
 **Background:** 
+
 ### Additional Notes
 
 **Full Name:** Rohan J. Corvo
 
 **Secondary Character:** Taraaq
+
+Has a baby face, very red eyes.

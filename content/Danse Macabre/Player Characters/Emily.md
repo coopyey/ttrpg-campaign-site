@@ -18,4 +18,4 @@ Status: Alive
 **Background:** 
 ### Additional Notes
 
-Youngest of [[Bertram Holless]]'s troupe. Caught in the wrong place at the wrong time.
+Youngest of [[Bertram]]'s troupe. Caught in the wrong place at the wrong time.

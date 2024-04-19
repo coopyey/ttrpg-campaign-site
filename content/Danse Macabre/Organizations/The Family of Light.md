@@ -8,10 +8,14 @@ Status: Active
 Put on the illusion that they are loyal followers of the Church of Pelor in order to gain power, fame, and money.
 ## Other Notes
 
+Absolute scam.
 ### Members 
 
-- [[Dia]]
-
-### Excommunicated
-
-- [[Bertram Holless]]
+- The Family
+	- [[Prudence]]
+	- [[Bertram]]
+		- Excommunicated
+	- [[Rafferty]]
+	- [[Dia]]
+		- Not willingly
+- Other Members

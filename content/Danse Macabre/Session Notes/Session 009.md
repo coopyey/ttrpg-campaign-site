@@ -3,6 +3,8 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-03-19
 ---
+**Session Date:** 3/19/2023
+
 We see [[Oceanscar]] and recall it used to be a dwarven city. The king’s palace and all noble quarters are underground. While the elves have taken this city, they do not destroy the things that have purpose. There are some abandoned buildings from when the orcs left, and there is some more recent build. The harbor is built into the cliff and so the shipyard is essentially underground. There are some airships that are coming and going.
 
 The city gets its name as it is built on a jagged cliff and there is a legend of the gods cleaving the shoreline. Population is mostly elves, but there are also humans, gnomes, a halfling quarter, and a smattering of orcs. There are about a million people here.

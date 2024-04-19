@@ -3,6 +3,8 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-03-05
 ---
+**Session Date:** 3/5/2023
+
 There is a commotion outside and [[Dia]] peeks out to see that there is an attack. Nearby is an elf using an orb to talk to someone, though she cannot tell what they are saying. We are to take care of evacuate [[Artem Vorvarax]]. Dia says we will take the horses to escape and Dia tells [[Rafferty]] to man up and command his army. He nods and leaves to go command.
 
 We sneak out of the tent and hear the elf commander talking and saying they did not see their master’s courier and they are smoking out the two groups. He crushes the orb and pulls out his bow and starts shooting at everyone, laughing maniacally while doing so. [[Arythas]], [[Iskra]], and the Earthshaker will be headed to the ridge with the snowman while Dia, [[Rohan]], and [[Inky]] will go to get the horses from [[The Family of Light]] camp.

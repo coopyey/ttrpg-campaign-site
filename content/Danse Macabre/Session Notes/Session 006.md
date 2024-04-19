@@ -3,6 +3,8 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-02-26
 ---
+**Session Date:** 2/26/2023
+
 [[Inky]] wakes up to the sound of two explosions. One was close, the second was far.
 
 The guy that explodes does so from the inside out: first [[Dia]] is engulfed by read flame, then gone black. Dia comes to and [[Soldas]] had protected her. [[Arythas]] realizes that he is being healed at half and Dia is also aware of this. Everyone else gets to us and [[Iskra]] casts healing spirit and the spirit gets him back to normal order, the necrotic energy purged and cleansed. He explains he came to check on the rookies and this happened.
@@ -27,7 +29,7 @@ Dia goes to Rafferty and gives him the disappointment stare. He asks if she saw 
 
 We return to the Bloodsoaked Banner and take a rest so that we can plan. Inky checks out a book on how to slay dragons. It’s a book written by hobgoblins. Inky didn’t expect that this would work. The book is bound in iron but once it is animated the front binding is what turns into a goblin face. Inky shoves the book into his bag for now.
 
-Rohan, during the rest, is away from the group and he calls for Taraaq — he explains he talked to [[Demona]] and she said hi. Rohan asks how many there are and Taraaq explains he is the only patron, but they are all trying something new. Taraaq is a demon. He was an ifrit before he was a demon. Demona was once an angel, but she’s now a devil. There is a group of fiends that got together to give power and he explains that nobody has been listening to him. All of these guys want out — Taraaq wants out of the Abyss, and Demona out of the Hells. They want to ascend. Rohan is advised by Taraaq not to admit to a pact with a fiend. Rohan finishes the conversation up and heads back to the group.
+Rohan, during the rest, is away from the group and he calls for Taraaq — he explains he talked to [[Denma]] and she said hi. Rohan asks how many there are and Taraaq explains he is the only patron, but they are all trying something new. Taraaq is a demon. He was an ifrit before he was a demon. Demona was once an angel, but she’s now a devil. There is a group of fiends that got together to give power and he explains that nobody has been listening to him. All of these guys want out — Taraaq wants out of the Abyss, and Demona out of the Hells. They want to ascend. Rohan is advised by Taraaq not to admit to a pact with a fiend. Rohan finishes the conversation up and heads back to the group.
 
 We are resting in the tent, having an awkward conversation. Dia explains Emlyn is her real name, and Dia is her middle name. She has never been asked what she wants to be called and we respect that. We learn that Dia has five siblings and Inky says he has like forty-two siblings. Dia is feeling delayed fear, sadness, and pride — though the pride confuses her. Inky also figures out that Rohan is a warlock after he tries to reassure her that she doesn’t need magic to help it. The group heads out to find the Earthshaker.
 

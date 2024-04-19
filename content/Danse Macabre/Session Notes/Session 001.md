@@ -3,6 +3,8 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-01-22
 ---
+**Session Date:** 1/22/2023
+
 My information about the [[Abbey of St. Cuthbert]]:
 
 - survived numerous sieges in the past

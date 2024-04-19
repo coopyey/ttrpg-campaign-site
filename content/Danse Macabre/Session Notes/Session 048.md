@@ -45,7 +45,7 @@ The leader of one of the gangs - [[Sarud]] - leads the Gruumsh gang leader. The 
 
 ----
 
-[[Bertram Holless]] gets thrown into the prison and he sees Emily right before blacking out, asking if it's Emmalyn. Emily gets Wilhelm to move him to the side so that he's out of the way, which he does, and then Bertram starts awake and asks what is going on. She gives him an apple from lunch and she explains that he's in [[Cruelwind Prison]], then she gives him a full run down of what's going on here.
+[[Bertram]] gets thrown into the prison and he sees Emily right before blacking out, asking if it's Emmalyn. Emily gets Wilhelm to move him to the side so that he's out of the way, which he does, and then Bertram starts awake and asks what is going on. She gives him an apple from lunch and she explains that he's in [[Cruelwind Prison]], then she gives him a full run down of what's going on here.
 
 Bertram pretty quickly gets to where he's trying to organize people. Bertram gets into so many fights and Emily eventually turns to Wilhelm and mentions that he's trouble, and she likes that about him. The guards get involved in one fight because Bertram manages to rile up the prisoners enough to almost storm the guards, so the guards beat the shit out of him and at the end, Sarud stabs him a few times with a shiv.
 

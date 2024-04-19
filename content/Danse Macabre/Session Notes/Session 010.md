@@ -3,6 +3,8 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-03-26
 ---
+**Session Date:** 3/26/2023
+
 We wake up in the morning. Tomorrow is the soiree, and the wine is 4 days out.
 
 The [[Bloodsoaked Banner]] offers up some old attempts at a uniform with red accenting. We can choose to represent them by wearing these if we would like, but we do not have to.
