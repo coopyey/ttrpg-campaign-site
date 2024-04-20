@@ -30,7 +30,7 @@ So far, Charity and Ships have not seen anyone around here. They decide to sneak
 
 Gwen and Clathel work together to help check rooms and identify more traps.
 
-![[Untitled 6.png|Untitled 6.png]]
+![[step_manor-map.png|step_manor-map.png]]
 
   
 
@@ -44,17 +44,13 @@ Ships checks under the first door on the left for traps and identifies a warding
 
 - 8 green dragonscale breastplates
 - Small weapons:
-    
     - White birchwood wand with a cast silver spider at the top
         - Wand of Web
-    
     - Rod carved out of a red wood with a similarly carved coiled snake wrapped around it → Calthel
         - Rod of the Pact Keeper +1
-    
     - Whip made out of some sort of greenish leather
         - Called the Strangler’s Whip.
         - This whip allows you to make two attacks, either of which can grapple, and gives you advantage on Athletics checks made to climb or to tie up enemies. Requires attunement.
-    
     - A set of four knucklebone dice with runic markings on them
         - These knucklebone dice allow you to cast speak with dead on a corpse once per short rest, even one which does not have a jaw. In addition, if you take a bonus action to roll the dice, you have advantage on Arcana or Religion checks to identify creatures. Require attunement.
 - Large Weapons:
@@ -71,10 +67,8 @@ Ships does some additional looking around and finds 4 platinum pieces that rolle
 In the third room is two large chests, two medium chests, two small chests (boxes) and one shelf that has four bottles on it.
 
 - Small box 1 (jewelry box)
-    
     - 3 fire opals
-    
-    - 4 moss agates
+	- 4 moss agates
     - 4 polished red coral
 
 - Small box 2
@@ -85,6 +79,7 @@ In the third room is two large chests, two medium chests, two small chests (boxe
     - 3042 silver
     - 338 copper
     - 329 electrum
+
 - Shelf with bottles
     - Blue
     - Color changing

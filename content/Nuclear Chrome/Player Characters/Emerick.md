@@ -32,7 +32,8 @@ His ears are pierced, and he has freckles on his face and all over his body. His
 
 He is typically unkempt, but not dirty. It is clear that if he were to take care of his appearance he would be handsome, but he throws himself too much into his work to really bother with cleaning himself up.
 
-![[emmy_boba.jpg]]
+![](nc_emmy-reference.png)
+
 ## Class Information
 ### Media (4)
 
@@ -40,7 +41,7 @@ Media information here
 
 ## Personality
 
-On the surface, he’s a very attentive, thoughtful, and kind.
+On the surface, he’s a very attentive, thoughtful, and kind. He pays attention to details about people and likes to 
 
 ### Strengths
 

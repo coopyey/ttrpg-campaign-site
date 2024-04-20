@@ -5,6 +5,8 @@ Player Class: Warlock
 Subclass: Tome
 Status: Alive
 ---
+**Full Name:** Calthel Lorvarax
+
 ## General Information
 
 **Age**: 21

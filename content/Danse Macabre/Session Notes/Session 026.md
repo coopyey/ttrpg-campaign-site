@@ -3,11 +3,13 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2023-08-27
 ---
-We make landfall and say goodbye to everyone on the ship, with Captain Kearney giving Dia another kiss. Dia tries to convince her to go with them but she refuses.
+**Session Date:** 8/27/2023
 
-Lufir says we have to get to the capital. When asked about money, he pulls out traveler’s checks, which may not work so well here in this Orcish community. Dia explains that we need to get him better clothes to travel in because of how tough it can be to travel. He explains he will trust us in all things adventure as he is at our mercy and is not that knowledgable in this.
+We make landfall and say goodbye to everyone on the ship, with [[Captain Kearney]] giving [[Dia]] another kiss. Dia tries to convince her to go with them but she refuses.
 
-Usval is a pretty new nation where the citizens are Orcs and Gnolls, with this being the only Orcish port here. The city is still very diverse because it is so new and there’s a lot missing with a lot promised. Streets are still being built, for example, so carriages wouldn’t be a thing that would work here. There are a lot of people trying to prove themselves here so there might be a way to shorten the journey to the north from Arcfort.
+[[Lufir Lightshard]] says we have to get to the capital. When asked about money, he pulls out traveler’s checks, which may not work so well here in this Orcish community. Dia explains that we need to get him better clothes to travel in because of how tough it can be to travel. He explains he will trust us in all things adventure as he is at our mercy and is not that knowledgeable in this.
+
+[[Usval]] is a pretty new nation where the citizens are Orcs and Gnolls, with this being the only Orcish port here. The city is still very diverse because it is so new and there’s a lot missing with a lot promised. Streets are still being built, for example, so carriages wouldn’t be a thing that would work here. There are a lot of people trying to prove themselves here so there might be a way to shorten the journey to the north from [[Arcfort]].
 
 The Orcs look at Arythas and see a big beefy man and definitely approves. A lot of guys are looking for a fight at times. There’s a lot of aggression and conflict, but it doesn’t always turn into violence. The gnolls have a very strict hierarchal structure and they’re using this aggression to very much set up temporary hierarchal structure for social reasons.
 
