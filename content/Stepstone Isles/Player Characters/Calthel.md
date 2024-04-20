@@ -30,7 +30,7 @@ He no longer wears leathers, preferring instead to wear traveling clothes that a
 
 His raven is a celestial raven that carries with it the faint smell of incense. It is a black bird with golden tipped feathers to mark it a familiar. It’s name is Siobahn.
 
-![[si_calthel-reference.png]]
+![[step_calthel-reference.png]]
 
 Art by [Amelia](https://atelieramelia.carrd.co/)!
 

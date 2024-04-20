@@ -32,7 +32,7 @@ His ears are pierced, and he has freckles on his face and all over his body. His
 
 He is typically unkempt, but not dirty. It is clear that if he were to take care of his appearance he would be handsome, but he throws himself too much into his work to really bother with cleaning himself up.
 
-![](nc_emmy-reference.png)
+![](nc_emmy-reference.webp)
 
 Art by [Amelia](https://atelieramelia.carrd.co/)!
 

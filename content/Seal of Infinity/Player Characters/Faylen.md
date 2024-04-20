@@ -23,8 +23,6 @@ Status: Alive
 
 **Height**: 6’3”
 
-**Eyes**: Left grey, right yellow
-
 **Hair Color:** Raven black
 
 **Hair Style**: Top’s combed over, sides shaved
@@ -35,7 +33,7 @@ Status: Alive
 
 His fingernails are blackening and growing sharper, and his fingertips are blackening as well - this will travel up to his elbows over time. The tips of his ears are also turning black, though this won’t really spread. His left eye is a golden yellow color that almost glows in low light, his right eye is a stormy grey.
 
-![](soi_faylen-reference.png)
+![](soi_faylen-reference.webp)
 
 Art by [Amelia](https://atelieramelia.carrd.co/)!
 ## Class Information

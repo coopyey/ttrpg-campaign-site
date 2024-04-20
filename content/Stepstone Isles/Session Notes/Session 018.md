@@ -28,9 +28,7 @@ The plan is to hide out somewhere up here and ambush [[Azelais]] as she comes ba
 
 Maps of the area around the hut:
 
-![[Untitled 8.png|Untitled 8.png]]
-
-![[Untitled 1 2.png|Untitled 1 2.png]]
+![[step_fjord-area.webp]]
 
 It’s about noon and we have until sunset until she’s back. We debate whether we should get help from the nearest knightly estate, which would be [[Orrinshire WIP]] .
 
@@ -68,6 +66,8 @@ It is going to take maybe four hours back to the Baron’s estate. [[Orrinshire 
 
 While Calthel helps get the horses ready, everyone else searches the hut. As they search, the straw mattress shifts a little and when Ships looks into it, he will find a critter about the size of a small cat sleeping. They do not find the missing book of scripture in the hut. They did find a holy symbol (Octavian, not cult), a prayer book (Octavian, not cult), 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15gp, leather armor, a crossbow & 20 bolts, 2 daggers, and a mace.
 
+![](step_little-fish-guy.webp)
+
 The head is even larger than in this image, and the eyes are even larger to the head. Kerran is aware that this is something that crawled all over him while in the boat. Gwen and Ships have no idea what this creature is, but Charity is vaguely aware that this is an aberration of some type. She also knows that this is not an aberration that is native to this part of the world, though she doesn’t know quite what it is. She knows that she would know what it was if it turned up around here regularly in her time. Sarras goes out and works with Calthel to free up a saddlebag to bag this thing.
 
 Calthel is also aware that this is an aberration native to the area, and Calthel also is aware that this is not related to his own patron, Fayruz.
@@ -78,7 +78,7 @@ We head out on the road and everyone but Calthel and Prima feel a cold wind blow
 
 The undead that are with the water elemental look as to the right. Sarras has abjure the extraplanar up to be ready. It is clear that the creatures cannot make it to us on horseback, but Prima is walking her horse with the chest on it so she cannot go fast enough to avoid these things. We do some shifting around on horses to get Prima on a horse and we move fast enough to abandon these things in the darkness.
 
-![[Untitled 2 2.png|Untitled 2 2.png]]
+![](step_waterlogged-ghoul.webp)
 
 We lose these creatures and Kerran confirmed that the creatures met his gaze when he saw them, so they were clearly going for us. We are also aware that the noise that came in on the wind could not be made by the water elemental or undead creatures.
 

@@ -22,11 +22,9 @@ Session Date: 2024-04-19
         - These knucklebone dice allow you to cast speak with dead on a corpse once per short rest, even one which does not have a jaw. In addition, if you take a bonus action to roll the dice, you have advantage on Arcana or Religion checks to identify creatures. Require attunement.
 - Large Weapons:
     - Sword
-        - Shatterspike
-            - [http://dnd5e.wikidot.com/wondrous-items:shatterspike](http://dnd5e.wikidot.com/wondrous-items:shatterspike)
+        - [Shatterspike](http://dnd5e.wikidot.com/wondrous-items:shatterspike)
     - Staff with Green snake
-        - Staff of the Adder
-	        - http://dnd5e.wikidot.com/wondrous-items:staff-of-the-adder
+        - [Staff of the Adder](http://dnd5e.wikidot.com/wondrous-items:staff-of-the-adder)
 - Small box 1 (jewelry box)
     - 3 fire opals
 	- 4 moss agates
@@ -162,7 +160,7 @@ Calthel uses his scroll of find familiar to turn his familiar into a fish, which
 
 I try to go through this again and there is a fork coming off against the opposite wall, and there is another fork. I have the fish hug the wall and go through this and just follow along the wall until I realize that there is a very long passage with many things branching off toward the left. 
 
-![](soi_dread-one_initial-maze.png)
+![](step_dread-one_initial-maze.webp)
 
 I report this to Sim and he says that while this is cast with a single spell, there are 14 subspell items, but dispel magic would only remove one thing. He could dispel the vision and directional confusion but that would leave him without a 6th level spell. In this case, the vision and direction effects are both the same singular effect.
 
@@ -178,7 +176,7 @@ The other effects he would not dispel:
 
 Sim would dispel the confusion and visibility effect and then begin exploring, eventually finding a chamber:
 
-![](soi_dread-one_chamber1.png)
+![](step_dread-one_chamber1.webp)
 
 Initially, chamber 1 has murk swirling around, and it seems almost as if it's snowing. After a moment, the fish familiar can tell that it's actually bone. The creature here picked a lot of bones, then cracked and splintered them until they were small pieces. This is not unusual for scavengers, but the water gives it a weird effect.
 
@@ -186,6 +184,6 @@ Sarras recalls that when the undead came out of here, the ghouls were waterlogge
 
 The fish finds the second chamber.
 
-![](soi_dread-one_chamber2.png)
+![](step_dread-one_chamber2.webp)
 
 In this chamber are soggy decomposed corpses that are in many various states of decomposition. This is not a cheerful place, and it is perhaps for the better that it is a little fish familiar that is here instead of the actual party.

@@ -30,11 +30,9 @@ So far, Charity and Ships have not seen anyone around here. They decide to sneak
 
 Gwen and Clathel work together to help check rooms and identify more traps.
 
-![[step_manor-map.png|step_manor-map.png]]
+![](step_manor-map.webp)
 
-  
-
-![[Untitled 1.png]]
+![](step_manor-traps.webp)
 
 Cal and Charity figure out that there are three places traps have been put: the entrance, and a trap on or near each balcony leading from one floor to the next, and traps on or near every hole that penetrates between floors. They figure out that if any traps start going off then the building might start collapsing as they are set up at the areas that are structurally weak. Calthel feels we ought not try to disarm traps if we can avoid it to discourage the building from collapsing. We start to head down the center set of stairs and Calthel can see that there’s a second set of stairs going to the basement, and both sets of stairs are trapped. Charity sets up a rope from the balcony and we repel down to the floor below instead of bothering with the traps.
 
