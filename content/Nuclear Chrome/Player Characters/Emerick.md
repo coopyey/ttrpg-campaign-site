@@ -34,6 +34,8 @@ He is typically unkempt, but not dirty. It is clear that if he were to take care
 
 ![](nc_emmy-reference.png)
 
+Art by [Amelia](https://atelieramelia.carrd.co/)!
+
 ## Class Information
 ### Media (4)
 

@@ -30,9 +30,11 @@ He no longer wears leathers, preferring instead to wear traveling clothes that a
 
 His raven is a celestial raven that carries with it the faint smell of incense. It is a black bird with golden tipped feathers to mark it a familiar. It’s name is Siobahn.
 
-![[cal2.jpg]]
+![[si_calthel-reference.png]]
 
-  ## Class Information
+Art by [Amelia](https://atelieramelia.carrd.co/)!
+
+## Class Information
 ### Warlock, Great Old One, Pact of the Tome
 
 **Languages**: Common, Draconic, Celeviran Elvish, Orc
