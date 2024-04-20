@@ -188,4 +188,4 @@ The fish finds the second chamber.
 
 ![](soi_dread-one_chamber2.png)
 
-In this chamber are soggy decomposed corpses that are in many various states of decomposition. This is not a cheerful place, and 
+In this chamber are soggy decomposed corpses that are in many various states of decomposition. This is not a cheerful place, and it is perhaps for the better that it is a little fish familiar that is here instead of the actual party.
