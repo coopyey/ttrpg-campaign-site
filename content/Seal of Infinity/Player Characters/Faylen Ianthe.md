@@ -37,10 +37,7 @@ Status: Alive
 
 His fingernails are blackening and growing sharper, and his fingertips are blackening as well - this will travel up to his elbows over time. The tips of his ears are also turning black, though this won’t really spread.
 
-![[feylan_for_coop(1).jpg]]
-
-  
-
+![](soi_faylen-reference.png)
 ## Class Information
 
 > [!info] Magus - Classes - Archives of Nethys: Pathfinder 2nd Edition Database  
