@@ -61,7 +61,7 @@ Bertram says the next time they see each other he’ll be a warlord of the waste
 
 They say their goodbyes.
 
-Country: [[Recklesow]]
+Country: [[Reclesau]]
 
 ---
 

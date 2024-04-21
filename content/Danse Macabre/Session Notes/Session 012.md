@@ -33,7 +33,7 @@ Dia explains that she wishes to gain an audience with the [[King of Oceanscar]] 
 
 ---
 
-Inky and Iskra are currently in the library. They are dealing with [[Lufir Lightshard]]: a disturbed elf boy who believes himself to be some sort of orcish messiah. There is also [[Yugurda]] the Psion, who is twisted and observing his emotions, and, of course, Szotszi.
+Inky and Iskra are currently in the library. They are dealing with [[Lufir]]: a disturbed elf boy who believes himself to be some sort of orcish messiah. There is also [[Yugurda]] the Psion, who is twisted and observing his emotions, and, of course, Szotszi.
 
 At this time, Iskra is trying to be alone in a corner where he can smoke his fey weed in peace and be with his wolf.
 

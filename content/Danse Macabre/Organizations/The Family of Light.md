@@ -9,13 +9,43 @@ Put on the illusion that they are loyal followers of the Church of Pelor in orde
 ## Other Notes
 
 Absolute scam.
-### Members 
+### Current Members 
 
 - The Family
 	- [[Prudence]]
+		- 21 years old
+	- [[Lorena]]
+		- Mother
+		- 67/66
+
+- The Family
+	- Peregrine
+		- Patriarch
+		- 73 years old
+		- Looks late 40s
+	- [[Lorena]]
+		- Matriarch
+		- 66 years old
+		- Looks **much** younger
+	- August
+		- Eldest sibling
+		- +25 years from Dia (she doesn't know)
+		- Dia has never met
+	- [[Prudence]]
+		- +21 years older than Dia
+	- Asher
+		- One of the "twins" (not actual twins)
+		- +19 years older than Dia
+	- Alisa
+		- One of the "twins" (not actual twins)
+		- +18 years older than Die
+
+### Previous Members
+
+- The Family
 	- [[Bertram]]
-		- Excommunicated
+		- 16 years older than Dia
 	- [[Rafferty]]
+		- 16 years older than Dia
 	- [[Dia]]
-		- Not willingly
-- Other Members
+		- The youngest

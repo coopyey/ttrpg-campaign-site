@@ -15,7 +15,7 @@ Iskra casts wind ward to protect Ogmog from a looming automaton and Dia heals hi
 
 ---
 
-[[Rohan]] and Inky go to the library to find that most of the people here were attacked by book constructs and everything is torn to shreds. Most of the people in here are dead, seemingly by teeth and nails. [[Szotszi]] is critically wounded, as is [[Lufir Lightshard]]. [[Yugurda]] is standing here as well, mostly okay but terrified. Things in here are dealt with and one of the elf sisters in the room casts healing word on Lufir. Inky casts cure wounds on him and the kid relaxes and falls into Inky’s arms.
+[[Rohan]] and Inky go to the library to find that most of the people here were attacked by book constructs and everything is torn to shreds. Most of the people in here are dead, seemingly by teeth and nails. [[Szotszi]] is critically wounded, as is [[Lufir]]. [[Yugurda]] is standing here as well, mostly okay but terrified. Things in here are dealt with and one of the elf sisters in the room casts healing word on Lufir. Inky casts cure wounds on him and the kid relaxes and falls into Inky’s arms.
 
 ---
 

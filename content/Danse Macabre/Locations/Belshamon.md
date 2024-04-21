@@ -4,4 +4,4 @@ Campaign: Danse Macabre
 Type: City
 Organization:
 ---
-The capital.
+The capital of the elven country [[Craeg Trela]].

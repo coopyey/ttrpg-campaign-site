@@ -8,9 +8,11 @@ Thursday, the day for mission details. Meet @ [[The Afterlife]], ask for [[Serpe
 [[Omen]]:
 - Mute by choice
 - A glass mask with digital lights in place of eyes that emote like expressions (Daft Punk)
+
 Serpent:
 - Pacifica
 - Tribal tattoos with a serpent tattoo going down his arm. Vibrant neon green ink.
+
 Charles:
 - Rockerboy
 - 5'10" with lots of fashionware. Right arm has speakers on it.

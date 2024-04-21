@@ -28,9 +28,9 @@ Status: Alive
 
 He no longer wears leathers, preferring instead to wear traveling clothes that are lightweight and allow for ease of movement. His longsword is also gone, replaced with the spellbook that is shown. His book was previously Honoria’s own spellbook, which he took and performed the appropriate ritual to convert into his book of shadow from his patron.
 
-His raven is a celestial raven that carries with it the faint smell of incense. It is a black bird with golden tipped feathers to mark it a familiar. It’s name is Siobahn.
+His raven is a celestial raven that carries with it the faint smell of incense. It is normally a black bird with golden tipped feathers to mark it a familiar. Its name is Siobahn. It has also taken the form of a fish, where appropriate.
 
-![[step_calthel-reference.png]]
+![[step_calthel-reference.webp]]
 
 Art by [Amelia](https://atelieramelia.carrd.co/)!
 
@@ -54,13 +54,12 @@ Fayruz is the patron of forgotten secrets and the unknowable. His followers are 
             - Detect Magic
             - Find Familiar
             - Identify
+            - Water Breathing
 - Pact Boon: Tome
-    
-    Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class’s cantrips (the three needn’t be from the same list). While this book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the warlock spell list, they are nonetheless warlock spells for you.
+	Your patron gives you a grimoire called a Book of Shadows. When you gain this feature, choose three cantrips from any class’s cantrips (the three needn’t be from the same list). While this book is on your person, you can cast those cantrips at will. They don’t count against your number of cantrips known. If they don’t appear on the warlock spell list, they are nonetheless warlock spells for you.
     
     Chosen spells:
-    
-    - Vicious Mockery
+	- Vicious Mockery
     - Friends
     - Dancing Lights
 - Feats
@@ -76,12 +75,13 @@ Fayruz is the patron of forgotten secrets and the unknowable. His followers are 
 **Bond**: I sold my soul for knowledge. I hope to do great deeds to win it back.
 
 **Flaw**: I am easily distracted by the promise of information.
+
 ## History
 
 Grew up in Compass Tor, the second-largest of the islands and most pleasant due to the highland meadow climate. It is known for its sheep as well as lodestone and iron mining operations. My family was into iron mining and, growing up, I was also in on this business. I spent my spare time reading as many books as I could and studying magic, however, as dragonborn were supposed to have a natural aptitude for it.
 
-Studying hard, I eventually managed to catch the eye of the Marquis Petra of Stepstone, who was known for sponsoring young and aspiring mages. She paid form e to go to the school of Divination magic. I excelled in ritual casting but that was about it, eventually dropping out. As far as Petra knows I am taking private lessons. She is suspicious, but none the wiser that I managed to contact Fayruz and make a deal with the slumbering old god.
+Studying hard, I eventually managed to catch the eye of the [[Marquis]] Petra of Stepstone, who was known for sponsoring young and aspiring mages. She paid form e to go to the school of Divination magic. I excelled in ritual casting but that was about it, eventually dropping out. As far as Petra knows I am taking private lessons. She is suspicious, but none the wiser that I managed to contact Fayruz and make a deal with the slumbering old god.
 
 I must pay off my debt, however, which is where the adventure starts.
 
-You begin on a boat ferrying you to Skerry Yayek, a small, rocky island with a village of about a hundred. Duchess Bellicent Le Bruin called you together to investigate why the island is incommunicado and what happened to her three tax collectors. If possible, collect the taxes as well, but find the tax collectors is the big one. Skerry Yayeg is best known for its guano mine, which supplies almost 30% of the fireball reagents in the kingdom.
+You begin on a boat ferrying you to Skerry Yayek, a small, rocky island with a village of about a hundred. [[Duchess Bellicent]] Le Bruin called you together to investigate why the island is incommunicado and what happened to her three tax collectors. If possible, collect the taxes as well, but find the tax collectors is the big one. Skerry Yayek is best known for its guano mine, which supplies almost 30% of the fireball reagents in the kingdom.
