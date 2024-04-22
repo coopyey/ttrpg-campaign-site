@@ -14,6 +14,11 @@ This is a pretty intense group that specializes in hunting down the supernatural
 ## Locations
 
 - [[Oceanscar]]
+	- Post of 2 people.
+		- [[Inali]]
+		- [[Siege]]
 	- Not well-liked in the city, but tolerated.
 	- Post that can hold 100 people.
 	- Not many resources; old and in disrepair.
+- [[Apamea]]
+	- Outpost with 40-50 people.

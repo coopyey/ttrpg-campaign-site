@@ -17,8 +17,9 @@ Mother founded the cult and she gives children to a demon prince, though it is c
 
 ### Current Members
 
-- [[Balthazar]]
 - Mother
+	- Connected to an actual demon lord
+- [[Balthazar]]
 
 ### Previous Members
 
@@ -27,4 +28,4 @@ Mother founded the cult and she gives children to a demon prince, though it is c
 
 ### Interactions
 
-- To be listed.
+- [[Session 029]] - Rohan & Pratima are kidnapped
