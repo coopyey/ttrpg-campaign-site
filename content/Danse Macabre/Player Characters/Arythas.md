@@ -14,7 +14,8 @@ Status: Alive
 **Heritage**: Silver Dragon
 
 - **Ancestry Feats**
-    - Dragon Breath
+    - Draconic Resistance (Cold) (Free, from heritage)
+    - Dragon Breath (Cold, cone)
 
 **Age**: 25
 
@@ -38,7 +39,6 @@ Typically always wears a scowl.
 
 ## Class Information
 
-- [Pathbuilder](https://pathbuilder2e.com/launch.html?build=640275)
 - [Oracle](https://2e.aonprd.com/Classes.aspx?ID=14)
 - [Battle Mystery](https://2e.aonprd.com/Mysteries.aspx?ID=2)
 
@@ -46,7 +46,7 @@ Typically always wears a scowl.
 
 **Weapon Mastery**: Hammer
 
-- **Oracular Curse**: Hero’s Burden
+- **Oracular Curse**: [Hero’s Burden](https://2e.aonprd.com/Mysteries.aspx?ID=2)
     - Always
         - Smell faintly of steel and blood no matter what
         - Appear more muscular than you actually are
@@ -65,26 +65,18 @@ Typically always wears a scowl.
         - Stupefied 2
 - **Class Feats**
     - Doman Acumen: Might (Apocryphal)
-    - Prayer-Touched Weapon
+    - [Vision of Weakness](https://2e.aonprd.com/Spells.aspx?ID=765)
 - **General & Skill Feats**
-    - Intimidating Glare (Intimidation)
-    - Toughness
+    - [Armor Assist](https://2e.aonprd.com/Feats.aspx?ID=2109) (Free, from background)
+    - [Intimidating Glare](https://2e.aonprd.com/Feats.aspx?ID=5162)
+    - [Toughness](https://2e.aonprd.com/Feats.aspx?ID=5227)
+    - [Titan Wrestler](https://2e.aonprd.com/Feats.aspx?ID=5226)
 
 ## Personality
 
 Arythas puts on the airs of a stoic man, but he is really an ill-tempered man who has allowed the tragedy of his life to harden him rather than seek comfort and vulnerability. What should have taught him empathy and compassion taught him instead to harden his heart and close off from most others. Blunt, direct, and with little patience for bullshit, he took up arms and continued his way as a knight, though he has strayed from the path as his views had grown black and white instead of recognizing the shades of grey that exist.
 
-### Strengths
-
-- Very disinclined to be swayed to a truly evil path
-- Refuses to lie
-- Is very direct
-
-### Weaknesses
-
-- Refuses to lie
-- Will not spare your feelings
-- Sees things in a very black and white manner
+He is very disinclined to be swayed toward a truly evil path, refuses to lie, and is very direct in a way that can be rather unpleasant. He is not one that particularly cares to spare feelings.
 
 ## People of Interest
 
