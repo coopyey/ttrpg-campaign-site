@@ -3,7 +3,7 @@ Class: Player Character
 Campaign: 
 Player Class: 
 Subclass: 
-Status:
+Status: Alive
 ---
 ### General Information
 
@@ -16,4 +16,5 @@ Status:
 **Subclass:** 
 
 **Background:** 
+
 ### Additional Notes

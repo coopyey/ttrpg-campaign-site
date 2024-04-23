@@ -15,6 +15,8 @@ Status: Alive
 
 **Subclass**:
 
+**Background:** 
+
 ## Other Notes
 
-Catte. She bite.
+White furred lionness hybrid woman. Does not wear heavy armor and is not flashy, generally doesn't seem to wish to be eon this adventure (at least to start).

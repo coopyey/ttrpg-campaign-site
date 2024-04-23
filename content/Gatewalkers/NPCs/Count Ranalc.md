@@ -5,3 +5,5 @@ Status: Alive
 Organization:
 ---
 **Ancestry:** First One
+
+**Realm:** Nighthold

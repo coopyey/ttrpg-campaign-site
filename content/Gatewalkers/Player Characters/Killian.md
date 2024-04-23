@@ -39,8 +39,6 @@ Due to his warlock pact, he has a devouring maw in his back, along the threading
 
 ## Class Information
 
-![[972161-Heroes_of_Omen_-_The_Warlock_PF2_2-1-23-1.pdf]]
-
 ### Golarion Betrayal Warlock, Pact of the Devouring Maw
 
 **Patron**: [[Count Ranalc]]
@@ -77,14 +75,6 @@ Due to his warlock pact, he has a devouring maw in his back, along the threading
 ## Personality
 
 Generally is friendly, he’s more interested in knowledge and finding out who he was rather than saving the world. As long as you don’t comment on him for being a doll, or otherwise treat him like less than a person, he’s happy to hang out and call you a friend. Treating him as lesser is the only grudge he will really hold. More than happy to employ less than good means to accomplish a goal.
-
-### Strengths
-
-- Has no qualms doing what needs to be done
-
-### Weaknesses
-
-- Has a hard time forgiving people who actually upset him
 
 ## History
 
