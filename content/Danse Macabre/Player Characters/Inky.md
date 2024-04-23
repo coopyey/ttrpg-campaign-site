@@ -42,3 +42,7 @@ Was working on a bible to tell the tale of [[Luufer]].
 - [[Clinky]]
 	- Lives in [[Oceanscar]]
 	- Works at [[Legitimate Business & Bar]]
+- [[Zinky]]
+	- Seen in [[Ormarsa]]
+	- Rival cousin
+	- Part of (or starting a) wizard tower MLM

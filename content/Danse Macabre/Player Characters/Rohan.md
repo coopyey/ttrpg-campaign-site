@@ -19,7 +19,7 @@ Status: Alive
 
 ### Additional Notes
 
-**Full Name:** Rohan J. Corvo
+**Full Name:** Rohan Jagger Corvo
 
 **Patron Case Manager:** [[Taraaq]]
 

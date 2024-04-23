@@ -38,17 +38,9 @@ Typically always wears a scowl.
 
 ## Class Information
 
-> [!info] Pathbuilder 2e  
->  
-> [https://pathbuilder2e.com/launch.html?build=640275](https://pathbuilder2e.com/launch.html?build=640275)  
-
-> [!info] Oracle - Classes - Archives of Nethys: Pathfinder 2nd Edition Database  
-> Your conduit to divine power eschews the traditional channels of prayer and servitude—you instead glean divine truths that extend beyond any single deity.  
-> [https://2e.aonprd.com/Classes.aspx?ID=14](https://2e.aonprd.com/Classes.aspx?ID=14)  
-
-> [!info] Battle - Mysteries - Oracle - Classes - Archives of Nethys: Pathfinder 2nd Edition Database  
-> Warlike forces fill you with physical might and tactical knowledge, aiming to have you uphold the glory of combat, fight to improve the world, prepare against the necessity of conflict, or endure the inevitability of war.  
-> [https://2e.aonprd.com/Mysteries.aspx?ID=2](https://2e.aonprd.com/Mysteries.aspx?ID=2)  
+- [Pathbuilder](https://pathbuilder2e.com/launch.html?build=640275)
+- [Oracle](https://2e.aonprd.com/Classes.aspx?ID=14)
+- [Battle Mystery](https://2e.aonprd.com/Mysteries.aspx?ID=2)
 
 ### Battle Oracle, Might/Mauler Dedication
 
@@ -93,3 +85,24 @@ Arythas puts on the airs of a stoic man, but he is really an ill-tempered man wh
 - Refuses to lie
 - Will not spare your feelings
 - Sees things in a very black and white manner
+
+## People of Interest
+
+- [[Bahamut]]
+	- Primary deity
+- [[Bane]]
+	- Secondary deity
+- [[Aphen]] Ialdethish
+	- "Uncle" of Arythas in [[Ormarsa]]
+	- Married to Nepin
+- [[Nepin]] Ialdethish
+	- "Aunt" of Arythas in [[Ormarsa]]
+	- Married to Aphen
+- [[Nilmuk]] Ialdethish
+	- "Cousin" of Arythas
+	- Son of Nepin and Aphen
+	- Lumberjack, wants to become a trader
+- [[Arnas]] Ialdethish
+	- Deceased
+	- Grandfather
+	- Arythas looks a fuck ton like him

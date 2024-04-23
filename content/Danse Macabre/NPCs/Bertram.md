@@ -6,6 +6,8 @@ Organization:
 ---
 **Full Name:** Bertram Holless
 
+[[Dia]]'s brother.
+
 ## Party
 
 While in prison, he managed to put together a little party of his own. They consist of the following:
@@ -16,3 +18,5 @@ While in prison, he managed to put together a little party of his own. They cons
 - [[Nakha]] - catfolk rogue
 
 ## Other Notes
+
+Arrived at [[Cruelwind Prison]] and was quickly assigned to going outside of the prison on missions with [[Barrakas]]. He recruited the above party to join him on one particularly tough mission.

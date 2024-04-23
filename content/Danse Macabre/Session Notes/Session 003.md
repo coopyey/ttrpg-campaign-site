@@ -8,9 +8,11 @@ Session Date: 2023-02-05
 We opt to sleep in the cell and we all have dreams.
 
 [[Rohan]]:
+
 > Rohan has an out of body experience in the space between wake and sleep. There is a chill around him as his patron addresses him and he apologizes for being so brash. He would like to offer assistance. Rohan asks what the catch is, since there’s always a catch. If the patron is not supportive then Rohan won’t use his powers and then his goals won’t be met. Rohan is nervous to use his power but he agrees to use it to destroy the necromancer, though Rohan isn’t exactly thrilled by it. The patron admits he will try to screw Rohan over. Rohan agrees to try to set some things on fire but he will not kill anyone in the party. The patron says he is always close if Rohan ever needs anything. The patron is not a devil.
 
 [[Inky]]:
+
 > While playing with his new celestial weasel familiar, he notices a door that is small even for him. Inky goes to see if the door is unlocked — it is, so Inky enters to find a long corridor. He feels as if he moved dimensions and has to push a pile of papers sat in the way. He enters a HUGE library. There is no wend in sight, with books of all kinds inside. The documents are in an unknown language, and a book he tries to read is in the same unknown language. He doesn’t quite know how the library is organized. He continues to look around, then hears something hit the floor and someone clears their throat. An older female kobold wearing spectacles is there, and she asks who Inky is. She goes on about how she is being tested and she doesn’t like that. Her name is Mattai, and this is the Libarary Between. She explains access is not often given to people. Inky asks how to come to and from the library and Mattai tapes a piece of plastic on Inky’s nose twice, then hands it over. It’s his library card. Mattai explains it only works for kobolds and dragonkin. There is no way to contact Mattai except to go to the library. She says do not run, do not scream, and do not remove books from the library. She recommends he add books to the library instead.
 
 We wake in the morning and [[Kalvag]] is making breakfast, making all vegetarian food. Inky and [[Iskra]] help him cook.

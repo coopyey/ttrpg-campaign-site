@@ -3,11 +3,13 @@ Class: Session
 Campaign: Danse Macabre
 Session Date: 2024-04-14
 ---
-This session is a little different because Keegan is in the hospital, so we are playing some side characters that are in prison with Bertram.
+**Session Date:** 4/14/2024
+
+This session is a little different because Rohan's player is in the hospital (he's okay!!), so we are playing some side characters that are in prison with Bertram.
 
 ----
 
-[[Nakha]] is our character that's been in the longest. They killed their father in cold blood and then was shipped off to a local prison. They were passed around the prisons until they got to Cruelwind, located in the frigid north that was an old stronghold built into a prison. They have been put into general population but they have never spoken to the leader or the major or anything. Their behavior seems to be rather erratic, sometimes answering questions or talking to people, sometimes not.
+[[Nakha]] is our character that's been in the longest. They killed their father in cold blood and then was shipped off to a local prison. They were passed around the prisons until they got to [[Cruelwind Prison]], located in the frigid north that was an old stronghold built into a prison. They have been put into general population but they have never spoken to the leader or the major or anything. Their behavior seems to be rather erratic, sometimes answering questions or talking to people, sometimes not.
 
 It is cold here, and there is not enough space for everyone here. Everyone fights for resources and warmth, and people often die of exposure to the cold. They do not have friends, they do not have allies, but they do not bother anyone so they exist.
 
@@ -15,7 +17,7 @@ Nakha also works and does okay.
 
 ----
 
-[[Khar'rik Glung'o'vock]] is the next to arrive to Cruelwinds. He is a deep dwarf and has emerged into the frigid north. There was misunderstanding that led to more understanding which snowballed (ha) into him existing here in the prison. He has to live in his suit so it's easier for him to deal with the temperatures of the north, though this comes with other difficulties such as food.
+[[Khar'rik Glung'o'vock]] is the next to arrive to Cruelwind. He is a deep dwarf and has emerged into the frigid north. There was misunderstanding that led to more understanding which snowballed (ha) into him existing here in the prison. He has to live in his suit so it's easier for him to deal with the temperatures of the north, though this comes with other difficulties such as food.
 
 He is the only dwarf here at this time. People more or less leave him alone unless he goes out of his way to make friends, so people just ignore him.
 
@@ -45,13 +47,13 @@ The leader of one of the gangs - [[Sarud]] - leads the Gruumsh gang leader. The 
 
 ----
 
-[[Bertram]] gets thrown into the prison and he sees Emily right before blacking out, asking if it's Emmalyn. Emily gets Wilhelm to move him to the side so that he's out of the way, which he does, and then Bertram starts awake and asks what is going on. She gives him an apple from lunch and she explains that he's in [[Cruelwind Prison]], then she gives him a full run down of what's going on here.
+[[Bertram]] gets thrown into the prison and he sees Emily right before blacking out, asking if it's Emlyn. Emily gets Wilhelm to move him to the side so that he's out of the way, which he does, and then Bertram starts awake and asks what is going on. She gives him an apple from lunch and she explains that he's in [[Cruelwind Prison]], then she gives him a full run down of what's going on here.
 
 Bertram pretty quickly gets to where he's trying to organize people. Bertram gets into so many fights and Emily eventually turns to Wilhelm and mentions that he's trouble, and she likes that about him. The guards get involved in one fight because Bertram manages to rile up the prisoners enough to almost storm the guards, so the guards beat the shit out of him and at the end, Sarud stabs him a few times with a shiv.
 
 Wilhelm actually drags Sarud off of Bertram and he and Nakha give Sarud the what for.
 
-The jawless Crimson Legion guy goes with Emily to help Bertram. The jawless guy is focusing on Bertram and channeling something to help him, and Khar'rik also comes over to help heal Bertram. It brings Bertram back to consciousness and Emily chews him out for acting stupid.
+The jawless [[Crimson Legion]] guy goes with Emily to help Bertram. The jawless guy is focusing on Bertram and channeling something to help him, and Khar'rik also comes over to help heal Bertram. It brings Bertram back to consciousness and Emily chews him out for acting stupid.
 
 Bertram mentions that [[Barrakas]] - the Crimson Legion guy with no jaw, a single horn on his forehead, and striped markings - was helping him, then asks if we knew what his name was. None of us knew that was his name. Barrakas explains that he has old magic (thanks to writing in the snow). Bertram also mentions he has a friend in his head, for some reason? He's not sure.
 

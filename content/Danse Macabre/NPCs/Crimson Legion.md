@@ -10,3 +10,11 @@ An organization of tieflings who have the goal of killing Asomdeus and changing 
 ## Additional Notes
 
 The Crimson Legion is an organization of tieflings. They’re generally paladins and warlocks that worship varying deities of light — some worship Pelor, some [[Bahamut]], a few worship [[Bane]]. The warlocks may have pacts with fiends that are aligned against Asmodeus. 
+
+### Known Members
+
+- Centurion [[Valtar]]  Diahas
+	- Has [[Orgalla]]'s Fang
+- [[Taheer]] to Optio Natari
+- - [[Barrakas]]
+	- In [[Cruelwind Prison]] with [[Bertram]]

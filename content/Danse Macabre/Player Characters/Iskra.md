@@ -25,3 +25,5 @@ Organization:
 
 - Brother
 	- Friend of bees 🐝
+- [[Lepnica]]
+	- Aunt that previously lived in [[Ormarsa]]

@@ -2,20 +2,23 @@
 Class: Player Character
 Campaign: Danse Macabre
 Player Class: Cleric
-Subclass: 
+Subclass: Repose
 Status: Alive
 ---
 ### General Information
 
 **Ancestry:** Human
 
-**Heritage:** 
+**Heritage:** Versatile
 
-**Class:** Cleric (Pelor)
+**Class:** Cloistered Cleric (Pelor, the [[Raven Queen]])
 
-**Subclass:** 
+**Subclass:** Repose
 
-**Background:** 
+**Background:** Noble (geneology)
+
+![](dm_dia-reference_reclesau.webp)
+
 ### Additional Notes
 
 **Full Name:** Emlyn Dianna “Dia” Holless

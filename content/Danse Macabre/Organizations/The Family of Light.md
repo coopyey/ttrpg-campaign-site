@@ -6,17 +6,12 @@ Status: Active
 ## Mission/Goal
 
 Put on the illusion that they are loyal followers of the Church of Pelor in order to gain power, fame, and money.
+
 ## Other Notes
 
-Absolute scam.
-### Current Members 
+Televangical scam.
 
-- The Family
-	- [[Prudence]]
-		- 21 years old
-	- [[Lorena]]
-		- Mother
-		- 67/66
+### Current Members 
 
 - The Family
 	- Peregrine
