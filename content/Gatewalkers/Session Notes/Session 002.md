@@ -3,6 +3,8 @@ Class: Session
 Campaign: Gatewalkers
 Session Date: 2023-05-27
 ---
+**Session Date:** 5/27/2023
+
 Valentine — Aasimar human swashbuckler
 
 [[Valentine]] wakes up and Dr. [[Ritalson]] is so surprised that he forgot about Valentine. Valentine has a slender stature and slight greenish tone to his skin, and shorter, messier hair. Valentine realizes that Doc genuinely mistook him for Opal for a second. Doc is nervous because the rest of the team might be dying and so he gives Valentine a horse and sends him back to [[Sevenarches]].

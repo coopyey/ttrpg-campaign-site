@@ -4,7 +4,7 @@ Campaign: Gatewalkers
 Type: Plane
 Organization:
 ---
-Wiki article [here](https://pathfinderwiki.com/wiki/First_World).
+Pathfinder term for Feywild. Wiki article [here](https://pathfinderwiki.com/wiki/First_World).
 
 The First World is so-called as it is believed to be the gods' first draft of the plane that would later be split into the Universe and the Netherworld. The First World is a transitive plane that shares seams with the Universe.
 

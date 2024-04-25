@@ -10,12 +10,10 @@ Status: Alive
 
 **Heritage:** 
 
-**Class:** 
+**Class:** Psychic
 
 **Subclass:** 
 
 **Background:** 
-
-Additional notes
 # Additional Notes
 Notes
