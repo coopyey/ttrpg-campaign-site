@@ -5,3 +5,6 @@ Status: Alive
 Organization: 
 ---
 **Class:** Wizard
+
+Sage [[Axamonar]]'s apprentice.
+

@@ -16,5 +16,5 @@ Status: Alive
 
 **Background:** 
 
-She has a squirrel friend named Talitha and can talk to animals.
+She has a squirrel friend named Taletha and can talk to animals.
 # Additional Notes

@@ -3,15 +3,17 @@ Class: Session
 Campaign: Seal of Infinity
 Session Date: 2023-06-26
 ---
+**Session Date:** 6/26/2023
+
 It is around noon on a train.
 
 Where we are:
 
-1. First class — Faylen
+1. First class — [[Faylen]]
 2. Business class
 3. Dining car (x2)
-4. Lounge with bar (x2) — Tabby (upper, bar), Bosch
-5. Observation — Pippin, Mary, Mira
+4. Lounge with bar (x2) — [[Tabby]] (upper, bar), [[Bosch]]
+5. Observation — [[Pippin]], [[Mary]], [[Mira]]
 6. Baggage
 7. Reinforced steel wagon — Cannot start here
 
