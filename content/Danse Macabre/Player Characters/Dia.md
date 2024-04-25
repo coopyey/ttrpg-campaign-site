@@ -5,8 +5,7 @@ Player Class: Cleric
 Subclass: Repose
 Status: Alive
 ---
-### General Information
-
+# General Information
 **Ancestry:** Human
 
 **Heritage:** Versatile
@@ -18,9 +17,7 @@ Status: Alive
 **Background:** Noble (geneology)
 
 ![](dm_dia-reference_reclesau.webp)
-
-### Additional Notes
-
+# Additional Notes
 **Full Name:** Emlyn Dianna “Dia” Holless
 
 Her family information can be found under [[The Family of Light]].

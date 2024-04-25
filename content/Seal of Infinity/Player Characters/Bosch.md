@@ -5,8 +5,7 @@ Player Class: Barbarian
 Subclass: Titan Mauler
 Status: Alive
 ---
-## Basic Information
-
+# Basic Information
 **Ancestry**: Goblin
 
 **Class**: Barbarian
@@ -14,7 +13,5 @@ Status: Alive
 **Subclass**: Titan
 
 Has a pet frog named Bean. He is 3’0” tall.
-
-## Other Notes
-
+# Other Notes
 Will sneak away form very boring conversations.

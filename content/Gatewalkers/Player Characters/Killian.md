@@ -5,8 +5,7 @@ Player Class: Warlock
 Subclass: Betrayal
 Status: Alive
 ---
-## General Information
-
+# General Information
 **Birthday**: Unknown
 
 **Ancestry:** Poppet
@@ -22,9 +21,7 @@ Status: Alive
 **Background**: Root Worker
 
 Some ailments can’t be cured by herbs alone. You learned ritual remedies as well, calling on nature spirits to soothe aches and ward off the evil eye. Taking up with adventurers has given you company on the road, as well as protection from those who would brand you a fake—or worse.
-
-### Appearance
-
+# Appearance
 **Height**: 2’0”
 
 **Size Classification:** Small
@@ -36,11 +33,8 @@ Some ailments can’t be cured by herbs alone. You learned ritual remedies as we
 **Cloth Material**: Undyed cotton
 
 Due to his warlock pact, he has a devouring maw in his back, along the threading that stitches him together. This maw is invisible while it is closed, but while open it is dark with very sharp teeth made of solid shadow and a a tongue that seems to flicker between black, grey, and dark purple — shifting as if it can’t decide what color to settle upon. The tongue is prehensile and able to take objects from Killian, or hand him objects from his holding.
-
-## Class Information
-
-### Golarion Betrayal Warlock, Pact of the Devouring Maw
-
+# Class Information
+## Golarion Betrayal Warlock, Pact of the Devouring Maw
 **Patron**: [[Count Ranalc]]
 
 **Active Patrons**: [[Grandmother Hemlock]] & [[Rend]]
@@ -71,19 +65,13 @@ Due to his warlock pact, he has a devouring maw in his back, along the threading
     - Root Magic
     - Arcane Sense
     - Oddity Identification
-
-## Personality
-
+# Personality
 Generally is friendly, he’s more interested in knowledge and finding out who he was rather than saving the world. As long as you don’t comment on him for being a doll, or otherwise treat him like less than a person, he’s happy to hang out and call you a friend. Treating him as lesser is the only grudge he will really hold. More than happy to employ less than good means to accomplish a goal.
-
-## History
-
+# History
 Killian does not recall much of his history as he is a poppet: whatever he was up to before he was a poppet was lost to him. He woke up one day as a poppet, with what he had on him at that time around him. Killian sifted through what notes were there and saw the name Killian written there and assumed it was the name he had previously.
 
 He joined the initiative with the Gatewalkers as an excuse to adventure and get out there to try to find out who he was.
-
-### Previous Life Notes (Killian Doesn’t Know)
-
+## Previous Life Notes (Killian Doesn’t Know)
 **Ancestry**: Human
 
 **Heritage**: Dhampir

@@ -5,4 +5,10 @@ Player Class: Netrunner
 Subclass: 
 Status: Alive
 ---
+# General Information
+**Class:** 4 Netrunner
+
+**Background:** \
+Is here to earn some extra cash, and because [[Net]] is here.
+# Additional Notes
 **Full Name:** Cody "Cipher" Morillo

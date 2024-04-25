@@ -5,13 +5,16 @@ Player Class: Druid
 Subclass: 
 Status: Alive
 ---
-## Basic Information
+# General Information
+**Ancestry:** 
 
-**Ancestry**: Human
+**Heritage:** 
 
-**Class**: Druid
+**Class:** 
 
-Healer of the group. Has squirrel friend, not pet, named Taletha.
-## Other Notes
+**Subclass:** 
 
-Very nice and very focused on nature. Not very comfortable in urban settings or around areas with large amounts of people. Very reasonable, wishes to avoid combat where possible, tries not to cause chaos.
+**Background:** 
+
+She has a squirrel friend named Talitha and can talk to animals.
+# Additional Notes

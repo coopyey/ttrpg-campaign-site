@@ -5,12 +5,15 @@ Player Class: Swashbuckler
 Subclass: 
 Status: Alive
 ---
-## Basic Information
+# General Information
+**Ancestry:** Gnome
 
-**Ancestry**: Gnome
+**Heritage:** 
 
-**Class**: Swashbuckler
+**Class:** Swashbuckler
 
-## Other Notes
+**Subclass:** 
 
+**Background:** 
+# Additional Notes
 The fey call him “the destined one” but he doesn’t know why. Has a love of good food & strong drink.

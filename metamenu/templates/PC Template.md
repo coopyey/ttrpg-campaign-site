@@ -5,8 +5,7 @@ Player Class:
 Subclass: 
 Status: Alive
 ---
-### General Information
-
+# General Information
 **Ancestry:** 
 
 **Heritage:** 
@@ -17,4 +16,6 @@ Status: Alive
 
 **Background:** 
 
-### Additional Notes
+Additional notes
+# Additional Notes
+Notes

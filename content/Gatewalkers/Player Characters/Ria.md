@@ -5,8 +5,7 @@ Player Class: Barbarian
 Subclass: 
 Status: Alive
 ---
-## Basic Information
-
+# Basic Information
 **Ancestry**: Human
 
 **Heritage**: Beastfolk
@@ -16,7 +15,5 @@ Status: Alive
 **Subclass**:
 
 **Background:** 
-
-## Other Notes
-
+# Other Notes
 White furred lionness hybrid woman. Does not wear heavy armor and is not flashy, generally doesn't seem to wish to be eon this adventure (at least to start).

@@ -5,8 +5,7 @@ Player Class: Ranger
 Subclass: 
 Status: Retired
 ---
-### General Information
-
+# General Information
 **Ancestry:** Human
 
 **Heritage:** Versatile
@@ -16,7 +15,5 @@ Status: Retired
 **Subclass:** 
 
 **Background:** 
-
-### Additional Notes
-
+# Additional Notes
 Has a pet badger named Buzz.

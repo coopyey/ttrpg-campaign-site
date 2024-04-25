@@ -9,8 +9,7 @@ K’Whu’s player had to quit due to some real life work complications. We are 
 
 ---
 
-## Basic Information
-
+# Basic Information
 **Ancestry**: Strix
 
 **Class**: Rogue

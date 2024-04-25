@@ -5,17 +5,15 @@ Player Class: Media
 Subclass: 
 Status: Alive
 ---
-## General Information
-
-**Full Name:** Emerick Kline
+# General Information
+**Full Name**: Emerick Kline
 
 **Birthday**: December 11th
 
 **Sign**: Sagittarius ♐
 
 **Age**: 28
-### Appearance
-
+# Appearance
 **Height**: 5’7”
 
 **Eyes**: Green
@@ -35,22 +33,14 @@ He is typically unkempt, but not dirty. It is clear that if he were to take care
 ![](nc_emmy-reference.webp)
 
 Art by [Amelia](https://atelieramelia.carrd.co/)!
-
-## Class Information
-### Media (4)
-
+# Class Information
+## Media (4)
 Media information here
-
-## Personality
-
+# Personality
 On the surface, he’s a very attentive, thoughtful, and kind. He pays attention to details about people and likes to 
-
-### Strengths
-
+## Strengths
 - Thoughtful & pays attention to detail
 - Attentive to other people
-
-### Weaknesses
-
+## Weaknesses
 - Cannot say no to anyone
 - Very much a people-pleaser

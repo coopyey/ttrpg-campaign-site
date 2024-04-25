@@ -5,8 +5,7 @@ Player Class: Investigator
 Subclass: 
 Status: Alive
 ---
-### General Information
-
+# General Information
 **Ancestry:** 
 
 **Heritage:** Tiefling
@@ -16,9 +15,7 @@ Status: Alive
 **Subclass:** 
 
 **Background:** 
-
-### Additional Notes
-
+# Additional Notes
 **Full Name:** Rohan Jagger Corvo
 
 **Patron Case Manager:** [[Taraaq]]
@@ -29,6 +26,5 @@ It has come out that Rohan was raised as an orphan and he assumed his parents we
 
 It is entirely possible that his father is an actual demon lord.
 
-### Family Members
-
+# Family Members
 - [[Pratima]]

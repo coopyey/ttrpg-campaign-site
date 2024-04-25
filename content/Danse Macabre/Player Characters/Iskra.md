@@ -6,8 +6,7 @@ Subclass:
 Status: Alive
 Organization:
 ---
-### General Information
-
+# General Information
 **Ancestry:** Harengon
 
 **Heritage:** 
@@ -17,12 +16,9 @@ Organization:
 **Subclass:** 
 
 **Background:** 
-### Additional Notes
-
+# Additional Notes
 **Is a lycanthrope werewolf.** Was infected by someone named [[Tristan]].
-
-### Family
-
+# Family
 - Brother
 	- Friend of bees 🐝
 - [[Lepnica]]

@@ -5,26 +5,20 @@ Player Class: Sorcerer
 Subclass: 
 Status: Alive
 ---
-### General Information
-
+# General Information
 **Full Name:** Inksnout
 
 **Ancestry:** Kobold
 
 **Heritage:** Spell scale
-
 **Class:** Sorcerer
 
 **Subclass:** Imperial bloodline
-
-### Additional Notes
-
+# Additional Notes
 Is interested in increasing his power and magical ability. Is currently researching his ancestor and using that to try to get more power, and also utilizes [[The Library Between]] and [[Mattai]] to research new avenues and expand his knowledge and ability.
 
 Was working on a bible to tell the tale of [[Luufer]].
-
-### Variants
-
+# Variants
 - Red
 	- Mastermind rogue
 - Black
@@ -33,9 +27,7 @@ Was working on a bible to tell the tale of [[Luufer]].
 	- Inventor
 - White
 	- Wizard
-
-### Family
-
+# Family
 - [[Trusty]]
 	- Lives in [[Oceanscar]]
 	- Works at [[Legitimate Business & Bar]] 

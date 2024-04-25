@@ -5,8 +5,7 @@ Player Class: Magus
 Subclass: Laughing Shadow
 Status: Alive
 ---
-## General Information
-
+# General Information
 **Full Name:** Faylen Ianthe
 
 **Birthday**: Calistril 14th (Feb 14th, Valentine’s Day)
@@ -18,9 +17,7 @@ Status: Alive
 **Age**: 23
 
 **Background**: [Student of Magic](https://2e.aonprd.com/Backgrounds.aspx?ID=238)
-
-## Appearance
-
+# Appearance
 **Height**: 6’3”
 
 **Hair Color:** Raven black
@@ -36,7 +33,7 @@ His fingernails are blackening and growing sharper, and his fingertips are black
 ![](soi_faylen-reference.webp)
 
 Art by [Amelia](https://atelieramelia.carrd.co/)!
-## Class Information
+# Class Information
 
 Magus is a spellsword style class where you push spells into your weapon and create a spellstrike that combines the weapon and the magic woven in. Faylen focused more on the magic side of things, while his sister focused more on the melee side of things.
 

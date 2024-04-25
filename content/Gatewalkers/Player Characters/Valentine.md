@@ -5,17 +5,17 @@ Player Class: Fighter
 Subclass: 
 Status: Alive
 ---
-### General Information
+# General Information
+**Full Name:** Valentine von Daude
 
-**Ancestry:** Elf
+**Ancestry:** Human
 
-**Heritage:** Tiefling
+**Heritage:** Aasimar
 
 **Class:** Fighter
 
 **Style:** Reach fighter, pushes people around
 
 **Background:** 
-### Additional Notes
-
-**Full Name:** Valentine von Daude
+# Additional Notes
+Slender stature with windows 95 background color skin. He has shorter, messier white hair.

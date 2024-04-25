@@ -5,8 +5,7 @@ Player Class: Oracle
 Subclass: Battle
 Status: Alive
 ---
-## General Information
-
+# General Information
 **Full Name:** Arythas Ialdethish
 
 **Ancestry**: Dragon
@@ -20,11 +19,8 @@ Status: Alive
 **Age**: 25
 
 **Background**: Squire (Warfare)
-
-You trained at the feet of a knight, maintaining their gear and supporting them at tourneys and in battle. Now you search for a challenge that will prove you worthy of full knighthood, or you've spurned pomp and ceremony to test yourself in honest, albeit less formal, combat.
-
-### Appearance
-
+>You trained at the feet of a knight, maintaining their gear and supporting them at tourneys and in battle. Now you search for a challenge that will prove you worthy of full knighthood, or you've spurned pomp and ceremony to test yourself in honest, albeit less formal, combat.
+# Appearance
 **Height**: 8’0”
 
 **Eyes**: Icy Blue
@@ -37,13 +33,10 @@ You trained at the feet of a knight, maintaining their gear and supporting them 
 
 Typically always wears a scowl.
 
-## Class Information
-
+# Class Information
 - [Oracle](https://2e.aonprd.com/Classes.aspx?ID=14)
 - [Battle Mystery](https://2e.aonprd.com/Mysteries.aspx?ID=2)
-
-### Battle Oracle, Might/Mauler Dedication
-
+## Battle Oracle, Might/Mauler Dedication
 **Weapon Mastery**: Hammer
 
 - **Oracular Curse**: [Hero’s Burden](https://2e.aonprd.com/Mysteries.aspx?ID=2)
@@ -71,15 +64,11 @@ Typically always wears a scowl.
     - [Intimidating Glare](https://2e.aonprd.com/Feats.aspx?ID=5162)
     - [Toughness](https://2e.aonprd.com/Feats.aspx?ID=5227)
     - [Titan Wrestler](https://2e.aonprd.com/Feats.aspx?ID=5226)
-
-## Personality
-
+# Personality
 Arythas puts on the airs of a stoic man, but he is really an ill-tempered man who has allowed the tragedy of his life to harden him rather than seek comfort and vulnerability. What should have taught him empathy and compassion taught him instead to harden his heart and close off from most others. Blunt, direct, and with little patience for bullshit, he took up arms and continued his way as a knight, though he has strayed from the path as his views had grown black and white instead of recognizing the shades of grey that exist.
 
 He is very disinclined to be swayed toward a truly evil path, refuses to lie, and is very direct in a way that can be rather unpleasant. He is not one that particularly cares to spare feelings.
-
-## People of Interest
-
+# People of Interest
 - [[Bahamut]]
 	- Primary deity
 - [[Bane]]

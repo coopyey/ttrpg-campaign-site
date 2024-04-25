@@ -18,12 +18,12 @@ We get to the borders of [[Sevenarches]].
 
 - Recall Knowledge
     - Ria and Opal recall there is a ban on elves.
-    - I know elves previously lived in the forest and the name came from the arches the elves built. Tended by the Oaksteward druids, who keep elves out. They are kept out because there is a curse that kills elves ([[obnubilate curse]]) that is supposedly gone after the missing moment.
+    - I know elves previously lived in the forest and the name came from the arches the elves built. Tended by the [[Oakstewards]] druids, who keep elves out. They are kept out because there is a curse that kills elves ([[obnubilate curse]]) that is supposedly gone after the missing moment.
     - Valen knows there are many magical creatures here but attacks from a certain type called [gorgas](https://pathfinderwiki.com/wiki/Gorga) are becoming more and more common.
 
 We arrive and Ria shifts back to full human. The doctor speaks up and has a speech for us, saying that this is his most promising lead and we should try to find why the curse was lifted and look into the portal. The good doc is going to another city — he will not be joining us as he will be pursuing another lead.
 
-The doc leaves us with his elfin friend, Fiamans. She reassures us that he must trust us to give us this. She needs some help from us because she can't enter Sevenarches and she has no desire to test to see if the curse is actually gone.
+The doc leaves us with his elfin friend, [[Fiamans]]. She reassures us that he must trust us to give us this. She needs some help from us because she can't enter Sevenarches and she has no desire to test to see if the curse is actually gone.
 
 Seven Arches is named for the portals in the city, but she thinks the ones in the city are fake decoys to draw attention from the real ones. She has an aura reader tuned for the aura of the portals. She would love if we could test all of them, but one would be enough. We should expect some resistance as the druids don't want us to look too closely.
 
@@ -33,12 +33,12 @@ The arches are in the center of the city. We can follow the stream to get to the
 
 Locations of Interest:
 
-- Quaking Stacks — Library
-- Vinehall — Capitol Building
-- Justice House — court, jail, government official offices
-- Sweet Cherry Inn — gnomish inn
+- [[Quaking Stacks]] — Library
+- [[Vinehall]] — Capitol Building
+- [[Justice House]] — court, jail, government official offices
+- [[Sweet Cherry Inn]] — gnomish inn
 
-The Seven Sisters Gang runs around in town — they have a space outside of the western side of town.
+The [[Seven Sisters Gang]] runs around in town — they have a space outside of the western side of town.
 
 We find a gnomish tavern expanded to accommodate medium characters. The youngest son has a set of boots with a spring to make himself taller. Son is Dozod. Father is Har Fruss. Opal learns that there are seven in this family, and we realize that that gnomes have to be entertained or they die. If they are bored they bleach of color and then die.
 
@@ -56,9 +56,9 @@ Quick note: the mace has to stay halfway in and halfway out of the portal for 3 
 
 Ria goes and flirts with a guard while Opal disguises himself as anew recruit and approaches the guard at the free spot of the ropes. Opal starts to butter him up and he is very receptive. They talk them up while Valen, Viktor, Buzz, and I handle getting the recorder's readings. They do so with minimal issue. The readings show illusion map with no conjuration — the portals absolutely are fakes.
 
-The real Seven Arches are to the south in the Wildwood. The guards for the true arches stepped through, with one — Bolan — returning. He was a dick before, and now he's office. he stole as magic item and hides in the Wildwood with other malcontents. He recruits other disgruntled druids to his cause.
+The real Sevenarches are to the south in the [[Wildwood]]. The guards for the true arches stepped through, with one — [[Bolan]] — returning. He was a dick before, and now he's office. He stole as magic item and hides in the Wildwood with other malcontents. He recruits other disgruntled druids to his cause.
 
-The territory is restricted and she recommends talking to the Oakstewards - she knows a midlevel Council Member, Lemma Feldthorn. We are given a letter of introduction and we are advised not to start with the Wildwood, but to befriend the Oakstewards first. She explains the whole anti-elf thing is just to protect the elves from the curse.
+The territory is restricted and she recommends talking to the Oakstewards - she knows a midlevel Council Member, [[Lemma]] Fieldthorn. We are given a letter of introduction and we are advised not to start with the Wildwood, but to befriend the Oakstewards first. She explains the whole anti-elf thing is just to protect the elves from the curse.
 
 The goal is to get into what he saw and learn what he knows about the portals.
 
@@ -69,9 +69,9 @@ After resting for the night, Valen wishes to speak with the Seven Sisters Gang w
 Valen goes to the Western edge of town and learns abou tthe gang.
 
 - Very literal — a gang of 7 sisters
-- Oeprate for so long many have connections with the Oakstewards
-- No ties to Bowen — he will overthrow the kingdom & mess up business
+- Oprate for so long many have connections with the Oakstewards
+- No ties to Bolan — he will overthrow the kingdom & mess up business
 
-Valen wants to make it known he is looking for the Seven Sisters and interested in speaking with them to team up with them and stop Bowen from causing issues.
+Valen wants to make it known he is looking for the Seven Sisters and interested in speaking with them to team up with them and stop Bolan from causing issues.
 
 He does learn that the gorgas are the fey version of the fear of the dark and it is a family of creatures rather than one specific creature.
