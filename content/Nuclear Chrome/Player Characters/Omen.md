@@ -6,7 +6,7 @@ Subclass: Solo
 Status: Alive
 ---
 # General Information
-**Class:** 4 Nomad, 4 Solo
+**Class:** 5 Nomad, 4 Solo
 
 **Background:**  \
 Member of the [[Jode Pack]] of nomads that were raided by thee [[Night City Police Department]] about five months prior to the start of the campaign.

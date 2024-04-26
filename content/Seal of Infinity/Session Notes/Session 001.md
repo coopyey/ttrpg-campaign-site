@@ -45,9 +45,9 @@ Faylen then gets up and heads up to the observation deck, looking out the window
 
 Mira shifts gears and goes to hang near the fat catfolk — named Ziran — and pretends like he’s her drunken uncle.
 
-Mary turns to find Bean and Bosch — Tabby compliments Bean while Bean explains Bsoch hasn’t been staying entirely out of trouble. Bosch asks Mary what she has to figure out and fix because the woodland creatures sent her out into the world to investigate something that was out of balance, and Mary admits that she doesn’t actually know what she’s looking for.
+Mary turns to find Bean and Bosch — Tabby compliments Bean while Bean explains Bosch hasn’t been staying entirely out of trouble. Bosch asks Mary what she has to figure out and fix because the woodland creatures sent her out into the world to investigate something that was out of balance, and Mary admits that she doesn’t actually know what she’s looking for.
 
-Clement runs into the rest of the party and Mary asks why he is upset, and he explains that he doesn’t feel Axamonar is takin things seriously enough.
+Clement runs into the rest of the party and Mary asks why he is upset, and he explains that he doesn’t feel Axamonar is taking things seriously enough.
 
 ---
 

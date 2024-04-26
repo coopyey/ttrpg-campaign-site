@@ -6,7 +6,7 @@ Subclass: Nomad
 Status: Alive
 ---
 # General Information
-**Class:** 4 Netrunner, 1 Nomad
+**Class:** 4 Netrunner, 2 Nomad
 
 **Background:** \
 Is here because who doesn't need the cash money? Also, was tailing Emerick at the start and ended up here in part because he was here.
