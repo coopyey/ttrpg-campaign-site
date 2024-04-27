@@ -8,11 +8,11 @@ Status: Alive
 # General Information
 **Ancestry:** Elf
 
-**Heritage:** Cave
+**Heritage:** Cavern
 
 **Class:** Monk
 
-**Background:** 
+**Background:** Cultist
 # Additional Notes
 Yuna is very upbeat, happy, and chipper. She's glad to be around us and have friends, wanting to help.
 

@@ -7,9 +7,9 @@ K'Whu's player had to dip due to work reasons so we will pretend K’Whu doesn�
 
 ---
 
-We are in the back of the wagon. It very comfortably fits 3 but we currently have 8. Clement and the sage have already left.
+We are in the back of the wagon. It very comfortably fits 3 but we currently have 8. [[Clement]] and [[Axamonar]] have already left.
 
-Faylen is currently uncomfortable with the current travel situation, and Pippin is asleep after his day. Tabby is comfortable enough in the moment. Mary is backed up into a corner chatting with Talita and trying not to take up too much space. Mary is talking to Pippin’s familiar, Squire. Bosch climbs up to the top of the cart to hang from it when we complain about the space and he hangs upside down. He calls himself a bat and gets a good laugh out of everyone awake.
+[[Faylen]] is currently uncomfortable with the current travel situation, and [[Pippin]] is asleep after his day. [[Tabby]] is comfortable enough in the moment. [[Mary]] is backed up into a corner chatting with Talita and trying not to take up too much space. Mary is talking to Pippin’s familiar, Squire. [[Bosch]] climbs up to the top of the cart to hang from it when we complain about the space and he hangs upside down. He calls himself a bat and gets a good laugh out of everyone awake.
 
 [[Vogue]] is playing solitaire in the corner.
 
@@ -25,7 +25,7 @@ Faylen attacks a man and kills him without realizing just how weak the enemies a
 
 When combat is clearly over Faylen goes over to a tree and slides down a tree into a sitting position and he is clearly shell-shocked. Tabby explains that the guy is okay and Mary is tending to him and Faylen struggles, eventually responding about what if he had killed him, what if the guy did die. Tabby says we can sit here all day debating what ifs but the point is that he’s okay right now. Faylen considers it and ultimately just asks for a minute to collect himself and Tabby does back off.
 
-The group is trying to figure out what is going on and the leader of the bandits wakes up rubbing his head, asking what happened. Bosch says he tried to rob us and it didn’t work - the gentleman explains he’s a tailor, he has a family. The guy Faylen almost killed wakes and looks at the tailor and says they can still fight them and steal their gold, with the tailor referring to the gentleman Faylen almost killed as Jason. Jason says Lord Darkrose will help him still, and the tailor - Jason’s brother in law - isn’t normally like this. Bosch hits him with a newspaper and the guy theatrically fends it off.
+The group is trying to figure out what is going on and the leader of the bandits wakes up rubbing his head, asking what happened. Bosch says he tried to rob us and it didn’t work - the gentleman explains he’s a tailor, he has a family. The guy Faylen almost killed wakes and looks at the tailor and says they can still fight them and steal their gold, with the tailor referring to the gentleman Faylen almost killed as Jason. Jason says [[Lord Darkrose]] will help him still, and the tailor - Jason’s brother in law - isn’t normally like this. Bosch hits him with a newspaper and the guy theatrically fends it off.
 
 Jason’s brother in law explains they were at a show in a theatre that was struggling and they all went to the show. He recounts that the main actor wasn’t very good and it was supposed to be a tragedy, but it was so bad everyone was laughing. The actor pulled something out from his bag - a weird stone. Faylen thinks about it and realizes we also have a weird stone. Faylen gets up and joins the group as they talk and Bosch does point out they were a bad group of bandits.
 

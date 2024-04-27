@@ -2,18 +2,20 @@
 Class: Player Character
 Campaign: Gatewalkers
 Player Class: Psychic
-Subclass: 
+Subclass: Emotional Acceptance
 Status: Alive
 ---
 # General Information
-**Ancestry:** 
+**Ancestry:** Human
 
-**Heritage:** 
+**Heritage:** Changeling
 
 **Class:** Psychic
 
-**Subclass:** 
+**Subclass:** Emotional Acceptance
 
-**Background:** 
+**Background:** Lost Loved One
+
+![](gw_hiera-reference.webp)
 # Additional Notes
 Notes

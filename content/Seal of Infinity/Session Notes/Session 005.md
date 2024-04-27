@@ -3,17 +3,19 @@ Class: Session
 Campaign: Seal of Infinity
 Session Date: 2023-07-24
 ---
+**Session Date:** 7/24/2023
+
 Pippin and K'whu's players are out today.
 
 ---
 
-Bosch is being badgered by the children, who think the frog is the owner here. He manages to slip away from the children to help some of the villagers remove some trees in the swamp and help to rebuild one of the homes that needs to expand. The homes are made of wood and mud and are typically built rather fast. He does a very good job and destroys the wall.
+[[Bosch]] is being badgered by the children, who think the frog is the owner here. He manages to slip away from the children to help some of the villagers remove some trees in the swamp and help to rebuild one of the homes that needs to expand. The homes are made of wood and mud and are typically built rather fast. He does a very good job and destroys the wall.
 
-Mary rounds up the children to keep them away from the construction and Tabby tries to help keep them entertained. Tabby fails to juggle the balls but pretends that he did it on purpose and introduces the concept of slapstick comedy to the children.
+[[Mary]] rounds up the children to keep them away from the construction and [[Tabby]] tries to help keep them entertained. Tabby fails to juggle the balls but pretends that he did it on purpose and introduces the concept of slapstick comedy to the children.
 
-Faylen spends time with [[Clement]]  and [[Axamonar]] , which turns into mostly Axanomar telling stories of his glory days and Clement acting them out.
+[[Faylen]] spends time with [[Clement]]  and [[Axamonar]] , which turns into mostly Axanomar telling stories of his glory days and Clement acting them out.
 
-Pippin was whisked off by all the children and K’Whu is sleeping.
+[[Pippin]] was whisked off by all the children and [[K’Whu]] is sleeping.
 
 ---
 

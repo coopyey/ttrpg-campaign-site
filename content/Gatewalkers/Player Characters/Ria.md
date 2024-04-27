@@ -8,12 +8,10 @@ Status: Alive
 # Basic Information
 **Ancestry**: Human
 
-**Heritage**: Beastfolk
+**Heritage**: Beeastkin (Lion)
 
 **Class**: Barbarian
 
-**Subclass**:
-
-**Background:** 
+**Background:** Sense of Belonging
 # Other Notes
 White furred lionness hybrid woman. Does not wear heavy armor and is not flashy, generally doesn't seem to wish to be eon this adventure (at least to start).

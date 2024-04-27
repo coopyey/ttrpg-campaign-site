@@ -10,12 +10,12 @@ Status: Alive
 
 **Ancestry:** Human
 
-**Heritage:** Aasimar
+**Heritage:** Dromaar (Aasimar)
 
 **Class:** Fighter
 
-**Style:** Reach fighter, pushes people around
+**Background:** Martial Disciplee
 
-**Background:** 
+![](gw_valentine-reference.webp)
 # Additional Notes
 Slender stature with windows 95 background color skin. He has shorter, messier white hair.

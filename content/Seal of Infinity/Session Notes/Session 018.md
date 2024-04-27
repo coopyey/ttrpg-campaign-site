@@ -7,7 +7,7 @@ I was sick for session 17.
 
 After the bar, Faylen goes to his room because he has a splitting headache. He tries to go to sleep and falls into his mattress and seems to be propelled forward through the mattress and has either fallen asleep immediately or is being transported to another area. He moves his head and it’s like tiny bells ringing and his clothes are change: he’s wearing something akin to a jester’s outfit.
 
-Challender - the shadow dragon (Kaymanth’s) butler. Faylen recognizes this name as one of the deans of the academy; he vanished in mysterious circumstance but it is not completely unusual given he was a wizard. He’s seen the face and realizes he’s seen it as a statue in the academy in Jewel. He was very fiery and didn’t like taking orders and he made his name as an adventurer and made him a dean so he would stop causing trouble.
+Challender - the shadow dragon ([[Kaymanth]]’s) butler. Faylen recognizes this name as one of the deans of the academy; he vanished in mysterious circumstance but it is not completely unusual given he was a wizard. He’s seen the face and realizes he’s seen it as a statue in the academy in Jewel. He was very fiery and didn’t like taking orders and he made his name as an adventurer and made him a dean so he would stop causing trouble.
 
 Challender explains that the dragon is aware that we’ve arrived in Brex Granna and he is impatient about the situation that is developing in the city. The problem is with the creature that the other slivers of the Seal. It is currently in the employ of a colorful gentleman named Boss Garm Clapperclaw.
 

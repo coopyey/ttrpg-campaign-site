@@ -3,13 +3,15 @@ Class: Session
 Campaign: Seal of Infinity
 Session Date: 2023-08-07
 ---
-We travel with Vim, Vigor, and Vogue and the townsfolk to their town. This is a smaller town, not an actual city.
+**Session Date:** 8/7/2023
 
-Tabby wonders why Lord Darkrose sent these goons after us - Faylen thinks perhaps that Lord Darkrose might simply be testing power, and he has no clue we are here or that we have a sliver of the seal of infinity. Erik and his crew stay outside the town once we get there and the party enters, with Pippin staying behind to guard the brothers and the civilians. The rest of us enter and do not have issues with feeling our mind slipping - it seems to either take time or something else causes it.
+We travel with [[Vim]], [[Vigor]], and [[Vogue]] and the townsfolk to their town. This is a smaller town, not an actual city.
 
-Halfdown - a generic little town that was made because sometimes you just have to stop traveling and settle down
+[[Tabby]] wonders why [[Lord Darkrose]] sent these goons after us - [[Faylen]] thinks perhaps that Lord Darkrose might simply be testing power, and he has no clue we are here or that we have a sliver of the seal of infinity. Erik and his crew stay outside the town once we get there and the party enters, with Pippin staying behind to guard the brothers and the civilians. The rest of us enter and do not have issues with feeling our mind slipping - it seems to either take time or something else causes it.
 
-Tabby recommends we scout the town out before we enter to see if there are any people still under the influence. We can tell that there are guards at the gate into the town but we don’t see more people. As we grow closer to the town itself we start to feel a tug at our mind. For just a second for myself and Tabby there is a shimmer as if two visuals are fighting for our attention: the town, and an enormous fairytale castle. Bosch knows he’s in the town, but he sees just the town and is stupified, he sees only the castle. We can tell that Bosch is definitely not okay and we ask if he’s okay.
+[[Halfdown]] - a generic little town that was made because sometimes you just have to stop traveling and settle down
+
+Tabby recommends we scout the town out before we enter to see if there are any people still under the influence. We can tell that there are guards at the gate into the town but we don’t see more people. As we grow closer to the town itself we start to feel a tug at our mind. For just a second for myself and Tabby there is a shimmer as if two visuals are fighting for our attention: the town, and an enormous fairytale castle. Bosch knows he’s in the town, but he sees just the town and is stupefied, he sees only the castle. We can tell that Bosch is definitely not okay and we ask if he’s okay.
 
 Bosch explains that he sees the castle and he’s confused, he no longer sees the town and only sees the castle now. Faylen explains he saw something before the town came into view, and Tabby agreed with that.
 
