@@ -3,11 +3,13 @@ Class: Session
 Campaign: Seal of Infinity
 Session Date: 2023-08-21
 ---
-Session 8 — combat with Lord Darkrose in the theatre where we defeated the roses that were suffocating him. We retrieve a second shard of the seal of infinity, which has joined with the shard we originally had. We let Danny skip town and he has learned A lesson of some sort.
+**Session Date:** 8/21/2023
+
+Session 8 — combat with [[Lord Darkrose]] in the theatre where we defeated the roses that were suffocating him. We retrieve a second shard of the [[seal of infinity]], which has joined with the shard we originally had. We let Danny skip town and he has learned A lesson of some sort.
 
 ---
 
-We part ways with the siblings and we end up near Rosevale, an actual city complete with a train station. There are people camping outside the walls: tents, carts with items for trade, and there’s the usual hustle and bustle of traffic of people. We go down and find the entire area in disarray - there’s a lot of chaos and people complaining. Faylen leans over to a man and asks why they’re not letting anyone into the city and what’s going on. A man in muddied, more expensive clothes who is clearly a merchant, says he doesn’t know: the guards didn’t tell him anything and that it’s closed. Bosch suggests maybe someone’s stuck and they need a good whack.
+We part ways with the siblings and we end up near [[Rosevale]], an actual city complete with a train station. There are people camping outside the walls: tents, carts with items for trade, and there’s the usual hustle and bustle of traffic of people. We go down and find the entire area in disarray - there’s a lot of chaos and people complaining. [[Faylen]] leans over to a man and asks why they’re not letting anyone into the city and what’s going on. A man in muddied, more expensive clothes who is clearly a merchant, says he doesn’t know: the guards didn’t tell him anything and that it’s closed. [[Bosch]] suggests maybe someone’s stuck and they need a good whack.
 
 There is no answer within the gates or the walls, but an enormous ogre with the symbol of a deputy comes over to Bosch. The ogre says that the gates aren’t stuck but he’s not sure he can say what it is, actually. Behind him, someone tells him (Albert) not to say another word. A halfling is behind him with the symbol of a sheriff of the town. Bosch explains that we are travelers that are trying to get on the train. He says to get back in line with everyone else. Faylen offers help and the sheriff insults him, then Bosch suggests we flip a coin to see if we help, and the sheriff says he hates adventurers because he’s supposed to just believe us when we say we want to help. Albert speaks up and says it might be prudent because nobody in the city can actually help.
 
