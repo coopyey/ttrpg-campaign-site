@@ -12,9 +12,9 @@ Organization:
 
 While in prison, he managed to put together a little party of his own. They consist of the following:
 
-- [[Wilhelm Fistman]] - monk human
+- [[Wilhelm]] - monk human
 - [[Emily]] - ranger half elf
-- [[Khar'rik Glung'o'vock]] - unknown deep dwarf
+- [[Khar'rik]] - unknown deep dwarf
 - [[Nakha]] - catfolk rogue
 
 ## Other Notes

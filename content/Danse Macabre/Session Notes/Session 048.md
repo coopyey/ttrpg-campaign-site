@@ -17,7 +17,7 @@ Nakha also works and does okay.
 
 ----
 
-[[Khar'rik Glung'o'vock]] is the next to arrive to Cruelwind. He is a deep dwarf and has emerged into the frigid north. There was misunderstanding that led to more understanding which snowballed (ha) into him existing here in the prison. He has to live in his suit so it's easier for him to deal with the temperatures of the north, though this comes with other difficulties such as food.
+[[Khar'rik]] is the next to arrive to Cruelwind. He is a deep dwarf and has emerged into the frigid north. There was misunderstanding that led to more understanding which snowballed (ha) into him existing here in the prison. He has to live in his suit so it's easier for him to deal with the temperatures of the north, though this comes with other difficulties such as food.
 
 He is the only dwarf here at this time. People more or less leave him alone unless he goes out of his way to make friends, so people just ignore him.
 
@@ -25,7 +25,7 @@ Khar'rik is very quiet, does what he's told to do and then moves on, etc.
 
 ----
 
-[[Wilhelm Fistman]] is next to arrive. He happened to be in the wrong place at the wrong time: a group of ne'er do wells were arrested and he got grabbed with them. There is a human that is from the [[Bloodsoaked Banner]] named [[Corwin Sorensen]]. He is looking for a way out and is going to take Wilhelm with him. Wilhelm is friendly enough with him, though isn't willing to put all of his eggs in that basket.
+[[Wilhelm]] is next to arrive. He happened to be in the wrong place at the wrong time: a group of ne'er do wells were arrested and he got grabbed with them. There is a human that is from the [[Bloodsoaked Banner]] named [[Corwin Sorensen]]. He is looking for a way out and is going to take Wilhelm with him. Wilhelm is friendly enough with him, though isn't willing to put all of his eggs in that basket.
 
 Wilhelm does make friends with the people who committed petty crimes or are in on accident. He also works as much as possible.
 
