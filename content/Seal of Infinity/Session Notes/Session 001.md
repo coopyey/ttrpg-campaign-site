@@ -29,7 +29,7 @@ The catfolk rambles for some time, essentially trapping Tabby in this conversati
 
 ---
 
-On the observation deck, Mary stands and watches the scenery pass by as she talks with her friend, a squirrel named Taletha.
+On the observation deck, Mary stands and watches the scenery pass by as she talks with her friend, a squirrel named Talitha.
 
 Pippin is trying to leave the observation deck as both Tabby and Bosch attempt to enter — Tabby jumps over the other two to get in, and Bosch tries to jump over Pippin (with Tabby’s help) to get in. This causes a commotion and a girl who’d had her face pressed to the glass turned away to see what was going on, giggling at the scene as Bosch trips after not quite launching over Pippin.
 
