@@ -7,11 +7,11 @@ Session Date: 2023-08-07
 
 We travel with [[Vim]], [[Vigor]], and [[Vogue]] and the townsfolk to their town. This is a smaller town, not an actual city.
 
-[[Tabby]] wonders why [[Lord Darkrose]] sent these goons after us - [[Faylen]] thinks perhaps that Lord Darkrose might simply be testing power, and he has no clue we are here or that we have a sliver of the seal of infinity. Erik and his crew stay outside the town once we get there and the party enters, with Pippin staying behind to guard the brothers and the civilians. The rest of us enter and do not have issues with feeling our mind slipping - it seems to either take time or something else causes it.
+[[Tabby]] wonders why [[Lord Darkrose]] sent these goons after us - [[Faylen]] thinks perhaps that Lord Darkrose might simply be testing power, and he has no clue we are here or that we have a sliver of the [[seal of infinity]]. Erik and his crew stay outside the town once we get there and the party enters, with [[Pippin]] staying behind to guard the brothers and the civilians. The rest of us enter and do not have issues with feeling our mind slipping - it seems to either take time or something else causes it.
 
 [[Halfdown]] - a generic little town that was made because sometimes you just have to stop traveling and settle down
 
-Tabby recommends we scout the town out before we enter to see if there are any people still under the influence. We can tell that there are guards at the gate into the town but we don’t see more people. As we grow closer to the town itself we start to feel a tug at our mind. For just a second for myself and Tabby there is a shimmer as if two visuals are fighting for our attention: the town, and an enormous fairytale castle. [[Bosch]] knows he’s in the town, but he sees just the town and is stupefied, he sees only the castle. We can tell that Bosch is definitely not okay and we ask if he’s okay.
+Tabby recommends we scout the town out before we enter to see if there are any people still under the influence. We can tell that there are guards at the gate into the town but we don’t see more people. As we grow closer to the town itself we start to feel a tug at our mind. For just a second for myself and Tabby there is a shimmer as if two visuals are fighting for our attention: the town, and an enormous fairytale castle. [[Bosch]] knows he’s in the town, but he sees just the town and is stupefied, he sees only the castle. We can tell that Bosch is definitely not okay and we ask if he’s okay. 
 
 Bosch explains that he sees the castle and he’s confused, he no longer sees the town and only sees the castle now. Faylen explains he saw something before the town came into view, and Tabby agreed with that.
 
@@ -24,6 +24,8 @@ We move further into the town. Bosch sees a beautiful castle with servants and a
 Moving further into the town we see the market not too far away from us. Overall, we are passing by people in the town unnoticed.
 
 Faylen asks Bosch where the castle throne room seems to be and Bosch points in a direction. There’s no clear landmark as to where it might be, so the group recommends maybe Bosch leads on towards where the castle/throne is. Bosch sees us almost teleport in front of him and he apologizes and asks us to wait - we do, and he catches up with us. At one point, Bosch sees a great big feast in one section of the town (meats, jellies, etc) while the rest of us see them chewing on turnips. Bosch tries to grab a turnip and Faylen slaps the back of his hand to stop him, explaining Bosch doesn’t want to eat that. Bosch says it looks good, and Faylen says that it’s a moldy turnip and he probably doesn’t want to eat that, and Bosch isn’t so sure. He ultimately defers to Faylen on this.
+
+---
 
 The next section is a sprawling metropolis and Bosch figures out that the illusionary world building is pretty shoddy. The people around the city are giving dialogues and monologues all about how awesome Lord Darkrose is and how he’s just amazing, and etc. Even Bosch feels this might be a little too much, and the people here are starting to seem murmurish - things are starting to get worse and if this isn’t stopped it can be dangerous. We ask what Bosch sees and he explains that everyone in the castle seems happy and living a good life, they’re all talking about Lord Darkrose.
 

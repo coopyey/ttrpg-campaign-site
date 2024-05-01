@@ -15,3 +15,5 @@ Status: Alive
 Has a pet frog named Bean. He is 3’0” tall.
 # Other Notes
 Will sneak away form very boring conversations. Has the interesting ability to make a weapon out of anything around him, and has sticky enough fingers that he happens to have the things we need when we need them, by chance.
+
+Was absolutely offered the option to be a deputy sheriff of [[Rosevale]] by [[The Sheriff]] who 100% thinks that Bosch is a 100% law-abiding citizen. (Ha!)

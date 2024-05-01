@@ -3,25 +3,27 @@ Class: Session
 Campaign: Seal of Infinity
 Session Date: 2023-09-25
 ---
+**Session Date:** 9/25/2023
+
 We are in downtime due to the rail maintenance. We are all also aware that there is a potentially powerful person with another piece of the seal here.
 
 ---
 
-The Sheriff shows up and we notice he’s downgraded to one pistol at all times. The deputy is more calm now. Bosch has been invited to the sheriff’s office. The entire group goes and we make it to the building. Bosch has found a good hiding spot for Bean and goes to see the Sheriff, away from the rest of the party. The Sheriff is telling Bosch that a career in law enforcement is definitely for him, and Bosch thanks him quite so much and lies saying he definitely thinks it’s the right place. The Sheriff says that he feels he should make the position official and that Bosch wouldn’t be paid because we are on an adventure, but he could be an official arm of the law. Bosch says that he is honored and he would love to be part of that.
+[[The Sheriff]] shows up and we notice he’s downgraded to one pistol at all times. The deputy is more calm now. [[Bosch]] has been invited to the sheriff’s office. The entire group goes and we make it to the building. Bosch has found a good hiding spot for Bean and goes to see the Sheriff, away from the rest of the party. The Sheriff is telling Bosch that a career in law enforcement is definitely for him, and Bosch thanks him quite so much and lies saying he definitely thinks it’s the right place. The Sheriff says that he feels he should make the position official and that Bosch wouldn’t be paid because we are on an adventure, but he could be an official arm of the law. Bosch says that he is honored and he would love to be part of that.
 
 The Sheriff recognizes that Bosch doesn’t normally operate as a deputy and Bosch tries to figure out what he means by that. He fully thinks that Bosch is normally a lawful person who definitely isn’t the type to rip railings off of a building to beat enemies with them. The Sheriff wants to give him the badge and Bosch explains he wants to think about this a few days and he will give an answer to the Sheriff before leaving town. The Sheriff is not surprised by this turn and just asks to speak again before we all leave.
 
 We find a tavern and stop to get some drinks and food.
 
-Tabby and Faylen vibe pretty well in the tavern. Faylen finds a group of college students he can socialize with and he talks about his studies and how awful all of his professors are and gets along pretty well with them. He talks magic and shop with some others from basically a magic community college.
+[[Tabby]] and [[Faylen]] vibe pretty well in the tavern. Faylen finds a group of college students he can socialize with and he talks about his studies and how awful all of his professors are and gets along pretty well with them. He talks magic and shop with some others from basically a magic community college.
 
 Tabby decides to go with a more performative role in the tavern and starts to tell a tale, but then he realizes that he shouldn’t necessarily tell the specific details of the adventure so far. He ultimately decides to have the moment to himself and just drink some beer.
 
 ---
 
-Mary has one drink and then heads out and finds a park that is quite lovely to walk through. She feels that everything here is a little too contained, even though it is rather nice (in comparison to all the buildings). She sits beneath a tree and just kind of watches while she lets Taletha  She wonders about the seal and the fragments thereof, and if the seal is what is supposed to fixed.
+[[Mary]] has one drink and then heads out and finds a park that is quite lovely to walk through. She feels that everything here is a little too contained, even though it is rather nice (in comparison to all the buildings). She sits beneath a tree and just kind of watches while she lets Taletha run around and do her thing. She wonders about the seal and the fragments thereof, and if the seal is what is supposed to fixed.
 
-The Seal of Infinity is said to be the source of all arcane magic — it’s a legend. She would think that magic is more complicated than it being stuck in one thing, no matter how powerful it is, but she could potentially use it. (Any of us potentially could.) For everybody it would be slightly different, but if we could attune to it we could pull something out of it that is unique to us.
+The [[Seal of Infinity]] is said to be the source of all arcane magic — it’s a legend. She would think that magic is more complicated than it being stuck in one thing, no matter how powerful it is, but she could potentially use it. (Any of us potentially could.) For everybody it would be slightly different, but if we could attune to it we could pull something out of it that is unique to us.
 
 Bosch has the desire to actually try to attune to the Seal, but he decides to hold off for now.
 
@@ -65,10 +67,10 @@ Bosch does go back to speak to the Sheriff and apologizes that as much as he wou
 
 ---
 
-We get back to Sheryl and she was writing for most of the day. We can expect the novel in a few months — she promises us autographed copies. The town actually gives us tickets to the thunder rail (first class). Except for Bosch, we are in the paper with pictures and names.
+We get back to [[Sheryl Hanson]] and she was writing for most of the day. We can expect the novel in a few months — she promises us autographed copies. The town actually gives us tickets to the thunder rail (first class). Except for Bosch, we are in the paper with pictures and names.
 
-We board the train and we don’t expect any issues there. On long trips we expect to stop at some stations for 1-2 days, and we also know that there are creatures hunting for us. We are traveling more or less incognito: while people from Rosevale know of us, everyone else sees us as just travelers. Mary is currently carrying the Seal.
+We board the train and we don’t expect any issues there. On long trips we expect to stop at some stations for 1-2 days, and we also know that there are creatures hunting for us. We are traveling more or less incognito: while people from [[Rosevale]] know of us, everyone else sees us as just travelers. Mary is currently carrying the Seal.
 
 We get on the train and Bosch sneaks into the first class dining car hanging out with Sheryl and the Sheriff.
 
-A big man with big steps comes out of the sleeping cart and he says it’s 5 o’clock somewhere, give him wine, and food, for he carries the Seal of Infinity.
+A big man with big steps comes out of the sleeping cart and he says it’s 5 o’clock somewhere, give him wine, and food, for he carries the [[Seal of Infinity]].

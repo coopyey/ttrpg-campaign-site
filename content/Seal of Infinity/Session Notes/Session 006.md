@@ -3,6 +3,8 @@ Class: Session
 Campaign: Seal of Infinity
 Session Date: 2023-07-31
 ---
+**Session Date:** 7/31/2023
+
 K'Whu's player had to dip due to work reasons so we will pretend K’Whu doesn’t exist.
 
 ---
