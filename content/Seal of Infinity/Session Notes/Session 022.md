@@ -3,9 +3,11 @@ Class: Session
 Campaign: Seal of Infinity
 Session Date: 2024-01-15
 ---
-After I left last session, the group goes to figure out what happened to Joe the druid. The creature had stomped him so we patched him up and explained that we took care of the werewolf. We explained that we needed a new place to stay because the tavern was no longer safe, so he took us down to the sewer. When we enter the proper sewer we are in a great stonework area. Joe explains he’s going to take us to see some friends, and by friends he means they haven’t argued in a few weeks and so we likely won’t be met by crossbow bolts.
+**Session Date:** 1/15/2024
 
-Mary asks if Joe and Kevin could get the city rats to help us: she recalls everything is being held in a cellar, and the sewer could likely connect, so the rats could easily get into that cellar everywhere. Bosch, Tabby, and Killian could distract the guards at dawn, while Joe and Mary could get the help of the rats to get the items out of the cellar. Joe also offers that perhaps his friends that we are going to meet may also be able to help with removing these items from the cellar.
+After I left last session, the group goes to figure out what happened to [[Joe]] the druid. The creature had stomped him so we patched him up and explained that we took care of the werewolf. We explained that we needed a new place to stay because the tavern was no longer safe, so he took us down to the sewer. When we enter the proper sewer we are in a great stonework area. Joe explains he’s going to take us to see some friends, and by friends he means they haven’t argued in a few weeks and so we likely won’t be met by crossbow bolts.
+
+[[Mary]] asks if Joe and Kevin could get the city rats to help us: she recalls everything is being held in a cellar, and the sewer could likely connect, so the rats could easily get into that cellar everywhere. [[Bosch]], [[Tabby]], and [[Faylen]] could distract the guards at dawn, while Joe and Mary could get the help of the rats to get the items out of the cellar. Joe also offers that perhaps his friends that we are going to meet may also be able to help with removing these items from the cellar.
 
 As we move through the sewers Faylen is almost hyper aware of what’s going on down here. He hears humanoid feet on the cobblestones and they are not wearing shoes. Joe and Faylen have a little tiny disagreement about how the sewer is gross, and another voice pipes up saying that he can get used to it as it’s not that bad. The group looks over and there’s a group of elves with hand crossbows lowered, no shoes, and they’re perhaps slightly amused at what’s before them.
 

@@ -3,13 +3,15 @@ Class: Session
 Campaign: Seal of Infinity
 Session Date: 2023-10-02
 ---
-The gentleman who comes in is very bombastic and currently crowded by everyone. He announces he has as shard of the Seal of Infinity. I sneakily cast detect magic and can tell that he’s emanating magic so he may not be lying. Mary and Tabby say that it seems silly he might be announcing it given the danger, but Faylen points out that if he had a cool power to make earthquakes like Bosch and he didn’t have friends to keep him level, he might end up arrogant and announcing things too. Mary does her sense nature to see if she can discern if it’s actually a shard of the Seal of Infinity and she isn’t quite sure, so she suggests we lay low and keep an eye on him. Tabby recommends a drinking contest to see if he can loosen the man’s tongue, and Faylen is all for this plan.
+**Session Date:** 10/2/2023
+
+The gentleman who comes in is very bombastic and currently crowded by everyone. He announces he has as shard of the [[Seal of Infinity]]. [[Faylen]] sneakily casts detect magic and can tell that he’s emanating magic so he may not be lying. [[Mary]] and [[Tabby]] say that it seems silly he might be announcing it given the danger, but Faylen points out that if he had a cool power to make earthquakes like [[Bosch]] and he didn’t have friends to keep him level, he might end up arrogant and announcing things too. Mary does her sense nature to see if she can discern if it’s actually a shard of the Seal of Infinity and she isn’t quite sure, so she suggests we lay low and keep an eye on him. Tabby recommends a drinking contest to see if he can loosen the man’s tongue, and Faylen is all for this plan.
 
 We also discuss where Bosch has gone and realize that he’s not here in first class, and Faylen considers going to see if he can find him.
 
 ---
 
-Bosch sees someone he recognizes — Zerch Zilardo — a burger type, a goblin that Bosch had worked with in the past. Previously he would not be able to afford tickets at all so this is a step up for him. Bosch hasn’t been noticed yet.
+Bosch sees someone he recognizes — [[Zerch]] Zilardo — a burglar type, a goblin that Bosch had worked with in the past. Previously he would not be able to afford tickets at all so this is a step up for him. Bosch hasn’t been noticed yet.
 
 A kid with a toy seal asks his mom if the toy seal is a piece of the Seal of Infinity. Bosch says aloud that likely the toy seal is more real than the seal the man has, and he starts to stir the pot so that the girl starts screaming, so the crowd begins to start discussing if it’s possible that this is real, and if magic can manifest as young as a little girl, and the like. Zerch speaks up and helps Bosch with all of this turning the crowd against the bombastic guy. The final form is that the entire crowd is asking questions and are primed to become a mob.
 
@@ -19,23 +21,20 @@ Zerch pulls Bosch off to the side and says that the has a job for him and that h
 
 ---
 
-The stranger is dressed very flamboyantly. He’s talking and there’s a group around him. Faylen doesn’t recognize this guy even when he squints to look at him. Tabby approaches and asks if the man likes a good brew, and he says of course. The man introduces himself as Crawforde Delafontaine and accepts the offer for Tabby to buy him a round. Tabby sits down with him and realizes that Crawforde talks a lot without actually saying anything. Where Tabby has stories, this man has words.
+The stranger is dressed very flamboyantly. He’s talking and there’s a group around him. Faylen doesn’t recognize this guy even when he squints to look at him. Tabby approaches and asks if the man likes a good brew, and he says of course. The man introduces himself as [[Crawforde]] Delafontaine and accepts the offer for Tabby to buy him a round. Tabby sits down with him and realizes that Crawforde talks a lot without actually saying anything. Where Tabby has stories, this man has words.
 
-He leans closer to Tabby and admits that he has the Seal of Infinity in his pockets. He confirms that the Seal was stolen from the capital and he exclaims that he will be the man who will take the Seal back to th capital. Tabby admits he’s heard of this and asks if Crawforde has actually found it, and the man says yes, and Tabby asks if he’s found the whole thing, and Crawforde explains that the Seal doesn’t break into many pieces! Tabby says of course, and Crawforde admits he hopes for the paid reward, the fame and the renown.
+He leans closer to Tabby and admits that he has the Seal of Infinity in his pockets. He confirms that the Seal was stolen from the capital and he exclaims that he will be the man who will take the Seal back to the capital. Tabby admits he’s heard of this and asks if Crawforde has actually found it, and the man says yes, and Tabby asks if he’s found the whole thing, and Crawforde explains that the Seal doesn’t break into many pieces! Tabby says of course, and Crawforde admits he hopes for the paid reward, the fame and the renown.
 
-Crawforde Delafontaine is a famous adventurer, went to ruin in forgotten empire and got something important. He is currently reemerging saying he has the Seal of Infinity. If he wants to take it to Jewel he’s going in the wrong direction.
+Crawforde Delafontaine is a famous adventurer, went to ruin in forgotten empire and got something important. He is currently reemerging saying he has the Seal of Infinity. If he wants to take it to [[Jewel]] he’s going in the wrong direction.
 
 ---
 
 Zerch has taken Bosch to the baggage wagon. There are two other men in the shadows that say nothing. Zerch tells Bosch not to worry about those two because they’re friends, and not to worry about them. Bosch says any friend of Zerch’s is a friend of his. Bosch regales Zerch with some of his tales. Zerch says that there’s a guy on the train that may have the seal, and Bosch explains that pissing that guy off will reveal his true nature. Zerch suggests working together on this one and Bosch asks if Zerch has a way to push this, and Zerch says that they will need some chaos and that Bosch has already helped him a lot.
 
-Zerch says that he and the boys were going to cause some chaos but Bosch is going to be responsible for that now, with a little help from Zerch and the boys if possible.
-
-Zerch says that they will be stealing the Seal of Infinity from this guy, and if it’s a fake then they will kill him for wasting his time.
+Zerch says that he and the boys were going to cause some chaos but Bosch is going to be responsible for that now, with a little help from Zerch and the boys if possible. Zerch says that they will be stealing the Seal of Infinity from Crawforde, and if it’s a fake then they will kill him for wasting his time.
 
 Faylen hears the following:
-
-Zerch was thinking they shouldn’t wait until night and they need to get this party going and get the crowd going. Bosch says who needs plans, really, it’ll work out. Zerch says he wishes he could but the Boss loves a plan and Zerch loves the boss. Bosch says congratulations and Zerch rolls his eyes at this joke, after chuckling. The boys will help and Bosch says that his issue with killing the guy is he does all this work to piss the guy off and then if he’s dead he’s not mad, and does Bosch want to piss off the boss or this guy. Zerch reassures that Bosch doesn’t want to piss off the boss.
+>*Zerch was thinking they shouldn’t wait until night and they need to get this party going and get the crowd going. Bosch says who needs plans, really, it’ll work out. Zerch says he wishes he could but the Boss loves a plan and Zerch loves the boss. Bosch says congratulations and Zerch rolls his eyes at this joke, after chuckling. The boys will help and Bosch says that his issue with killing the guy is he does all this work to piss the guy off and then if he’s dead he’s not mad, and does Bosch want to piss off the boss or this guy. Zerch reassures that Bosch doesn’t want to piss off the boss.*
 
 Faylen walks away after this.
 

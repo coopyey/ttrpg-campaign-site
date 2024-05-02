@@ -12,7 +12,7 @@ Conversion Status:
 - [x] Danse Macabre
 - [x] Gatewalkers
 - [ ] Nuclear Chrome
-- [ ] Seal of Infinity
+- [x] Seal of Infinity
 - [ ] Stepstone Isles
 
 ---
