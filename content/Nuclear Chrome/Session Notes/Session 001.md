@@ -3,6 +3,8 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2023-01-19
 ---
+**Session Date:** 1/19/2023
+
 Thursday, the day for mission details. Meet @ [[The Afterlife]], ask for [[Serpent]] or Charles.
 
 [[Omen]]:

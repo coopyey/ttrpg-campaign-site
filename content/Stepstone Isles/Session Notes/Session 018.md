@@ -3,6 +3,8 @@ Class: Session
 Campaign: Stepstone Isles
 Session Date: 2024-01-12
 ---
+**Session Date:** 1/12/2024
+
 The cultists have given us 100% confirmation they follow Sochet. Rector is fixed from geas. Also, the Bishop is dead.
 
 Notable previous sessions:

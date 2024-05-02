@@ -3,6 +3,8 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2023-02-09
 ---
+**Session Date:** 2/9/2023
+
 We begin back in combat, with [[Omen]] flooring in reverse to hit the guy attacking [[Garf]].
 
 We dispatch of the baddies. Garf grabs one of the bikes and we make it back to the safehouse. Net gets two of the cases of smash with Cipher taking the last one. Powder and Alice are waiting for us, and Alice is so glad we're back (or that we have beer). We return the cars to the garage.

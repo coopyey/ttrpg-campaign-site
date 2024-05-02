@@ -3,6 +3,8 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2023-08-31
 ---
+**Session Date:** 8/31/2023
+
 Wednesday August 9th, 2045 -> Friday August 11th, 2045
 
 [[Emerick]] had told the group that we need to leave. [[Cipher]] jacks out unsafely and is seriously hurting. There’s a moment before [[Garf]] finally jacks out of the architecture as [[Net]] picks Cipher up to carry him. [[Phoenix]] says it’s time to go and [[Omen]] tells us to get the elevator open while he signals to Torrent to wrap things up. Net is acting like Cipher tripped and rolled an ankle. The guards ask about it and Net explains.

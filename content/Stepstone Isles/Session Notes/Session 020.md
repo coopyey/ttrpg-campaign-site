@@ -3,6 +3,8 @@ Class: Session
 Campaign: Stepstone Isles
 Session Date: 2024-03-08
 ---
+**Session Date:** 3/8/2024
+
 I missed session 19.
 
 ---

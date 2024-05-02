@@ -3,6 +3,8 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2023-02-16
 ---
+**Session Date:** 2/16/2023
+
 [[Omen]] is upset as he comes down the stairs. He walks with purpose as [[Seo Tae-Woo]] comes down the hall to join the entire group with a carryall.
 
 ----

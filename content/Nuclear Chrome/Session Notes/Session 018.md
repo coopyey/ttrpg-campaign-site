@@ -3,7 +3,7 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2023-07-13
 ---
-7/13/2023
+**Session Date:** 7/13/2023
 
 [[Omen]] requests information from [[Emerick]] -> library search 30
 

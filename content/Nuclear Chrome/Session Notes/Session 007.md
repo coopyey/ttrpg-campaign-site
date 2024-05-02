@@ -3,6 +3,8 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2023-03-02
 ---
+**Session Date:** 3/2/2023
+
 After everything that happened with [[Cipher]], [[Juice]] sends [[Charley Cook]] off to tail Cipher and see where he lives. Charley does this, saying he will return in the morning.
 
 ---

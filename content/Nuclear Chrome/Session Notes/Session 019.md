@@ -3,6 +3,8 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2023-07-27
 ---
+**Session Date:** 7/27/2023
+
 4 cigarettes survived the thing. All checks are -2 for [[Net]] as he hasn’t smoked.
 
 ---

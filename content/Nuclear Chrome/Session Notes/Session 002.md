@@ -3,6 +3,8 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2023-01-26
 ---
+**Session Date:** 1/26/2023
+
 Combat start.
 
 There is a sharp whirring metallic sound that [[Garf]] notices, and a spray of bullets launches at [[Omen]] that he manages to dodge.

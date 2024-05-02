@@ -1,8 +1,10 @@
 ---
 Class: Session
 Campaign: Nuclear Chrome
-Session Date: 2023-08-31
+Session Date: 2023-09-07
 ---
+**Session Date:** 9/7/2023
+
 Monday August 13th, 2045
 
 [[Emerick]] goes into the kitchen and [[Charley Cook]] shows up. He asks Emerick how he and the group would want to go and help do some networking. Emerick says that sounds like it’ll be fun and he imagines the group would be fine with it so he agrees. He sends the information out to everyone with where to go and when and we get together.

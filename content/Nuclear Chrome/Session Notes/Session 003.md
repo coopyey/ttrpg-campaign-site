@@ -3,6 +3,8 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2023-02-02
 ---
+**Session Date:** 2/2/2023
+
 We all learn that [[Juice]] is a very prolific drug dealer.
 
 Things to do:

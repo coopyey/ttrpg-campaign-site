@@ -3,6 +3,8 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2023-09-28
 ---
+**Session Date:** 9/28/2023
+
 Monday August 13th, 2045
 
 [[Emerick]] sends a text out to let the party know that the band is headed over to the club [[Tranquil Infiniti]] and he rides with [[Seo Tae-Woo]] over to the club. The band and Emerick get there first and we start to set up, talking to the club manager: a respectful man, professional, not a sleezeball. He makes sure we’re all safe and can get set up. [[Charley Cook]] pays the rest of the fee to rent the space to be here.

@@ -1,8 +1,10 @@
 ---
 Class: Session
 Campaign: Nuclear Chrome
-Session Date: 2024-02-23
+Session Date: 2023-02-23
 ---
+**Session Date:** 2/23/2023
+
 [[Net]] is on his way to get a kiddie pool for [[Garf]]. He leaves the Combat Zone and gets one, then heads back and realizes he's in an area with heavy gang activity. He keeps his eyes peeled for negative activity and he doesn't see anything immediate, but he does see a pedestrian 1.5 blocks ahead. He puts his mask on and continues through to the area where the stakeout is happening.
 
 He arrives without incident and sets up the pool, then helps Garf into it. Once she's set up, Net explains that it was either this or he run drugs for [[Juice]]. He refused to run the drugs and so here he is. [[Seo Tae-Woo]] disapproves and warns Net not to get too personal around Juice. Garf asks Net how confident Net is at breaking security tech, and Net says it's entirely possible he can, it just depends how advanced it is.

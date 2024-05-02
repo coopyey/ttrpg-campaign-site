@@ -3,9 +3,11 @@ Class: Session
 Campaign: Nuclear Chrome
 Session Date: 2024-04-11
 ---
+**Session Date:** 4/11/2024
+
 Monday August 13th, 2045
 
-Torrent's player is having to drop the campaign due to some real life issues.
+Torrent's player is having to drop the campaign due to some real life issues. >:
 
 ---
 
