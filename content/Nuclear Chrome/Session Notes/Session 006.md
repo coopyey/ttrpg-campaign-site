@@ -7,9 +7,9 @@ Session Date: 2023-02-23
 
 [[Net]] is on his way to get a kiddie pool for [[Garf]]. He leaves the Combat Zone and gets one, then heads back and realizes he's in an area with heavy gang activity. He keeps his eyes peeled for negative activity and he doesn't see anything immediate, but he does see a pedestrian 1.5 blocks ahead. He puts his mask on and continues through to the area where the stakeout is happening.
 
-He arrives without incident and sets up the pool, then helps Garf into it. Once she's set up, Net explains that it was either this or he run drugs for [[Juice]]. He refused to run the drugs and so here he is. [[Seo Tae-Woo]] disapproves and warns Net not to get too personal around Juice. Garf asks Net how confident Net is at breaking security tech, and Net says it's entirely possible he can, it just depends how advanced it is.
+He arrives without incident and sets up the pool, then helps Garf into it. Once she's set up, Net explains that it was either this or he run drugs for [[Juice]]. He refused to run the drugs and so here he is. [[Seo]] disapproves and warns Net not to get too personal around Juice. Garf asks Net how confident Net is at breaking security tech, and Net says it's entirely possible he can, it just depends how advanced it is.
 
-He leaves and returns back to the safehouse. [[Alice]] and [[Charley Cook]] are out front, with [[Powder]] and [[Crack Pipe]] in the garage. Net tries to return the money from Charley, explaining he got a pool that was cheap. Charley is a little surprised by this gesture but ultimately lets it go as Net goes inside to look for [[Cipher]]. Cipher is still talking to [[Torrent]], so Net grabs something to eat then goes to the garage to work on the car.
+He leaves and returns back to the safehouse. [[Alice]] and [[Charley]] are out front, with [[Powder]] and [[Crack Pipe]] in the garage. Net tries to return the money from Charley, explaining he got a pool that was cheap. Charley is a little surprised by this gesture but ultimately lets it go as Net goes inside to look for [[Cipher]]. Cipher is still talking to [[Torrent]], so Net grabs something to eat then goes to the garage to work on the car.
 
 ---
 
@@ -43,7 +43,7 @@ Ogre chambers a round, and then Juice speaks up to ask what the efuck is going o
 
 Cipher sits outside, his body completely tense. Net comes out and chews Cipher out for such a brash display, then they chat a little more and Charley approaches. Charley asks how old they are, then says it's stupid to let Alice bother them like this. Charley says not to touch his band members and just keep their head down and work.
 
-Cipher says he is going home and storms off, with Torrent in tow. They make it back and [[Mama Rosa]] chews Net out while Torrent and Cipher talk. Torrent learns that Net's real name is Nathaniel.
+Cipher says he is going home and storms off, with Torrent in tow. They make it back and [[Mamá Rosa]] chews Net out while Torrent and Cipher talk. Torrent learns that Net's real name is Nathaniel.
 
 Cipher is hitting a punching bag, just angry. He admits that he would have done worse if Ogre and Juice didn't show up. Torrent says they should just work and stop causing trouble. She then asks Cipher why they're together if they are always fighting, and Cipher admits that it wasn't always like this. They talk a little more before Cipher asks to be left alone.
 

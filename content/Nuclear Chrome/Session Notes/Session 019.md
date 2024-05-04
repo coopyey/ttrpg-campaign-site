@@ -17,7 +17,7 @@ Garf takes her shotgun and then walks up to Net and asks if he is better. Net sa
 
 ⸺
 
-[[Cipher]], for the past week and a half, has been bouncing between Tia and [[Mama Rosa]]’s house. His drug addiction is presenting in such bad paranoia that he’s having paranoia-induced hallucinations, which is why he’s been staying with his mom more often. Cipher shows up at the safehouse after everyone disperses after all the drama. When he shows up all he can hear is the mechanic shop work and the sound of the band rehearsing. He can see Crack Pipe and Powder working in the garage. He politely waves at Crack Pipe and Powder, then tries to walk past them without acknowledgement. Crack Pipe asks if Cipher is looking for Net, and Crack Pipe explains that Net’s an asshole that’s been treating the others like shit. Crack Pipe explains he knows how blue glass works and it’s not something you take to get high.
+[[Cipher]], for the past week and a half, has been bouncing between Tia and [[Mamá Rosa]]’s house. His drug addiction is presenting in such bad paranoia that he’s having paranoia-induced hallucinations, which is why he’s been staying with his mom more often. Cipher shows up at the safehouse after everyone disperses after all the drama. When he shows up all he can hear is the mechanic shop work and the sound of the band rehearsing. He can see Crack Pipe and Powder working in the garage. He politely waves at Crack Pipe and Powder, then tries to walk past them without acknowledgement. Crack Pipe asks if Cipher is looking for Net, and Crack Pipe explains that Net’s an asshole that’s been treating the others like shit. Crack Pipe explains he knows how blue glass works and it’s not something you take to get high.
 
 Cipher is very clearly unhappy with the explanation. Crack Pipe explains a blue glass junkie is just trying to be normal, while a junkie wouldn’t be taking it in order to experience the high. He explains that Net called Garf a junkie and that he doesn’t know all the details, but it pissed him off. Cipher rubs his eyes and exhales in a sigh. Crack Pipe admits that he’s about to get punched and he won’t hold back: he gave Net a pack of cigarettes so he’d shut up. Cipher clenches a fist, then holds his hands up and says he won’t blame Crack Pipe. Cipher was stressed when he came in, but now he’s even more stressed.
 
@@ -51,7 +51,7 @@ They’re headed to [[The Thinkers]].
 
 ---
 
- Emerick leaves his room to head out of the safehouse. On his way out, [[Seo Tae-Woo]] stops him in the kitchen. Seo asks if he’s okay and Emerick takes a moment to realize what he’s asking about, then smiles and says everything is fine. Seo doesn’t want to keep him, but reminds him if he needs anything to just ask, and Emerick nods with a smile and says of course. He calls a cab, heads out, picks Torrent up, and they go to Phoenix’s.
+ Emerick leaves his room to head out of the safehouse. On his way out, [[Seo]] stops him in the kitchen. Seo asks if he’s okay and Emerick takes a moment to realize what he’s asking about, then smiles and says everything is fine. Seo doesn’t want to keep him, but reminds him if he needs anything to just ask, and Emerick nods with a smile and says of course. He calls a cab, heads out, picks Torrent up, and they go to Phoenix’s.
 
 ---
 

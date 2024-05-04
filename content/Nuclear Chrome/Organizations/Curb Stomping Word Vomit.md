@@ -8,10 +8,10 @@ The band that we work with under Juice. Juice seems to have an invested interest
 Manager: [[Juice]]
 
 Known Members:
-- [[Charley Cook]] - lead of band, dad vibes
+- [[Charley]] - lead of band, dad vibes
 - [[Alice]] - youngest member, surly teenager
-- [[Ri Tae-Woo]] - not put together, drug addict
-- [[Seo Tae-Woo]] - put together twin, semi-corpo
+- [[Ri]] - not put together, drug addict
+- [[Seo]] - put together twin, semi-corpo
 
 Support Staff:
 - [[Crack Pipe]] - nomad/techie, demolitions "expert"

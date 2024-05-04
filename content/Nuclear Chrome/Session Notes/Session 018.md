@@ -32,13 +32,13 @@ She points to Omen and asks if he's clean, he says he'll manage.
 
 ----
 
-Emerick and [[Seo Tae-Woo]] are being very gay now that they are done with Emerick's forging part.
+Emerick and [[Seo]] are being very gay now that they are done with Emerick's forging part.
 
 Eventually, Powder hollers for Seo and they get up and leave Seo's room to go to the living area. Powder says Juice wants everyone ready for rehearsal and they want to practice in a few hours. Seo's schedule is clear and ready. Ri comments that it's been a while and they start to all reminisce. Alice gets up and leaves out the front door without any comment.
 
 Emerick can hear several sets of footsteps:
 
-- [[Charley Cook]] joins the band in talking. It becomes very clear that he likes to drink a LOT and before shows he is absolutely hammered. They have had to end shows early because he's too drunk to actually sing.
+- [[Charley]] joins the band in talking. It becomes very clear that he likes to drink a LOT and before shows he is absolutely hammered. They have had to end shows early because he's too drunk to actually sing.
 - [[Ogre]] and [[Juice]] walk past everyone. Juice has errands to run and expects them to rehearse once he is back. He addresses Emerick and asks if Emerick would be willing to be press for the show, and Emerick says yes, of course, so Juice will get Emerick a pass.
 
 After Juice leaves, Emerick goes track down where [[Alice]] is. She is out sitting on the front porch. Emerick asks what's wrong and she says he wouldn't understand. He sits down next to her and tells her that he might, and to give him a chance. She explains that ever since the party showed up, she no longer gets any attention, and she doesn't feel welcome anymore.

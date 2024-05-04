@@ -4,9 +4,11 @@ Campaign: Nuclear Chrome
 Status: Alive
 Organization: "[[Curb Stomping Word Vomit]]"
 ---
+**Full Name:** Seo Tae-Woo
+
 **Class:** Rockerboy, Corpo(?)
 
-One of the twins of [[Curb Stomping Word Vomit]], this is the well put-together brother to [[Ri Tae-Woo]].
+One of the twins of [[Curb Stomping Word Vomit]], this is the well put-together brother to [[Ri]].
 
 He is inclined to being up early, is always well-kept with effort put in, everything seems to be put very well together.  He is a very kind closeted gay - he has homophobic parents that had his entire life planned out for him, whether he wanted it or not. *His parents are associated with [[Merril, Asukaga, & Finch]].*
 

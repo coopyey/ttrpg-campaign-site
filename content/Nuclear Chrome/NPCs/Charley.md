@@ -4,9 +4,9 @@ Campaign: Nuclear Chrome
 Status: Alive
 Organization: "[[Curb Stomping Word Vomit]]"
 ---
-**Class:** Rockerboy
-
 **Full Name:** Charley "Combustion" Cook
+
+**Class:** Rockerboy
 
 Leader vocalist and general leader of [[Curb Stomping Word Vomit]]. 
 

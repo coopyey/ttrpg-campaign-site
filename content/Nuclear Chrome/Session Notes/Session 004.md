@@ -11,7 +11,7 @@ We dispatch of the baddies. Garf grabs one of the bikes and we make it back to t
 
 [[Net]] asks [[Alice]] for some smokes on the down low - something Emerick definitely hears, and notices that Net wants kept on the dl.
 
-As we enter the safehouse [[Seo Tae-Woo]] is on the couch reviewing a screamsheet and Alice puts the smash on the table. There is a scuffle upstairs that sounds like some light fighting. Torrent sprints upstairs and hears [[Juice]] talking, clearly expressing to someone they had better have "all of it" next week. When asked, Juice clarifies that the next shipment is coming.
+As we enter the safehouse [[Seo]] is on the couch reviewing a screamsheet and Alice puts the smash on the table. There is a scuffle upstairs that sounds like some light fighting. Torrent sprints upstairs and hears [[Juice]] talking, clearly expressing to someone they had better have "all of it" next week. When asked, Juice clarifies that the next shipment is coming.
 
 [[Emerick]] asks if everything is okay and Charles says that it's all fine. Emerick knows it 100% is not but says nothing, simply staring at him for a moment too long, then shrugs and says okay. During this exchange, Net does get a cigarette from Alice, and then introduces [[Cipher]] to everyone.
 
@@ -35,7 +35,7 @@ Garf goes into the garage and [[Crack Pipe]] asks if the bike is hers. She says 
 
 Net comes in and Garf explains what it is she is wanting to do and he starts smoking. They work together to remove the plate and get things set up for a paint job. Somewhere along the way, Garf starts having an existential crisis about being a cat, and [[Powder]] takes her for a therapy session.
 
-In the kitchen, [[Emerick]] sits with [[Ri Tae-Woo]], who has a pop-up knife that he stabs into a bag of synth-coke. He takes a hit right there, with Alice joining them at the table and telling Emerick not to mind Ri.
+In the kitchen, [[Emerick]] sits with [[Ri]], who has a pop-up knife that he stabs into a bag of synth-coke. He takes a hit right there, with Alice joining them at the table and telling Emerick not to mind Ri.
 
 Around dinner time everyone gets together. Cipher notices that Net has been smoking and takes them, giving them back to Alice.
 

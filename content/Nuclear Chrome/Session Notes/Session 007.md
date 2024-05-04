@@ -5,7 +5,7 @@ Session Date: 2023-03-02
 ---
 **Session Date:** 3/2/2023
 
-After everything that happened with [[Cipher]], [[Juice]] sends [[Charley Cook]] off to tail Cipher and see where he lives. Charley does this, saying he will return in the morning.
+After everything that happened with [[Cipher]], [[Juice]] sends [[Charley]] off to tail Cipher and see where he lives. Charley does this, saying he will return in the morning.
 
 ---
 
@@ -19,13 +19,13 @@ The stranger has a lot of cyberware, including a kerenzikov and two cyberarms th
 
 ---
 
-Things wind down at [[Mama Rosa]]'s house. The night is uneventful. Torrent receives a call form Omen, then leaves to join the stakeout crew.
+Things wind down at [[Mamá Rosa]]'s house. The night is uneventful. Torrent receives a call form Omen, then leaves to join the stakeout crew.
 
 ---
 
 Emerick finds picture-based evidence for a story that he is pursuing and chats about it excitedly with Seo as they sit together.
 
-Torrent arrives and Bruce and Omen explain the situation to her, with Bruce wanting Torrent to offer therapy to the cyberpsycho and try to make him more stable to talk. Torrent asks [[Seo Tae-Woo]] to help be comforting for the cyberpsycho. They wake him up and Torrent manages to gently therapy him enough so that he isn't hostile. She manages to get his name - Louie - and then introduces herself to him. She reassures him that he did his best to protect the people around him, and he manages to come down from his aggression and doesn't recall who shot his friend. He heard gunshots, saw bodies, and is here now. We let him go and Omen gives him his number.
+Torrent arrives and Bruce and Omen explain the situation to her, with Bruce wanting Torrent to offer therapy to the cyberpsycho and try to make him more stable to talk. Torrent asks [[Seo]] to help be comforting for the cyberpsycho. They wake him up and Torrent manages to gently therapy him enough so that he isn't hostile. She manages to get his name - Louie - and then introduces herself to him. She reassures him that he did his best to protect the people around him, and he manages to come down from his aggression and doesn't recall who shot his friend. He heard gunshots, saw bodies, and is here now. We let him go and Omen gives him his number.
 
 On Monday, a small convoy arrives and then leaves. We do not know what it is for, as the first convoy was supposed to be on Wednesday.
 

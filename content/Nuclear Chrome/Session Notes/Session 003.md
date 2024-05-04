@@ -14,7 +14,7 @@ Things to do:
 News:
 >A series of bombs go off in The Glenn after [Nuclear Chrome] is invested in by [Merill, Asukaga, & Finch], with 3 other groups left dead.
 
-In the main area of the safehouse are [[Powder]], and [[Ri Tae-Woo]]. Powder heads to the kitchen and expresses her concern for us and asks if we take [[Ogre]] with us for anything. After the latest from Nuclear Chrome she is just worried. Ri, on the other hand, is a hot mess who just woke up. Another band member, [[Seo Tae-Woo]] walks in. Unlike Ri, he is clean and well-dressed, very well presenting. Ri begins to get worked up because there is no more smash in the fridge, so he decides to send [[Garf]] out to get more, and tells her to take the rest of us with her so she doesn't get killed.
+In the main area of the safehouse are [[Powder]], and [[Ri]]. Powder heads to the kitchen and expresses her concern for us and asks if we take [[Ogre]] with us for anything. After the latest from Nuclear Chrome she is just worried. Ri, on the other hand, is a hot mess who just woke up. Another band member, [[Seo]] walks in. Unlike Ri, he is clean and well-dressed, very well presenting. Ri begins to get worked up because there is no more smash in the fridge, so he decides to send [[Garf]] out to get more, and tells her to take the rest of us with her so she doesn't get killed.
 
 Omen takes us to Old Japantown to get the smash. There is the sound of far-off combat in this portion of the combat zone. [[Emerick]] gives [[Torrent]] a piggy-back ride as she refuses to walk here, so he carries her into the store with everyone. [[Net]] does most of the talking and the guy running the store goes into the back to get us a few cases of the beer.
 

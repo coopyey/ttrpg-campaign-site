@@ -5,7 +5,7 @@ Session Date: 2023-02-16
 ---
 **Session Date:** 2/16/2023
 
-[[Omen]] is upset as he comes down the stairs. He walks with purpose as [[Seo Tae-Woo]] comes down the hall to join the entire group with a carryall.
+[[Omen]] is upset as he comes down the stairs. He walks with purpose as [[Seo]] comes down the hall to join the entire group with a carryall.
 
 ----
 
@@ -19,11 +19,11 @@ The location we picked is a typical run-down warehouse. It is dilapidated with b
 
 ---
 
-[[Net]] and [[Cipher]] make it to [[Curb Stomping Word Vomit]]'s warehouse after breakfast and a long conversation with [[Mama Rosa]] demanding that they bring their friends home so that she can meet and feed them all. [[Alice]] and [[Crack Pipe]] are smoking a cigarette, with [[Charley Cook]] and [[Powder]] also there. Crack Pipe tells Net to come by more often so they can work in the shop together. Crack Pipe puts his cigarette out because he knows Net is trying to quit smoking.
+[[Net]] and [[Cipher]] make it to [[Curb Stomping Word Vomit]]'s warehouse after breakfast and a long conversation with [[Mamá Rosa]] demanding that they bring their friends home so that she can meet and feed them all. [[Alice]] and [[Crack Pipe]] are smoking a cigarette, with [[Charley]] and [[Powder]] also there. Crack Pipe tells Net to come by more often so they can work in the shop together. Crack Pipe puts his cigarette out because he knows Net is trying to quit smoking.
 
 Crack Pip tells Net where everyone is. Net asks what is going on with [[Juice]], and Crack Pipe explains that Juice shot Garf. he explains that we are all knew and that the band is fucked with Juice, and without him. The news cycle continues: more missing bands, more band executions ,etc.
 
-[[Ri Tae-Woo]] steps in from the hall, asking what Cipher has brought, and Ri immediately dives in to help Cipher put away all of the food that Mama Rosa sent him out with. Ri is very unkempt to the point of not showering and Net very inelegantly tells him to go fucking clean himself up. Ri doesn't like Net's approach, but when Cipher tries in a more kind manner, he listens and is receptive. Net goes to work on cars.
+[[Ri]] steps in from the hall, asking what Cipher has brought, and Ri immediately dives in to help Cipher put away all of the food that Mama Rosa sent him out with. Ri is very unkempt to the point of not showering and Net very inelegantly tells him to go fucking clean himself up. Ri doesn't like Net's approach, but when Cipher tries in a more kind manner, he listens and is receptive. Net goes to work on cars.
 
 Cipher takes some food up to [[Torrent]] and offers it to her. She takes it and invites Cipher in, talking nonstop about her music, eventually offering a mix tape to him with some music that he likes. They discuss.
 

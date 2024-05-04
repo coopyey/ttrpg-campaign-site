@@ -7,13 +7,13 @@ Session Date: 2023-09-28
 
 Monday August 13th, 2045
 
-[[Emerick]] sends a text out to let the party know that the band is headed over to the club [[Tranquil Infiniti]] and he rides with [[Seo Tae-Woo]] over to the club. The band and Emerick get there first and we start to set up, talking to the club manager: a respectful man, professional, not a sleezeball. He makes sure we’re all safe and can get set up. [[Charley Cook]] pays the rest of the fee to rent the space to be here.
+[[Emerick]] sends a text out to let the party know that the band is headed over to the club [[Tranquil Infiniti]] and he rides with [[Seo]] over to the club. The band and Emerick get there first and we start to set up, talking to the club manager: a respectful man, professional, not a sleezeball. He makes sure we’re all safe and can get set up. [[Charley]] pays the rest of the fee to rent the space to be here.
 
 After the party arrives. [[Garf]] asks [[Cipher]] to grab them a table and to hold it for them, and [[Omen]] arrives around the same time. 
 
 Garf and Emerick go up to the bar — Garf to get a snack, Emerick to get a beer — and Emerick goes to pay, with Garf saying she has it. Emerick is confused and seems unsure what to do, and Garf starts to ask if anyone’s ever bought anything for him, and if he’d ever had a Christmas or anything like that before. Emerick replies that he hasn’t, no, and Garf says she’s going to change that.
 
-General discussions ensue: [[Torrent]] trying to get boxed apple juice and getting it poured in a glass instead, Garf trying to give Torrent a Mac n cheese bite. Emerick slid down the bar to sit closer to [[Alice]] and [[Ri Tae-Woo]], who are in their own discussion about some news they hard about other bands, but at least it’s not the argument ensuing between Torrent and Garf about how Mac n cheese bites are disgusting or not.
+General discussions ensue: [[Torrent]] trying to get boxed apple juice and getting it poured in a glass instead, Garf trying to give Torrent a Mac n cheese bite. Emerick slid down the bar to sit closer to [[Alice]] and [[Ri]], who are in their own discussion about some news they hard about other bands, but at least it’s not the argument ensuing between Torrent and Garf about how Mac n cheese bites are disgusting or not.
 
 [[Net]] walks in at this point, collar popped. He looks fucking fly as hell. He sees Emerick awkwardly sitting next to Alice as Alice and Ri are talking, and Garf chasing Torrent around trying to feed her food.
 

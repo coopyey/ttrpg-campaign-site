@@ -31,7 +31,7 @@ Torrent is hugged by [[Katchya]] when she gets home and she spends 200 years exp
 
 ---
 
-As Emerick gets out of the cab, [[Crack Pipe]] and [[Charley Cook]] and [[Powder]] are in the garage. Charley has this concerned look on his face. Emerick can overhear the end of their conversation before they notice him: Charley can’t believe what he’s hearing and they’re talking about what happened with Net. Crackpipe looks at Charley and says that he thinks he’s done with the packs, he can’t do them anymore after seeing Net’s attitude with things. He’s quitting cold turkey. Charley’s expression shifts from disbelief to surprise.
+As Emerick gets out of the cab, [[Crack Pipe]] and [[Charley]] and [[Powder]] are in the garage. Charley has this concerned look on his face. Emerick can overhear the end of their conversation before they notice him: Charley can’t believe what he’s hearing and they’re talking about what happened with Net. Crackpipe looks at Charley and says that he thinks he’s done with the packs, he can’t do them anymore after seeing Net’s attitude with things. He’s quitting cold turkey. Charley’s expression shifts from disbelief to surprise.
 
 Powder and Crackpipe are looking at Charley as Emerick walks up, and Charley’s attention hasn’t really left what Crackpipe was saying. Powder notices Emerick and runs over and hugs him. Charley and Crackpipe says hi to him and they talk about Net. That conversation winds down and Powder lets go of Emerick to ask what he did today, and he explains vaguely what the job was, talking about how they were getting data for a story for another media.
 
