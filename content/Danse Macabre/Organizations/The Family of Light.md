@@ -35,6 +35,8 @@ Televangical scam.
 		- One of the "twins" (not actual twins)
 		- +18 years older than Die
 
+Asher and Alisa (the "twins") are very often described as psychopaths by Bertram.
+
 ### Previous Members
 
 - The Family
