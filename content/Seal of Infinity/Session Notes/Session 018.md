@@ -5,7 +5,7 @@ Session Date: 2023-11-13
 ---
 **Session Date:** 11/13/2023
 
-I was sick for session 17.
+I was sick for session 17. The first section will be a portion with Faylen while he was "absent" from session 17, and the session thereafter where Faylen interacts with the party will include a bit of a recap of what was missed in session 17.
 
 ---
 
