@@ -2,7 +2,7 @@
 Class: NPC
 Campaign: Seal of Infinity
 Status: Alive
-Organization: "[[Brex Grana Werewolves]]"
+Organization: "[[Blue Fang]]"
 ---
 **Full Name:** Bobbi Walker
 

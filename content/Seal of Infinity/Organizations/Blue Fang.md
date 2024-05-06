@@ -1,18 +1,18 @@
 ---
 Class: Organization
 Campaign: Seal of Infinity
-Status: Inactive
+Status: Active
 ---
 ## Mission/Goal
-Create order among the citizens of Brex Grana and make sure everyone has a proper place in the city to restore order and bring this political upset over the changeling prince and other divisions among the city to heel.
+Create order among the citizens of [[Brex Grana]], especially among the werewolves of the city. It provides some protection for the lesser advantaged peoples of the city. Also (obviously) has ties to the criminal underbelly of the city.
 ## Other Notes
-Werewolf gang in [[Brex Grana]] led by Garm [[Clapperclaw]]. The true goal was to overthrow [[Grandfather Walker]] and take over control of the werewolves of Brex Grana.
+Run by [[Grandfather Walker]] and to be passed on to his granddaughter [[Bobbi]] Walker when the time comes. It is a werewolf gang that seems to mostly be concerned with keeping the underbelly of the city under heel, while also keeping tabs of the werewolves in the city. They appear to offer some protection and some level of social services for the poorer parts of society as well.
 
-A gang that was put together in order to amass power so that a war could be set off between the two factions of the werewolves in Brex Grana. It was heavily implied that Garm Clapperclaw was creating more members during leading up to what he hoped would be all out war to get rid of the Walker family.
-
-In theory, this faction was brought to heel after we took care of everything in the city.
+Garm [[Clapperclaw]], a lower ranking member of the Blue Fang, were trying to overthrow Grandfather Walker and his family for control of this gang. He had claimed that the Walker family was growing stagnant, and that he had new ideas and would bring innovation to the organization.
 ## Known Members & Affiliates
-- Garm [[Clapperclaw]] (leader)
-- [[Montego]]
-- Guard Captain [[Idwal]] Ram (affiliate)
-- [[Ephiny]] Lunt AKA Agent Bryce (affiliate)
+- [[Grandfather Walker]] - leader of the gang
+	- [[Bobbi]]
+- Garm [[Clapperclaw]]  - leader of splinter faction
+	- [[Montego]]
+	- Guard Captain [[Idwal]] Ram (affiliate, deceased)
+	- [[Ephiny]] Lunt AKA Agent Bryce (affiliate)

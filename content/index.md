@@ -7,13 +7,16 @@ Hello and welcome to my TTRPG campaign vault!
 
 **PLEASE NOTE THIS SITE IS VERY MUCH A WORK IN PROGRESS AT THIS TIME AS I WORK TO MIGRATE ALL MY NOTES FROM SEVERAL DISPARATE PLACES TO HERE.**
 
-Conversion Status:
-
+Conversion Status (Session Notes):
 - [x] Danse Macabre
 - [x] Gatewalkers
 - [ ] Nuclear Chrome
 - [x] Seal of Infinity
 - [ ] Stepstone Isles
+
+Plans:
+- [ ] Review and update Gatewalkers NPCs
+- [ ] Review and update Seal of Infinity NPCs
 
 ---
 
