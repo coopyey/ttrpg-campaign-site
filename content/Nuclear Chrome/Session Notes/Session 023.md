@@ -5,8 +5,6 @@ Session Date: 2023-09-07
 ---
 **Session Date:** 9/7/2023
 
-Monday August 13th, 2045
-
 [[Emerick]] goes into the kitchen and [[Charley]] shows up. He asks Emerick how he and the group would want to go and help do some networking. Emerick says that sounds like it’ll be fun and he imagines the group would be fine with it so he agrees. He sends the information out to everyone with where to go and when and we get together.
 
 While Emerick is hanging out, [[Alice]] and [[Ri]] are talking at one point while they’re in the lounge area. The TV flashes to the news and Emerick sees a posting about the raid on [[Omnitech Industries]] (late coverage) — previously the information was more or less covered up to hide how big of an issue this was — so the heat around us has been nonexistent, especially because [[Markov]] is the bigger issue. This is a follow-up piece when the trial is going to take place for what Markov was doing, an ethics board is going to get involved, and I hear Ri and Alice start chit-chatting (at first) and then they hear the trial and everything going on and Ri ultimately looks at Emerick and says we haven’t worked much but we’re making serious moves around here. Ri pays Emerick a compliment that he struggles to accept, but Ri is satisfied when he does.

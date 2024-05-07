@@ -5,8 +5,6 @@ Session Date: 2023-08-31
 ---
 **Session Date:** 8/31/2023
 
-Wednesday August 9th, 2045 -> Friday August 11th, 2045
-
 [[Emerick]] had told the group that we need to leave. [[Cipher]] jacks out unsafely and is seriously hurting. There’s a moment before [[Garf]] finally jacks out of the architecture as [[Net]] picks Cipher up to carry him. [[Phoenix]] says it’s time to go and [[Omen]] tells us to get the elevator open while he signals to Torrent to wrap things up. Net is acting like Cipher tripped and rolled an ankle. The guards ask about it and Net explains.
 
 As we are in the elevator, right about to the lobby, Emerick hears a lot of shuffling on the floor here. He mentions it and says it sounds almost like it’s an ambush, possibly, of some kind. He explains that he hears people shuffling things around. Omen rolls out a few smoke grenades and we quickly hustle through the lobby on the way out. We get near the loading dock and Omen chokes out a surprised employee so that she stops screaming. We make it into the loading dock itself.

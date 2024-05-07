@@ -19,7 +19,7 @@ Torrent and Katchya arrive. Katchya helps Bruce and helps talk him down from his
 
 ---
 
-[[Net]] meets up with [[Cipher]] and they aren't sure if they are in the right business. Net did talk to his uncle and he thinks [[Tío Osorio-Gutierrez]] might actually help with this, if he pays the bail out.
+[[Net]] meets up with [[Cipher]] and they aren't sure if they are in the right business. Net did talk to his uncle and he thinks [[Javier]] might actually help with this, if he pays the bail out.
 
 Cipher feels that he won't be paid for the job and Net reassures him that there are people who will help, though Cipher isn't very convinced. Net goes to work on a drone, then falls asleep at his desk.
 

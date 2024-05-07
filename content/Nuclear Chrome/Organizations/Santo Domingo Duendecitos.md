@@ -9,5 +9,5 @@ shrug emoji
 **Translation:** Santo Domingo Little Goblins
 
 Known Members:
-- [[Tío Osorio-Gutierrez]]
+- [[Javier]]
 - [[Net]] (likely former, though)

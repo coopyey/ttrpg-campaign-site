@@ -5,8 +5,6 @@ Session Date: 2023-08-24
 ---
 **Session Date:** 8/24/2023
 
-Wednesday August 9th, 2045
-
 [[Cipher]] and [[Garf]] make it to the same AP that Garf found previously. They do the stuff.
 
 ---
