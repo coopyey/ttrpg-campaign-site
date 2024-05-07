@@ -10,7 +10,7 @@ Hello and welcome to my TTRPG campaign vault!
 Conversion Status (Session Notes):
 - [x] Danse Macabre
 - [x] Gatewalkers
-- [ ] Nuclear Chrome
+- [x] Nuclear Chrome
 - [x] Seal of Infinity
 - [ ] Stepstone Isles
 
