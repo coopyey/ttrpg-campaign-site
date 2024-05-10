@@ -15,15 +15,15 @@ Emerick grabs Net's arm and asks him to make sure that [[Charley]] is okay and m
 
 Omen calls out to Emerick asking if he really wants to follow Juice, and Emerick simply slumps and shrinks as he follows after Juice.
 
-Omen, Net, Charley, and Seo in the groundcar \ 
-Garf and Cipher on the bike \
-Alice and Ri in their own car
+- Omen, Net, Charley, and Seo in the groundcar
+- Garf and Cipher on the bike
+- Alice and Ri in their own car
 
 They are headed to the medtech that Juice had the paper for.
 
 ---
 
-You fuckers thought I'd leave these notes from when I was talking to Ceil in here didn't you. >:3c
+You fuckers thought I'd leave these notes from when i was talking to Ceil in here didn't you? >:3c
 
 ---
 
