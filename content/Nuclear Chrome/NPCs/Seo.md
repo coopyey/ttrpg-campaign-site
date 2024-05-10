@@ -18,4 +18,4 @@ Known Cyberware:
 To Emerick ONLY:
 >Has admitted that he has been forging paperwork for a company that he is meant to be running. The company is an abject failure, but Seo continues to forge the paperwork to make it look like it's doing fine in order to keep his parents' money. *He has asked Emerick to help continue fabricating this documentation as the toll of it, taking care of his brother, and the band, is too much.*
 
-Emerick and Seo have started dating, but are currently keeping it a secret.
+Emerick and Seo have started dating, but are currently keeping it a secret. The main goal is to keep it a secret from Juice and Ogre, and Emerick is generally over cautious. The entire band is aware, and, thanks to high Emerick, the entire party is aware of or at least suspects this.

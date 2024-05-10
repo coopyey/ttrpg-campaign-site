@@ -23,7 +23,7 @@ They are headed to the medtech that Juice had the paper for.
 
 ---
 
-You fuckers thought I'd leave these notes from when i was talking to Ceil in here didn't you? >:3c
+Y'all thought I'd leave this conversation in huh :p
 
 ---
 
