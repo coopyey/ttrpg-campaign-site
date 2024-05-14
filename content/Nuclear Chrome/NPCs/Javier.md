@@ -3,6 +3,7 @@ Class: NPC
 Campaign: Nuclear Chrome
 Status: Alive
 Organization:
+  - "[[Santo Domingo Duendecitos]]"
 ---
 **Full Name:** Javier Osorio-Gutierrez
 

@@ -23,7 +23,15 @@ They are headed to the medtech that Juice had the paper for.
 
 ---
 
-Y'all thought I'd leave this conversation in huh :p
+Emerick follows on Juice's heels, and Juice is very clearly pissed off. He's mumbling a lot, not really saying anything, but he seems to make himself angrier and lashes out: "what the fuck does that rocker think he's doing? he does not need to be acting like this."
+
+It's painfully obvious that Juice has never had any exposure to the rocker scene, and he is absolutely not meant to be doing this. Emerick knows for a fact that he's very ill-equipped to be a band manager and doing this stuff, but he's pissed because Charley thinks he can drag the band name through the mud and be deplorable so the band will never amount to anything. He's not saying much otherwise.
+
+We eventually make it to the car and are sitting in the back of the groundcar while Ogre drives. Eventually, Juice looks over and says: "See, the band needs to behave more like you. You're obedient, you do what you're told, you don't give me any shit." Emerick can't meet Juice's gaze.
+
+Juice speaks again: "I need you to do me a favor. Well, do something. They are about to take Charley to a ripperdoc, or whatever the hell he is. Some kind of medtech, he specializes in surgery, he'll take care of Charley, that's no issue. What I need is for you to give me as much dirt on this man as possible." Emerick agrees, and Juice nods a little.
+
+He looks at Emerick one last time and says, "don't ever think that I'm nothing but a monster like they all think I am. I know you want to make sure this all ends happily. They're already there at the place they'll be reaching here in a minute or two." Ogre pulls the car over and there's a clinic. He gets out of the car and opens the door for Emerick. Juice speaks again, "get me the information I need, as much of it as possible. I want to know anything and everything about the people you all work with, and that works with my band." After that, Juice nods at Emerick, and he is dismissed.
 
 ---
 

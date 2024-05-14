@@ -3,14 +3,19 @@ Class: Player Character
 Campaign: Nuclear Chrome
 Player Class: Medtech
 Subclass: 
-Status: Alive
+Status: Retired
 ---
 Torrent's player had to leave the campaign due to scheduling issues.
 
 ---
 
 # General Information
-**Class:**  4 Medteech
+**Class:**  4 Medtech
+
+- Medical Tech: 2
+	- Cryosystem Operation 0
+	- Pharmaceuticals 2
+- Surgery 2
 
 **Background:** \
 Owes someone money, and so works for [[Juice]] to manage paying that off.

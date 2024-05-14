@@ -2,7 +2,8 @@
 Class: NPC
 Campaign: Seal of Infinity
 Status: Dead
-Organization: "[[Kincaid Gang]]"
+Organization:
+  - "[[Kincaid Gang]]"
 ---
 **Full Name:** Zerch Zilardo
 

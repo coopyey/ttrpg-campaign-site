@@ -10,7 +10,10 @@ Status: Alive
 
 **Class:** 4 Netrunner
 
+- Netrunner Skill: Interface 4
+
 **Background:** \
 Is here to earn some extra cash, and because [[Net]] is here.
 # Additional Notes
 Member of [[The Thinkers]].
+

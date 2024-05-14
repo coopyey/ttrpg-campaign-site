@@ -1,6 +1,6 @@
 ---
 Class: Organization
-Campaign: 
+Campaign: Danse Macabre
 Status: Active
 ---
 ## Mission/Goal

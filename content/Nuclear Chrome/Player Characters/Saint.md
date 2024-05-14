@@ -8,6 +8,11 @@ Status: Alive
 # General Information
 **Class:** Medtech 4
 
+- Medical Tech 2
+	- Cryosystem Operation 1
+	- Pharmaceuticals 1
+- Surgery 2
+
 **Subclass:** None so far
 
 **Background:** Unknown as of yet
