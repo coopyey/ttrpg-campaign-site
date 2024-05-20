@@ -19,10 +19,10 @@ fields:
     options: {}
     path: ""
     id: oUUE6f
-version: "2.15"
+version: "2.16"
 limit: 20
 mapWithTag: false
-icon: package
+icon: map-pin
 tagNames: 
 filesPaths: 
 bookmarksGroups: 

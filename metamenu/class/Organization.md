@@ -17,10 +17,10 @@ fields:
         "2": Inactive
     path: ""
     id: 1kZQ1t
-version: "2.9"
+version: "2.10"
 limit: 20
 mapWithTag: false
-icon: package
+icon: building
 tagNames: 
 filesPaths: 
 bookmarksGroups: 

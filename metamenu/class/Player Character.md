@@ -28,10 +28,10 @@ fields:
         "3": Retired
     path: ""
     id: bBmUqI
-version: "2.13"
+version: "2.14"
 limit: 20
 mapWithTag: false
-icon: package
+icon: user
 tagNames: 
 filesPaths: 
 bookmarksGroups: 

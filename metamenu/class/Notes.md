@@ -8,10 +8,10 @@ fields:
       valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
     id: CPsHDO
-version: "2.1"
+version: "2.2"
 limit: 20
 mapWithTag: false
-icon: package
+icon: scroll
 tagNames: 
 filesPaths: 
 bookmarksGroups: 

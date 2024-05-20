@@ -23,10 +23,10 @@ fields:
     options: {}
     path: ""
     id: LWU4Lr
-version: "2.44"
+version: "2.45"
 limit: 20
 mapWithTag: false
-icon: package
+icon: user-circle
 tagNames: 
 filesPaths: 
 bookmarksGroups: 
@@ -646,43 +646,6 @@ savedViews:
         name: Organization
         hidden: false
         position: 3
-  - name: StrahdDead
-    children: []
-    sorters: []
-    filters:
-      - id: NPC____file
-        name: file
-        query: ""
-        customFilter: ""
-      - id: NPC____Campaign
-        name: Campaign
-        query: Strahd Has Risen from the Grave
-        customFilter: ""
-      - id: NPC____Status
-        name: Status
-        query: Dead
-        customFilter: ""
-      - id: NPC____Organization
-        name: Organization
-        query: ""
-        customFilter: ""
-    columns:
-      - id: NPC____file
-        name: file
-        hidden: false
-        position: 0
-      - id: NPC____Campaign
-        name: Campaign
-        hidden: true
-        position: 1
-      - id: NPC____Status
-        name: Status
-        hidden: true
-        position: 2
-      - id: NPC____Organization
-        name: Organization
-        hidden: false
-        position: 3
   - name: StrahdAliveOrgs
     children: []
     sorters:
@@ -707,6 +670,43 @@ savedViews:
       - id: NPC____Organization
         name: Organization
         query: __notEmpty__
+        customFilter: ""
+    columns:
+      - id: NPC____file
+        name: file
+        hidden: false
+        position: 0
+      - id: NPC____Campaign
+        name: Campaign
+        hidden: true
+        position: 1
+      - id: NPC____Status
+        name: Status
+        hidden: true
+        position: 2
+      - id: NPC____Organization
+        name: Organization
+        hidden: false
+        position: 3
+  - name: StrahdDead
+    children: []
+    sorters: []
+    filters:
+      - id: NPC____file
+        name: file
+        query: ""
+        customFilter: ""
+      - id: NPC____Campaign
+        name: Campaign
+        query: Strahd Has Risen from the Grave
+        customFilter: ""
+      - id: NPC____Status
+        name: Status
+        query: Dead
+        customFilter: ""
+      - id: NPC____Organization
+        name: Organization
+        query: ""
         customFilter: ""
     columns:
       - id: NPC____file

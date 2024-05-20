@@ -18,10 +18,10 @@ fields:
       valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
     id: fKlfOC
-version: "2.9"
+version: "2.10"
 limit: 20
 mapWithTag: false
-icon: package
+icon: book-open-text
 tagNames: 
 filesPaths: 
 bookmarksGroups: 
