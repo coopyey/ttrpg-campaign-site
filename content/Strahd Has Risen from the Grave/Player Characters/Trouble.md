@@ -8,13 +8,15 @@ Status: Alive
 # General Information
 **Ancestry:** Goblin
 
-**Heritage:** Beastkin?
+**Heritage:** Beastkin (Bat)
 
 **Class:** Bard
 
-**Subclass:** 
+**Subclass:** Polymath Muse
 
-**Background:** 
+**Background:** Artist
+
+**Deity:** Shelyn
 
 Additional notes
 # Additional Notes

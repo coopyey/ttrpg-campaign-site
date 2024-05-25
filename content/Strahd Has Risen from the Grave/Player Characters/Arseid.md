@@ -6,16 +6,16 @@ Subclass: Ruffian
 Status: Alive
 ---
 # General Information
-**Ancestry:** 
+**Ancestry:** Kitsune
 
 **Heritage:** Nephilim
 
-**Class:** 
+**Class:** Rogue
 
-**Subclass:** 
+**Subclass:** Ruffian
 
-**Background:** 
+**Background:** Acrobat
 
-Additional notes
+**Pronunciation:** Are-say-id
 # Additional Notes
 Notes
