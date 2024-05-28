@@ -28,7 +28,7 @@ We investigate the weird lambs, there are maybe a dozen.
 - One has hooves cloven into crab claws
 - They have patches of pearlescent scales
 - The eyes are different: 
-![[si_weird-lamb-eyes.webp]]
+![[step_weird-lamb-eyes.webp]]
 - Sarras notes that the lambs are desecrated
 
 Calthel does an Arcana Check (19):
