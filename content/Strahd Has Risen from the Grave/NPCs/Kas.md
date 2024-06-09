@@ -10,3 +10,4 @@ Organization:
 - Kas the Terrible
 - Kas the Hateful
 - Kas the Destroyer
+- Kas of Tycheron
