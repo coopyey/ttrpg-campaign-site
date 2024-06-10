@@ -11,6 +11,7 @@ Status: Alive
 **Ancestry:** Kobold
 
 **Heritage:** Spell scale
+
 **Class:** Sorcerer
 
 **Subclass:** Imperial bloodline
