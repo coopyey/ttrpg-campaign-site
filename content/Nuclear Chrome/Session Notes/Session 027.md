@@ -21,7 +21,7 @@ Emerick sends a question mark because he's too high to string too many thoughts 
 
 Net stands and fixes his hair and Omen gives him a pack of cigs. Net says that offer's still open to meet his gang leader uncle. Omen says if he's in prison he's not super interested. Saint asks what organization he's part of, and Net says that makes him sound like a cop, but eventually gives him the name [[Santo Domingo Duendecitos]]. 
 
-[[Seo]] speaks up and says we should all go home, and Omen says that he would like to speak to us about our living situation. He says that it's bad and Seo agrees, but says we can discuss this on the way back. He looks over at Saint and thanks him for patching up Charley, then heads out, with Emerick trailing after him. Everyone makes their way out of their own accord.
+[[Seo]] speaks up and says we should all go home, and Omen says that he would like to speak to us about our living situation. He says that it's bad and Seo agrees, but says we can discuss this on the way back. He looks over at Saint and thanks him for patching up Charley, then heads out, with Emerick trailing after him. Everyone make s their way out of their own accord.
 Garf drives.
 
 ---
