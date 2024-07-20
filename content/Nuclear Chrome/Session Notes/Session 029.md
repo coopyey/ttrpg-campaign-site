@@ -32,7 +32,11 @@ Later, Omen texts Emerick and asks if he can go with Emerick to the public addre
 # Monday, August 28th, 2045
 The day of the NCPD public address.
 ## Emerick & Omen
-Omen texts Emerick and lets him know that he's on the way with [[Phoenix]]. Emerick and Charley steps outside to wait for Omen to arrive. Emerick tentatively asks if he can speak to Charley about something, and Charley says sure, he's listening. Emerick mentions that 
+Omen texts Emerick and lets him know that he's on the way with [[Phoenix]]. Emerick and Charley steps outside to wait for Omen to arrive. Emerick tentatively asks if he can speak to Charley about something, and Charley says sure, he's listening. Emerick mentions that he'd talked to Phoenix about some of their situation and she wants to help them with this situation. Charley asks a few questions trying to probe about her and Emerick explains that while she's definitely got a bit of a crazy side to her, his impression after working with her is that she's a good reporter and knows what stories she wishes to tell and expects work to be done in a professional, neat way. Emerick overall likes her, and is willing to vouch for her, which seems to be enough for Charley.
+
+Charley admits, though, that he has some concerns because he is very protective over the band and wants to make sure they're okay. Emerick admits that he has really come to care for the band as well, and he really wants to see them get out from under this mess and somewhere they are safe (in Night City standards, anyway). Charley tells Emerick that he is an absolute angel, and that he should never change.
+
+As their conversation wraps up, Omen's car appears at the end of the street and parks in front of the two. They get into the car and introductions are made between Phoenix and Charley, and then we are off.
 
 We arrive and are given back stage for Q&A. There are two people of interest: the police chief, and [[Ida Mueller]]. We arrive and show our passes to security and we are allowed to park and security says we are allowed to enjoy the concessions and then the Q&A will start soon. We enter and as we are walking around and getting settled in, we see the people who will be speaking on stage. 
 
