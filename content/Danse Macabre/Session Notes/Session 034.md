@@ -5,9 +5,9 @@ Session Date: 2023-11-05
 ---
 **Session Date:** 11/5/2023
 
-[[Cruelwind Prison]] is the only prison that matches the description of a prison up north, according to [[Soldas]]. He explains that he’s not sure what we’ll have to deal with but once we get to the last station we will have to travel the rest of the way to the country, then trek further north to get to the prison. There are places we will need to be very wary of due to danger, such as ice trolls. Once we get there he isn’t sure if we’ll be able to be there as guests or if we will have to break in and enter. He explains that the warden, [[General Chase]], is an old ally and that we likely will not be going there as guests.
+[[Cruelwind Prison]] is the only prison that matches the description of a prison up north, according to [[Soldos]]. He explains that he’s not sure what we’ll have to deal with but once we get to the last station we will have to travel the rest of the way to the country, then trek further north to get to the prison. There are places we will need to be very wary of due to danger, such as ice trolls. Once we get there he isn’t sure if we’ll be able to be there as guests or if we will have to break in and enter. He explains that the warden, [[General Chase]], is an old ally and that we likely will not be going there as guests.
 
-Dia asks who the warden works under and Soldas explains that on paper, he works for the ruling council of [[Reclesau]]. However, he is left alone to his devices in the prison. The prisoners come from several countries at it is a bit of a business. Soldas has heard a rumor that if you pay well enough you can have someone imprisoned there, though he hasn’t confirmed it. Soldas explains that he once knew the warden as an honorable man, but that information seems to be outdated as he has changed since the war has ended, and he’s not sure why.
+Dia asks who the warden works under and Soldos explains that on paper, he works for the ruling council of [[Reclesau]]. However, he is left alone to his devices in the prison. The prisoners come from several countries at it is a bit of a business. Soldos has heard a rumor that if you pay well enough you can have someone imprisoned there, though he hasn’t confirmed it. Soldos explains that he once knew the warden as an honorable man, but that information seems to be outdated as he has changed since the war has ended, and he’s not sure why.
 
 Dia asks him if he’s looking for someone and he says no, not in this particular life, but scars still remain.
 
@@ -15,9 +15,9 @@ We offer more help and he says if we help any more than we already have, he woul
 
 We enter the common room area and find [[Mordaine]], who waves us over as he’s saved some things for us. We sit around and eat and chat. He mentions [[Amoth Bridge]], and Amoth is a god of justice and mercy. He is dead, slain centuries ago by several demon lords during a particular battle that involved multiple planes. He warns us to be careful as that is likely on the way to where we’re headed, and it may be particularly dangerous.
 
-[[Arythas]] hasn’t heard of this thing, but he realizes that it is weird: Soldas was there at a battle in that area in the last war. He has heard about most if not all of the important people and battles of the last war. He’s never heard of the battle of Amoth Bridge.
+[[Arythas]] hasn’t heard of this thing, but he realizes that it is weird: Soldos was there at a battle in that area in the last war. He has heard about most if not all of the important people and battles of the last war. He’s never heard of the battle of Amoth Bridge.
 
-[[Rohan]] asks why we should be so wary around that area because the war was so many years ago, and he explains that he doesn’t know what actually happened in that area, he just knows it’s significant to Soldas and Soldas doesn’t talk about it.
+[[Rohan]] asks why we should be so wary around that area because the war was so many years ago, and he explains that he doesn’t know what actually happened in that area, he just knows it’s significant to Soldos and Soldos doesn’t talk about it.
 
 Dia writes a copy of the recipe for [[Phoebe]]’s soup down and adds it to their recipe book.
 
@@ -27,7 +27,7 @@ We all head to bed. [[Iskra]] has a dream as he sleeps, recalling his brother, a
 
 ---
 
-Soldas rouses us and takes us to the train. On the way, Iskra asks why Amoth Bridge is significant, and Soldas stops and asks where we heard the name. Iskra says Mordaine. Soldas says the doesn’t like to talk about this and Iskra says we don’t have to then and walks ahead to the train station. We make it and it’s essentially a party train: [[Professor Profundo’s Railroad Circus & Casino]]. There are fireworks, loud noises, the whole works.
+Soldos rouses us and takes us to the train. On the way, Iskra asks why Amoth Bridge is significant, and Soldos stops and asks where we heard the name. Iskra says Mordaine. Soldos says the doesn’t like to talk about this and Iskra says we don’t have to then and walks ahead to the train station. We make it and it’s essentially a party train: [[Professor Profundo’s Railroad Circus & Casino]]. There are fireworks, loud noises, the whole works.
 
 Rohan and [[Inky]] notice a gnome man named [[Ronald Rasmussen]] Rasmussen struggling with a heavy bag that is carrying an important package. Rohan can tell that the object inside is made mostly of metal, but it is definitely not a bomb or mechanism. On the way back there is a gnome man who has a huge gnarly beard and MUST be wearing clothes underneath, and he just drinks out of a bucket of beer like a feral dog, and the crowd cheers and chants the name [[Stinky]].
 

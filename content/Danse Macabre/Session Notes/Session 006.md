@@ -7,7 +7,7 @@ Session Date: 2023-02-26
 
 [[Inky]] wakes up to the sound of two explosions. One was close, the second was far.
 
-The guy that explodes does so from the inside out: first [[Dia]] is engulfed by read flame, then gone black. Dia comes to and [[Soldas]] had protected her. [[Arythas]] realizes that he is being healed at half and Dia is also aware of this. Everyone else gets to us and [[Iskra]] casts healing spirit and the spirit gets him back to normal order, the necrotic energy purged and cleansed. He explains he came to check on the rookies and this happened.
+The guy that explodes does so from the inside out: first [[Dia]] is engulfed by read flame, then gone black. Dia comes to and [[Soldos]] had protected her. [[Arythas]] realizes that he is being healed at half and Dia is also aware of this. Everyone else gets to us and [[Iskra]] casts healing spirit and the spirit gets him back to normal order, the necrotic energy purged and cleansed. He explains he came to check on the rookies and this happened.
 
 They did not receive wine from the abbey, they don’t have information of who recruited who. Rohan says there was a second explosion that also happened with [[The Family of Light]].
 
@@ -21,7 +21,7 @@ Rohan’s dagger changes and turns into soulflayer teeth with the dagger covered
 
 They go over to check on the Family of Light.
 
-[[Soldas]] has runes etched into his skin but they are gone now. He contained the explosion himself and reassures us that he is okay only because of Iskra and his magic. Inside their camp is much more gruesome events — more people were together when the followers exploded. [[Rafferty]] and [[Shevore]] are hurt, but conscious. Dia pushes through the crowd to get to the scene, with Arythas hot on her heels as they go. Dia stops before Rafferty and goes to heal Shevore. Rafferty is playing the role of a paladin to appear noble. Dia does go to Shevore and heals her first as her left arm was still aflame.
+[[Soldos]] has runes etched into his skin but they are gone now. He contained the explosion himself and reassures us that he is okay only because of Iskra and his magic. Inside their camp is much more gruesome events — more people were together when the followers exploded. [[Rafferty]] and [[Shevore]] are hurt, but conscious. Dia pushes through the crowd to get to the scene, with Arythas hot on her heels as they go. Dia stops before Rafferty and goes to heal Shevore. Rafferty is playing the role of a paladin to appear noble. Dia does go to Shevore and heals her first as her left arm was still aflame.
 
 Inky drops down off of Arythas’ shoulder and walks over to Shevore. Dia and Iskra heal the base damage but she is still infected with the necrotic energy. Inky comes up and purges her of the corruption using false life. Inky thinks he could use this to create a spell or ritual that could cleanse the undead energy off of people. Some of the healers watching manage to copy it to stop the others from being infected at the camp.
 
@@ -43,4 +43,4 @@ The Earthshaker heals the rest of Dia’s wounds and then explains his issues wi
 
 While the party walks, Inky starts asking Rohan about his magic and Rohan denies knowing magic. Inky ultimately has the impression that Rohan is a sorcerer and just doesn’t know that he’s a sorcerer.
 
-We make it back to the Bloodsoaked Banner. Soldas offers to send for Rafferty and we agree to it, so we go to his tent and wait for Shevore and Rafferty to arrive. Shevore thanks Inky for the help, and he thanks her instead. She tells us that the mages have been sent to help melt the avalanche fall. Soldas begins the negotiations for which group will get the Earthshaker, but they are interrupted with the sound of drums and battle while someone calls out that they are being attacked.
+We make it back to the Bloodsoaked Banner. Soldos offers to send for Rafferty and we agree to it, so we go to his tent and wait for Shevore and Rafferty to arrive. Shevore thanks Inky for the help, and he thanks her instead. She tells us that the mages have been sent to help melt the avalanche fall. Soldos begins the negotiations for which group will get the Earthshaker, but they are interrupted with the sound of drums and battle while someone calls out that they are being attacked.

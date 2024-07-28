@@ -50,7 +50,7 @@ Iskra has a nightmare.
 
 Rohan talks to his patron and asks if he should trust his powers. Taraaq explains he isn’t good at this because he is a demon and demons don’t do trust, and practice makes perfect with the powers. They discuss who Rohan can trust with his secret.
 
-The next day, the Earthshaker awakens and explains he spoke with Bahamut and is better now. We return with the Earthshaker to the Bloodsoaked Banner, where Soldas gives us a mark of friendship, which Dia takes.
+The next day, the Earthshaker awakens and explains he spoke with Bahamut and is better now. We return with the Earthshaker to the Bloodsoaked Banner, where Soldos gives us a mark of friendship, which Dia takes.
 
 Iskra grabs Mordaine and gives him one silver coin filled with Iskra’s magic. This will let him know when Iskra is nearby.
 

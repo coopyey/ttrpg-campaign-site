@@ -8,3 +8,5 @@ Organization:
 **Title:** Overlord of Shadows
 
 He is new and organizing. What he's doing is very cultish, and seems to be using dark elves to further his influence rather than considering what that means in society. He's spoken a big deal about maybe doing an armed uprising against the commonwealth.
+
+[[Carver]] has the impression that Argent genuinely believes in the shit he's selling - truly believes in the healing shadow, the sun as an enemy.

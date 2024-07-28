@@ -7,7 +7,7 @@ Session Date: 2024-07-19
 
 **In Game Date:** August 26th, 2045 -> August 28th, 2045
 
-**Summary:** Last session, [[Emerick]] had talked to [[Phoenix]] about what had happened with [[Charley]] and what's going on with [[Juice]]. [[Net]] told [[Trash Tablet]] what he's been going through with the group and the boss - what's important, at least. [[Omen]] reached out to [[Serpent]], the fixer from [[content/Nuclear Chrome/Session Notes/Session 001|Session 001]], and he requested a favor to clear out some gang members from a specific area. Omen got ahold of  [[Garf]] and the two were working on checking out the site and seeing what's going on. Omen attacked one guy and started combat with the gangers.
+**Previous Session:** Last session, [[Emerick]] had talked to [[Phoenix]] about what had happened with [[Charley]] and what's going on with [[Juice]]. [[Net]] told [[Trash Tablet]] what he's been going through with the group and the boss - what's important, at least. [[Omen]] reached out to [[Serpent]], the fixer from [[content/Nuclear Chrome/Session Notes/Session 001|Session 001]], and he requested a favor to clear out some gang members from a specific area. Omen got ahold of  [[Garf]] and the two were working on checking out the site and seeing what's going on. Omen attacked one guy and started combat with the gangers.
 
 # Saturday, August 26th, 2045
 ## Omen & Garf

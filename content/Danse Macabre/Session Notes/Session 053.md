@@ -49,7 +49,7 @@ Rohan pulls Inky and Iskra aside while Dia, Arythas, and Kestrel talk. Rohan men
 
 ---
 
-The group all look around for anyone who could tell us where the caravan will be departing from. They all find a soldier - a sort of elfin gentleman that has the same tired stare as [[Soldas]], a man who's seen a lot of war - and can tell that he's just processing information as he's glancing around. The party managed to catch his glance but he moved on without any judgement.
+The group all look around for anyone who could tell us where the caravan will be departing from. They all find a soldier - a sort of elfin gentleman that has the same tired stare as [[Soldos]], a man who's seen a lot of war - and can tell that he's just processing information as he's glancing around. The party managed to catch his glance but he moved on without any judgement.
 
 Dia and Iskra approaches him, with Arythas not too far off. Dia says hello to him and says that we are likely traveling together back to the prison. Dia tries to flirt with him a bit. Dia asks what he's doing here and says she's curious about him.
 

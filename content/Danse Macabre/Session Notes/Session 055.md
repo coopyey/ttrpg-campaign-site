@@ -75,9 +75,9 @@ Dia, meanwhile, tries to call Rohan and Taraaq, to no avail. She calls upon Demn
 
 Demna says that she wants to get out of this, to be better, and Dia gives her some shit about how Demna tried to get her soul. Demna says that habits die hard, and she has a performance review coming up so she needs another soul (though this is her joking, trying to lift the mood). Arythas comes back in at this point.
 
-Arythas and Dia discuss what just happened and Dia suggests that perhaps we should have Arythas' family move. Arythas admits that he doesn't disagree, but he feels that this force seems to know quite a bit about them and they likely would know if his family was to be moved. We also wouldn't know where to move them to: The [[Bloodsoaked Banner]] are a lot of strangers and we hardly wish to impose on [[Soldas]], and we don't wish to drag [[Kestrel St. Clair]] into danger because of his daughter. Arythas points out that with the way that this cult seems to know so much about them, they likely already know about Kestrel and his daughter [[Robin]] as it is.
+Arythas and Dia discuss what just happened and Dia suggests that perhaps we should have Arythas' family move. Arythas admits that he doesn't disagree, but he feels that this force seems to know quite a bit about them and they likely would know if his family was to be moved. We also wouldn't know where to move them to: The [[Bloodsoaked Banner]] are a lot of strangers and we hardly wish to impose on [[Soldos]], and we don't wish to drag [[Kestrel St. Clair]] into danger because of his daughter. Arythas points out that with the way that this cult seems to know so much about them, they likely already know about Kestrel and his daughter [[Robin]] as it is.
 
-Arythas then suggests we should likely make aware the powerful people that we know such as Soldas, the leader of the [[Crimson Legion]] that we know (Centurion [[Valtar]]), [[Rafferty]], [[Kalvag]], and the princess friend of DIa's.
+Arythas then suggests we should likely make aware the powerful people that we know such as Soldos, the leader of the [[Crimson Legion]] that we know (Centurion [[Valtar]]), [[Rafferty]], [[Kalvag]], and the princess friend of DIa's.
 
 ---
 

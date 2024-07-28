@@ -37,18 +37,18 @@ As we continue, Rohan starts to play in the snow and it isn’t long before an o
 
 We continue on and reach a valley with two camps — the Bloodsoaked Banner and [[The Family of Light]] (Church of Pelor) camp. Dia is panicking and wants to avoid the actual valley but we say no. Dia agrees to go to the Bloodsoaked Banner’s camp. We are let in by our dwarven friend. He explains that each camp is looking for a legendary paladin and the situation is tense because they want him to train their people. Dia is aware they mean the dragonborn Artem, AKA the Earthshaker, that helped with the snowman.
 
-[[Rafferty]] — one of Dia’s brother — notices her and it is clearly very uncomfortable. Dia tries to back up and the group protectively encloses around her. He wants to know why she is around and if she would join him on his mission. She says no over and over, and tries to convince him the Earthshaker is gone. Rafferty isn’t listening and it goes until Govemon [[Soldas]] — the elfin leader of the Bloodsoaked Banner — steps in and sends him off.
+[[Rafferty]] — one of Dia’s brother — notices her and it is clearly very uncomfortable. Dia tries to back up and the group protectively encloses around her. He wants to know why she is around and if she would join him on his mission. She says no over and over, and tries to convince him the Earthshaker is gone. Rafferty isn’t listening and it goes until Govemon [[Soldos]] — the elfin leader of the Bloodsoaked Banner — steps in and sends him off.
 
-The Bloodsoaked Banner and the Family of Light are looking for [[Artem Vorvarax]], paladin of [[Bahamut]], the Earthshaker. The Bloodsoaked Banner want him to help with their initiative while the Family wants him to train their “paladins”. Dia gives a note to Govannon Soldas for Artem to read.
+The Bloodsoaked Banner and the Family of Light are looking for [[Artem Vorvarax]], paladin of [[Bahamut]], the Earthshaker. The Bloodsoaked Banner want him to help with their initiative while the Family wants him to train their “paladins”. Dia gives a note to Govannon Soldos for Artem to read.
 
 Dia asks how he knows [[Bertram]]. She cannot find him, as he is missing. She explains that he may be in a dungeon somewhere where it is snowy and she asks for any information on him if they find something. While he has no promises, they will add him to the list of people to search for.
 
-Iskra has some questions for Soldas:
+Iskra has some questions for Soldos:
 
 - Have you heard about a big tragedy lately? Not the fey storm — anything where a lot of people died?
     - He hasn’t heard anything specific.
 - Iskra is looking for someone — not the same person as Mordaine, but someone who is connected. If one is there then the other is likely not far behind.
-    - Mordaine was searching for Tristan for much more than a few years. Soldas hasn’t heard anything specific on that front.
+    - Mordaine was searching for Tristan for much more than a few years. Soldos hasn’t heard anything specific on that front.
 
 Artem Vorvarax — The Earthshaker — Paladin of Bahamut. Story: the most famous is that he used his power to destroy a dam and it drowned a small town. There was a magical project being developed in the town that would have caused devastation but the town wasn’t evacuated so it was stopped at what cost.
 

@@ -9,7 +9,7 @@ We see [[Oceanscar]] and recall it used to be a dwarven city. The king’s palac
 
 The city gets its name as it is built on a jagged cliff and there is a legend of the gods cleaving the shoreline. Population is mostly elves, but there are also humans, gnomes, a halfling quarter, and a smattering of orcs. There are about a million people here.
 
-Iskra recommends we use the [[Bloodsoaked Banner]] to ask for help to avoid having to ask Dia’s family for anything. With this, Dia whips out the alliance mark that [[Soldas]] gave us and displays it visibly so that they know we are friends of theirs.
+Iskra recommends we use the [[Bloodsoaked Banner]] to ask for help to avoid having to ask Dia’s family for anything. With this, Dia whips out the alliance mark that [[Soldos]] gave us and displays it visibly so that they know we are friends of theirs.
 
 A group of kobolds in pinstripe suits pass by. We are going the same way as them, but eventually they turn off to go down an alley toward an establishment that seems to be for kobolds. We find a leaflet for a definitely 100% legit business that is basically the [[Kobold Mafia]]. Drakeheart is a popular kobold name.
 

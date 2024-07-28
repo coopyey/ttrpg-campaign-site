@@ -37,7 +37,7 @@ The library is very still, in an unnatural way. Lohiss is crazed and starts laug
 
 Inky stumbles out of the door as the rest of us barge into the lighthouse. Dia and Arythas rush up asking if he’s okay and Inky says he’s fine, he’s not hurt, at least physically. Dia casts cure wounds on him and then Iskra offers him some fey weed. Inky explains that the Cordans aren’t a problem and Arythas asks if Lohiss will be coming and Inky says definitely not. Dia explains we need to hurry as there may be an army on our heels. We make it to the [[Sea Bitch]]. Dia rambles and explains we need to leave.
 
-She then casts her last sending to the [[Soldas]] and says:
+She then casts her last sending to the [[Soldos]] and says:
 
 >I made a really bad mistake. They’re going to send someone after her. Please get the fake me out of there, my doppelgänger, please get her out of there.
 

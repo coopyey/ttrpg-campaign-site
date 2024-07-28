@@ -8,7 +8,7 @@ Session Date: 2024-07-05
 
 **In Game Date:** August 26th, 2045
 
-**Summary:** It was getting late as the group returned to the [[Curb Stomping Word Vomit]] warehouse. [[Saint]] pushed us all out and [[Garf]], [[Seo]], [[Emerick]], and [[Omen]] went to the safehouse with a long conversation, while [[Net]] went to see his uncle.
+**Previous Session:** It was getting late as the group returned to the [[Curb Stomping Word Vomit]] warehouse. [[Saint]] pushed us all out and [[Garf]], [[Seo]], [[Emerick]], and [[Omen]] went to the safehouse with a long conversation, while [[Net]] went to see his uncle.
 
 **Reminder:** The police precinct is having their speech and Emerick has a pass to that. The police chief will be there giving the speech. [[Miranda Vasquez]] will be there as part of the selected group of representatives there. She is listed as a representative so she will likely be on stage rather than in the barricade.
 

@@ -46,11 +46,11 @@ Rohan slips the documents onto the desk and then Rafferty personally shows Rohan
 
 While Rohan is doing all of this, Dia goes to speak with the leader of the Bloodsoaked Banner. He is at a war table looking over their search for the Earthshaker. It is more disarrayed but the people are much more dedicated than those of the Family.
 
-Dia explains we need to leave the valley and go to the city and stop necrotic wine. Dia explains that she doesn’t feel safe here as she doesn’t have permission to be here. Dia explains if we can convince Rafferty that the Earthshaker is on the other side of the avalanche he will help, but [[Soldas]] doesn’t think we can wing that. He just wants to talk to tthe Earthshaker. Dia offers to help find the Earthshaker in exchange of getting out of the valley.
+Dia explains we need to leave the valley and go to the city and stop necrotic wine. Dia explains that she doesn’t feel safe here as she doesn’t have permission to be here. Dia explains if we can convince Rafferty that the Earthshaker is on the other side of the avalanche he will help, but [[Soldos]] doesn’t think we can wing that. He just wants to talk to tthe Earthshaker. Dia offers to help find the Earthshaker in exchange of getting out of the valley.
 
-Soldas notices Dia’s headband and recognize it: he asks if the friend who gave it to her was a gnome (yes). He tells her not to take it off. He holds a crystal to it and Dia learns that it is magic. He isn’t 100% sure what it does, but the design is familiar and typically helps to hide people from scrying. He reassures her that she doesn't have to interact with her family if she doesn’t wish to and offers a bodyguard, which she turns down because she has the team. He reassures her that she is not a burden.
+Soldos notices Dia’s headband and recognize it: he asks if the friend who gave it to her was a gnome (yes). He tells her not to take it off. He holds a crystal to it and Dia learns that it is magic. He isn’t 100% sure what it does, but the design is familiar and typically helps to hide people from scrying. He reassures her that she doesn't have to interact with her family if she doesn’t wish to and offers a bodyguard, which she turns down because she has the team. He reassures her that she is not a burden.
 
-Somewhere in this she also realizes that Soldas is the type of elf that reincarnates over and over.
+Somewhere in this she also realizes that Soldos is the type of elf that reincarnates over and over.
 
 ---
 

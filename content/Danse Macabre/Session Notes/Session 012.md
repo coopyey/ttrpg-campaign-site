@@ -9,7 +9,7 @@ I was gone for session 11.
 
 ---
 
-[[Arythas]] wakes with [[Soldas]] having a projection-message for him. He recommends that I seek out and open a dialogue with the [[Crimson Legion]] and try to get them to help the [[Bloodsoaked Banner]] in their cause. I’ll have to ask around for the [[Oceanscar]] leader of their order, the title is called Centurion. Soldas learned about this a few hours ago. There is rumor, too, that the Centurion there has another one of Bahamut’s weapons.
+[[Arythas]] wakes with [[Soldos]] having a projection-message for him. He recommends that I seek out and open a dialogue with the [[Crimson Legion]] and try to get them to help the [[Bloodsoaked Banner]] in their cause. I’ll have to ask around for the [[Oceanscar]] leader of their order, the title is called Centurion. Soldos learned about this a few hours ago. There is rumor, too, that the Centurion there has another one of Bahamut’s weapons.
 
 For reference, the Crimson Legion is an organization of tieflings. They’re generally paladins and warlocks that worship varying deities of light — some worship Pelor, some Bahamut, a few worship Bane. The warlocks may have pacts with fiends that are aligned against Asmodeus. Their goal is to destroy Asmodeus, but for now they fight evil doers and fiends. They wish to change the king of the Hells.
 

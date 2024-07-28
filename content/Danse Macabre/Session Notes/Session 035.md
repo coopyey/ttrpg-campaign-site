@@ -35,7 +35,7 @@ As of note, when asked who hired Jyl, she simply zones out for and goes silent f
 
 After Dia and Arythas get some food, Dia settles down to draw in her journal to try to map out information and its movement. She draws members of her family in the journal, with the final figure being a non-detailed silhouette of a man that she isn’t sure how he looks anymore.
 
-Jyl comes by later and thanks us again and Dia offers our support and recommended contacting the [[Bloodsoaked Banner]] for help if needed. She does specify [[Soldas]], and gives the location for him.
+Jyl comes by later and thanks us again and Dia offers our support and recommended contacting the [[Bloodsoaked Banner]] for help if needed. She does specify [[Soldos]], and gives the location for him.
 
 Rohan offers to snoop around to find who bought Jyll’s ticket to see if we can figure out who hired her, and Dia recommends we ask first, then get into trouble.
 
