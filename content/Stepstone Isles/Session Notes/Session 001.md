@@ -9,15 +9,14 @@ The notes for session 1-5 are going to be a little chaotic - they are being pull
 
 ---
 
-# The Group
 All of us live at or near Durkenford. We are meeting with [[Ealdorman Thinnulf]]. He's the financial officer's deputy for [[Duchess Bellicent]], and we are here to investigate [[Skerry Yayek]]. It is early March, which means that there is constant rain and shifting winds - long sailing is no good at this time. April-September is the seafaring season.
-## Quest Details
+# Quest Details
 The Duchess previously sent three tax collectors to Skerry Yayek, and they haven't returned twelve days later. The lighthouse should have been lit on the first of them onth but wasn't. We are to investigate and find out what is wrong.
 - 100g for each tax collector found, dead *or* alive
 - If we prove it was a shipwreck, we get 1/2 the reward
 - If the taxes are recovered, we receive 1/6 the taxes
 - If we have a satisfactory explanation, we are given a letter of recommendation to the marquis to join her court
-## About Skerry Yayek
+# About Skerry Yayek
 - Temple of Eight in town
 - Henge NE of town for outdoor rituals
 - Three accessible beaches
@@ -33,7 +32,7 @@ The Duchess previously sent three tax collectors to Skerry Yayek, and they haven
 	- Wyverns are a possibility, but unlikely
 
 The weather is 45-50F, cloudy, misty, and generally gloomy. The island itself is craggy and inhospitable-looking.
-## Arriving at Skerry Yayek
+# Arriving at Skerry Yayek
 When we arrive to Skerry Yayek, we find that people are *gone*. We know that about 200 years ago, [[Duffholm]] was entirely depopulated without a reason. It was generally accepted that cultists caused it to happen, but that was never proven.
 
 We first investigated the henge and found that there was a mimic inside of it. We recall that mimics show up near aberration/sleeping god activity. While they tend to show up near such activity, their presence alone does not actually prove that it is happening.

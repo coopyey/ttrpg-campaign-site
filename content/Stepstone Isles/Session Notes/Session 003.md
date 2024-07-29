@@ -13,6 +13,6 @@ We finally arrive at Caer Colbrech after an eight hour ride. In the audience cha
 
 After dinner, Calthel pulls Kerran aside and asks if everything is okay. He explains that *he was out at sea and saw a creature that was an amalgamation of an albino crocodile with crab legs and tentacles*. It was strange and nobody here believes him, but Calthel recalls seeing a creature like this in a book at the [[Grammary of Divination]]. Calthel specifically doesn't recall which book, though he does recall that it was a bestiary of some kind. They will check on this in the morning.
 
-That night, kerran rouses Calthel from sleep because he hard a scream. The two try to investigate, but Calthel trip over something and that wakes the others. The entire party goes out to the courtyard and finds an aberration scaling the wall. We non-lethally kill it, but it disappears due to being psychologically projected.
+That night, Kerran rouses Calthel from sleep because he hard a scream. The two try to investigate, but Calthel trip over something and that wakes the others. The entire party goes out to the courtyard and finds an aberration scaling the wall. We non-lethally kill it, but it disappears due to being psychically projected.
 
 We know that some creatures can psychically project themselves to attack others. The only requirement to this is that they are on the same plane of existence (as far as we are aware) so it is not feasible to go out and try to find what projected it.

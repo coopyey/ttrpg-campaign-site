@@ -9,13 +9,13 @@ Our orders form [[Marquis]] are written out and sealed for us to request things 
 
 ---
 
-We head to [[Traeg Breda]] - [[Braum]] takes us there in a wagon, and we arrive in the late afternoon. TThe port itself is smaller than Ayrvit, but it is busier due to the large barge ferries that of sheep coming and going. This port also handles communications with the other islands. We are going to Skerry Sheptulloch.
+We head to [[Traeg Breda]] - [[Braum]] takes us there in a wagon, and we arrive in the late afternoon. The port itself is smaller than Ayrvit, but it is busier due to the large barge ferries that of sheep coming and going. This port also handles communications with the other islands. We are going to [[Skerry Sheptulloch]].
 
 The earliest ferry is half an hour before dawn, whereas if we went now we would have only two hours of daylight on arrival. We choose to go in the morning and we can stay at the tavern in The North Inn, or we can choose to impose upon the richer homes. *We can opt to display our orders to the inn for free room and board, just as we can with peoples' homes.* We choose to pay for rooms at the inn. They are solid, if maybe a little drafty, but they are comfortable.
 
 ---
 
-The ferryman that takes us to Skerry Sheptulloch is Alvid. He's about the same age as Kerran and Calthel. While the two were going up, Alvid was either lazy or in trouble. All of us catch up a little bit, and then we all head out. There is a shepherd going with us, of the name Filcap. He murmurs about dark times, mentioning that a lamb is born wrong and it is a very bad sign. He won't say why it is bad, but just that it is. Sarras does her best to reassure him that all will be okay.
+The ferryman that takes us to Skerry Sheptulloch is Alvid. He's about the same age as [[Kerran]] and [[Calthel]]. While the two were going up, Alvid was either lazy or in trouble. All of us catch up a little bit, and then we all head out. There is a shepherd going with us, of the name Filcap. He murmurs about dark times, mentioning that a lamb is born wrong and it is a very bad sign. He won't say why it is bad, but just that it is. Sarras does her best to reassure him that all will be okay.
 
 Ships compliments Alvid, who dismisses it. It's clear that Alvid is almost uneasy that Ships is impressed by this, and Ships apologizes for the surprise and tips him 5sp.
 

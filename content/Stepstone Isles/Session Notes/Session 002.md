@@ -5,7 +5,6 @@ Session Date: 2022-08-12
 ---
 **Session Date:** 08/12/2022
 
-# The Group
 We investigate the temple after taking a short rest. [[Sorcha]] finds that all of the church records abruptly end about three weeks ago. An arcana check of [[Senoska]] reveals information about the temple defenses and how it came to be desecrated. The broken egg was incubating a portal. There has been no evidence of a local problem therefore an influx of energy from elsewhere on the world tree is the only logical explanation.
 
 From the shape of the egg, [[Calthel]] suspects the cult behind this is those for [[Sochet]] the Crocodile Prophet, considered the embodiment of ambition and hubris. A runner-up would be [[Crom]] the Shadow Serpent, but Calthel would expect more snakes and/or dragon imagery for Crom.
