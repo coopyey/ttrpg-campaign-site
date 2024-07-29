@@ -35,7 +35,7 @@ Carver gloms onto this and asks if it's the Seal of Infinity, and Faylen diverts
 Mary has Talitha scouting ahead for us, and Tabby and Mary are keeping an eye out as they keep going. Tabby and Mary don't notice as a voice calls out from above saying we don't belong here, and they thought something was here. There's a little bit of back and forth before the peryton calls out for others to join it. We aren't sure if these things were brought forth, or if they are what happened to the citizens.
 
 This is what a peryton looks like:
-![[soi_peryton.png]]
+![[soi_peryton.webp]]
 
 Combat begins.
 

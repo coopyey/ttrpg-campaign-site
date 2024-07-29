@@ -5,7 +5,7 @@ Session Date: 2023-01-13
 ---
 **Session Date:** 1/13/2023
 
-Our orders form [[Marquis Petra]] are written out and sealed for us to request things such as food and quarters if necessary.
+Our orders form [[Marquis]] are written out and sealed for us to request things such as food and quarters if necessary.
 
 ---
 

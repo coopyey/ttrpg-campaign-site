@@ -34,7 +34,7 @@ Some ailments can’t be cured by herbs alone. You learned ritual remedies as we
 
 While he was a warlock, he had a devouring maw in his back, along the threading of the stitches that held him together. Now that he is being moved back to witch, he will have this mouth when using the spell *pet cache*, but it will not be a regular thing and he will lose bag of holding properties.
 
-![[killian_ref_witchy.png]]
+![[killian_ref_witchy.webp]]
 
 Art by [Megu](https://megueggu.weebly.com/)!
 # Class Information
