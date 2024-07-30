@@ -40,7 +40,7 @@ Tabby wonders if this thing is crying because it wants to go *home*, if it's bee
 
 Mary asks what it needs, and it looks at Mary and has a general idea of how voice might come from the crying of a child: **We want home. Home.** Mary asks where its home is, and it explains that it has no home, but it wants a home. It asks if we would like to see home. Faylen steps forward and says yes, and it reaches its hand reach forward in an unnatural way. Faylen steps forward and takes them.
 
->*He imagines himself standing in what the entity imagines is a home. He tries to breathe and he cannot as the air doesn't work for humanoids; he moves his hand just a little and his body starts to dissolve into the atmosphere as if it were acid dissolving him;  there is no sun, but there are stars so very close to the surface - he **cannot** survive this if it were real. *
+>*He imagines himself standing in what the entity imagines is a home. He tries to breathe and he cannot as the air doesn't work for humanoids; he moves his hand just a little and his body starts to dissolve into the atmosphere as if it were acid dissolving him;  there is no sun, but there are stars so very close to the surface - he **cannot** survive this if it were real.*
 
 **Faylen understands one specific thing**: it is not something you can do small scale, this is what they want to do to the planet.
 
