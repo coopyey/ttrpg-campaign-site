@@ -31,7 +31,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **System:** Cyberpunk RED \
 **DM:** Ceildread \
 **Start Date:** January 19, 2023 \
-**Schedule:** Biweekly; Fridays @ 9:30pm CST
+**Schedule:** Biweekly; Fridays @ 9:30pm CST |
 **Character:** [[Emerick]] Kline; 4 Media \
 ***Vibe:***
 > A cyberpunk horror campaign in which the group works for a ruthless, abusive fixer that only cares about making money at any cost. As in any cyberpunk fiction, everything's terrible all of the time and the group is only trying to make it through the ruthless Night City unscathed. *Please note that Cyberpunk RED is set in 2045 so you will not see Cyberpunk 2077 wireless mechanics such as quickhacking.*
@@ -64,7 +64,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 > Built to be a classic high fantasy adventure, this campaign follows a group of misfits as they attempt to do good and wrangle all of the pieces of a now shattered powerful artifact before it ends up in the hands of ne'er-do-wells. This campaign includes political intrigue, silly cartoonish hijinx, and a group of players doing their damndest to avoid combat in any and all circumstances.
 
 ### Strahd Has Risen from the Grave
-**System:** Pathfinder 2E \
+**System:** Pathfinder 2E (5E Setting -> PF2E) \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** May 25, 2024 \
 **Schedule:** Weekly, Alternating with Gatewalkers; Saturdays @ 11:00am CST
