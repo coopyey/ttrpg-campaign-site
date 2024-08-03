@@ -20,11 +20,12 @@ Bartmoss was abducted by corporations to force the Datakrash to happen. This wou
 		- **Crime:** aggravated assault with motor vehicle, resisting arrest, 1st degree murder, intent to traffic an individual, blackmail
 		- **Arresting Officer:** [[Miranda Vasquez]]
 		- **Comments:** Sped away from the traffic stop, attempted to run Miranda off the road. Ultimately t-bones a cruiser and kills co-cop, Shane Harrison. Being held at Miranda's precinct until investigation is finished.
-- **Detailed Rumor:** On TV Eemerick sees an ad for Arachnid Robotics and their new stealth drone for hacking the NET.
+- **Detailed Rumor:** On TV Eemerick sees an ad for [[Arachnid Robotics]] and their new stealth drone for hacking the NET.
 	- Emerick recalls that RABIDS 2.0 was reverse engineered 10 years ago and, after some research, he finds the concept for the bot on TV and find a name attached to it: [[Ida Mueller]].
 	- There is an Invention fair later in the year with no date set yet. The prize for creating a winning AI-drone or invention is a spot on her team.
+		- Emerick spoke with Ida at the public address in [[content/Nuclear Chrome/Session Notes/Session 030|Session 030]] to be contacted when press passes for this go live so that he could attend. He also found out that it's 100 eds for techies to enter the invention fair, and 500 eds for the public to attend. Press, of course, is free entry.
 
-# Jode Pack (On Behalf of Omen)
+# Jode Pack (On Behalf of Omen) - Mr. Steele & Audun
 ## Premise
 Omen has asked Emerick to look into a [[Night City Police Department]] raid on the nomad [[Jode Pack]]. The raid happened ~5 months ago. He wants any information that Emerick can find, but especially who specifically gave the order to do the raid.
 ## Evidence
@@ -36,3 +37,10 @@ Omen has asked Emerick to look into a [[Night City Police Department]] raid on t
 - Emerick also finds that Miranda has been an officer for six years. She has been denied promotion to police chief several times as well. Four of her six years of service has been on the NCPD raid response team, and she's stationed at the district closest to nomad territory in and around the city.
 	- Emerick finds that she has been passed over promotion because of the now current chief, [[Audun Bredall]].
 - Audun operates with a real iron fist and is a hard-ass. He's on trial for faked cyberpsycho attacks in the last two years, but the government is really dragging their feet on the trial. Leaving him as chief is in their best interest, but people (the public) are overall getting upset about this, especially over the false imprisonments and deaths of family members. He's low-key friends with [[Mr. Steele]].
+- Public Address [[content/Nuclear Chrome/Session Notes/Session 030|Session 030]]
+	- Audun Bredall
+		- Gave a very neutral and recited public address regarding the NCPD initiative to "take care of" the cyberpsychosis problem. There were plenty of pretty words about public safety and wanting to ensure that the public is safe, but Emerick is not so sure.
+		- Review a more detailed writeup in Audun's information page.
+	- Mr. Steele
+		- He will be selling information to the police for the cyberpsycho initiative - who's to say that he isn't giving them information that is convenient for his own career advancement at the same time?
+		- Phoenix confirmed that when Emerick asked if this is a power & territory grab for him, Emerick hit upon at least some of the truth.
