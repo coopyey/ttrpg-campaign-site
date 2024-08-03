@@ -5,10 +5,8 @@ Campaign: Nuclear Chrome
 A collection of the notes collected for [[Emerick]]'s articles.
 # Bartmoss & R.A.B.I.D.S.
 ## Premise
-
 Bartmoss was abducted by corporations to force the Datakrash to happen. This would destroy global communications and avoid future uprisings against the megacorporations and allow them to take control of the world.
 ## Evidence
-
 - **Detailed Rumor:** in a chatroom a group of people discussed how a person who looked an awful like Bartmoss was on an Arasaka convoy with representatives from Militech, Petrochem, Biotechnica, and MA&F present.
 	- For 100 eddies he receives an image of Bartmoss clearly visible. Bartmoss is surrounded by people with their faces obscured. 
 	- Emerick also receives a certificate of authenticity.
@@ -23,15 +21,13 @@ Bartmoss was abducted by corporations to force the Datakrash to happen. This wou
 		- **Arresting Officer:** [[Miranda Vasquez]]
 		- **Comments:** Sped away from the traffic stop, attempted to run Miranda off the road. Ultimately t-bones a cruiser and kills co-cop, Shane Harrison. Being held at Miranda's precinct until investigation is finished.
 - **Detailed Rumor:** On TV Eemerick sees an ad for Arachnid Robotics and their new stealth drone for hacking the NET.
-	- Emerick recalls that RABIDS 2.0 was reverse engineered 10 years ago and, after some research, he finds the concept for the ebot on TV and find a name attached to it: [[Ida Mueller]].
-	- There eis an Invention fair later in the year with no date set yet. The prize for creating a winning AI-drone or invention is a spot on her team.
+	- Emerick recalls that RABIDS 2.0 was reverse engineered 10 years ago and, after some research, he finds the concept for the bot on TV and find a name attached to it: [[Ida Mueller]].
+	- There is an Invention fair later in the year with no date set yet. The prize for creating a winning AI-drone or invention is a spot on her team.
 
 # Jode Pack (On Behalf of Omen)
 ## Premise
-
 Omen has asked Emerick to look into a [[Night City Police Department]] raid on the nomad [[Jode Pack]]. The raid happened ~5 months ago. He wants any information that Emerick can find, but especially who specifically gave the order to do the raid.
 ## Evidence
-
 - Starting with the arrest records from around that time, Emerick finds five people were arrested. They are summarized as:
 	- **Affiliation:** Jode Nomad Pack
 	- **Crime:** (these are all petty, bullshit crimes)
