@@ -110,7 +110,6 @@ The Duchess will also approve a couple of Baron Aberly's requests when he is rea
 There is clearly more for us to do, but she does believe we deserve a reward for the service that we have already provided. She is planning to leave one of her war mages here with us as with her request, one that is capable of teleporting so that they can catch up with her. They can also leave additional personnel with us if we would like, since they can all teleport to her later.
 
 Options:
-
 - Weapons trainers (learn additional fighting style)
 - Have her wizards use the time they'll be here
 	- copy a few scrolls for Ships
@@ -121,6 +120,50 @@ It is clear that there is one particular person who wishes to stay behind, but s
 [[Useful Sim]] is left behind and he is at least a level 11 wizard. He sits down with us to discuss what's going on at the fjord and what we expect when it comes with a confrontation with that.
 
 I take the ritual **water breathing** for later. I also ask for a **scroll of find familiar** as well.
+
+**Stepstone - Useful Sim's Teleport Circle Sigils:**
+- Kingdom of Arimath
+	- Duchy of Caviness
+		- Caer Arctos (Duchess Bellicent's Castle)
+		- Druckenford (Coastal port nearest Stepstone Isles)
+		- Ettindrop (Coastal port nearest Pallid Isles)
+		- Inchknock (Second-biggest isle in Pallid Isles)
+		- Sawmarket (Horse-market near Thornhurst)
+	- Duchy of Curachis
+		- Thornhurst Cathedral (biggest church in the kingdom's capitol, one of the three most-used teleport circles on the continent)
+	- Duchy of Yrcheon
+		- St. Niniane's Abbey
+		- Canthridge (Duchy Capital)
+- Kingdom of Midmire
+	- L'anse Vieux 
+		- SW port, Monastery Bight, Trader's Sea
+	- Boca Grenouille 
+		- NW canal port, ocean port
+	- Port Astacus 
+		- Primary trading port
+		- In NE Midmire, Destrian Strait
+	- Murensia 
+		- Barony seat of Arbagna
+		- In E Midmire on the Via Ortolana from Astacus to Sycamora
+	- St. Flechevert du Betenoire
+		- County seat of Alaric
+		- S of Arbaqgna on the Via Ortolana
+	- Bivouac Fontaine de St. Regia
+		- County of Jasteris
+		- S of Alaric on the Vaia Ortolana
+		- Infantry camp
+	- Port Sycamora
+		- SE port on Trader's Sea, end of Via Ortolana
+- Kingdom of Kornu
+	- Puerta Guadanya
+		- Nothernmost port in the March of Ferro, open ocean
+	- Puerto Eses
+		- SE port in the March of Ferro
+		- Monastery Bight, Trader's Sea
+- Celeviran Empire
+	- Capital of Celevir
+	- Far SE of the continent
+	- One of the most used teleports on the continent
 
 ---
 
@@ -165,7 +208,6 @@ I try to go through this again and there is a fork coming off against the opposi
 I report this to Sim and he says that while this is cast with a single spell, there are 14 subspell items, but dispel magic would only remove one thing. He could dispel the vision and directional confusion but that would leave him without a 6th level spell. In this case, the vision and direction effects are both the same singular effect.
 
 The other effects he would not dispel:
-
 - dancing lights in four corridors
 - magic mouth in two locations
 - stinking cloud in two locations

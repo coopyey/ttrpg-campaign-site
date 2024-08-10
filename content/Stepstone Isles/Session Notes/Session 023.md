@@ -35,7 +35,7 @@ Notes taken by Sarras' player as I was out this session.
 
 - bag eats hammer and bites rope; it's a Bag of Devouring, basically cursed version of bag of holding
 
-- bag of devouring is technically an aberration, Sarras is not duty-bound to destroy it on sight but is bound to ensure it isn't sold or given away; it can be destroyed by turning it inside out but Sarras does NOT tell group that, only tells them what the bag is and that it's dangerous; tells Charity that she's entrusting her with the bag for now but that it is within her duty to ensure that it doesn't cause harm (within reason)
+- bag of devouring is technically an aberration, Sarras is not duty-bound to destroy it on sight but is bound to ensure it isn't sold or given away; it can be destroyed by turning it inside out but Sarras does NOT tell group that, only tells them what the bag is and that it's dangerous; tells [[Charity]] that she's entrusting her with the bag for now but that it is within her duty to ensure that it doesn't cause harm (within reason)
 
 - Charity decides to give it up after finding out it can only hold about a cubic foot of inanimate objects once a day, gives it to Sarras
 
