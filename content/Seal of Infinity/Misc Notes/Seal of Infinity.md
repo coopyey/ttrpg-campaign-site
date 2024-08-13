@@ -18,4 +18,6 @@ Bosch: **[Shattered Earth](https://2e.aonprd.com/Relics.aspx?ID=150)**
 Tabby: **[Whammy](https://2e.aonprd.com/Relics.aspx?ID=99)**
 >Tabby can call upon the fae once a day and they will aid him by hindering the enemy. He essentially is able to impose misfortune (disadvantage) on an enemy after they roll a success on something.
 
-Faylen: Currently Unknown
+Faylen: [Force Blast](https://2e.aonprd.com/Relics.aspx?ID=80)
+>  A blast of force envelopes a creature within 30 feet. The blast deals 1d6 force damage with a spell attack roll. The damage increases by 1d6 at 3rd level and every 2 levels thereafter.
+
