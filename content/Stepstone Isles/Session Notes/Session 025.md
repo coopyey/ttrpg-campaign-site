@@ -82,9 +82,10 @@ She may not kill them immediately, but she cannot remove the future possibility 
 At dinner she was asked about the miracle that Sarras managed and Sarras explains how she brought [[Charity]] back, but does so in a way that lessens her own impact and agrees that she was the conduit, but it otherwise had nothing else to do with her.
 # Calthel
 Iolande's Spellbook:
+**Checked spells are spells that Calthel already has.**
 - Cantrips
 	- [ ] Thaumaturgy
-	- [-] Vicious Mockery
+	- [x] Vicious Mockery
 	- [ ] Guidance
 
 **Homebrew:** From book of shadows -> book of shadows you can copy cantrips for 1/2 the cost and time of a level 1 spell; you cannot exceed the normal cantrip amount, making you a prepared caster in terms of the cantrips.
@@ -93,14 +94,14 @@ Iolande's Spellbook:
 	- [ ] Unseen Servant
 	- [ ] Alarm
 	- [ ] Ceremony
-	- [-] Find Familiar
+	- [x] Find Familiar
 	- [ ] Illusory Script
 	- [ ] Speak with Animals
 	- [ ] Augury
 	- [ ] Gentle Repose
 	- [ ] Locate Animals or Plants
-	- [-] Skywite
-	- [-] Magic Mouth
+	- [x] Skywrite
+	- [x] Magic Mouth
 	- [ ] Beast Sense
 	- [ ] Identify
 	- [ ] Floating Disk
