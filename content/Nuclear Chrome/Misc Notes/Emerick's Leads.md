@@ -11,7 +11,7 @@ Bartmoss was abducted by corporations to force the Datakrash to happen. This wou
 	- For 100 eddies he receives an image of Bartmoss clearly visible. Bartmoss is surrounded by people with their faces obscured. 
 	- Emerick also receives a certificate of authenticity.
 - **Typical Rumor:** NET traffic near the city center about RABIDS.
-	- *Cipher* finds that there eis a lot of traffic coming from the business district.
+	- *Cipher* finds that there is a lot of traffic coming from the business district.
 	- There is discussion of a RABIDS 2.0 project, what to do now after Datakrash and Arasaka having been nuked, how to protect themselves moving forward.
 - **Typical Rumor:** A DM from an anonymous source with a video of the aforementioned picture - Emerick gets the van plate number from the picture above.
 	- Owner is [[Girish Mohan]].
@@ -20,10 +20,10 @@ Bartmoss was abducted by corporations to force the Datakrash to happen. This wou
 		- **Crime:** aggravated assault with motor vehicle, resisting arrest, 1st degree murder, intent to traffic an individual, blackmail
 		- **Arresting Officer:** [[Miranda Vasquez]]
 		- **Comments:** Sped away from the traffic stop, attempted to run Miranda off the road. Ultimately t-bones a cruiser and kills co-cop, Shane Harrison. Being held at Miranda's precinct until investigation is finished.
-- **Detailed Rumor:** On TV Eemerick sees an ad for [[Arachnid Robotics]] and their new stealth drone for hacking the NET.
+- **Detailed Rumor:** On TV Emerick sees an ad for [[Arachnid Robotics]] and their new stealth drone for hacking the NET.
 	- Emerick recalls that RABIDS 2.0 was reverse engineered 10 years ago and, after some research, he finds the concept for the bot on TV and find a name attached to it: [[Ida Mueller]].
 	- There is an Invention fair later in the year with no date set yet. The prize for creating a winning AI-drone or invention is a spot on her team.
-		- Emerick spoke with Ida at the public address in [[content/Nuclear Chrome/Session Notes/Session 030|Session 030]] to be contacted when press passes for this go live so that he could attend. He also found out that it's 100 eds for techies to enter the invention fair, and 500 eds for the public to attend. Press, of course, is free entry.
+		- Emerick spoke with Ida at the public address in [[content/Nuclear Chrome/Session Notes/Session 030|Session 030]] to be contacted when press passes for this go live so that he could attend. He also found out that it's 100 eds for techies to enter the invention fair, and 500 eds for the public to attend. Press, of course, is free entry. The fair is September 22nd.
 
 # Jode Pack (On Behalf of Omen) - Mr. Steele & Audun
 ## Premise
@@ -44,3 +44,4 @@ Omen has asked Emerick to look into a [[Night City Police Department]] raid on t
 	- Mr. Steele
 		- He will be selling information to the police for the cyberpsycho initiative - who's to say that he isn't giving them information that is convenient for his own career advancement at the same time?
 		- Phoenix confirmed that when Emerick asked if this is a power & territory grab for him, Emerick hit upon at least some of the truth.
+# Juice

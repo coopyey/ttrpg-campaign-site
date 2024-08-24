@@ -6,13 +6,13 @@ Subclass:
 Status: Alive
 ---
 # General Information
-**Ancestry:** 
+**Ancestry:** Human
 
 **Heritage:** Tiefling
 
 **Class:** Investigator
 
-**Subclass:** 
+**Subclass:** Interrogator
 
 **Background:** 
 # Additional Notes
