@@ -38,7 +38,7 @@ Valentine, Ria, and Killian begin to ready for combat, and some others here get 
 
 Melissa explains that her boss does *not* like Opal's dad - she'll get a bonus. Opal says that it may not be worth it: she may get a bonus now, but the retribution may outweigh the reward.
 
-She eventually produces a fresh document where the ink is *still* wet - the hand is shaking when signed, and it basically allows Cheliax law to be binding in Wilkesmont. It's clear that the mayor had been tortured into signing it. Opal is unimpressed and tells her to find another way to make money.
+She eventually produces a fresh document where the ink is *still* wet - the hand is shaking when signed, and it basically allows Cheliax law to be binding in [[Wilkesmount]]. It's clear that the mayor had been tortured into signing it. Opal is unimpressed and tells her to find another way to make money.
 
 Ria stands up and shifts into her lion form and everyone's terrified. We begin combat.
 

@@ -9,3 +9,4 @@ The country that we started this campaign in.
 ## Locations
 
 - [[Abbey of St. Cuthbert]]
+- [[Isara]] -> Capital

@@ -84,27 +84,27 @@ At dinner she was asked about the miracle that Sarras managed and Sarras explain
 Iolande's Spellbook:
 **Checked spells are spells that Calthel already has.**
 - Cantrips
-	- [ ] Thaumaturgy
+	- [x] Thaumaturgy
 	- [x] Vicious Mockery
-	- [ ] Guidance
+	- [x] Guidance
 
 **Homebrew:** From book of shadows -> book of shadows you can copy cantrips for 1/2 the cost and time of a level 1 spell; you cannot exceed the normal cantrip amount, making you a prepared caster in terms of the cantrips.
 
 - Rituals
-	- [ ] Unseen Servant
-	- [ ] Alarm
-	- [ ] Ceremony
+	- [ ] Unseen Servant (1)
+	- [x] Alarm (1)
+	- [ ] Ceremony (1)
 	- [x] Find Familiar
-	- [ ] Illusory Script
-	- [ ] Speak with Animals
-	- [ ] Augury
-	- [ ] Gentle Repose
-	- [ ] Locate Animals or Plants
+	- [ ] Illusory Script (1)
+	- [x] Speak with Animals (1)
+	- [x] Augury (2)
+	- [ ] Gentle Repose (2)
+	- [ ] Locate Animals or Plants (2)
 	- [x] Skywrite
 	- [x] Magic Mouth
-	- [ ] Beast Sense
-	- [ ] Identify
-	- [ ] Floating Disk
+	- [ ] Beast Sense (2)
+	- [x] Identify
+	- [ ] Floating Disk (1)
 # The Whole Party
 Sarras returns with a very serious blonde elf ([[Brother Decimus]]). Sarras and the elf are pointedly not talking to each other except for whatever minimum is required.
 
@@ -115,7 +115,7 @@ Kerran doesn't think that with the speed of this boat that we can completely get
 We otherwise make it to the port of [[Toadmoth]] on the [[Grislith]]. Toadmoth is a particularly soggy and fetid shore, and the port itself is best described as a collection of hovels. A burly orcish man stands guard at the wharf with a boat hook. He looks us over in our incredibly expensive gear, then asks where we are going. Charity mutters something along the lines of "200 years and it hasn't changed at all".
 
 Grislith:
-![[steps_grislith_map.webp]]
+![[step_grislith_map.webp]]
 
 The orc advises that we won't be able to make it up to the Baron at [[Caer Llwyd]] because of how dark it is, we'll break our necks on the way up. He advises that we can stay at the local temple. The temple itself is basically a converted warehouse with bone marrow soup and hay palettes. There's a small smattering of people here, but it's mostly empty. The room itself is rather large, ready to take in many sailors if needed. He says that in the morning we will want a guide if we wish to make our way up to the castle - there's just the one road, but we'll want a guide.
 

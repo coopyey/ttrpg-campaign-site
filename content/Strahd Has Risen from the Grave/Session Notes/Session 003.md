@@ -38,15 +38,15 @@ As we move out of port we can see the pollution above the island, but on the sea
 
 For the first leg of the journey there is no huge storm, but we do get a moment of the wind shifting so we get a nose full of [[Nosos]] as we head out to the sea.
 
-- Isle of Ravens
+- [[Isle of Ravens]]
 	- A storm of ravens surrounds this forested islet. Hidden amid the feathered gale, an impossibly tall tower stretches into the sky. This is the home of the Lady of Ravens, and any who offend her join her ebon-winged flock.
 	- **NOTE:** This is not the *Raven Queen* deity from D&D.
-- Vigilant's Bluff
+- [[Vigilant's Bluff]]
 	- This might have some sort of a shipwreck that we could possibly plunder.
 	- An undead paladin holds vigil atop this drowned island. Weary travelers can find refuge here if they're respectful of the paladin's faith. The bones of those who were not litter the surrounding coral.
 - Dominia
 	- The asylum of the vampire Dr. Daclaud Heinfroth rises upon this stormy island. The asylum's patients are all dramatically different versions of Heinfroth inspired by who he was at various points during his lengthy life.
-- Blaustein
+- [[Blaustein]]
 	- This island-fortress domain was once ruled by the notorious Bluebeard, but his spectral wives overthrew him and now endlessly torment him.
 
 Serina picks a random direction and we happen to head toward Vigilant's Bluff. It's smooth sailing. Harpax stands around and motivates the crew by yelling at them, and Arkuda goes down to get Trouble. Arkuda sees the stores: hardtack, salted fish, beer/ale of some kind. We don't have enough to make a full journey to all four places and we will have to figure something sooner or later so we do not starve.
