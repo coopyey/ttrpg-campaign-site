@@ -4,7 +4,6 @@ Campaign: Strahd Has Risen from the Grave
 Session Date: 2024-08-24
 ---
 **Session Date:** 08/24/2024
-
 # Session Start: The Entire Party
 [[Arkuda]] is going through documents to try to figure out how to wriggle out of our contract with Master [[Sceleris]] of [[Nosos]].
 
