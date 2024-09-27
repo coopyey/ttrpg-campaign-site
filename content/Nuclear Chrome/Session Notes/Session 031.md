@@ -13,7 +13,9 @@ Picks up some new cyberware:
 - Voice Stress Analyzer
 - MicroOptics
 #### Detailed Rumor -> Juice
-This will be filled out when Ceil gets it to me. :>
+[[Phoenix]] was snooping around and found out that [[Juice]] had gone and spoken to someone. She tailed the contact for some time, and the contact eventually evades her and she is captured. Her captor interrogates her and she tells him that she's trying to investigate Juice because of his reputation as a fixer. Her captor thinks about it for a moment, and after talking to her for more details, tells her that Juice has grown to hate "the family" and wants to change things, which means starting his own life and screwing over the other members. Juice is the last son of seven brothers, so he is getting nothing if he doesn't take things into his own hands. Juice was sold to "the family" by a mysterious person. He spoke only Russian, but "the family" was promised some privileges and protections for taking Juice, so they agreed. 
+
+If Phoenix wants more then she'll have to do a favor for her captor, and he'll be in contact soon.
 #### Detailed Rumor -> Audun Bredall & Mr. Steele
 Searching his forums there's originally a lot of information about the press event and what's goin on with that. There are a few leads, one eventually leading a leaked footage site. The footage has lost its audio and the information on this does have a location as to where the footage was taken -- they're coordinates that is far out in the Badlands.
 

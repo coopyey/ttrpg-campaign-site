@@ -45,3 +45,8 @@ Omen has asked Emerick to look into a [[Night City Police Department]] raid on t
 		- He will be selling information to the police for the cyberpsycho initiative - who's to say that he isn't giving them information that is convenient for his own career advancement at the same time?
 		- Phoenix confirmed that when Emerick asked if this is a power & territory grab for him, Emerick hit upon at least some of the truth.
 # Juice
+- [[content/Nuclear Chrome/Session Notes/Session 031|Session 031]]
+	- From [[Phoenix]]
+	- [[Juice]] hates "the family" and wishes to start a new life and screw everyone over.
+	- Juice is the last son of seven boys and would otherwise get nothing.
+	- He was sold to "the family", with them being promised privileges and protections for taking him.
