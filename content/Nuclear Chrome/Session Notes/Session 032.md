@@ -4,8 +4,6 @@ Campaign: Nuclear Chrome
 Session Date: 2024-09-13
 ---
 **Session Date:** 09/13/2024
-
-**In Game Date:** September 2nd, 2045
 # Saturday, September 2nd, 2045
 ## Omen & Net (A Little After Midnight)
 [[Omen]] and [[Net]] wrap up their meeting with [[Miranda Vasquez]]. She stresses the importance of not breathing a word about the information about the video and what we find to the public or else their deal is off. She says that she will be in touch, but they otherwise don't know each other.
