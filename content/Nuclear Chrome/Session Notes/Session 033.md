@@ -36,6 +36,9 @@ Goes out to [[Saint]]'s clinic and waits around for a van to show up so that she
 Garf takes the van to [[Net]] to get the plates changed, but then she ultimately gives the van to him to keep.
 ## Omen
 (this was done in the private channel but he was tortured)
+
+- Who told you about this place? (-3 legendary failure)
+	- 50/50 for Net or Emerick -> he gave Emerick
 ## Emerick
 He's sitting at the warehouse sitting at the kitchen table having dinner and relaxing while the band members are doing their thing. He gets a notification on his agent and it is a outsourcing agent trying to get in contact with him. 
 
