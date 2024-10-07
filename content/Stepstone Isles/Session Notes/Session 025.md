@@ -91,7 +91,7 @@ Iolande's Spellbook:
 **Homebrew:** From book of shadows -> book of shadows you can copy cantrips for 1/2 the cost and time of a level 1 spell; you cannot exceed the normal cantrip amount, making you a prepared caster in terms of the cantrips.
 
 - Rituals
-	- [ ] Unseen Servant (1)
+	- [x] Unseen Servant (1)
 	- [x] Alarm (1)
 	- [ ] Ceremony (1)
 	- [x] Find Familiar
@@ -104,7 +104,7 @@ Iolande's Spellbook:
 	- [x] Magic Mouth
 	- [ ] Beast Sense (2)
 	- [x] Identify
-	- [ ] Floating Disk (1)
+	- [x] Floating Disk (1)
 # The Whole Party
 Sarras returns with a very serious blonde elf ([[Brother Decimus]]). Sarras and the elf are pointedly not talking to each other except for whatever minimum is required.
 

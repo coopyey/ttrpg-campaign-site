@@ -48,7 +48,7 @@ Interesting details
 - The whole no smell thing
 - Nothing matches in her own references
 - Detect Magic from Faylen
-	- Rank 4 spell within 30 feet
+	- Rank 4 spell within 30 feet -> Besso's invisibility
 - We also hear something in the luggage compartment
 	- Faylen opens it to find a halfling man
 
