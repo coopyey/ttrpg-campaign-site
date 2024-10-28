@@ -10,6 +10,6 @@ The published site is [here](https://ttrpg.coopyey.gay).
 My personal website is [here](https://coopyey.gay). 
 You can find me on Mastodon [here](https://corteximplant.com/@coopyey).
 I'm also on Bluesky [here](https://bsky.app/profile/coopyey.gay).
-If all else fails, you can email me at (mailto:contact@coopyey.gay). 
+If all else fails, you can email me at contact@coopyey.gay
 
 Quartz v4 originally created by [jackyzha0](https://github.com/jackyzha0), with documentation to get started here: https://quartz.jzhao.xyz/
