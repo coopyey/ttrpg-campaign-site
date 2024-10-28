@@ -9,7 +9,7 @@ Session Date: 2024-09-09
 
 [[Mary]] and [[Tabby]] spoke to a gentleman - [[Mardell]] - that wanted to buy our piece of the [[Seal of Infinity]]. Talitha stole all the notes from the mayor and give them to [[Carver]] so that they can get rid of Grey Cloward.
 
-The group met the group called the [[War Hogs]] that really want to go to war with someone somewhere at some time. The people the group met are the lowest possible level, and will never be a higher level because they are not particularly intelligent. There are definitely people who are higher up that are more dangerous overall.
+The group met the group called the [[War Hawks]] that really want to go to war with someone somewhere at some time. The people the group met are the lowest possible level, and will never be a higher level because they are not particularly intelligent. There are definitely people who are higher up that are more dangerous overall.
 
 **Note:** We will have the *drained* status until we leave.
 # Faylen & Mary

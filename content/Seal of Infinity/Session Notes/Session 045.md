@@ -52,33 +52,23 @@ At each location, he reaches into the bag he took from the Vs' cart, and tears o
 
 Session 035
 
-Session Date: 05/27/2024 The party is with The Vim & Vigor Brothers and we are all headed toward Shelmourn - we do not do much in the way of sightseeing, but we also are not pushing ...
-
-Image
+Session Date: 05/27/2024 The party is with The Vim & Vigor Brothers and we are all headed toward Shelmourn - we do not do much in the way of sightseeing, but we also are not pushing 
 
 Once they've used up about a third of the plush, the trio move onto the next phase: a heist!
 
 This is where the local comes in: he knows the local scene, and that means he can point the group towards a deserving target. After a couple months around Tabby and Mary, it seems Bosch is starting to take this into account.
 
-  
-
 A short while later, Vogue smears a bit of shadow onto one of The Copper Lily's upper windows. Once the patch of glass is fully obscured in shadow, she looks at it and mutters out loud, "I can't see any glass there, so there probably isn't any." Then she pokes her hand through and unlocks the window.
 
-There isn't much stuff in this guest room. Someone is clearly staying here, but beyond basic travel necessities and a fair amount of cash, the only thing of note is an ornate framed portrait of a man.
-
-  
+There isn't much stuff in this guest room. Someone is clearly staying here, but beyond basic travel necessities and a fair amount of cash, the only thing of note is an ornate framed portrait of a man.  
 
 The three gather the money, swipe the picture frame, and pull some pranks. Vogue adds a ridiculous mustache to the portrait, Bosch scribbles "weird religion bro" on the back, they put the nightstand in front of the door so he'll knock it over when he comes back, and so on.
 
 By the time they're done, the shadow has mostly evaporated from the window. Vogue glances at it and comments, "Oops, I guess there was glass there after all. My mistake."
 
-  
-
 The three split the spoils, but there isn't much Bosch cares to claim, so the other two get most of it. The local splits off, and Bosch and Vogue start heading back towards the Adamant Guard tower.
 
 Unsurprisingly, they soon run into Mary and Tabby heading the same direction. They describe their encounter with Cloward. Bosch isn't overly scared by the threats, but is curious if they were any good, asking Tabby to rate them out of ten. Tabby gives them a 7.5, but when he describes them, Bosch thinks they're more like 6 or 5.5.
-
-  
 
 For his part, Bosch keeps the details vague, but mentions doing an art project and finding a weird portrait in a room. Vogue confirms it was a portrait of Seegmiller, and muses that it's a good thing he's not really a religion. The man is bad enough as-is and doesn't need an immortal's power.
 

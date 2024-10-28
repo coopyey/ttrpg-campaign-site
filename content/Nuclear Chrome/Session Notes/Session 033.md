@@ -50,4 +50,6 @@ He retires to his room and is relaxing in the evening. He's sitting there and ge
 
 There is an attachment of what looks like someone that looks exactly like Omen standing by a wall, with Mr. Steele holding a gun to their head. `You have 5 hours.`
 
-The same coordinates from the video are then dropped.
+The same coordinates from the video are then dropped
+
+About two minutes after this he receives a phone call from [[Ida Mueller]] with an offer for a job. She requests that he leave a virus in their system, and implies that she left the video there to be found.

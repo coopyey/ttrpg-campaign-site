@@ -13,3 +13,7 @@ Quite famous for his power and skill in magic, especially with a battlemage focu
 He was originally transporting the sliver of the Seal of Infinity to the Duchy of [[Brex Grana]], but he had to leave us to it while he took care of getting a physical form and reporting what had happened.
 
 While we were in Brex Grana, we found out that he had been arrested in the Hollow World and held in the [[Verdant Core]] below to face trial. He had commented that this was most unusual as we should have been more aware of what was going on and what charges were being held against him as we were summoned.
+
+**Note:** His telepathy has abs.
+
+As of [[content/Seal of Infinity/Session Notes/Session 052|Session 052]] he has Faylen's sister, [[Beitris]], helping him in [[Jewel]] with the state of the city being what it is and generally rallying around [[Zeth Seegmiller]] and [[Izoraxx]].
