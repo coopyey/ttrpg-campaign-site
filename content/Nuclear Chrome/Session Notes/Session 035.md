@@ -11,6 +11,10 @@ As [[Omen]] was being tortured and getting surgery, he ended up falling unconsci
 A light starts to flash on a monitor nearby and a few minutes pass, then a door opens up. A tall man that's rough in appearance with blue and pink hair walks in and notices that Omen is awake. When Omen freezes and doesn't seem to be doing anything, the strange man approaches the monitor that's blinking and starts typing away. Omen tries to sneak a hand out of the restraints but the man notices and does something so that Omen can no longer move. The man approaches and tightens the restraint, then finishes whatever he was doing and Omen slips back into oblivion.
 
 Omen wakes back up in the hellscape that turned him into a cyberpsycho. He sees everyone as a threat and starts to make his way through the facility, killing anyone he comes across.
+
+---
+
+Linking [[Mysterious Man]] here since the name is going to change in the future.
 ## The Party
 Map:
 ![[dungon.jpg]]
@@ -25,6 +29,8 @@ She zips her way back to the top after a cloak, and then jacks out. Emerick gets
 ## Omen
 He was in the middle of the map. Once the party is done with the NET architecture, Omen's in the other room tearing people apart. The entire party hears this -- Emerick had heard it up before then, but now we all do. We hear a metallic howl.
 ## Combat Begins
-Garf tells Emerick to lead the group to the AV hangar and just run to it - the Mercury Rider member with us can pilot us out. She gives Emerick her jacket and tells him to hold onto it for her so that it's safe. He agrees and Garf kicks in the door and grapples Omen.
+Garf tells Emerick to lead the group to the AV hangar and just run to it - the Mercury Rider member with us can pilot us out. She gives Emerick her jacket and tells him to hold onto it for her so that it's safe, telling him to get the rest of the group out safe and to make sure they communicate better in the future. He agrees and Garf kicks in the door and grapples Omen. 
+
+Omen attempts to break the grapple multiple times but is unsuccessful. He drops an EMP grenade in a desperate attempt to shut down any of Garf's cyberware that's helping her, but only results in blinding her as her cybereyes shut down - and, well, she doesn't need eyes to hold on.
 
 The rest of the party rushes past the grapple and head toward the van so they can drive to the hangar.

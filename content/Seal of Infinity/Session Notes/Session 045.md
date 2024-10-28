@@ -3,7 +3,7 @@ Class: Session
 Campaign: Seal of Infinity
 Session Date: 2024-08-26
 ---
-**Session Date:** 08/26/2024
+[[Mysterious Man]]**Session Date:** 08/26/2024
 
 I was gone this session. 🙁
 
