@@ -64,10 +64,19 @@ These are in order of start date, so the longest-running campaigns are going to 
 > Built to be a classic high fantasy adventure, this campaign follows a group of misfits as they attempt to do good and wrangle all of the pieces of a now shattered powerful artifact before it ends up in the hands of ne'er-do-wells. This campaign includes political intrigue, silly cartoonish hijinx, and a group of players doing their damndest to avoid combat in any and all circumstances.
 
 ### Strahd Has Risen from the Grave
-**System:** Pathfinder 2E (5E Setting -> PF2E) \
+**System:** Pathfinder 2E \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** May 25, 2024 \
 **Schedule:** Weekly, Alternating with Gatewalkers; Saturdays @ 11:00am CST \
 **Character:** [[Atheya]] Calhras; Dhampir Elf Life Oracle \
+**Vibe:**
+> pending
+
+### As Of Yet Unnamed Starfinder 2 Campaign
+**System:** Starfinder 2E (Playtest) + Homebrew \
+**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
+**Start Date:** October 27, 2024 \
+**Schedule:** Weekly, Alternating with Danse Macabre; Sundays @ 1:00pm CST \
+**Character:** [[Slushie]]; Sergal Precog Witchwarper \
 **Vibe:**
 > pending
