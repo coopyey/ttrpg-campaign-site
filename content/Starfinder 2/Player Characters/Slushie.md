@@ -6,9 +6,9 @@ Subclass: Precog
 Status: Alive
 ---
 # General Information
-**Ancestry:** Slushie
+**Ancestry:** Sergal
 
-**Heritage:** 
+**Heritage:** Undecided (likely northern)
 
 **Class:** Witchwarper
 
@@ -17,5 +17,18 @@ Status: Alive
 **Background:** 
 
 Additional notes
-# Additional Notes
+# Appearance
+**Height:** 6'7"
+
+**Fur Color:** Lilac underbelly, darker purple main fur, cyan spots and accenting
+
+**Build:** Tall and lean
+
+![[slushie_sergal_adopt_jinxit_2_no_wm.webp]]
+
+# Class Information
+Notes
+# Personality
+Notes
+# History
 Notes

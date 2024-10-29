@@ -47,7 +47,7 @@ Magus is a spellsword style class where you push spells into your weapon and cre
 - [RPGBOT Hybrid Studies](https://rpgbot.net/p2/characters/classes/magus/hybrid-study/)
 - [RPGBOT Arcane Spell Breakdown](https://rpgbot.net/p2/characters/arcane-spell-list/)
 
-## Personality
+# Personality
 A young man who is foolish to the ways of the real world. He’s very bright, generally optimistic, and prone to pouting when he doesn’t get his way. While not necessarily opposed to breaking the law, he definitely has never done anything worse than cheating on a test or stealing something of negligible value.
 
 ### Strengths
@@ -58,5 +58,5 @@ A young man who is foolish to the ways of the real world. He’s very bright, ge
 - Very naive to how the world actually works
 - Willing to trust people in authority bc they’re in a place of authority
 
-## History
+# History
 Grew up in a family that loved him very much and was otherwise a very stable childhood. From a lower level of nobility, Faylen has never once wanted for anything in his life. He was attending university with his sister to become a magus but took a sabbatical as it became apparent that he somehow had changeling heritage in him, deciding to visit Brex Grana to see what is going on in that area of the world given the politics surrounding the changeling Prince and the line of succession.

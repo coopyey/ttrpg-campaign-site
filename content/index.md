@@ -13,6 +13,7 @@ For art I have a few artists (please commission them!):
 
 - For Faylen, Calthel, and Emerick: my friend [Amelia](https://atelieramelia.carrd.co/) did the art!
 - For Killian: my friend [Megu](https://megueggu.weebly.com/) did the art!
+- For Vincent: [Gray](https://bsky.app/profile/did:plc:zmpwqojzr5yo762pelklwkgw) did the art! (Warning: his profile is NSFW.)
 
 All of that said, below is an overview of the campaigns I'm currently in and previous campaigns that are no longer running. You can view the notes to the left in the navigation menu. Thank you for stopping by, I hope you enjoy yourself!
 
@@ -31,7 +32,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **System:** Cyberpunk RED \
 **DM:** Ceildread \
 **Start Date:** January 19, 2023 \
-**Schedule:** Biweekly; Fridays @ 9:30pm CST \
+**Schedule:** Weekly; Fridays @ 9:30pm CST \
 **Character:** [[Emerick]] Kline; 4 Media \
 ***Vibe:***
 > A cyberpunk horror campaign in which the group works for a ruthless, abusive fixer that only cares about making money at any cost. As in any cyberpunk fiction, everything's terrible all of the time and the group is only trying to make it through the ruthless Night City unscathed. *Please note that Cyberpunk RED is set in 2045 so you will not see Cyberpunk 2077 wireless mechanics such as quickhacking.*
@@ -49,7 +50,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **System:** Pathfinder 2E (Adventure Path) \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** May 20, 2023 \
-**Schedule:** Weekly, Alternating with Strahd; Saturdays @ 11:00am CST \
+**Schedule:** Biweekly, Alternating with Strahd; Saturdays @ 11:00am CST \
 **Character:** [[Killian]]; Toy Poppet Resentment Witch \
 **Vibe:**
 > Based on the PF2E adventure path, the characters have wound up in another world after a portal opened in a blinding flash of light. They find themselves bereft of their memories and gaining strange, new powers. It is up to them to investigate what happened, get home if they so desire, and solve other mysteries of this world they are in now.
@@ -67,7 +68,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **System:** Pathfinder 2E \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** May 25, 2024 \
-**Schedule:** Weekly, Alternating with Gatewalkers; Saturdays @ 11:00am CST \
+**Schedule:** Biweekly, Alternating with Gatewalkers; Saturdays @ 11:00am CST \
 **Character:** [[Atheya]] Calhras; Dhampir Elf Life Oracle \
 **Vibe:**
 > pending
@@ -76,7 +77,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **System:** Starfinder 2E (Playtest) + Homebrew \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** October 27, 2024 \
-**Schedule:** Weekly, Alternating with Danse Macabre; Sundays @ 1:00pm CST \
+**Schedule:** Biweekly, Alternating with Danse Macabre; Sundays @ 1:00pm CST \
 **Character:** [[Slushie]]; Sergal Precog Witchwarper \
 **Vibe:**
 > pending
