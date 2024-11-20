@@ -17,7 +17,7 @@ Omen wakes back up in the hellscape that turned him into a cyberpsycho. He sees 
 Linking [[Mysterious Man]] here since the name is going to change in the future.
 ## The Party
 Map:
-![[dungon.jpg]]
+![[dungon.webp]]
 
 We start on the southern route and make our way up to the rubble. The branch on the right is closed with radiation symbols all over the place. We take the path to the left, then go down south to the left into the area with an access point. [[Garf]] jacks in so that she can begin her netrun to try to upload the virus that [[Emerick]] gave her.
 

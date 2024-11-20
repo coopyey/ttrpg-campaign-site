@@ -3,11 +3,9 @@ title: Welcome to Coop's TTRPG Site
 ---
 Hello and welcome to my TTRPG campaign vault!
 
-This site is meant to include notes for all of the TTRPG campaigns that I'm in. This provides a vault with history for each campaign I've been in, as well as a reference to other players if they miss a session or need to refresh themselves on what happened in a previous session. I would love to have this heavily interlinked with each other so that you can review NPCs or locations and understand the context of what's going on with detail - we'll see if I actually accomplish that. 😅
+This site is meant to include notes for all of the TTRPG campaigns that I'm in. This provides a vault with history for each campaign I've been in, as well as a reference to other players if they miss a session or need to refresh themselves on what happened in a previous session.
 
 Please be aware that while I type notes my focus is to keep up with the action rather than focus on spelling or grammatical accuracy. I do not always have the time or energy to edit and fix notes, so please be forgiving when reviewing notes and realize that spelling of names may not be consistent, or there may be glaring errors in terms of grammar or sentence structure. I'm doing my best out here. 💜
-
-If my DM has a website, I will link to it so that you can see if they have any open campaigns with seats to join. A link to them should be considered as an endorsement and recommendation to play with them.
 
 For art I have a few artists (please commission them!):
 
@@ -15,10 +13,11 @@ For art I have a few artists (please commission them!):
 - For Killian: my friend [Megu](https://megueggu.weebly.com/) did the art!
 - For Vincent: [Gray](https://bsky.app/profile/did:plc:zmpwqojzr5yo762pelklwkgw) did the art! (Warning: his profile is NSFW.)
 
-All of that said, below is an overview of the campaigns I'm currently in and previous campaigns that are no longer running. You can view the notes to the left in the navigation menu. Thank you for stopping by, I hope you enjoy yourself!
+There will be some artefacts that will be noticeable in some of the images - this is because I have begun to use [Nightshade](https://nightshade.cs.uchicago.edu/whatis.html) on all images that are included on this site. It is more prominent on simple images with flat colors with little to no background.
 
+All of that said, below is an overview of the campaigns I'm currently in and previous campaigns that are no longer running. You can view the notes to the left in the navigation menu. Thank you for stopping by, I hope you enjoy yourself!
 ## Active Campaigns
-These are in order of start date, so the longest-running campaigns are going to be at the top.
+These are in order of start date, so the longest-running campaigns are going to be at the top. If my DM has a website then there will be a link to it so you can see if they have any open spots in any current or upcoming campaigns. 😊
 ### Stepstone Isles
 **System:** Dungeons & Dragon 5E \
 **DM:** <a href="https://twitter.com/MattDoyleSmit" target="_blank">Matt Doyle</a> \
@@ -33,7 +32,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **DM:** Ceildread \
 **Start Date:** January 19, 2023 \
 **Schedule:** Weekly; Fridays @ 9:30pm CST \
-**Character:** [[Emerick]] Kline; 4 Media \
+**Character:** [[Emerick]] Kline; 5 Media \
 ***Vibe:***
 > A cyberpunk horror campaign in which the group works for a ruthless, abusive fixer that only cares about making money at any cost. As in any cyberpunk fiction, everything's terrible all of the time and the group is only trying to make it through the ruthless Night City unscathed. *Please note that Cyberpunk RED is set in 2045 so you will not see Cyberpunk 2077 wireless mechanics such as quickhacking.*
 
@@ -71,7 +70,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **Schedule:** Biweekly, Alternating with Gatewalkers; Saturdays @ 11:00am CST \
 **Character:** [[Atheya]] Calhras; Dhampir Elf Life Oracle \
 **Vibe:**
-> pending
+> Based (loosely) off of D&D5E Curse of Strahd, we have a group of adventurers that are stuck in the Domains of Dread. They must travel through the Domains of Dread and, eventually, topple Strahd and his plans.
 
 ### As Of Yet Unnamed Starfinder 2 Campaign
 **System:** Starfinder 2E (Playtest) + Homebrew \
@@ -80,4 +79,4 @@ These are in order of start date, so the longest-running campaigns are going to 
 **Schedule:** Biweekly, Alternating with Danse Macabre; Sundays @ 1:00pm CST \
 **Character:** [[Slushie]]; Sergal Precog Witchwarper \
 **Vibe:**
-> pending
+> Little campaign to test the Starfinder 2E playtest. I'll add more details when things are more formally defined.
