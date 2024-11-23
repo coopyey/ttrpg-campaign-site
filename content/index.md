@@ -31,7 +31,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **System:** Cyberpunk RED \
 **DM:** Ceildread \
 **Start Date:** January 19, 2023 \
-**Schedule:** Weekly; Fridays @ 9:30pm CST \
+**Schedule:** Weekly; Fridays @ 7:00pm CST \
 **Character:** [[Emerick]] Kline; 5 Media \
 ***Vibe:***
 > A cyberpunk horror campaign in which the group works for a ruthless, abusive fixer that only cares about making money at any cost. As in any cyberpunk fiction, everything's terrible all of the time and the group is only trying to make it through the ruthless Night City unscathed. *Please note that Cyberpunk RED is set in 2045 so you will not see Cyberpunk 2077 wireless mechanics such as quickhacking.*

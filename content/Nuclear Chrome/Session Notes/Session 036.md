@@ -41,9 +41,11 @@ Garf asks if she doesn't get any somber goodbyes, and he asks why she cares. She
 Net and Saint are struggling to pilot the AV, then Net realizes that the autopilot is on. He stops Saint from messing around with this and Net puts the coordinates in to his gang's territory. Net gets up and calls his uncle - he explains he needs a favor and we need a landing pad in the hood because Net is bringing him an AV. He agrees and gets things moving after getting the ETA from Net.
 
 Net gets all of that sorted out and then gets up and calls Emerick over. He opens his arms and Emerick hesitates, a little confused, then they take a moment to hug it out. Net squeezes Emerick in the hug, and then lets him go. Net explains that Emerick is going to be meeting his uncle sooner than he thought, and Emerick says okay. Net sits back down and has Saint fix up his dismembered hand.
-
+## The Letter from Garf
 After all of this, Emerick feels something vibrating with a notification sound, and it's Garf's cyberdeck. Emerick opens the message and a video plays:
-```
+
+---
+
 A video arrives in the group chat. It began to play and it showed a young woman with dark brown hair and eyes in a sterile white room, she was setting up the camera making the video shake before settling. A date was shown in the top left (04/26/2038) The young woman had a simple white jumpsuit with a few green accents on as she began to speak
 “Hello uh… Me? Dad always talked about how some of the exotic tech makes you forget yourself, So I’m recording this to remind you… I mean me… or maybe us is best of uh who we are. I’m programming this to be forced to play when we get out of the operation. Our name is Luna Rose, our mother is skyler rose and our father” she trailed off and whipped a small tear from her eye 
 
@@ -76,7 +78,8 @@ She tosses the book aside “Now Net, listen up. If you have my body you are all
 “And finally Emrick, assuming I remembered and showed you all the stuff that happened in Vegas with L.V.E, I hope you got a wonderful story out of it, and for your efforts I want to leave you my jacket and the rest of my things. And first dibs on anything people don’t want slash don’t need if their died”
 
 Her smile seemed to fade “I don’t like the thought of outliving teammates…but it’s reality I guess. Life is nothing but piss and bad sex then ya die”
-```
+
+---
 
 We have a few minutes after the video finishes, and Net tries to find a cigarette and has none. He asks for a hit from Emerick's vape and suddenly remembers that Emerick doesn't smoke nicotine, coughing as he regains himself.
 # Net's Neighborhood

@@ -57,7 +57,7 @@ Seo admits it'd be nice to have a weekend away from the safehouse, and Garf offe
 
 ----
 
-Net walks to go meet Tab and his uncle [[Javier]]. Some people wave, others divert their gaze. Net makes it to Javier's house and Tab steps up and puts a hand on Net's shoulder. He says that Javier is *pissed* right now. Not at Net, but at everyone else. Tab admits that it does little to change things right this moment, but everyone other than Net could have done more to get him out, and Javier's making it everyone's problem. Net is the only one that Javier wishes to talk to right now that won't get absolutely torn apart in rage.
+Net walks to go meet Tab and his uncle [[Tio Negro]]. Some people wave, others divert their gaze. Net makes it to Javier's house and Tab steps up and puts a hand on Net's shoulder. He says that Javier is *pissed* right now. Not at Net, but at everyone else. Tab admits that it does little to change things right this moment, but everyone other than Net could have done more to get him out, and Javier's making it everyone's problem. Net is the only one that Javier wishes to talk to right now that won't get absolutely torn apart in rage.
 
 Net gives a polite knock as warning - he can overhear Javier yelling at someone already. It's clear that he's absolutely pissed - saying he wasn't gone that long, and nobody's done shit around here. Net walks in and whistles, and Javier says that he finally fucking showed up. He invites Net to sit, and Net does while Javier kicks everyone else out.
 

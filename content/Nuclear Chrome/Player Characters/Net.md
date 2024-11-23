@@ -22,5 +22,5 @@ Has a history with gang-related activity around Night City. Gang is [[Santo Domi
 
 ### Family
 - [[Mamá Rosa]] - [[Cipher]]'s Mom
-- [[Javier]] Osorio-Guitierrez - Uncle
+- [[Tio Negro]] Osorio-Guitierrez - Uncle
 - [[Esperanza]] - Aunt
