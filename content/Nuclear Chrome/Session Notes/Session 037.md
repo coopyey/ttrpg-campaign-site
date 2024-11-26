@@ -11,7 +11,7 @@ Session Date: 2024-11-22
 ## The Entire Group
 We are at the gang base for [[Net]]'s gang. They were starting to patch Net's hand up, but [[Saint]] happens to have a cyber hand with tech tools already installed into it. He offers it up to Net to replace the hand he lost. Net is grateful but mentions this is temporary to him -- he would like to eventually upgrade to an entire cyber arm. Saint is fine with this -- it's a gift.
 
-They get to work with attaching Net's new hand. [[Tio Negro]] and [[Trash Tablet]] are talking to Net during this, trying to get a debrief going with this. The entire conversation is in Spanish, so Net and Emerick know what is being said, but Saint is entirely unaware. Net basically explains that he's pretty confident nobody will be after us, and that some people he cares about died. 
+They get to work with attaching Net's new hand. [[El Charro Negro]] and [[Trash Tablet]] are talking to Net during this, trying to get a debrief going with this. The entire conversation is in Spanish, so Net and Emerick know what is being said, but Saint is entirely unaware. Net basically explains that he's pretty confident nobody will be after us, and that some people he cares about died. 
 
 Javier asks who did it and Net explains [[Mr. Steele]], and Javier is clearly **pissed**. Trash Tablet is staring at Net in a state of bewilderment. He asks what the immediate threat is, and Net explains that the AV out there is Mr. Steele's and while Net doesn't think he'll do anything about it, and he's pretty certain that bringing it here wasn't the worst idea. He admits he didn't check it over thoroughly so it will need to be checked for trackers (nat 10 luck check: not tracked). Net says probably need some ofrendas, take Omen's body back to their families if there are any. Net isn't sure what to do at the moment.
 
@@ -77,4 +77,4 @@ Saint goes home after fixing Net's hand and goes the fuck to sleep. He then work
 
 Saint says that he's dealt with worse, and they mostly don't bother him.
 ## Sulfur
-Sulfur feeds and plays with a cat, and the plots a kidnapping.
+Sulfur feeds and plays with a cat, and then plots a kidnapping.

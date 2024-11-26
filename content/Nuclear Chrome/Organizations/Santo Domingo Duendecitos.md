@@ -9,5 +9,5 @@ shrug emoji
 **Translation:** Santo Domingo Little Goblins
 
 Known Members:
-- [[Tio Negro]]
+- [[El Charro Negro]]
 - [[Net]] (likely former, though)

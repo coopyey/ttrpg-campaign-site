@@ -62,7 +62,7 @@ Emerick sent all of the notes of information that Net had missed live, since Net
 
 ---
 
-Net goes to the prison that his uncle is being held at. As he waits, a cop calls out to Net and recognize him: one of the officers from around where his family operated from. This cop had watched Net grow up. They small talk and catch up a little bit, and then Net is called to talk to his uncle. [[Tio Negro]] is wearing a four point chain when he is brought out this time.
+Net goes to the prison that his uncle is being held at. As he waits, a cop calls out to Net and recognize him: one of the officers from around where his family operated from. This cop had watched Net grow up. They small talk and catch up a little bit, and then Net is called to talk to his uncle. [[El Charro Negro]] is wearing a four point chain when he is brought out this time.
 
 He asks if the bail has been posted yet, and Net gives him shit for the lack of pleasantries. Net has the bail money right now. Javier says that things are fine enough, he isn't being beat every day. Net has some questions, but he allows Javier to ask any questions he may have first.
 

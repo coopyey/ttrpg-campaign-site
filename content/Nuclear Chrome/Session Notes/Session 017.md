@@ -14,7 +14,7 @@ Housekeeping:
 
 After the conversation with his uncle, Net really wants a cigarette. He shakes it off and moves on with his day, stopping at a corner store to get some mint gum (spearmint). He chews it and goes to meet [[Trash Tablet]]. 
 
-Tab asks how he's been, and Net says he's been, he exists. He explains that he's over the blue glass and asks if Tab's heard from [[Tio Negro]] at all. A member comes up and gives Tab a phone, and Tab asks if Net spoke to Javi, and Net confirms that he did about half an hour ago. Javi just texted and mentioned Net: *If you see Net, tell him he is welcome to one favor from the gang.*
+Tab asks how he's been, and Net says he's been, he exists. He explains that he's over the blue glass and asks if Tab's heard from [[El Charro Negro]] at all. A member comes up and gives Tab a phone, and Tab asks if Net spoke to Javi, and Net confirms that he did about half an hour ago. Javi just texted and mentioned Net: *If you see Net, tell him he is welcome to one favor from the gang.*
 
 Net hands the phone back. For once, Net shuts the fuck up and doesn't know what to say. He tells Tab to pass along that he's grateful.
 
