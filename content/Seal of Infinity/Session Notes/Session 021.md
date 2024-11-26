@@ -5,7 +5,7 @@ Session Date: 2024-01-08
 ---
 **Session Date:** 1/8/2024
 
-Recap: the secret spy lady goes by [[Ephiny]] Lunt and Agent Bryce.
+Recap: the secret spy lady goes by [[The Agent]] Lunt and Agent Bryce.
 
 Things to do:
 

@@ -33,7 +33,7 @@ Tabby makes it to the top of the building and makes the path for us to get up mu
 
 Tabby and Bosch find the office and start sifting through the office to search for what is important. Bosch doesn’t find anything that he can make sense of but he extrapolates things.
 
-Tabby starts to walk through and he runs into the Misconduct Department lady ([[Ephiny]]) and she says that she’s supposed to be here. She starts to make a commotion.
+Tabby starts to walk through and he runs into the Misconduct Department lady ([[The Agent]]) and she says that she’s supposed to be here. She starts to make a commotion.
 
 Faylen and Mary hear the commotion and Faylen quickly descends the building and starts faking as if he’s needing to pick up a package to distract and slow the guards down. They don’t quite buy it but he manages to slow them down a bit.
 

@@ -29,4 +29,4 @@ He is Corwin Crowther, and he's looking for his sister. She's been bewitched by 
 
 Serina tells him the likely fate of his sister, and he fully refuses to accept this. He eventually runs out of the inn crying. Serina is surprised at his reaction and both Atheya and Trouble mention that some people do not wish to face the reality of certain situations. 
 
-We rest over night and then we meet up with Corwin Crowther to go up to the castle. Crowther starts banging on the door to be let in. The door cracks open and a voice asks what we want. Atheya speaks up to request an audience with the lord of the castle, speaking very diplomatically. The guy at the door lets us in and then laughs menacingly.
+We rest over night and then we meet up with [[Corwin Crowther]] to go up to the castle. Crowther starts banging on the door to be let in. The door cracks open and a voice asks what we want. Atheya speaks up to request an audience with the lord of the castle, speaking very diplomatically. The guy at the door lets us in and then laughs menacingly.

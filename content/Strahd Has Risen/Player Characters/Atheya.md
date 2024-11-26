@@ -19,5 +19,7 @@ Status: Alive
 **Background:** Noble (Genealogy)
 
 Has ruby earrings that were her mothers, and a matching necklace from her father that is used to spy on her freely. Father is Kas, the Bloody-Handed.
+
+![[atheya_resized.webp]]
 # Additional Notes
 Had help from [[Serina]] getting away from her father, and they now travel together. They've been traveling together for a few months now and are pretty good 

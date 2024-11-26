@@ -11,7 +11,7 @@ I was gone for session 23. [[Bosch]] was very angry and started destroying the b
 
 Faylen returns and we are all sitting at a table of the Murky Dragonfruit and a 50ish muscular man with five o’clock shadow and dressed well, he’s smiling and winks at Faylen. He settles in and starts talking to Mary. This man started talking about the group in an overly familiar form and had too many details, for example dealing with the [[Bone Boys]]. He introduces himself: Garm [[Clapperclaw]], and he wants to know where the cargo is. Bosch protests and says he’s not, because he looks nothing like that.
 
-Bosch says we will not be returning his stuff to him, and that he gave instructions on how to keep them dry and taken care of. He clocks that Mary has opinions about it, and asks what is going on with that. Bosch says that it is not going to be usable by him, anyway, making sure she doesn’t have to lie about what’s going on. Garm does confirm that the ministry lady ([[Ephiny]] aka Agent Bryce) is working with him, and then he offers us a few options:
+Bosch says we will not be returning his stuff to him, and that he gave instructions on how to keep them dry and taken care of. He clocks that Mary has opinions about it, and asks what is going on with that. Bosch says that it is not going to be usable by him, anyway, making sure she doesn’t have to lie about what’s going on. Garm does confirm that the ministry lady ([[The Agent]] aka Agent Bryce) is working with him, and then he offers us a few options:
 
 1. Fight this out
 2. We return the explosives and weapons

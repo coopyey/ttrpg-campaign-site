@@ -13,7 +13,7 @@ The family update is that mom and dad are out of town after everything starting 
 
 They chat a little bit more and she eventually explains that Axamonar has set up a rather swanky place for them to stay while they're here. She walks him to the place and it's as if a wizard tower was a hotel. They say their goodbyes and part ways, with Beitris having to go win an arm wrestle or lose control of part of the city. (So she says.)
 # The Party
-As they reach the tower, there's an explosion on the 7th floor and there is a woman that while he does not recognize her, he does recognize the way she moves as the agent woman [[Ephiny]] Lunt (Agent Bryce).
+As they reach the tower, there's an explosion on the 7th floor and there is a woman that while he does not recognize her, he does recognize the way she moves as the agent woman [[The Agent]] Lunt (Agent Bryce).
 
 The chase begins. We manage to clear a fruit cart that was in the way, and weave through the regular traffic of the city. We continue ahead and Faylen recognizes two men very carefully moving with a pane of glass through the street - Faylen understands this is the work of the god of comedy, [[Thaleia]]. We manage to overcome this challenge, and Ephiny uses a smoke bomb to try to cover her tracks. [[Bosch]] drinks some potion that catches him and his weapon on fire and he spins to disperse the smoke, and Faylen, Mary, and Talitha track Ephiny through the smoke and manage to catch up to her as she tries to catch her breath.
 

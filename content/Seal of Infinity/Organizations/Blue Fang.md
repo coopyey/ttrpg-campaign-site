@@ -15,4 +15,4 @@ Garm [[Clapperclaw]], a lower ranking member of the Blue Fang, were trying to ov
 - Garm [[Clapperclaw]]  - leader of splinter faction
 	- [[Montego]]
 	- Guard Captain [[Idwal]] Ram (affiliate, deceased)
-	- [[Ephiny]] Lunt AKA Agent Bryce (affiliate)
+	- [[The Agent]] Lunt AKA Agent Bryce (affiliate)

@@ -9,3 +9,4 @@ A supposed agent of the Ministry of Abjuration, we figured out that she's really
 ## Known Aliases
 - Ephiny Lunt
 - Agent Bryce
+- Zan Tobler
