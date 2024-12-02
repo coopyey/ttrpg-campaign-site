@@ -3,6 +3,6 @@ Class: NPC
 Campaign: Gatewalkers
 Status: Alive
 Organization:
-  - "[[Auspice Consortium]]"
+  - "[[Aspis Consortium]]"
 ---
-The human butler of [[Dagon]] Bronzehelm. [[Auspice Consortium]]
+The human butler of [[Dagon]] Bronzehelm. [[Aspis Consortium]]

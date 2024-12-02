@@ -3,10 +3,10 @@ Class: NPC
 Campaign: Gatewalkers
 Status: Alive
 Organization:
-  - "[[Auspice Consortium]]"
+  - "[[Aspis Consortium]]"
 ---
 Full Name: Dagon Bronzehelm
 
 Ancestry: Dwarf tiefling.
 
-The recruiter for Auspice in [[Wilkesmount]] that we met in [[content/Gatewalkers/Session Notes/Session 031|Session 031]]. Has a butler, [[Stabwell]].
+The recruiter for Aspis in [[Wilkesmount]] that we met in [[content/Gatewalkers/Session Notes/Session 031|Session 031]]. Has a butler, [[Stabwell]].

@@ -16,7 +16,7 @@ Ria ultimately decides to track down the bear woman from the retinue that was wi
 
 Orsa explains that she is moving on to Auspice - a Cheliax multinational corporation that hunts for artifacts. She invites Ria to join her, and Ria counters with Orsa joining up with us instead. Orsa asks how much income we are making, and Ria can't answer, and Orsa says that she needs to eat - she can't just hunt all the time. Orsa says that next they run into each other they won't kill each other, and see what happens then.
 # In Town
-The [[Auspice Consortium]] recruiter is a dwarf with infernal heritage: full infernal horns, the whole bit. He has an entire human butler - Stabwell. While in the inn he eats the food and tries the drink, and then asks his butler to give the chef his compliments.
+The [[Aspis Consortium]] recruiter is a dwarf with infernal heritage: full infernal horns, the whole bit. He has an entire human butler - Stabwell. While in the inn he eats the food and tries the drink, and then asks his butler to give the chef his compliments.
 
 Opal glances him over and can tell that the man looks very well-dressed - as much as one can while traveling on the road. The dwarf smiles and waves at Opal, and beckons him over. Opal approaches and Valentine follows, standing to the side as if he were a body guard. The dwarf introduces himself as [[Dagon]] Bronzehelm.
 
