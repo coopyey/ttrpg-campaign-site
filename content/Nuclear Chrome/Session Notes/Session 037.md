@@ -73,7 +73,7 @@ Buys a Militech Persues.
 
 He begins to get the affairs together for the deceased and takes over the apartment and buys it out for the year. Afterwards, Net reaches out to try to figure out what to do with Omen -- Connor's -- body and things. Emerick leverages Garf's Agent to try to get into contact with her clan, to see if perhaps they know of anyone in the Jodes. They appreciate what he is trying to do and want to meet him.
 ## Saint
-Saint goes home after fixing Net's hand and goes the fuck to sleep. He then works for a week and realizes that he's being watched. A few goons walk in and have cyberarms and grafted muscles. They're not talking to him, but walking around the shop. He asks if they need antyhing and they say no, they're making sure he is behaving. They hope they aren't intruding. 
+Saint goes home after fixing Net's hand and goes the fuck to sleep. He then works for a week and realizes that he's being watched. A few goons of Mr. Steel's walk in and have cyberarms and grafted muscles. They're not talking to him, but walking around the shop. He asks if they need anything and they say no, they're making sure he is behaving. They hope they aren't intruding. 
 
 Saint says that he's dealt with worse, and they mostly don't bother him.
 ## Sulfur

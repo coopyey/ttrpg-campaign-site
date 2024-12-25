@@ -19,5 +19,4 @@ Along the side of the blog is a navigation pane that links to a handful of side 
 *Luck is an accident that happens to the competent.*
 <div style="text-align: right">-- <i>Albert M. Greenfield</i></div>
 
-[[content/Nuclear Chrome/Session Notes/Session 003|Session 003]]:
->The opening article posted is an incredible story about someone that Emerick knows that jumped out of a moving van to try to dismount a biker that was chasing them. The attempt in its purest form was a failure, but she did live through the impact and survived the encounter to successfully obtain her brand new bike.
+The opening article posted is an incredible story about someone that Emerick knows that jumped out of a moving van to try to dismount a biker that was chasing them. The attempt in its purest form was a failure, but she did live through the impact and survived the encounter to successfully obtain her brand new bike.

@@ -15,7 +15,7 @@ Faylen shares all of this, and [[Mary]] starts to try to talk to it, with Bosch 
 
 Mary notices that it is trying very hard to act like its unbothered. She notices that it was wounded in the stomach in some way, and that's why it's keeping low to the ground. Bosch and [[Tabby]] also notice the wound. Faylen hears voices and horses off in a direction, and Faylen mentions it to the group. He asks the linnorm if the people were hunting it, and it nods after giving Faylen a startled look. Mary convinces it to go into the forest so she can tend to the wound.
 
-Faylen can't tell where the hunters are but we start to talk about what to do. The hunters begin coming up and Tabby and Faylen notice that they're [[War Hawks]]. We are aware that this gang doesn't have any specific symbol, but most of them have a hawk somewhere on their person. The lead hunter has a hawk breathing fire, and a swanky wood and leaf armor, a helmet with horns - we both know equipment that's never been used looks.
+Faylen can't tell where the hunters are but we start to talk about what to do. The hunters begin coming up and Tabby and Faylen notice that they're [[Warhawks]]. We are aware that this gang doesn't have any specific symbol, but most of them have a hawk somewhere on their person. The lead hunter has a hawk breathing fire, and a swanky wood and leaf armor, a helmet with horns - we both know equipment that's never been used looks.
 
 We begin lying our butts off talking about how the dragon went off towards the lake in the other direction, lying to say that the mom was with the baby and she was spitting mad.
 # Mary

@@ -4,6 +4,8 @@ Campaign: Seal of Infinity
 Status: Alive
 Organization: "[[Kincaid Gang]]"
 ---
+Full Name: Cadaver Kincaid
+
 The man that [[The Vim & Vigor Brothers]] owe money to. He is trying to unite the disparate thieves guilds under one banner. **He is an undead crime boss** who hires undead cronies.
 
 We know for a fact that he has a piece of the [[Seal of Infinity]] that we need to retrieve.

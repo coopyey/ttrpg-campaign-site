@@ -21,3 +21,9 @@ Status: Alive
 **Full Name:** Emlyn Dianna “Dia” Holless
 
 Her family information can be found under [[The Family of Light]].
+## Personas
+- Dia
+	- Her day to day disguise from her family, growing to be known
+- Sylvaine Aroya
+	- Low level royal type, fabricated to be from [[Oceanscar]]
+	- [[Arythas]]'s elf form is her "husband", Theoden

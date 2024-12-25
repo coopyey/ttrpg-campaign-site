@@ -87,3 +87,8 @@ He is very disinclined to be swayed toward a truly evil path, refuses to lie, an
 	- Deceased
 	- Grandfather
 	- Arythas looks a fuck ton like him
+# Personas
+- Theoden Aroya
+	- An alternate identity for his elf form granted from Change Shape
+	- Fabricated to be from [[Oceanscar]]
+	- "Married" to [[Dia]]'s disguise Sylvaine Aroya

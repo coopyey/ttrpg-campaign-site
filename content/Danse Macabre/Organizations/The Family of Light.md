@@ -4,15 +4,10 @@ Campaign: Danse Macabre
 Status: Active
 ---
 ## Mission/Goal
-
 Put on the illusion that they are loyal followers of the Church of Pelor in order to gain power, fame, and money.
-
 ## Other Notes
-
 Televangical scam.
-
 ### Current Members 
-
 - The Family
 	- Peregrine
 		- Patriarch
@@ -36,9 +31,7 @@ Televangical scam.
 		- +18 years older than Die
 
 Asher and Alisa (the "twins") are very often described as psychopaths by Bertram.
-
 ### Previous Members
-
 - The Family
 	- [[Bertram]]
 		- 16 years older than Dia

@@ -44,7 +44,7 @@ For the first leg of the journey there is no huge storm, but we do get a moment 
 - [[Vigilant's Bluff]]
 	- This might have some sort of a shipwreck that we could possibly plunder.
 	- An undead paladin holds vigil atop this drowned island. Weary travelers can find refuge here if they're respectful of the paladin's faith. The bones of those who were not litter the surrounding coral.
-- Dominia
+- [[Dominia]]
 	- The asylum of the vampire Dr. Daclaud Heinfroth rises upon this stormy island. The asylum's patients are all dramatically different versions of Heinfroth inspired by who he was at various points during his lengthy life.
 - [[Blaustein]]
 	- This island-fortress domain was once ruled by the notorious Bluebeard, but his spectral wives overthrew him and now endlessly torment him.

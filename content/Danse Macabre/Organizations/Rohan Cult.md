@@ -17,7 +17,7 @@ Mother founded the cult and she gives children to a demon prince, though it is c
 
 ### Current Members
 
-- Mother
+- [[Adelaide Corvo]]
 	- Connected to an actual demon lord
 - [[Balthazar]]
 
