@@ -1,6 +1,6 @@
 ---
 Class: Session
-Campaign: 
+Campaign: Seal of Infinity
 Session Date: 2024-06-17
 ---
 **Session Date:** 06/17/2024

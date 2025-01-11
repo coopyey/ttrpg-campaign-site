@@ -3,7 +3,7 @@ Class: Session
 Campaign: Seal of Infinity
 Session Date: 2024-12-23
 ---
-**Session Date:** 12/23/2024
+a min**Session Date:** 12/23/2024
 # The Next Morning: Faylen & Beitris
 [[Beitris]] and [[Faylen]] are up early and Beitris is being a little weird in general, shyer than her normal self. She asks if he can show her some moves and share some pointers because he's much better than he was when he first left on this grand adventure. Faylen teases her about how it's finally his time to show her something. They have a back and forth teasing each other, but he would be happy to show her a few things and talk about what he's learned.
 # Bosch and the Others
