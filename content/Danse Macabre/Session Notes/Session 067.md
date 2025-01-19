@@ -25,7 +25,7 @@ We all have dinner, and Dia gets her own bottle of wine. We have a tense dinner 
 
 The group and [[Taraaq]] are generally against getting Gust right now, much to Dia and Arythas' distaste. Dia asks if Kestrel could find out how to reverse what's been done to Gust, and he offers to try to find someone who might know something. Arythas has the thought that perhaps we could pick [[Soldos]]'s mind about it, and Dia mentions perhaps [[Ercari]] might have something. 
 
-For now the plan is to go to the undermarket and find out what's going on with the Thuls. We all break and Dia clings to Arythas as he does his best to comfort her.
+For now the plan is to go to the undermarket and find out what's going on with the Thuuls. We all break and Dia clings to Arythas as he does his best to comfort her.
 # Inky and The Library
 Inky retires to the [[The Library Between]] to ask [[Mattai]] what's up with the polymorph spell on Gust. She explains that it is more likely a curse rather than a polymorph spell. When told who did it, she recognizes who it is and comments that he's rather powerful for a mortal. She comments that terminating the original caster could take care of it (and she advises do not, we are too weak), brute force break the curse (loud), or find a statue of a liondrake that he may have and destroy it. She comments that a person was turned into an animal, but now it will be an animal that's been turned into a man - which Inky was afraid of. Mattai comments that this is uncommon and distasteful magic, it's not very old, and it's cruel in a way that Mattai cannot abide.
 
@@ -45,7 +45,7 @@ Rohan suggests that we pin it on Dia so that we don't have another group chasing
 
 We throw a few more ideas around, but this is what we decide is the best.
 # The Undermarket
-Ercari leads us to where the entrance to the market is, and he shows Rohan the brick combination to push in order to open the path. The bricks move out of the way and we walk down the stairs into the market. There's magic in the creation of this road as we go down and pass by basements and stone. Kestrel explains the rules, with the main one being absolutely **no** fighting. There's a coliseum for that. **You will die if you break this rule.**
+Ercari leads us to where the entrance to [[The Undermarket]] is, and he shows Rohan the brick combination to push in order to open the path. The bricks move out of the way and we walk down the stairs into the market. There's magic in the creation of this road as we go down and pass by basements and stone. Kestrel explains the rules, with the main one being absolutely **no** fighting. There's a coliseum for that. **You will die if you break this rule.**
 
 There are several Undermarkets on the continent and they are all connected. The council running it is a secret, nobody knows, and they enforce rules *strictly*. Some people live here, some are locals - we are tourists, we will be taken advantage of.
 
