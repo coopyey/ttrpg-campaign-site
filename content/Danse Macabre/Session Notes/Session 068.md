@@ -37,4 +37,4 @@ We manage to convince him to show us the shipment to verify its quality and the 
 
 Dia, meanwhile, tries to hop the desk and look over the ledger to find out how much the transaction for the Thuuls will be. She doesn't find the information she was looking for.
 
-Iskra notices a tall, wiry man come in without our notice. Iskra does eventually notice him and immediately places him as a lycanthrope, though likely not a werewolf. The man clearly doesn't take very good care of himself as he gives Iskra a crooked grin. He leans forward and comments that he remembers Iskra.
+Iskra notices a tall, wiry man come in without our notice. Iskra does eventually notice him and immediately places him as a lycanthrope, though likely not a werewolf. The man - [[Dinadan]] - clearly doesn't take very good care of himself as he gives Iskra a crooked grin. He leans forward and comments that he remembers Iskra.
