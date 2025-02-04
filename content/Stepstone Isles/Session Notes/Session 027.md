@@ -70,9 +70,9 @@ Some strange dreams have been a common complaint in the castle since she was fir
 
 In the beginning the dreams were just the castle itself collapsing, and then it was the castle and the canyon, and eventually it became the whole island.
 
-Calthel asks the Chaplin if she feels that the Baron is mad, and she comments that the Baron and his family has always had nervous dispositions. From the reports of his sisters, the Baron's got worse after the first time he went to war. That is a known risk that befalls some warriors. He'd always acquitted himself well in the field and he accomplishes his duties and if the burdens of state weigh heavy upon him, that does not make him unworthy of office. She admits that there has been a higher turnover in the staff over the past 3-4 years as his temperament has been less contained, but she doesn't think being hard to work for is a sign of him being unfit for office, and she hasn't heard departing servants otherwise. 
+Calthel asks the Chaplain if she feels that the Baron is mad, and she comments that the Baron and his family has always had nervous dispositions. From the reports of his sisters, the Baron's got worse after the first time he went to war. That is a known risk that befalls some warriors. He'd always acquitted himself well in the field and he accomplishes his duties and if the burdens of state weigh heavy upon him, that does not make him unworthy of office. She admits that there has been a higher turnover in the staff over the past 3-4 years as his temperament has been less contained, but she doesn't think being hard to work for is a sign of him being unfit for office, and she hasn't heard departing servants otherwise. 
 
-Calthel asks about the tilled soil around the grounds, and the Chaplin thinks about it. She's fairly certain that it's just the water - the soil is thin and muddy and doesn't take well to growing things. The soil just ripples without any grass to hold it down. She is confident in this.
+Calthel asks about the tilled soil around the grounds, and the Chaplain thinks about it. She's fairly certain that it's just the water - the soil is thin and muddy and doesn't take well to growing things. The soil just ripples without any grass to hold it down. She is confident in this.
 
 He thanks her for her time and leaves her be.
 # Sarras, Ships, and Decimus

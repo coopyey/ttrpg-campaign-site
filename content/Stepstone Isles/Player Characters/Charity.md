@@ -10,6 +10,6 @@ Status: Alive
 
 **Class**: Rogue
 
-**Subclass**: Phantom
+**Subclass**: Phantom (rune carver)
 ## Other Notes
 Was revived by Sarras after clearing out some poison zombies. She was originally a tiefling knight that was hunting this same cult 140 years ago when they were originally killed.

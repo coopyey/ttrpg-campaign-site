@@ -28,4 +28,4 @@ Mother founded the cult and she gives children to a demon prince, though it is c
 
 ### Interactions
 
-- [[Session 029]] - Rohan & Pratima are kidnapped
+- [[content/Gatewalkers/Session Notes/Session 029]] - Rohan & Pratima are kidnapped

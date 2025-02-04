@@ -12,4 +12,4 @@ A young man that we met in [[Oceanscar]] at the soiree being thrown by [[Lady El
 
 He was originally quite disturbed, believing himself to be some sort of orcish messiah despite being an elf. He was chosen by Gruumsh to lead the orcish people through this rough time of transition.
 
-He transformed from an elf into an orc in [[content/Danse Macabre/Session Notes/Session 028|Session 028]]. He changed his name to [[Luufer]] in [[Session 029]].
+He transformed from an elf into an orc in [[content/Danse Macabre/Session Notes/Session 028|Session 028]]. He changed his name to [[Luufer]] in [[content/Gatewalkers/Session Notes/Session 029]].
