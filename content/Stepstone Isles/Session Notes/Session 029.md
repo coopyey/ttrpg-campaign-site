@@ -5,7 +5,7 @@ Session Date: 2025-01-31
 ---
 **Session Date:** 01/31/2025
 
-Whew, it's ben a while! Session 28 was in November a
+Whew, it's been a while! Session 28 was in November. That session was mostly used to work on breaking the encoded letter's cipher, and I was unable to attend. :(
 # After The Tunnels
 We had just escaped the tunnels with the creatures and it is early evening. We opt to return to the [[Baron Llwyn]]'s and [[Sarras]] opts to choose to tell the Baron about the suspicious creature in the lake and the tunnels filled with the suspicious demon creatures, and the Baron starts lashing out at everyone around him. While he does lash out toward us, he doesn't do so as much and is definitely lashing out toward his household more than anything. When Sarras tries to keep the peace, the man stops and glares at her, then storms out of the room.
 
