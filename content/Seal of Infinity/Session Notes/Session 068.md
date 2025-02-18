@@ -1,6 +1,6 @@
 ---
 Class: Session
-Campaign: Stepstone Isles
+Campaign: Seal of Infinity
 Session Date: 2025-02-17
 ---
 **Session Date:** 02/17/2025
