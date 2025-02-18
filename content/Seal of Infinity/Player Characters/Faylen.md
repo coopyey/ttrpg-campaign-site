@@ -6,7 +6,7 @@ Subclass: Laughing Shadow
 Status: Alive
 ---
 # General Information
-**Full Name:** Faylen Iandi
+**Full Name:** Faylen Ianthe
 
 **Birthday**: Calistril 14th (Feb 14th, Valentine’s Day)
 
