@@ -13,7 +13,7 @@ During this conversation, a huge mosquito flies in and sticks Indract. It sits f
 
 [[Tabby]] is far less impressed by this and swats at the mosquito and doesn't let it bite him.
 
-[[Oryeon]] sends out a memo to let everyone know they are *required* to be bitten by the mosquito.
+[[Oryeon Onyons]] sends out a memo to let everyone know they are *required* to be bitten by the mosquito.
 
 Mary works on treating the gentleman with the scarlet fever and Bosch comes in with some plants from the mosquito that exploded. He offers it to Dr. Sÿtz and she does not want the plants. He shrugs and hands them over to Mary and comments that listening doesn't always work, and Dr. Sÿtz says that things work so much better if everyone listens to her. Bosch opts to leave so he doesn't have to listen to her at all.
 

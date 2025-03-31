@@ -5,7 +5,7 @@ Session Date: 2023-07-08
 ---
 **Session Date:** 7/8/2023
 
-We make it to [[the Thinlands]]. It is mostly farmlands out here, so people are pretty spread out from each other. We get to the first house and a human woman in her 40s greets us and asks what we are doing, or if we need help. We learn that [[Kaneepo the Slim]] is sending out gorgas and there are gorgas attacking this area, with the targets being:
+We make it to [[The Thinlands]]. It is mostly farmlands out here, so people are pretty spread out from each other. We get to the first house and a human woman in her 40s greets us and asks what we are doing, or if we need help. We learn that [[Kaneepo the Slim]] is sending out gorgas and there are gorgas attacking this area, with the targets being:
 
 - [[Pabel]] "Pa" Moseby
 - [[Maeve]] "Ma" Moseby

@@ -1,13 +1,11 @@
 {
 	"nodes":[
 		{"id":"d771f33b20229b03","type":"text","text":"# Danse Macabre\n```mdm\nClass: \"Session\"\nview: DanseLastSession\nfiles per page: 1\n```","x":-560,"y":-412,"width":380,"height":184},
-		{"id":"708dabe141f88d14","type":"text","text":"# Gatewalkers\n```mdm\nClass: \"Session\"\nview: GateLastSession\nfiles per page: 1\n```","x":-560,"y":-204,"width":380,"height":184},
 		{"id":"209f14195e93d553","type":"text","text":"# Nuclear Chrome\n```mdm\nClass: \"Session\"\nview: NuclearLastSession\nfiles per page: 1\n```","x":-560,"y":0,"width":380,"height":184},
-		{"id":"2e4f2c7073f51cd8","type":"text","text":"# Strahd Has Risen\n```mdm\nClass: \"Session\"\nview: StrahdLastSession\nfiles per page: 1\n```","x":-160,"y":0,"width":380,"height":184},
 		{"id":"2f5ba237fc287d3e","type":"text","text":"# Stepstone Isles\n```mdm\nClass: \"Session\"\nview: StepsLastSession\nfiles per page: 1\n```","x":-160,"y":-204,"width":380,"height":184},
 		{"id":"dffdd89b1279a0d0","type":"text","text":"# Seal of Infinity\n```mdm\nClass: \"Session\"\nview: SealLastSession\nfiles per page: 1\n```","x":-160,"y":-412,"width":380,"height":184},
-		{"id":"3bd5b552b3a3e177","type":"text","text":"```meta-bind-button\nlabel: New Session\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: primary\nactions:\n  - type: command\n    command: quickadd:choice:d51c7300-cfa5-4724-91f0-f2cb50c24ae7\n\n```","x":240,"y":-143,"width":120,"height":62},
-		{"id":"4b75a1d21ab569f8","type":"text","text":"# Starfinder 2\n```mdm\nClass: \"Session\"\nview: Starfinder2Session\nfiles per page: 1\n```","x":-960,"y":-412,"width":380,"height":184}
+		{"id":"4b75a1d21ab569f8","type":"text","text":"# Starfinder 2\n```mdm\nClass: \"Session\"\nview: Starfinder2Session\nfiles per page: 1\n```","x":-560,"y":-204,"width":380,"height":184},
+		{"id":"3bd5b552b3a3e177","type":"text","text":"```meta-bind-button\nlabel: New Session\nicon: \"\"\nhidden: false\nclass: \"\"\ntooltip: \"\"\nid: \"\"\nstyle: primary\nactions:\n  - type: command\n    command: quickadd:choice:d51c7300-cfa5-4724-91f0-f2cb50c24ae7\n\n```","x":240,"y":-143,"width":120,"height":62}
 	],
 	"edges":[]
 }

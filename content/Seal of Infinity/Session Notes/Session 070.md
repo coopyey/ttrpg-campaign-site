@@ -11,7 +11,7 @@ Faylen definitely spends a lot of his time reading the operation manual for the 
 
 He does take breaks to walk around and talk with the workers that are on here. He comes across the memos and starts helping tear them up so that people don't have to think about them, and to make Oryeon upset. (It works.)
 ## Bosch & Akker
-[[Bosch]] goes around and chats with people and eventually falls into a pattern of trailing [[Oryeon]]. He had been mid-conversation with someone and saw Oryeon passing by and opted to follow him to catch him doing something evil. He tells Bean as much, and if he doesn't make it back, then Bean should tell everyone what happened. [[Destroyer]] happens to be here and confirms the order. Oryeon is sending a lot of memos and immediately follows them up asking why someone didn't respond to the memo. 
+[[Bosch]] goes around and chats with people and eventually falls into a pattern of trailing [[Oryeon Onyons]]. He had been mid-conversation with someone and saw Oryeon passing by and opted to follow him to catch him doing something evil. He tells Bean as much, and if he doesn't make it back, then Bean should tell everyone what happened. [[Destroyer]] happens to be here and confirms the order. Oryeon is sending a lot of memos and immediately follows them up asking why someone didn't respond to the memo. 
 
 Bosch looks around in his pockets and pouches and realizes he has no defense against a memo if Oryeon gives him one (no pen). Someone passes Oryeon gives him a lit match, saying this is what they do when given an Oryeon memo. Next to him is a ratfolk with a silver sash bandanna on his head, smiling pleasantly. Bosch takes it and puts it in his mouth like a piece of straw, flame side out.
 

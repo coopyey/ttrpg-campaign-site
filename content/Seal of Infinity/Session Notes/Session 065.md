@@ -21,7 +21,7 @@ Bosch comes up with plans for the evening to haunt somewhere that he or the ghos
 
 The man who spilled his drink tries to glance at Mary sneakily, but Mary and Tabby both notice. Tabby goes up to him and introduces himself, and comments the man may have information to benefit them both. The man tries to deny, then invites Tabby to sit. He was a member of the Warhawks for a while, he messed up and they tried to kill him, and they failed at that. Someone tried to help him move on, but now he's stuck on the edge. He doesn't want any trouble, he just wants to live out the rest of his days.
 
-Tabby offers that perhaps Mary can help him, as she is a healer. She introduces himself as [[Orvel Onions]].
+Tabby offers that perhaps Mary can help him, as she is a healer. She introduces himself as [[Orvel Onyons]].
 ## Faylen & the Baobhan Sith
 [[Tomás Mac Alasdair]] - the vampire - sits down next to Faylen and starts talking to him. There's something wrong about this guy - it's not a vampire name. Faylen thinks on it and he'd first noticed Tabby (connected to the fae - not directly connected to undead, but some fae do things like the undead). There's a kind of fae called a Baobhan Sith that is a fae that pretends to be a vampire.
 

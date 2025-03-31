@@ -5,7 +5,7 @@ Session Date: 2025-02-17
 ---
 **Session Date:** 02/17/2025
 # The Last Day in Jewel
-[[Mary]] suggests that perhaps the younger members of the [[Warhawks]] that aren't as interested in the warmonger should band together to protect people who cannot protect themselves or otherwise help them rather than try to wage war. [[Orvel Onions]] says that's a pretty decent idea, and he admits that he doesn't wish to party ways with us as this is the most positive reinforcement he's had in a while and he's not quite ready to give that up yet.
+[[Mary]] suggests that perhaps the younger members of the [[Warhawks]] that aren't as interested in the warmonger should band together to protect people who cannot protect themselves or otherwise help them rather than try to wage war. [[Orvel Onyons]] says that's a pretty decent idea, and he admits that he doesn't wish to party ways with us as this is the most positive reinforcement he's had in a while and he's not quite ready to give that up yet.
 
 We are reminded that [[The Osprey]] is hunting us. There's some conflicting information about them, but it seems that they are an assassin type that is working with or for the Warhawks. They seem to be able to teleport, or very effectively disguise or hide themselves so they are not able to be easily found.
 

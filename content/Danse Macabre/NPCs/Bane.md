@@ -10,7 +10,7 @@ His armies have fought eldritch creatures, things foreign and that could unravel
 
 ### Interactions
 
-- [[Session 030]] - to Arythas in a dream
+- [[content/Archive/Gatewalkers/Session Notes/Session 030]] - to Arythas in a dream
 	- Explains that Arythas is not living up to his full potential
 	- Does not want Arythas to break his previous vows
 	- Arythas can always call upon Bane for help (within reason)

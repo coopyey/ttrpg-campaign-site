@@ -29,7 +29,7 @@ The [[Quaking Stacks]] are the tallest structure in the city that was a tower ta
 
 We decide we must act fast and [[Lemma]] finds us. There is something about the fae: there is a possibility that if you repeat his name it means they may be aware of or attack us. We have 72 hours before Kaneepo locates us, and we need to find them first.
 
-Lemma also mentions [[Pabel]] Moseby that was ambushed two nights ago when returning home after selling turnips in Sevenarches. He is about a day away. Another attack on [[Pebblesworth]] also happened. Moseby is a day out from [[Sevenarches]], on the way to [[the Thinlands]]. We set up camp and Killian casts alarm around the camp site.
+Lemma also mentions [[Pabel]] Moseby that was ambushed two nights ago when returning home after selling turnips in Sevenarches. He is about a day away. Another attack on [[Pebblesworth]] also happened. Moseby is a day out from [[Sevenarches]], on the way to [[The Thinlands]]. We set up camp and Killian casts alarm around the camp site.
 
 Ria and Valen notice a tall slender figure watching us from the shadows. Ria throws a javelin at it and the figure disappears without a trace. We then bed down for the night. When Ria tretrieves the javelin, there is a strange sigil: something between a five pointed star and a stick person.
 

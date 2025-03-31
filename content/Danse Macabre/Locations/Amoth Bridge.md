@@ -6,7 +6,7 @@ Organization:
 ---
 Amoth is a god of justice and mercy. He is dead, slain centuries ago by several demon lords during a battle involving multiple planes. Something significant happened here.
 
-We learn in [[Session 036]] that the city actually disappeared after a massacre during [[The War]]. In [[Session 039]] we learned that the land of this city was bought up by the hobgoblin [[Ilxavar]] and was being studied by he and his contingent of goblins. We arrive [[Session 040]].
+We learn in [[content/Archive/Gatewalkers/Session Notes/Session 036]] that the city actually disappeared after a massacre during [[The War]]. In [[Session 039]] we learned that the land of this city was bought up by the hobgoblin [[Ilxavar]] and was being studied by he and his contingent of goblins. We arrive [[Session 040]].
 
 The first thing we realize is that the city was once quite large. Rivaling the size of [[Apamea]], it may have been the largest city in the north. All that is left at this point is ruins. There is a clear circular radius outside of the city that is where the effects of what happened ends, marked by the snow being discolored to a grey color, that grows darker as it grows towards the center of the city, where the blast seems to have originated (at the actual origin there is no more snow).
 

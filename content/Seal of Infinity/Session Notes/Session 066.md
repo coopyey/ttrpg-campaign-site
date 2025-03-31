@@ -5,7 +5,7 @@ Session Date: 2025-02-03
 ---
 **Session Date:** 02/03/2025
 # The first rule about fight club...
-[[Orvel Onions]] explains that his life is now ours, as we helped him and undid the curse of him being a half mummy. We have made a friend of him.
+[[Orvel Onyons]] explains that his life is now ours, as we helped him and undid the curse of him being a half mummy. We have made a friend of him.
 
 He explains the [[Warhawks]] are horrible people. In [[Jewel]] they typically meet at someone's house because the bars generally kick him out. They have an underground fighting ring under one of the warehouses. Orvel takes us to where it was and is glad to find that they had not moved the fight ring after all. He takes us down and there are large people - half ogres - guarding the door.
 

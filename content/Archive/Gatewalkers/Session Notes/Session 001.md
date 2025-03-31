@@ -18,7 +18,7 @@ We get to the borders of [[Sevenarches]].
 
 - Recall Knowledge
     - Ria and Opal recall there is a ban on elves.
-    - I know elves previously lived in the forest and the name came from the arches the elves built. Tended by the [[Oakstewards]] druids, who keep elves out. They are kept out because there is a curse that kills elves ([[obnubilate curse]]) that is supposedly gone after the missing moment.
+    - I know elves previously lived in the forest and the name came from the arches the elves built. Tended by the [[Oakstewards]] druids, who keep elves out. They are kept out because there is a curse that kills elves ([[Obnubilate Curse]]) that is supposedly gone after the missing moment.
     - Valen knows there are many magical creatures here but attacks from a certain type called [gorgas](https://pathfinderwiki.com/wiki/Gorga) are becoming more and more common.
 
 We arrive and Ria shifts back to full human. The doctor speaks up and has a speech for us, saying that this is his most promising lead and we should try to find why the curse was lifted and look into the portal. The good doc is going to another city — he will not be joining us as he will be pursuing another lead.
