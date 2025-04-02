@@ -26,7 +26,6 @@ These are in order of start date, so the longest-running campaigns are going to 
 **Character:** [[Calthel]] Lorvarax; Black Dragonborn Great Old One Warlock \
 **Vibe:**
 > An eldritch horror mystery campaign in which the characters are investigating strange going-ons in an archipelago called the Stepstone Isles. Will the group figure out what cult of the Sleeping Gods is attempting to enact chaos across these islands? Or will they be too late?
-
 ### Nuclear Chrome 
 **System:** Cyberpunk RED \
 **DM:** Ceildread \
@@ -35,13 +34,12 @@ These are in order of start date, so the longest-running campaigns are going to 
 **Character:** [[Emerick]] Kline; 5 Media \
 **Vibe:**
 > A cyberpunk horror campaign in which the group works for a ruthless, abusive fixer that only cares about making money at any cost. As in any cyberpunk fiction, everything's terrible all of the time and the group is only trying to make it through the ruthless Night City unscathed. *Please note that Cyberpunk RED is set in 2045 so you will not see Cyberpunk 2077 wireless mechanics such as quickhacking.*
-
 ### Danse Macabre
 **System:** Dungeons & Dragons 5E -> Pathfinder 2E \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** January 22, 2023 \
-**Schedule:** Weekly; Sundays @ 1:00pm CST \
-**Character:** [[Arythas]] Ialdethish; Silver Dragon Battle Oracle \
+**Schedule:** Weekly; Sundays @ 1:00pm CST; Alt. w/Blast to Past \
+**Character:** [[Arythas]] Ialdethish; Silver Dragon Battle Oracle (Remaster) \
 **Vibe:**
 > Mystery horror campaign where the undead did not exist until now. Something is stirring and rousing the dead from their rest, and the group is tasked with the task of trying to figure out what is causing it, and to stop it if possible.
 ### Seal of Infinity
@@ -52,8 +50,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **Character:** [[Faylen]] Ianthe; Changeling Elf Laughing Shadow Magus \
 **Vibe:**
 > Built to be a classic high fantasy adventure, this campaign follows a group of misfits as they attempt to do good and wrangle all of the pieces of a now shattered powerful artifact before it ends up in the hands of ne'er-do-wells. This campaign includes political intrigue, silly cartoonish hijinx, and a group of players doing their damndest to avoid combat in any and all circumstances.
-
-### As Of Yet Unnamed Starfinder 2 Campaign
+### Starfinder 2 Campaign
 **System:** Starfinder 2E (Playtest) + Homebrew \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** October 27, 2024 \
@@ -61,8 +58,15 @@ These are in order of start date, so the longest-running campaigns are going to 
 **Character:** [[Slushie]]; Sergal Precog Witchwarper \
 **Vibe:**
 > Little campaign to test the Starfinder 2E playtest. I'll add more details when things are more formally defined.
-
-## Inactive Campaign
+### Blast to the Past
+**System:** Pathfinder 2E + Playtest material \
+**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
+**Start Date:** TBA \
+**Schedule:** Sundays @ 1:00pm CST; Alt. w/Danse Macabre \
+**Character:** Nynmar; Wisp Fetchling Spirit Monger Necromancer\
+**Vibe:**
+>500 years before the events of Danse Macabre, when [[Soldos]] was still an active knight, trouble was brewing.
+## Inactive Campaigns
 These are campaigns that are finished or have been discontinued for one reason or another.
 ### Gatewalkers
 **System:** Pathfinder 2E (Adventure Path) \
@@ -80,6 +84,6 @@ These are campaigns that are finished or have been discontinued for one reason o
 **Start Date:** May 25, 2024 \
 **Discontinued As Of:** March 22, 2025 \
 **Schedule:** Biweekly, Alternating with Gatewalkers; Saturdays @ 11:00am CST \
-**Character:** [[Atheya]] Calhras; Dhampir Elf Life Oracle \
+**Character:** [[Atheya]] Calhras; Dhampir Elf Life Oracle (Legacy) \
 **Vibe:**
 > Based (loosely) off of D&D5E Curse of Strahd, we have a group of adventurers that are stuck in the Domains of Dread. They must travel through the Domains of Dread and, eventually, topple Strahd and his plans.
