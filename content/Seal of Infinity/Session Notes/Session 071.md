@@ -5,7 +5,7 @@ Session Date: 2025-03-10
 ---
 **Session Date:** 03/10/2025
 # After the Wood Giants
-Travel begins again in earnest. As we are traveling, [[Mary]] is visited by a gentleman who is ill. She performs and exam and figures out that the gentleman - Bor - has scarlet fever (along with a few of his friends), and she goes to let [[Indracht Krell]] know about this. He informs her that she unfortunately must tell [[Dr. Sÿtz]] about this as she is the top medical officer. The doc does agree to separate the infected for quarantine and keep tabs on everyone to watch for spread.
+Travel begins again in earnest. As we are traveling, [[Mary]] is visited by a gentleman who is ill. She performs and exam and figures out that the gentleman - Bor - has scarlet fever (along with a few of his friends), and she goes to let [[Indracht Krell]] know about this. He informs her that she unfortunately must tell [[Dr. Cecily Sÿtz]] about this as she is the top medical officer. The doc does agree to separate the infected for quarantine and keep tabs on everyone to watch for spread.
 
 During this conversation, a huge mosquito flies in and sticks Indract. It sits for a moment, then blinks green. Mary asks what this is and Indract explains that it tests the blood of people to check if they are ill: if it turns green then they are not sick. Mary politely refuses and then the doctor comes in and basically says that she will assume Mary is sick if she refuses. Mary politely excuses herself after explaining she knows how to treat this thing.
 
