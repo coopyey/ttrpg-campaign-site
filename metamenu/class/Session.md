@@ -18,7 +18,7 @@ fields:
       valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
     id: fKlfOC
-version: "2.32"
+version: "2.36"
 limit: 20
 mapWithTag: false
 icon: book-open-text
@@ -169,6 +169,45 @@ savedViews:
         name: Session Date
         hidden: false
         position: 2
+  - name: Starfinder2Session
+    children: []
+    sorters:
+      - id: Session____file
+        name: file
+        direction: asc
+        priority: 2
+        customOrder: []
+      - id: Session____Session Date
+        name: Session Date
+        direction: desc
+        priority: 1
+        customOrder: []
+    filters:
+      - id: Session____file
+        name: file
+        query: ""
+        customFilter: ""
+      - id: Session____Campaign
+        name: Campaign
+        query: Starfinder 2
+        customFilter: ""
+      - id: Session____Session Date
+        name: Session Date
+        query: ""
+        customFilter: ""
+    columns:
+      - id: Session____file
+        name: file
+        hidden: false
+        position: 0
+      - id: Session____Campaign
+        name: Campaign
+        hidden: true
+        position: 1
+      - id: Session____Session Date
+        name: Session Date
+        hidden: false
+        position: 2
   - name: StepsLastSession
     children: []
     sorters:
@@ -237,16 +276,11 @@ savedViews:
         name: Session Date
         hidden: false
         position: 2
-  - name: Starfinder2Session
+  - name: BlastLastSession
     children: []
     sorters:
       - id: Session____file
         name: file
-        direction: asc
-        priority: 2
-        customOrder: []
-      - id: Session____Session Date
-        name: Session Date
         direction: desc
         priority: 1
         customOrder: []
@@ -257,7 +291,7 @@ savedViews:
         customFilter: ""
       - id: Session____Campaign
         name: Campaign
-        query: Starfinder 2
+        query: DM Blast to the Past
         customFilter: ""
       - id: Session____Session Date
         name: Session Date

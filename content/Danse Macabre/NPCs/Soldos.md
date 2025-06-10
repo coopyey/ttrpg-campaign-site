@@ -6,6 +6,8 @@ Organization: "[[Bloodsoaked Banner]]"
 ---
 **Name:** Govannon Soldos
 
+**Wife:** Euanthe (Deceased)
+
 Elfin leader of the [[Bloodsoaked Banner]]. Slav. Covered in scars. Tired and put it with it all. We realize that he reincarnates: he is reborn with memories of his previous lives, and the scars of his past lives on his body as well.
 
 Knows who gave Dia her headband, warning her not to take it off.

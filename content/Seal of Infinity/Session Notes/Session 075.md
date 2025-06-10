@@ -9,7 +9,7 @@ Session Date: 2025-04-07
 We head out of the city following pipes in an attempt to find where the lava is being controlled. We eventually come upon an outpost with machinery that is used for pumping the lava. There's an outpost not too far off that is manned by some munsahir. Bosch reaches out to touch one of the large pipes and it is like touching a hot stove: it does burn him. It is clear that what we see here is a very small part of a much larger machine. The outpost is clearly pretty short-staffed: there's only three guys (out of a normal 40) here, and they're trying to man multiple stations by themselves.
 
 We head on up and talk about how we're here to do an inspection. They make an attempt to argue with us and [[Bosch]] produces a very official message:
-![[Pasted image 20250407172901.png]]
+![[soi_doge.png]]
 
 He manages to intimidate his way through by explaining that we are allowed to shut anything down indiscriminately until we deem something efficient, and we are allowed to fire up to two people. The munsahir are successfully intimidated and Bosch instructs [[Oryeon Onyons]] to determine which people to fire.
 

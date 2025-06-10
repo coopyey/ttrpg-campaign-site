@@ -21,7 +21,7 @@ Baron Halfcor, sisters Hrista & Herja
 - Ships places 24h tower spell for choke point to force them to have to go around treacherous area, but between horses and good rolls they start to catch up quickly; Ships & Charity put down ball bearings, caltrops & oil; Sarras breaks glass bottles on the path, but still winds up in standoff at the top of the switchback
 - Decimus' spell gives Sarras +1 AC & saving, resistance to all damage
 ## Map
-![[Pasted image 20250411194402.png]]
+![[step_mountain-switchbacks.png]]
 # Session Start
 ## Finishing Up Combat
 The Baron's sister - Krista - is the one trying to get us arrested. She has a small child in a sling as she follows, and casts eldritch blast toward [[Kerran]], which Calthel recognizes. The caster also has a version of acid arrow that is poison damage instead, which Calthel also recognizes.

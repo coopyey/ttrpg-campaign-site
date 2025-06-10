@@ -6,11 +6,11 @@ Campaign: Stepstone Isles
 Checked = Prepared
 - [x] Chill Touch
 - [x] Dancing Lights
-- [x] Eldritch Blast
+- [ ] Eldritch Blast
 - [x] Friends
 - [x] Toll the Dead
 - [x] Vicious Mockery
-- [ ] Guidance
+- [x] Guidance
 - [ ] Thaumaturgy
 # At Will
 - Mage Armor

@@ -58,7 +58,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **Character:** [[Slushie]]; Sergal Precog Witchwarper \
 **Vibe:**
 > Little campaign to test the Starfinder 2E playtest. I'll add more details when things are more formally defined.
-### Blast to the Past
+### Danse Macabre: Blast to the Past
 **System:** Pathfinder 2E + Playtest material \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** TBA \

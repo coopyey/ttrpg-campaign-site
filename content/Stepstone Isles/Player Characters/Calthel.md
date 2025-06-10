@@ -15,6 +15,8 @@ Status: Alive
 # Appearance
 **Height**: 5’8”
 
+**Age:** 21
+
 **Eyes**: Dark green
 
 **Hair Tendril Style**: Fins, also long and goes back
@@ -77,3 +79,93 @@ Studying hard, I eventually managed to catch the eye of the [[Marquis]] Petra of
 I must pay off my debt, however, which is where the adventure starts.
 
 You begin on a boat ferrying you to Skerry Yayek, a small, rocky island with a village of about a hundred. [[Duchess Bellicent]] Le Bruin called you together to investigate why the island is incommunicado and what happened to her three tax collectors. If possible, collect the taxes as well, but find the tax collectors is the big one. Skerry Yayek is best known for its guano mine, which supplies almost 30% of the fireball reagents in the kingdom.
+## Compass Tor Info
+**NOT ALL OF THIS IS RELIABLE INFORMATION, IT IS BASED ON WHAT CALTHEL KNEW BEFORE HE LEFT**
+
+From: Nodwydd Twll
+- Lodestone mines - most prestigious of the mines here.
+- Father -
+- Mother -
+- Younger Brother - 16
+
+Grimskoll - Black Dragonborn Tricker Cleric 2
+- Parson Vinboreas, second cousin to Calthel
+
+Isolde's family is also here on Compass Tor.
+
+Local Nobility
+- Countess Clarafama was the patroness of the school, you know she died two years ago & her son, Clerban, 28, inherited
+- Fidias, a jester-poet at the Countess’s court, spent a lot of time at the school teaching history & literature in his spare time
+
+Headmistress Valdinac
+- Diviner and graduate of Grammary of Divination.
+- Oversaw the most promising students, but had no dorm in her tower.
+	- Calthel dormed in Hex Tower under Lady Elspeth Glamis.
+- Human. No noble background. Child of a fisherman.
+- Chatty, unfailingly kind, always had dubious stories to tell.
+- Level of envy her apprentices attracted was harsh.
+
+Navigator's School
+- Man, academic politics suck.
+- Professors are paid by number of apprentices.
+	- Students transfer *often*.
+- Students without magical talent are trained as navigators & cartographers.
+	- This is still pretty contentious when the ports were closed (until 9 years ago) (Calthel was here 5-13 years ago)
+- Always squabbles between the Temples & the school, except for the temple of Sannoska
+
+Teachers
+- Lady Elspeth Glamis, Hexhire
+	- Midmirish/Mouldweir human
+	- Diviner & Navigator
+	- *Things Calthel Knows:*
+		- Apprentice, daughter, Rosgary, 19, troublemaker
+		- Apprentice, daughter, Malcai, 15, young & precocious
+		- Elspeth started teaching after I left, promoted after previous teacher died, Elspeth oversaw dorms & assisted him.
+		- Likely to have fewer students because new teacher.
+		- Very pious, devoted to Sannoska, goddess of knowledge
+		- Grammary of Divination graduate
+		- Husband is a navigator on a ship (not around)
+- Lady Alarch Ap Gwyn, Tierceshire
+	- Wethryni Elf
+	- Bard, Enchanter, Illusionist
+	- *Things Calthel Knows:*
+		- Both a College of Lore & Grammary of Enchantment graduate
+		- *Most prestigious teacher*
+		- 140s, has taught here 61 years (human equiv she's in 70s)
+		- Husband, lore bard, Mabon ap Lleu, also Lindradean Elf
+			- Doesn't teach, but helps oversee
+		- No student-age children
+		- Apprentices:
+			- Manawydan Rigfoss, Celeviran elf M, 19, two years behind Cal, ambitious go-getter
+			- Bloduwen of Cainock, Lindradean elf F, 20, prettiest student
+			- Ceridwen of Cainock, F Lindradean elf, younger sister
+			- Olwen of Cainock F Lindradean elf, youngest sister
+			- Llefelys Dunair, NB Drow elf
+			- Rhunia Garanhyr, F Wethryni elf
+- Lady Cawdria O'Bannock, Matinshire
+	- Human
+	- Druid, Abjurer
+	- *Things Calthel Knows:*
+		- Scandalously divorced, she has an illegitimate child
+		- Heir, 15, student, Lochavon O'Bannock, M human
+		- Heir, 20, student, Tayforth O'Bannock, NB human
+		- Illegit, striking resemblance, student, Antilgarah, 17, half-Lindradean elf
+		- Taught here for 15 years
+		- Taught at a druidic convent but left before taking her vows
+		- Not very outgoing
+- Lady Rose of PenningChase, Vespershire
+	- Evoker, Eldritch Knight
+	- *What Calthel Knows:*
+		- Courtier, Count of Penning Chase's daughter, was noble before she cam here
+		- No official Grammary education but served in the Order of the Fruit & Stones
+			- Knightly order headed by the Duchess who guard the druids
+		- Widowed 9 years ago
+		- Taught here for 8 years
+		- Half-elven
+		- Hier, Primula, F, 17, half-elf
+		- Husband died on Queen Alianora's first expedition to Midmire at the start of her reign, Rose then retired from active service in the Knights after her year of mourning, retired to here
+		- Has a reputation for being the harshest of the teachers
+		- Students tend to become battlemages to the nobility (she has the highest job placement)
+		- Apprentices:
+			- 2 orcish underclassmen, ~16 now, only orcs in the school the whole time i was there
+			- Penmythia, F Lindradean elf
