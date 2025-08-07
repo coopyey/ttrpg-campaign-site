@@ -49,6 +49,9 @@ Ships will send his familiar to Lothar to update and request help - if there is 
 
 Calthel sends his familiar to east to try to find any survivors, to return upon seeing a survivor or going a mile out. Calthel's familiar returns first and reports the mage is hiding behind a bush about 200 feet east of here, and we discuss, ultimately deciding Sarras and Best Largest can head to the mage to provide support. If anything happens then Calthel can send his familiar for help.
 
+The tracks from the sunken estate:
+![[step_tracks.webp]]
+
 Sarras finds the mage easily, and gives lay on hands to get him hopefully travel ready. He reports that they killed everyone, and Sarras reports that not everyone seems to be accounted for and there is evidence of others getting out. She says we will not rest until we find everyone, and he reluctantly agrees that he is well enough to ride. She helps him onto Best Largest and they walk back to the rest of the group.
 
 As Sarras starts to return, Ships' familiar returns to report one of the Baronness's large dogs is just under a half mile north of us. Kerran goes to round the dog up. The dog is basically a St. Bernard sized Rodesian Ridgeback in grey and seal brown - his name is Lion. Kerran also goes to round up the horses as Sarras and the mage - Diligent - return.
@@ -83,6 +86,9 @@ Ser Lothar's men try to calm her down and they manage to get from her that she h
 
 Calthel suggests we take the survivors back to Ser Lothar's so they are not near the sinkhole. Kerran questions the animals and the horses know nothing. Lion is confident that other than the horses, there were only five total survivors: himself, the mage, the maid, Hrista (who did not survive for long), Hrista's snake.
 
+Ser Lothar's Estate:
+![[step_serlotharsestate.webp]]
+
 Sarras mentions all of this to Ser Lothar. He says he will set a watch. The main thing he wishes to know - and the sooner the better - is if we are fighting this, or if we are fleeing and evacuating. Sarras says we need to discuss further, but we may need to execute a combination of both: evacuate as many as possible, and attempt to recover as many bodies as we can while getting the measure of what we are up against. If it is something we cannot fight without great loss, then it is possible that it is currently captive to the island and cannot leave, so it would be wise to leave and return with greater forces.
 
 Ser Lothar, his wife, and his four arms men are ours in any endeavor. As he was conditional in his support in the political matter, he is unconditional now. He will do as we think is best. Sarras thanks him for his pledge. We send the survivors back with Ser Lothar to his estate, and we discuss what to do. 
@@ -97,7 +103,7 @@ Three books:
 	4. He states they are sensitive to loud noises (especially new ones), and that they react to strong scents, but they react furiously and positively to strong scents. They seem to prefer fresh meat to older kills. When they succeed at a hunt they devour everything on the spot - contradicting this dragging behavior.
 	5. There are notes where within the last few months he's been actively collecting information and organizing it in a way that sounds like he's passing on reports, but there's no indication as to who.
 His spellbooks:
-
+![[step_diligencespellbooks.webp]]
 
 Looking at the way he organizes his spellbook, we can 100% tell that he received his primary education at the Navigator's School. He graduated the Navigator's School ten years ago, and then graduated the Grammary of Necromancy two years ago. The first spellbook is obviously the book we show to friends at dinner party, the second spellbook is obviously the cult spells.
 

@@ -9,3 +9,4 @@ A group that very much wants the Commonwealth to go to war.
 They don't seem to have very much organization or much of a plan.
 ## Personnel
 - [[Major Hieronymus Flint]]
+- [[Lady Ikbur]] -> leader

@@ -87,3 +87,5 @@ Fire sources....
 As we make our way through the tunnels there are no signs of the kruthiks, though we do see drag marks through some wetter soil to mark where the kruthiks passed not too long ago. There's no noises or sounds at this time, though. Diligent keeps his word and guides us right up to the mouth of a larger cavern.
 
 [[Ships]] sends his owl in to check on the inside. There are no larger kruthiks around, but there is a MASSIVE kruthik in the center of the bowl shape. There are some smaller kruthiks - some with the large one, and about five in the higher areas scattered about. At the moment we don't see any of the bodies from earlier. The owl can't really tell what the two young kruthiks near the large one are doing, they're just kind of skittering around it. The other young kruthiks are standing at attention, being wary or vigilant. An owl is sneakier than they expected.
+
+We enter the cave and begin the attack, using the fire barrels to make pretty quick work of the young ones, and it's not long before the hive lord retreats to one of the back chambers of the nest, with Calthel in pursuit.
