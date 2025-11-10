@@ -1,0 +1,43 @@
+---
+Class: Session
+Campaign: Seal of Infinity
+Session Date: 2025-10-20
+---
+**Session Date:** 10/20/2025
+
+I was absent for this session. Notes are from [[Bosch]]'s player. 😄
+
+----
+
+The session opened with several people disappearing. [[Faylen]]'s quantum field phased out, and he seemingly disappeared into that overlapping space. Meanwhile, [[Bosch]] carried Zurso'o out the door. Hurrying to get this done before the tripkee woke up, Bosch visited some nearby factories he'd previously noticed using amalgamate labor. Luckily for him, they cut corners on security as well, and he could just walk right in.
+
+By holding up Zurso'o's face and mimicking his voice, Bosch instructed the automatons to report to the War Hawks for a new assignment. He got a natural 20 on the roll, which meant not only would they do it, they'd pass the instruction on to nearby automatons. At each location, he wrote "suckers" in the dirt, and signed it with a frog hand-print. Back at Zurso'o's lab, [[Dr. Cecily Sÿtz]] said a respectful hello to Mary, and a regular hello to Tabby. They swapped information, then [[Mary]] took Talitha home to rest off the effects of Ray of Enfeeblement. Sÿtz and [[Tabby]] headed off to the nearest pub to plan next steps. They'd have to track down her ex-husband Filibert, and either cut him up or bully him into submission. "He's very bullyable," Sÿtz added.
+
+Additional information that got exchanged at some point but I forget when:
+- The party reached Aramos first thanks to the Akker Express.
+- Sÿtz's journey was nice and uneventful, far less bumpy than the party's.
+- Mary had sabotaged Zurso'o's setup to ensure no more amalgamates could be made.
+
+Meanwhile, Bosch dumped Zurso'o outside town, alongside a dirt message saying "everyone hates you now, you'd better split." Then with the job well done, he went for ice cream. On his way back, he ran into Tabby. Tabby asked if Bosch knew what happened to Zurso'o, since "you both disappeared not long after the fight." Figuring it would be funnier, Bosch claimed not to know. Instead, he said he'd managed to trick the amalgamates by holding Bean up to their face. "They just needed to see a frog, and off they went to join the War Hogs ([[Warhawks]])."
+
+Tabby didn't press the issue. The group reconvened, Mary treated some wounds, and they went to bed. In the morning, they found the room to be more shadowy than expected. And the shadow started talking at them. Perhaps fortunately, it was only an undead crime boss and not a dragon. [[Kincaid]] said he'd upheld his end of the bargain: the old [[Adamant Guard]] leader was carted off, and Kincaid didn't even kill anyone in the process. Or break any important laws.
+
+In return, he wanted the latest on what the party had been up to, and to establish a more permanent communication channel. Tabby and Mary filled him in, while Bosch poked at and tried to pick up the weird shadow creature he was communicating through. Bosch concluded it was less gross than the shadow substance used in Shelmourn, but it was still undead so kind of gross. But by the time he decided this, the creature was already moving through him, just under the skin. It jumped into Bosch's shadow and kind of took it over, matching his approximate shape but not always following his movements.
+
+Reluctantly acknowledging Kincaid as something resembling an ally, the party left to meet up with Dr. Sÿtz. She welcomed them in, presented an array of syringes, and asked who wanted the first mutagen. At Mary's insistence, she clarified that these would enhance sense of smell, enough to track Filibert to whatever bridge he's hiding under. Mary declined on the grounds that Talitha can already do that more than well enough, Tabby declined on the grounds that he'd rather not, and Bosch accepted without a second thought. The sudden new sensations nearly overwhelmed Bosch, but he soon got a handle on it (he rolled really well all session).
+
+Sÿtz produced a box of old trinkets for the trackers to sniff, and they challenged each other to be the first to find him. After the better part of an hour wandering around town, Bosch and Talitha caught his scent at the same time (having both rolled high). One second they were walking and chatting, the next, they were flat-out sprinting. When the rest of the group caught up, they found Bosch and Talitha hiding behind some crates. Bosch informed them that "Dr. Standz" was in the workspace up ahead, and more importantly, he'd won the race. Sÿtz turned to Mary. "You're the one with good judgement, so I'll follow your lead. Are we looking for a fight, or do we try to bully him to stop?"
+
+Bosch butted in in response. "If we can bully him to stop, someone else can bully him to restart. Unless..." Without explaining further, he disappeared around the corner to try something. Another excellent stealth roll later, he got within range to activate his Charlatan's Gloves, creating an invisible hand to tap Filibert on the shoulder. As Filibert searched for the source, Bosch threw his voice, intoning "FORCES GREATER THAN YOU KNOW HAVE TAKEN NOTICE OF YOU, AND DO NOT LIKE WHAT THEY SEE. CONTINUE DOWN THIS PATH AT YOUR PERIL." He tried to punctuate this by getting the shadow creature to flood the room with shadow, as it had done earlier. But he was untrained in Religion, only got a 12 on the die, and rerolled it into a 1, so the creature gave no response. So Marley Bosch took his leave, and the ~~Ghost of Christmas Past~~ Tabby approached to take his turn.
+
+Tabby reiterated that Filibert's indiscretions had made powerful enemies, to which Filibert could only stammer "yes, but which indescretions specifically?" Tabby clarified he meant building and supplying body parts. He went on that Zursuo'o had fled into the desert, the Adamant Guard was under new management, and it was only a matter of time until someone put Filibert in prison or underground. A strong intimidation check later, Filibert was packing his metaphorical bags. (Metaphorical because he explained that he could travel light. If Tabby would let him, he'd leave town with only the clothes on his back.) Tabby stood outside, and Filibert ran out only to find the Ghosts of Christmas Present and Future waiting for him. Future was wielding a scalpel and looked fully ready to show him to his gravestone. But instead, she let him off with a punch to the jaw, and he booked it.
+
+With yet another job well done, Bosch led the party to the ice cream place he'd found. ("They've got all kinds of interesting flavors, I'm gonna try robo-berry this time.") In the square outside, officials erected a magical transmission device, which sprung to life and played an announcement from Sage [[Izoraxx]]:
+
+> Today I bring an update on the ongoing incursion by the extremist group known as the War Hawks. They continue to march south into Commonwealth territory, and are to be treated as an invading force. As you have heard, they are equipped with the Commonwealth's own magical and technological armaments, making them a far greater threat than they otherwise would be. I'm pleased to announce a breakthrough on this front. We have apprehended the man responsible for equipping and informing them, none other than my ex-colleague [[Axamonar]]. Not only did Axamonar and his four co-conspirators aid and abet a dangerous terrorist organization, they are charged with attempting to steal the Seal of Infinity itself. Though Axamonar is safely in custody, his co-conspirators remain at large. They are to be considered armed and dangerous; report any sightings immediately to the local Adamant Guard.
+
+As he said this, images of Faylen, Tabby, Mary, and Bosch flashed up in succession.
+
+Bosch rolled his eyes. "Co-conspirator, that's all I am? What a snub." Tabby responded that more importantly, Axamonar was in trouble, and the party were now wanted. Sÿtz commented that while the party had good will here, and she wouldn't turn them in, they should probably get going soon. So they did. Mary officially put Rogi in charge of their adventuring shop, and Bosch made disguises for everyone, rolling well enough on five separate checks that no one batted an eye.
+
+Bosch himself dressed up as [[Akker]], and since no Akker costume is complete without at least one explosion, he made a quick detour to demolish Filibert's workshop. Finally, the party made their way into the woods. (Alan commented that he'd recently gone to see the play and was physically stopping himself from singing the song.)
