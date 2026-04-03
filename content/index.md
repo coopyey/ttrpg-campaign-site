@@ -56,7 +56,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **DM:** Ceildread \
 **Start Date:** April 17th, 2026 \
 **Schedule:** Third Friday of the month @ 7:00pm CST \
-**Character:** Lorn; 12th Gen Tremere (House Carna) \
+**Character:** Lorn; 12th Gen Tremere \
 **Vibe:**
 > A horror campaign of 12/13th generation vampires set in 1998 Cleveland, OH. The Tzimisce princess of Cleveland is bordering on a huge Masquerade break as she takes the hearts out of her lovers to make macabre statues. Everyone's looking for the Book of Nod and choices must be made on where allegiances lie. What will become of the Coeterie made up of one arrogant Ventrue, a time-lost Toreador, a gentle goth Tremere sorcerer, a Nosferatu with a wish to command beasts, and the back alley doctor Caitiff?
 ## Inactive Campaigns

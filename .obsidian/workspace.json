@@ -4,38 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf16300b197ab3d",
+        "id": "0fef400e29529dda",
         "type": "tabs",
         "children": [
           {
-            "id": "85d832c374598a66",
+            "id": "fa8f8c27eab475a8",
             "type": "leaf",
             "state": {
-              "type": "FileClassView__Session",
-              "state": {},
-              "icon": "book-open-text",
-              "title": "Session"
-            }
-          },
-          {
-            "id": "01663fa46ad6972e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "metamenu/Dashboard.canvas",
-                "viewState": {
-                  "x": 109,
-                  "y": -97,
-                  "zoom": 0
-                }
+                "file": "content/The Withering Heart/Player Characters/Adoniel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Adoniel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,9 +189,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "01663fa46ad6972e",
+  "active": "fa8f8c27eab475a8",
   "lastOpenFiles": [
+    "content/The Withering Heart/Player Characters/Sean Gomez.md",
+    "content/The Withering Heart/Player Characters/Lorn.md",
+    "content/The Withering Heart/Player Characters/Brett Moran.md",
+    "content/The Withering Heart/Player Characters/Afton Eichman VI.md",
+    "content/The Withering Heart/Player Characters/Adoniel.md",
+    "content/index.md",
     "metamenu/Dashboard.canvas",
+    "content/The Withering Heart/Session Notes/Session 001.md",
+    "metamenu/class sources/Campaign List.md",
+    "README.md",
     "metamenu/class/Session.md",
     "content/Danse Macabre/Session Notes/Session 003.md",
     "metamenu/templates/Folder Structure/Untitled.md",

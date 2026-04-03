@@ -18,7 +18,7 @@ fields:
       valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
     id: fKlfOC
-version: "2.41"
+version: "2.42"
 limit: 20
 mapWithTag: false
 icon: book-open-text
@@ -169,6 +169,40 @@ savedViews:
         name: Session Date
         hidden: false
         position: 2
+  - name: SealLastSession
+    children: []
+    sorters:
+      - id: Session____Session Date
+        name: Session Date
+        direction: desc
+        priority: 1
+        customOrder: []
+    filters:
+      - id: Session____file
+        name: file
+        query: ""
+        customFilter: ""
+      - id: Session____Campaign
+        name: Campaign
+        query: Seal of Infinity
+        customFilter: ""
+      - id: Session____Session Date
+        name: Session Date
+        query: ""
+        customFilter: ""
+    columns:
+      - id: Session____file
+        name: file
+        hidden: false
+        position: 0
+      - id: Session____Campaign
+        name: Campaign
+        hidden: true
+        position: 1
+      - id: Session____Session Date
+        name: Session Date
+        hidden: false
+        position: 2
   - name: Starfinder2Session
     children: []
     sorters:
@@ -276,7 +310,7 @@ savedViews:
         name: Session Date
         hidden: false
         position: 2
-  - name: SealLastSession
+  - name: WitheringLastSession
     children: []
     sorters:
       - id: Session____Session Date
@@ -288,15 +322,12 @@ savedViews:
       - id: Session____file
         name: file
         query: ""
-        customFilter: ""
       - id: Session____Campaign
         name: Campaign
-        query: Seal of Infinity
-        customFilter: ""
+        query: The Withering Heart
       - id: Session____Session Date
         name: Session Date
         query: ""
-        customFilter: ""
     columns:
       - id: Session____file
         name: file
