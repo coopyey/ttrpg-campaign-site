@@ -18,24 +18,58 @@ fields:
       valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
     id: fKlfOC
-version: "2.36"
+version: "2.41"
 limit: 20
 mapWithTag: false
 icon: book-open-text
-tagNames: 
-filesPaths: 
-bookmarksGroups: 
-excludes: 
-extends: 
+tagNames:
+filesPaths:
+bookmarksGroups:
+excludes:
+extends:
 savedViews:
-  - name: DanseLastSession
+  - name: BlastLastSession
     children: []
     sorters:
       - id: Session____file
         name: file
         direction: desc
+        priority: 1
+        customOrder: []
+      - id: Session____Session Date
+        name: Session Date
+        direction: desc
         priority: 2
         customOrder: []
+    filters:
+      - id: Session____file
+        name: file
+        query: ""
+        customFilter: ""
+      - id: Session____Campaign
+        name: Campaign
+        query: DM Blast to the Past
+        customFilter: ""
+      - id: Session____Session Date
+        name: Session Date
+        query: ""
+        customFilter: ""
+    columns:
+      - id: Session____file
+        name: file
+        hidden: false
+        position: 0
+      - id: Session____Campaign
+        name: Campaign
+        hidden: true
+        position: 1
+      - id: Session____Session Date
+        name: Session Date
+        hidden: false
+        position: 2
+  - name: DanseLastSession
+    children: []
+    sorters:
       - id: Session____Session Date
         name: Session Date
         direction: desc
@@ -117,40 +151,6 @@ savedViews:
       - id: Session____Campaign
         name: Campaign
         query: Nuclear Chrome
-        customFilter: ""
-      - id: Session____Session Date
-        name: Session Date
-        query: ""
-        customFilter: ""
-    columns:
-      - id: Session____file
-        name: file
-        hidden: false
-        position: 0
-      - id: Session____Campaign
-        name: Campaign
-        hidden: true
-        position: 1
-      - id: Session____Session Date
-        name: Session Date
-        hidden: false
-        position: 2
-  - name: SealLastSession
-    children: []
-    sorters:
-      - id: Session____file
-        name: file
-        direction: desc
-        priority: 1
-        customOrder: []
-    filters:
-      - id: Session____file
-        name: file
-        query: ""
-        customFilter: ""
-      - id: Session____Campaign
-        name: Campaign
-        query: Seal of Infinity
         customFilter: ""
       - id: Session____Session Date
         name: Session Date
@@ -276,11 +276,11 @@ savedViews:
         name: Session Date
         hidden: false
         position: 2
-  - name: BlastLastSession
+  - name: SealLastSession
     children: []
     sorters:
-      - id: Session____file
-        name: file
+      - id: Session____Session Date
+        name: Session Date
         direction: desc
         priority: 1
         customOrder: []
@@ -291,7 +291,7 @@ savedViews:
         customFilter: ""
       - id: Session____Campaign
         name: Campaign
-        query: DM Blast to the Past
+        query: Seal of Infinity
         customFilter: ""
       - id: Session____Session Date
         name: Session Date
@@ -310,7 +310,7 @@ savedViews:
         name: Session Date
         hidden: false
         position: 2
-favoriteView: 
+favoriteView:
 fieldsOrder:
   - fKlfOC
   - 03DVIc

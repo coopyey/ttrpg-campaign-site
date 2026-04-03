@@ -7,9 +7,9 @@ Session Date: 2025-07-13
 # Last Time
 We learn that the city is pending attack from the empire.
 
-We learn that [[Salvor Bajj]] has gone toward a village at the coast, but they haven't seen him in a while. If he's been inconvenienced by something, it'd be incredibly powerful.
+We learn that [[content/Archive/DM Blast to the Past/NPCs/Salvor Bajj]] has gone toward a village at the coast, but they haven't seen him in a while. If he's been inconvenienced by something, it'd be incredibly powerful.
 
-[[Zimri]] learns a song from the local bards:
+[[content/Archive/DM Blast to the Past/Player Characters/Zimri]] learns a song from the local bards:
 *Let’s raise a glass to Our Friend*
 *a scourge on all scoundrels and rogues*
 *who brings them a swift, vicious end*
@@ -20,13 +20,13 @@ We learn that [[Salvor Bajj]] has gone toward a village at the coast, but they h
 *Neither deceit, spell or a blade*
 *Could get Our Friend to stop*
 # The City
-[[Silver]] gets a feeling that he isn't a mage from this - powerful, yes, but not a fighter. He is a very powerful person who pretends to be a mage to put less attention on himself. Silver mulls this over and then asks the group if we are looking for an archfey, and [[Damaris]] asks if there are fey here, making [[Nymnar]] want to claw his eyes out.
+[[content/Archive/DM Blast to the Past/Player Characters/Silver]] gets a feeling that he isn't a mage from this - powerful, yes, but not a fighter. He is a very powerful person who pretends to be a mage to put less attention on himself. Silver mulls this over and then asks the group if we are looking for an archfey, and [[content/Archive/DM Blast to the Past/Player Characters/Damaris]] asks if there are fey here, making [[content/Archive/DM Blast to the Past/Player Characters/Nymnar]] want to claw his eyes out.
 
 This song is very much a subtle commentary on how the people here are afraid of what he can do, though they are not afraid of him.
 
 We do some shopping. Silver goes through and finds the bare minimum of supplies we will need to move forward. Damaris finds a stall with journals and freezes. Nymnar eventually finds a journal and puts it in her hands for Silver and Damaris pays for the journal and puts it into Silver's hands. She then finds a fantasy romance novel - about the exotic world of New Jersey, a mob romance. She puts the book at the bottom of her pack.
 
-Damaris looks at [[Achille]] and asks if there is anything else we need, and if he wants anything for himself. He says no, confirms we have food, and then says he's fine and doesn't need anything. Nymnar gets himself an additional writing set with extra ink and quills.
+Damaris looks at [[content/Archive/DM Blast to the Past/Player Characters/Achille]] and asks if there is anything else we need, and if he wants anything for himself. He says no, confirms we have food, and then says he's fine and doesn't need anything. Nymnar gets himself an additional writing set with extra ink and quills.
 
 We decide to leave and the party thank the guards that were escorting us. The nicer guard comments that we need to be careful and look out for the Femorians -> a people that gnomes used to have to serve (and why gnomes are so good at hiding), they are not good people and we need to be wary of them. Silver takes a bite out of a chocolate bar and comments that we are fucked.
 # Leaving the City
@@ -77,7 +77,7 @@ Zimri's attempt fails to convince him and Nymnar tries to shifts blame to blame 
 
 The man in armor recognizes Achille and goes up to him and kisses Achille, glad to see him. Pyrisou - the man in armor - speaks of something that happened ages ago. It's clear that Achille doesn't recall him, and Pyrisou starts to melt and lose his form, and we all realize he'd turned himself into an ooze to extend his life. Achille asks that we talk about this like people, that he help him remember, and Pyrisou explains their warband and they piece together that they're on different sides of the fight.
 
-Pyrisou admits that [[Salvor Bajj]] is in the Shadowfell, and Pyrisou explains that the empire wanted to remove Salvor from the board so that the Material Plane can be the Empire's. We are about to leave when Nymnar comments that Achille should introduce Pyrisou to his new girlfriend. Pyrisou gets pissed and starts to lose his form, Achille's head snapping toward Nymnar with a newfound fury.
+Pyrisou admits that [[content/Archive/DM Blast to the Past/NPCs/Salvor Bajj]] is in the Shadowfell, and Pyrisou explains that the empire wanted to remove Salvor from the board so that the Material Plane can be the Empire's. We are about to leave when Nymnar comments that Achille should introduce Pyrisou to his new girlfriend. Pyrisou gets pissed and starts to lose his form, Achille's head snapping toward Nymnar with a newfound fury.
 
 One of the undead mages finally notices Nymnar and the two start to have a heated conversation in Shadowtongue, with Nymnar telling them to help him get out of here, to get home. They explain that Deathwhisper says he's turncoat, and Nymnar is pissed at this, asking why they'd believe a failure. The mage comments that Nymnar's been away for quite a while, and Deathwhisper has power now. Nymnar says it's not his fault he was abandoned on the material plane, that his jailor was *Soldos*.
 

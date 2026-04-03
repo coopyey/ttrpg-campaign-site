@@ -5,13 +5,13 @@ Session Date: 2025-06-22
 ---
 **Session Date:** 06/22/2025
 # After Combat
-We know that we need to head toward the gnomish city of Glimmas Te, but for now [[Zimri]] has requested that we take some time to rest. [[Silver]] comments that walking is good, and [[Achille]] comments that the others (the not elves) may need to rest more than them. We all hijack the camp the imperials left over and rest. Zimri lies down in a cot and Silver takes time to work on breaking the code found last session.
+We know that we need to head toward the gnomish city of Glimmas Te, but for now [[content/Archive/DM Blast to the Past/Player Characters/Zimri]] has requested that we take some time to rest. [[content/Archive/DM Blast to the Past/Player Characters/Silver]] comments that walking is good, and [[content/Archive/DM Blast to the Past/Player Characters/Achille]] comments that the others (the not elves) may need to rest more than them. We all hijack the camp the imperials left over and rest. Zimri lies down in a cot and Silver takes time to work on breaking the code found last session.
 
-Silver does find a note from the commander's wife and it essentially says to return a winner, or don't return at all. It is signed with her full name, [[Cassia Tacita Nerva]].
+Silver does find a note from the commander's wife and it essentially says to return a winner, or don't return at all. It is signed with her full name, [[content/Archive/DM Blast to the Past/NPCs/Cassia Tacita Nerva]].
 
 As we spend time here, there doesn't seem to be anyone here at all - no humans, no fey, no animals. The fire is dying out as it goes out, and the camp itself is ash. 
 
-[[Damaris]] prays to her goddess for help navigating the feywild and it begins to rain after she finishes. Achille heads away from the group and to the forest and puts blood on his rosary and then prays to Lolth to make the imperials for vengeance.
+[[content/Archive/DM Blast to the Past/Player Characters/Damaris]] prays to her goddess for help navigating the feywild and it begins to rain after she finishes. Achille heads away from the group and to the forest and puts blood on his rosary and then prays to Lolth to make the imperials for vengeance.
 # Damaris & Achille
 Damaris meets with Achille and apologizes for the rain and making Achille wet. Achille comments that this is a better omen that the rain is from her, because he went to pray and the rain started, thinking that the gods were being mean to him specifically. Damaris asks if they pick favorites (or least) and he says yes, you'd be surprised. Achille asks how Damaris is and she says that she's fine. Achille's face goes flat and he stares, and she diverts her gaze away. 
 
@@ -29,7 +29,7 @@ While Damaris and Achille are gone, Silver finds Nymnar and gives him another cr
 
 Achille returns to find the two of them reading next to each other.
 # The Next Day
-Damaris recalls the area from a previous venture here and from intense study. She recalls that Glimmas Te had mushroom houses but is otherwise incredibly well fortified. This is the best place to start looking around for [[Salvor Bajj]], as this would be the biggest nearby city.
+Damaris recalls the area from a previous venture here and from intense study. She recalls that Glimmas Te had mushroom houses but is otherwise incredibly well fortified. This is the best place to start looking around for [[content/Archive/DM Blast to the Past/NPCs/Salvor Bajj]], as this would be the biggest nearby city.
 
 We begin our march to the city and the feywild is definitely richer than the Prime Material: colors are richer and deeper, smells are more fragrant and powerful, animals are not scared of animals. Damaris leads us in a way without nearing any bodies of water and there are no real conflicts as we continue.
 

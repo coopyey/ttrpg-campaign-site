@@ -9,11 +9,11 @@ We are all about as safe as we can be once the cops leave. We discuss next steps
 - We can go to the fire embassy to see if [[Taraaq]] can help
 - We can talk to the Bleak Cabal to see if they are able to help us
 - We can go to the embassy for The Nether and see what they can do
-	- [[Nymnar]] has previously suggested this and his verbiage was such that he would not be able to accompany the party with that
+	- [[content/Archive/DM Blast to the Past/Player Characters/Nymnar]] has previously suggested this and his verbiage was such that he would not be able to accompany the party with that
 
-[[Zimri]] approaches the Bleak Cabal and apologizes for ruining poetry night. He explains we need to go to the Netherworld, and asks where we could go to get there. The gentleman that Zimri is speaking to explains there are definitely portals, and there is *one* guy that we can go to. He explains that we'll need to go to the Undersigil. The gentleman is rather wishywashy on it, ultimately commenting that he's fine, but he's in a depression cycle so he went to Undersigil. He explains that he's V!kgri ([[Vikgri]]) and then shows us roughly where we need to go to get there. He explains that V!kgri is a big guy.
+[[content/Archive/DM Blast to the Past/Player Characters/Zimri]] approaches the Bleak Cabal and apologizes for ruining poetry night. He explains we need to go to the Netherworld, and asks where we could go to get there. The gentleman that Zimri is speaking to explains there are definitely portals, and there is *one* guy that we can go to. He explains that we'll need to go to the Undersigil. The gentleman is rather wishywashy on it, ultimately commenting that he's fine, but he's in a depression cycle so he went to Undersigil. He explains that he's V!kgri ([[content/Archive/DM Blast to the Past/NPCs/Vikgri]]) and then shows us roughly where we need to go to get there. He explains that V!kgri is a big guy.
 
-Zimri asks how bad this Undersigil will be, and [[Silver]] explains that it's less of a criminal underworld type situation and more just another layer of the city. Silver says that they're going into the sewers and Zimri is far less excited about that.
+Zimri asks how bad this Undersigil will be, and [[content/Archive/DM Blast to the Past/Player Characters/Silver]] explains that it's less of a criminal underworld type situation and more just another layer of the city. Silver says that they're going into the sewers and Zimri is far less excited about that.
 # Undersigil
 We go and it's more like we're in the catacombs rather than the sewers. Zimri goes around asking if anyone knows where V!kgri is. We eventually see a rat with part of the brain exposed, and suddenly there's a swarm of rats that nearly surround us. A voice enters our mind: *You're not from around here.* Silver compliments the spookiness and the voice thanks her. Zimri explains that we are simply looking for someone named V!kgri. The rats explain that they can help us find V!kgri in exchange of cheese. We give them cheese.
 
@@ -21,11 +21,11 @@ The rats explain we have to move a bit - the third catacomb on the left, but the
 
 We begin walking and Silver walks into a catacomb with some corridors and sees a spot that is flooded. Before she can react, an enormous four-legged reptile creature that's grey-green emerges from the water. It starts coming at us. She pulls her dagger and asks if he's V!kgri and he corrects her pronunciation, saying that nobody pronounces the ! correctly. He stands up like an ape and asks what we want.
 
-Zimri says that we were told he can help us get to the Netherworld, and he asks what we need to go there for. Silver says it's a long story, and V!kgri says he has time. [[Nymnar]] speaks up and says that we are looking for someone. V!kgri calls it vague, and then Silver gives the cliffsnotes edition: we are sent by a friend to rescue another friend who got kidnapped into the Nether. Silver hesitates and eventually name drops [[Soldos]], and it's clear that's a good thing with V!kgri.
+Zimri says that we were told he can help us get to the Netherworld, and he asks what we need to go there for. Silver says it's a long story, and V!kgri says he has time. [[content/Archive/DM Blast to the Past/Player Characters/Nymnar]] speaks up and says that we are looking for someone. V!kgri calls it vague, and then Silver gives the cliffsnotes edition: we are sent by a friend to rescue another friend who got kidnapped into the Nether. Silver hesitates and eventually name drops [[Soldos]], and it's clear that's a good thing with V!kgri.
 
-V!kgri comments that he wonders if this is enough to end a good brood, and [[Achille]] understands what he means. There's some back and forth about what constitutes as brooding and what constitutes as contemplation. He ultimately explains that he needs something in return and he asks to know more about us so that he has something to think about.
+V!kgri comments that he wonders if this is enough to end a good brood, and [[content/Archive/DM Blast to the Past/Player Characters/Achille]] understands what he means. There's some back and forth about what constitutes as brooding and what constitutes as contemplation. He ultimately explains that he needs something in return and he asks to know more about us so that he has something to think about.
 
-[[Damaris]] explains that she's Soldos's adopted daughter.
+[[content/Archive/DM Blast to the Past/Player Characters/Damaris]] explains that she's Soldos's adopted daughter.
 
 He then comments that there's chaos that clings to us, not that he has much room to speak: he's a gormeel, the lawful variant of slaad. He comments that he was from Limbo and that he was something of an outlier, the kind where all of his kind wants to kill us. He's always being hunted down.
 

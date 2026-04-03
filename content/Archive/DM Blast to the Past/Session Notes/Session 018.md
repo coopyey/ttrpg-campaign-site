@@ -19,7 +19,7 @@ Deathwhisper
 - Immunities
 	- Void
 
-[[Damaris]] shoots Deathwhisper in the throat and it lands. Afterward, in the middle of combat, [[Nymnar]] approaches and kneels before him. Deathwhisper is gurgling and drowning on his own blood as he tries to stab Nymnar, but his hands aren't working properly anymore. The gurgles from him are in ancient Necril and Shadowtongue and every other language they share. Nymnar grabs him by the jaw and just hisses to him in Necril: "you will fail one last time by my own hand" as he casts death knell, extinguishing the life from Deathwhisper permanently.
+[[content/Archive/DM Blast to the Past/Player Characters/Damaris]] shoots Deathwhisper in the throat and it lands. Afterward, in the middle of combat, [[content/Archive/DM Blast to the Past/Player Characters/Nymnar]] approaches and kneels before him. Deathwhisper is gurgling and drowning on his own blood as he tries to stab Nymnar, but his hands aren't working properly anymore. The gurgles from him are in ancient Necril and Shadowtongue and every other language they share. Nymnar grabs him by the jaw and just hisses to him in Necril: "you will fail one last time by my own hand" as he casts death knell, extinguishing the life from Deathwhisper permanently.
 
 The unrisen is finally slain. Nymnar starts going
 
@@ -35,7 +35,7 @@ We flying fast and there are camps of people who didn't wish to be part of this 
 
 The Netherworld breaks down and is destroyed, and then reconstitutes itself into something that looks like a planet. There's almost a screaming face on the surface of it and it flies. There's almost no Netherworld left.
 
-On the way out, Damaris promises Nymnar that she will put in a good word for [[Soldos]] so that Nymnar can have a better life on the material plane. [[Achille]] drops his symbol for the goddess of redemption as he is upset that this is what the ending is, and he understands that this redemption is now his job and we will have to find the people in the material plane. [[Silver]] 
+On the way out, Damaris promises Nymnar that she will put in a good word for [[Soldos]] so that Nymnar can have a better life on the material plane. [[content/Archive/DM Blast to the Past/Player Characters/Achille]] drops his symbol for the goddess of redemption as he is upset that this is what the ending is, and he understands that this redemption is now his job and we will have to find the people in the material plane. [[content/Archive/DM Blast to the Past/Player Characters/Silver]] 
 
 # On the Material Plane
 Soldos' castle is cut in twain: the devastation is immense. In the middle of the desolation sits Soldos as he cradles the body of his natural born daughter. The last thing he says before we return is: We're riding to war.

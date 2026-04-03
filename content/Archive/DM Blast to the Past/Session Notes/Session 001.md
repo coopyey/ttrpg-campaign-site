@@ -5,13 +5,13 @@ Session Date: 2025-06-01
 ---
 **Session Date:** 06/01/2025
 # The Adventure Begins
-We are in the last days of the Zarian Empire. It's very cruel, very human-centric, and allowed to fester for such a long time because they guard magic very heavily. [[Soldos]]'s castle is outside of the empire's sphere of influence, and he is retired. He feels he's fought his battles, he's gathered people around him, he only has one prisoner. He has a ward, [[Damaris]], spending time in the nearby forests. 
+We are in the last days of the Zarian Empire. It's very cruel, very human-centric, and allowed to fester for such a long time because they guard magic very heavily. [[Soldos]]'s castle is outside of the empire's sphere of influence, and he is retired. He feels he's fought his battles, he's gathered people around him, he only has one prisoner. He has a ward, [[content/Archive/DM Blast to the Past/Player Characters/Damaris]], spending time in the nearby forests. 
 
-His friend Allegro, brought his son, [[Zimri]] here to train, along with Soldos's daughter and Damaris are here to train. Zimri hasn't seen his father in a few weeks, even when Soldos had to leave.
+His friend Allegro, brought his son, [[content/Archive/DM Blast to the Past/Player Characters/Zimri]] here to train, along with Soldos's daughter and Damaris are here to train. Zimri hasn't seen his father in a few weeks, even when Soldos had to leave.
 ## Nymnar
-[[Nymnar]] is kept in relative comfort, for prison. It's been quite some time since the last interrogation. I was not tortured, and I did not give much in the way of information, but it's easy to imagine I did not know all that much to begin with.
+[[content/Archive/DM Blast to the Past/Player Characters/Nymnar]] is kept in relative comfort, for prison. It's been quite some time since the last interrogation. I was not tortured, and I did not give much in the way of information, but it's easy to imagine I did not know all that much to begin with.
 
-I sit alone and [[Achille]] is not here at the moment. I am in my cell and a woman in a long black veil approaches, her face hard to see. This is the [[Seeress Nuvira]] - one of the most notable casters on the plane. I didn't know that Soldos even knew her. She says that I will be presented with a choice very soon: an opportunity. She suggests that I take it, or I'll never see the outside of a cell again.
+I sit alone and [[content/Archive/DM Blast to the Past/Player Characters/Achille]] is not here at the moment. I am in my cell and a woman in a long black veil approaches, her face hard to see. This is the [[content/Archive/DM Blast to the Past/NPCs/Seeress Nuvira]] - one of the most notable casters on the plane. I didn't know that Soldos even knew her. She says that I will be presented with a choice very soon: an opportunity. She suggests that I take it, or I'll never see the outside of a cell again.
 
 Nymnar listens to what she has to say, but gives no response.
 ## Damaris
@@ -59,7 +59,7 @@ The halfling's smile lessens, no longer having fun, and he comments that Silver 
 
 The halfling talks to Silver and compliments her again, then comments not to go back to the dungeon, as the man in there is a bad man. Silver asks for a history listen, and he explains it's far too soon, the memory too fresh. She awkwardly says okay. He tells her that Soldos is essentially his brother, and he won't break Soldos's word, but if he could have five minutes with Nymnar...
 
-He introduces himself as [[Gentleman Bauto Swifte]], and then disappears after Silver squeaks out her name. She walks out and "steals" a roll from the kitchen.
+He introduces himself as [[content/Archive/DM Blast to the Past/NPCs/Gentleman Bauto Swifte]], and then disappears after Silver squeaks out her name. She walks out and "steals" a roll from the kitchen.
 # The Courtyard
 Damaris recognizes a dwarven warrior wearing a magical mask that lets her function in the light: she wields an orgosh. This is the Duchess of Battles, Gwynnora Stonekeeper. She's one of the most decorated generals in the history of the continent. She recognizes Bauto Swifte as well: THE pirate king, the man who's organized the bandits and pirates against the empire. She also recognizes Cuthbert of the Cudgel, and Acrius Aquilius as well. The meeting that is going to happen will happen tonight. Everyone is here. 
 
@@ -115,7 +115,7 @@ Nuvira explains that a man must be informed, and he's in the feywild. Nuvira exp
 
 Damaris and Zimri walk up and Soldos is upset about the prophecy. Nuvira comments that it's not a prophecy, just a little vision. Damaris asks what's going on, and Silver explains that shit is fucked and that there is a guy in the feywild that we need to retrieve. There's some back and forth as it's said that Silver reincarnates, but she refuses to hear it. Damaris asks to go as long as Achille comes along.
 
-Soldos will pen a letter and explains that we are to meet with [[Salvor Bajj]]. He is to be trusted, we are allowed to tell him anything. Soldos lets it slip that the other party is going to assassinate the emperor, and Damaris realizes this is what Sylvaine is going to do, and she leaves, upset. Nuvira assures us that it is necessary.
+Soldos will pen a letter and explains that we are to meet with [[content/Archive/DM Blast to the Past/NPCs/Salvor Bajj]]. He is to be trusted, we are allowed to tell him anything. Soldos lets it slip that the other party is going to assassinate the emperor, and Damaris realizes this is what Sylvaine is going to do, and she leaves, upset. Nuvira assures us that it is necessary.
 # Damaris' Room
 Damaris retires to her room and the curse laughs, asking if she remembers her. Damaris asks about Silver, and she dunks her head under water. Curse comments it'll be interesting to see how she develops over the course of this adventure. The curse says she can't just stay here, they're counting on her.
 

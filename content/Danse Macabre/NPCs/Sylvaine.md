@@ -6,4 +6,4 @@ Organization:
 ---
 [[Soldos]]'s daughter. He didn't pick the name.
 # Blast to the Past
-Never stopped trying to be [[Damaris]]'s friend.
+Never stopped trying to be [[content/Archive/DM Blast to the Past/Player Characters/Damaris]]'s friend.

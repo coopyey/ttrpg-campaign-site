@@ -5,7 +5,7 @@ Session Date: 2025-09-26
 ---
 **Session Date:** 09/26/2025
 # Session Begin
-[[Calthel]] had gotten sun stroke during the last session so he is recovered by the time the party returns to the inn. Recent events are explained over dinner, as we as introductions made for Calthel, [[Ravyn]] and [[Eleri]]. After dinner, [[Ships]] asks Calthel to identify the Rider Kalyptos's sword. Calthel identifies it as a [crystal blade](https://dnd5e.wikidot.com/wondrous-items:crystal-blade): a pale steel sword with there diamonds in the blood groove where the target takes extra 1d8 radiant damage when hit. You can use a bonus action to shed bright light in a 30-foot radius and dim light for an additional 30 feet, to cause it to shed dim light for a 10-foot radius, or to douse the light.
+[[Calthel]] had gotten sun stroke during the last session so he is recovered by the time the party returns to the inn. Recent events are explained over dinner, as we as introductions made for Calthel, [[content/Archive/DM Blast to the Past/Player Characters/Ravyn]] and [[Eleri]]. After dinner, [[Ships]] asks Calthel to identify the Rider Kalyptos's sword. Calthel identifies it as a [crystal blade](https://dnd5e.wikidot.com/wondrous-items:crystal-blade): a pale steel sword with there diamonds in the blood groove where the target takes extra 1d8 radiant damage when hit. You can use a bonus action to shed bright light in a 30-foot radius and dim light for an additional 30 feet, to cause it to shed dim light for a 10-foot radius, or to douse the light.
 
 Controversial Headmistterss: Baroness-Consort Prestina
 - Calthel knows she tied Baron, wasn't married way back when

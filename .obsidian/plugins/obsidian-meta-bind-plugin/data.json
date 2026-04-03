@@ -1,0 +1,123 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "New Session",
+      "icon": "book",
+      "style": "primary",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "new-session",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:e7f2c259-4d50-4efb-9606-5dc92c0b2fd8"
+        }
+      ]
+    },
+    {
+      "label": "New Location",
+      "icon": "map-pin",
+      "style": "destructive",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "new-location",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:f33378ef-2ab2-4513-82b3-f2829daeae44"
+        }
+      ]
+    },
+    {
+      "label": "New NPC",
+      "icon": "circle-user",
+      "style": "destructive",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "new-npc",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:5b49fc98-090a-4fb0-9630-5a116d9b4d1f"
+        }
+      ]
+    },
+    {
+      "label": "New Org",
+      "icon": "building",
+      "style": "destructive",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "new-organization",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:64c0d321-f73c-4ac2-a54b-b6cb5389ac40"
+        }
+      ]
+    },
+    {
+      "label": "New Player",
+      "icon": "user",
+      "style": "destructive",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "new-player",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:9d059c6e-670a-447a-9cd1-9d162eb7a3d7"
+        }
+      ]
+    },
+    {
+      "label": "New Note",
+      "icon": "scroll",
+      "style": "destructive",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "new-note",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "quickadd:choice:6d7eded5-0658-471f-8941-a8991f5dba3a"
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

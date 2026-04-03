@@ -6,9 +6,9 @@ Session Date: 2025-06-08
 **Session Date:** 06/08/2025
 # Silver & Nymnar, then Achille
 Nymnar reincarnation notes:
->*I know that some elves reincarnate. I know that [[Soldos]] reincarnates and now I know that [[Achille]] reincarnates.*
+>*I know that some elves reincarnate. I know that [[Soldos]] reincarnates and now I know that [[content/Archive/DM Blast to the Past/Player Characters/Achille]] reincarnates.*
 
-[[Silver]] sneaks out of her room in the middle of the night and stops by the kitchen to get a croissant and an apple for him. She offers the food to [[Nymnar]], though he doesn't immediately turn around from his book. Silver knocks on the bars to get his attention, and - a little annoyed - Nymnar turns around to find Silver holding out the apple and croissant as offering through the bars. Nymnar notices the croissant and approaches to take them, retreating and turning his chair to face Silver, sitting down to eat the croissant.
+[[content/Archive/DM Blast to the Past/Player Characters/Silver]] sneaks out of her room in the middle of the night and stops by the kitchen to get a croissant and an apple for him. She offers the food to [[content/Archive/DM Blast to the Past/Player Characters/Nymnar]], though he doesn't immediately turn around from his book. Silver knocks on the bars to get his attention, and - a little annoyed - Nymnar turns around to find Silver holding out the apple and croissant as offering through the bars. Nymnar notices the croissant and approaches to take them, retreating and turning his chair to face Silver, sitting down to eat the croissant.
 
 They are in awkward silence, until Silver finally asks about the reincarnation thing. Nymnar comments that he doesn't know much, except that some elves do reincarnate. If he had to guess it is a divine thing, a gift from Corellion. She asks if Soldos is one, and Nymnar confirms, along with Achille apparently is one as well. It's clear that Silver has a million more questions, but she doesn't speak them as she knows that Nymnar doesn't know much. 
 
@@ -18,7 +18,7 @@ She was born with the silver markings on her arm, unsure of what they are. She'd
 
 Achille comes down to find Silver asleep in a chair, book half open. He's confused and asks if she's been here all night. Silver asks if it's morning, and it is, and so she says yes. She gets up and gets really awkward. Achille checks to make sure everything is okay, and then Silver takes her leave.
 # Soldos and Zimri
-[[Zimri]] comes out and finds Soldos, who tosses a leather ball to him. Soldos says that this is something that will be helpful. He admits that Nymnar is a giant question mark: he will either be helpful and glad to be out of the cell, and if that's not the case, then Achille has his axe. Zimri asks about the ball and Soldos explains that Nymnar has a heart (as much as may disagree with it) and Soldos explains that this ball is connected to Nymnar's heart. Soldos explains that he hopes that Nymnar has changed and is better than he was, but if push comes to shove. He comments that Nymnar is a powerful necromancer and while he may have forgotten some of his power in the cell, he is still dangerous. Soldos admits that he would like for Nymnar to return and to have earned a room rather than a cell.
+[[content/Archive/DM Blast to the Past/Player Characters/Zimri]] comes out and finds Soldos, who tosses a leather ball to him. Soldos says that this is something that will be helpful. He admits that Nymnar is a giant question mark: he will either be helpful and glad to be out of the cell, and if that's not the case, then Achille has his axe. Zimri asks about the ball and Soldos explains that Nymnar has a heart (as much as may disagree with it) and Soldos explains that this ball is connected to Nymnar's heart. Soldos explains that he hopes that Nymnar has changed and is better than he was, but if push comes to shove. He comments that Nymnar is a powerful necromancer and while he may have forgotten some of his power in the cell, he is still dangerous. Soldos admits that he would like for Nymnar to return and to have earned a room rather than a cell.
 
 Zimri asks what has happened to put Nymnar in prison, and Soldos asks if his father has not told him. Zimri says no, and Soldos says that it is not his story to tell, then.
 
@@ -32,7 +32,7 @@ Zimri pulls out a journal to say that he was going to chronicle what is happenin
 
 The moment passes and Allegro takes a few steps back. He says that they need to meet up when it's all over and "compare notes".
 # Damaris
-For the first time in twenty years, [[Damaris]] goes to find [[Sylvaine]]. Sylvaine and Acrius were holding hands until she approached, and they drop their hands. Sylvaine greets Damaris and Damaris apologizes for disturbing them. Damaris says that she wishes to speak to Sylvaine before going, and Acrius awkwardly says that he needs to check on his gear and he needs to go speak with Soldos.
+For the first time in twenty years, [[content/Archive/DM Blast to the Past/Player Characters/Damaris]] goes to find [[Sylvaine]]. Sylvaine and Acrius were holding hands until she approached, and they drop their hands. Sylvaine greets Damaris and Damaris apologizes for disturbing them. Damaris says that she wishes to speak to Sylvaine before going, and Acrius awkwardly says that he needs to check on his gear and he needs to go speak with Soldos.
 
 Damaris starts by asking about the feywild, and Sylvaine isn't so sure about things such as the gravity. Damaris asks if she could give Sylvaine a little good luck charm, to which she says of course. Sylvaine admits she might have a small good luck charm for Damaris as well. Damaris awkwardly asks who goes first, or are they going to do a countdown. Sylvaine tells Damaris to go first.
 
@@ -44,7 +44,7 @@ Damaris says she hopes that this is a see you later and not a goodbye. Sylvaine 
 
 There is more discussion with Damaris just about spilling a secret to Sylvaine, quickly (failing to) covering up with a story about needing a new farrier. Sylvaine entertains it while pointing out the absurdity, but doesn't ask further. Damaris starts to walk away as Sylvaine continues to hug Damaris, being dragged along.
 
-The [[Seeress Nuvira]] is watching them, commenting that it's nice to see sisters getting along. The two of them agree, and Damaris comments that they never fight. Nuvira comments that she and her sisters never got along, and Damaris suggests she gets new sisters. Nuvira comments that she cannot go to see them anyway. She lets Damaris know that Soldos wishes to meet us in the most important place to him in the castle.
+The [[content/Archive/DM Blast to the Past/NPCs/Seeress Nuvira]] is watching them, commenting that it's nice to see sisters getting along. The two of them agree, and Damaris comments that they never fight. Nuvira comments that she and her sisters never got along, and Damaris suggests she gets new sisters. Nuvira comments that she cannot go to see them anyway. She lets Damaris know that Soldos wishes to meet us in the most important place to him in the castle.
 # The Meeting
 The meeting is going on in Soldos's wife's tomb. She was a beautiful elven woman. Her name (Euanthe) is carved on the tomb. There are slitted windows so that some light does gently filter in, with a stone bench carved to sit. Soldos spends a little time every day in here.
 

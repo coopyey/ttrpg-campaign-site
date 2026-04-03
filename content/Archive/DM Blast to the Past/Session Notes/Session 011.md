@@ -5,9 +5,9 @@ Session Date: 2025-09-07
 ---
 **Session Date:** 09/07/2025
 # Combat
-[[Zimri]] heals the fallen envoy and we finish combat by killing the two guards and the executioner, which [[Achille]] beheads. [[Silver]] picks up the corpse of the deceased envoy (after Nymnar uses peaceful rest on it) to return it.
+[[content/Archive/DM Blast to the Past/Player Characters/Zimri]] heals the fallen envoy and we finish combat by killing the two guards and the executioner, which [[content/Archive/DM Blast to the Past/Player Characters/Achille]] beheads. [[content/Archive/DM Blast to the Past/Player Characters/Silver]] picks up the corpse of the deceased envoy (after Nymnar uses peaceful rest on it) to return it.
 # The Escape
-We split up and run: Zimri takes two envoys and disappears into the crowd to head back to the portal area. [[Nymnar]] goes with Silver and uses shared invisibility so that they can run along the rooftops and get back quickly, making sure they aren't seen since they're invisible. [[Damaris]] and Achille push through the crowd.
+We split up and run: Zimri takes two envoys and disappears into the crowd to head back to the portal area. [[content/Archive/DM Blast to the Past/Player Characters/Nymnar]] goes with Silver and uses shared invisibility so that they can run along the rooftops and get back quickly, making sure they aren't seen since they're invisible. [[content/Archive/DM Blast to the Past/Player Characters/Damaris]] and Achille push through the crowd.
 
 We all make it to the warehouse and figure out who's going where. We decide that [[Taraaq]] goes first with the corpse, then the envoys go, then Zimri, then Damaris, then Silver, then Achille, then Nymnar.
 
