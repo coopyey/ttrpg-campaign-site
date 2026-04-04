@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0fef400e29529dda",
+        "id": "4bf15265461f40fd",
         "type": "tabs",
         "children": [
           {
-            "id": "fa8f8c27eab475a8",
+            "id": "ca2e8402960d0889",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "content/The Withering Heart/Player Characters/Adoniel.md",
-                "mode": "source",
-                "source": false
+                "file": "metamenu/Dashboard.canvas",
+                "viewState": {
+                  "x": -60,
+                  "y": -104,
+                  "zoom": -0.11450169838831946
+                }
               },
-              "icon": "lucide-file",
-              "title": "Adoniel"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -70,7 +73,7 @@
       {
         "id": "67e10f48db68ad3f",
         "type": "tabs",
-        "dimension": 22.451994091580502,
+        "dimension": 22.4519940915805,
         "children": [
           {
             "id": "a7f729455215fcba",
@@ -189,16 +192,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa8f8c27eab475a8",
+  "active": "ca2e8402960d0889",
   "lastOpenFiles": [
-    "content/The Withering Heart/Player Characters/Sean Gomez.md",
+    "content/Nuclear Chrome/Session Notes/Session 055.md",
+    "content/The Withering Heart/Session Notes/Session 001.md",
+    "metamenu/Dashboard.canvas",
     "content/The Withering Heart/Player Characters/Lorn.md",
+    "content/The Withering Heart/Player Characters/Adoniel.md",
+    "content/The Withering Heart/Player Characters/Sean Gomez.md",
     "content/The Withering Heart/Player Characters/Brett Moran.md",
     "content/The Withering Heart/Player Characters/Afton Eichman VI.md",
-    "content/The Withering Heart/Player Characters/Adoniel.md",
     "content/index.md",
-    "metamenu/Dashboard.canvas",
-    "content/The Withering Heart/Session Notes/Session 001.md",
     "metamenu/class sources/Campaign List.md",
     "README.md",
     "metamenu/class/Session.md",
