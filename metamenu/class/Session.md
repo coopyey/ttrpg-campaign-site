@@ -18,7 +18,7 @@ fields:
       valuesListNotePath: metamenu/class sources/Campaign List.md
     path: ""
     id: fKlfOC
-version: "2.42"
+version: "2.47"
 limit: 20
 mapWithTag: false
 icon: book-open-text
@@ -35,11 +35,6 @@ savedViews:
         name: file
         direction: desc
         priority: 1
-        customOrder: []
-      - id: Session____Session Date
-        name: Session Date
-        direction: desc
-        priority: 2
         customOrder: []
     filters:
       - id: Session____file
@@ -70,8 +65,8 @@ savedViews:
   - name: DanseLastSession
     children: []
     sorters:
-      - id: Session____Session Date
-        name: Session Date
+      - id: Session____file
+        name: file
         direction: desc
         priority: 1
         customOrder: []
@@ -172,8 +167,8 @@ savedViews:
   - name: SealLastSession
     children: []
     sorters:
-      - id: Session____Session Date
-        name: Session Date
+      - id: Session____file
+        name: file
         direction: desc
         priority: 1
         customOrder: []
@@ -209,11 +204,6 @@ savedViews:
       - id: Session____file
         name: file
         direction: asc
-        priority: 2
-        customOrder: []
-      - id: Session____Session Date
-        name: Session Date
-        direction: desc
         priority: 1
         customOrder: []
     filters:
@@ -313,8 +303,8 @@ savedViews:
   - name: WitheringLastSession
     children: []
     sorters:
-      - id: Session____Session Date
-        name: Session Date
+      - id: Session____file
+        name: file
         direction: desc
         priority: 1
         customOrder: []
@@ -322,12 +312,15 @@ savedViews:
       - id: Session____file
         name: file
         query: ""
+        customFilter: ""
       - id: Session____Campaign
         name: Campaign
         query: The Withering Heart
+        customFilter: ""
       - id: Session____Session Date
         name: Session Date
         query: ""
+        customFilter: ""
     columns:
       - id: Session____file
         name: file

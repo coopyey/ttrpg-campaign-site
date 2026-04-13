@@ -8,4 +8,4 @@ The feral druid to the north where we traveled to set up the city on the way to 
 
 Sightings....
 [[Session 083]] 
-[[Session 084]] 
+[[content/Seal of Infinity/Session Notes/Session 084]] 
