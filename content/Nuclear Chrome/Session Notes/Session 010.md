@@ -5,7 +5,7 @@ Session Date: 2023-03-23
 ---
 **Session Date:** 3/23/2023
 
-[[Garf]] asks to check against the manifest the guard has to verify the contents while [[Net]] reviews the box to see what security it has. Garf asks Net ("Tongue") for the other shard and he gives her the behavior chip.
+[[content/Nuclear Chrome/Player Characters/Deceased/Garf]] asks to check against the manifest the guard has to verify the contents while [[Net]] reviews the box to see what security it has. Garf asks Net ("Tongue") for the other shard and he gives her the behavior chip.
 
 On the shard is a lot of REDACTED
 - No shipper info

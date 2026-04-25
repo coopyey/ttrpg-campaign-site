@@ -19,7 +19,7 @@ Linking [[Mysterious Man]] here since the name is going to change in the future.
 Map:
 ![[dungon.webp]]
 
-We start on the southern route and make our way up to the rubble. The branch on the right is closed with radiation symbols all over the place. We take the path to the left, then go down south to the left into the area with an access point. [[Garf]] jacks in so that she can begin her netrun to try to upload the virus that [[Emerick]] gave her.
+We start on the southern route and make our way up to the rubble. The branch on the right is closed with radiation symbols all over the place. We take the path to the left, then go down south to the left into the area with an access point. [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] jacks in so that she can begin her netrun to try to upload the virus that [[Emerick]] gave her.
 
 Garf gains access to most of the cameras and sees Omen just slaughtering people that he runs into. She then gets the camera to the hangar, then sees [[Mr. Steele]] step out of a door, talking to a staff member. He steps back into the room and Garf informs the rest of us about these developments.
 

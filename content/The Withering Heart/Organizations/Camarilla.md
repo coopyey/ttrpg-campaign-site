@@ -1,0 +1,6 @@
+---
+Class: Organization
+Campaign: 
+Status: Active
+---
+[The Camarilla](https://vtm.paradoxwikis.com/Camarilla) is one of the most organized and influential Kindred organizations in history. Their goal is to preserve the masquerade and keep Kindred in line with rules that help protect their society from the prying mortal eye. Beyond this, it is a conspiracy to help elders preserve their power built on an undead secret society that influences global business and politics. The Camarilla is the closest thing they have to a system of government and an international union of cities. It is completed by an inner circle and its Justicars and Archons that roam the world to "keep the peace". A fierce moral stance is held on preserving humanity even against the impulses of the Blood, seeing themselves as shepherds to the herds of mortals they blindly control. Many Camarilla members have a wealth of power and money, on top of their age and the inclusion of Anarch defects joining their ranks makes the sect distinctly upper class.

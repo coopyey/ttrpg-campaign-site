@@ -6,7 +6,7 @@ Session Date: 2024-11-01
 **Session Date:** 11/01/2024
 # Sunday, September 3rd, 2045
 ## Combat
-[[Omen]] had just dropped an EMP grenade and blinded [[Garf]], while Omen lost a quick release feature of the grenade belt, and one of the mantis blades. [[Emerick]], [[Net]] and [[Saint]] continue to rush to the van in the attempt to get out. Net unlocks the van and gets into the driver's seat to begin to hotwire things while Saint fires a grenade at Omen that hits both Garf and Omen. The nomad friend that Garf brought kills Omen, and the rest of the party sees the nomad run out of the room and all of our hearts drop as we feel the tension in the air spike. When we look back to see what happened, Omen's body falls limp and out of Garf's grip, onto the ground.
+[[Omen]] had just dropped an EMP grenade and blinded [[content/Nuclear Chrome/Player Characters/Deceased/Garf]], while Omen lost a quick release feature of the grenade belt, and one of the mantis blades. [[Emerick]], [[Net]] and [[Saint]] continue to rush to the van in the attempt to get out. Net unlocks the van and gets into the driver's seat to begin to hotwire things while Saint fires a grenade at Omen that hits both Garf and Omen. The nomad friend that Garf brought kills Omen, and the rest of the party sees the nomad run out of the room and all of our hearts drop as we feel the tension in the air spike. When we look back to see what happened, Omen's body falls limp and out of Garf's grip, onto the ground.
 
 Garf reaches down and tries to rip the shotgun collar off and she's blaming herself for not being fast enough, strong enough, or able to save him. She loses her sense of rationality as she is at a loss of what's going on, and then turns to the nomad and tears her throat out and kills her for killing Omen. Garf realizes what she had done as she comes back to reality and says fuck. She looks toward everyone and holds her bloodied, twitching hands forward, asking what happened.
 
@@ -97,4 +97,4 @@ Following shortly behind him is [[Juice]]. Juice has significantly more high tec
 
 ---
 
-[[Garf]] and [[Omen]] died this session.
+[[content/Nuclear Chrome/Player Characters/Deceased/Garf]] and [[Omen]] died this session.

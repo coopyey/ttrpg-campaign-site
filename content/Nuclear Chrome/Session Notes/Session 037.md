@@ -63,7 +63,7 @@ Net gets up and leaves and goes to find his uncle. There is few ofrendas. Net as
 
 Javier gets pissed, but he holds it back and Net knows that he's only holding it back because of where they are. Net says he grieves with him: we've all been through a lot, and his uncle should know why he can't stay. Tía would have a fit, and Net's surprised she hasn't already smacked him upside the head and told him to leave. Javier tell shim that he should do what he has to do. Net admits that he might have to call that favor in soon and requests that Javier keep the lines open, and Javier says whenever he needs it.
 
-Net takes the bike that he inherited from [[Garf]] to his shop and works on the bike. He leaves the Mercury Riders logo on it, but on the other side he puts the Thinker's logo on. 
+Net takes the bike that he inherited from [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] to his shop and works on the bike. He leaves the Mercury Riders logo on it, but on the other side he puts the Thinker's logo on. 
 
 After, Net tinkers to try to decompress - mainly working on the van. Over the course of the next week, Net makes an onboard machine gun for his van.
 ## Emerick

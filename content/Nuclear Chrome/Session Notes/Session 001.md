@@ -28,7 +28,7 @@ Omen drives us over and we discuss how to reach floor 15, room 10.
 
 [[Net]] comes up with the following plan:
 - [[Net]] and Charles sneak into the room.
-- [[Garf]] will go into the vents and scout things out.
+- [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] will go into the vents and scout things out.
 - [[Omen]] and [[Emerick]] will grapple onto the outer balcony and wait for commotion.
 
 *We learn that there is a fixer in the Glen that we are aware of named [[Mr. Steele]]. We realize that he set up a hit on this client that we are rescuing. Mr. Steel is rumored to be nearing cyberpsychosis.*

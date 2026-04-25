@@ -1,17 +1,19 @@
 ---
 Class: Player Character
 Campaign: The Withering Heart
-Player Class: Caitiff
+Player Class: Toreador
 Subclass:
 Status: Alive
 ---
-**Player:** Dud
+**Player:** Rico
 # General Information
-**Generation:** 12th or 13th
+**Name:** Adoniel
 
-**Clan:**  Caitiff
+**Generation:** 12th 
 
-**Predator Type:** Bagger
+**Clan:**  Toreador
+
+**Predator Type:** Scene Queen
 
 **Concept:** 
 
@@ -19,7 +21,7 @@ Status: Alive
 **Actual Age:** 
 
 **Date of Death:** \
-**Apparent Age:** 28
+**Apparent Age:** 26
 
 *Note: dates of birth, death, and actual age will only be added when the party finds out, or if the campaign ends, or the character dies.*
 # Disciplines

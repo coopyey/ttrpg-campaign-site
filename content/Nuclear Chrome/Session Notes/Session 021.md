@@ -5,7 +5,7 @@ Session Date: 2023-08-24
 ---
 **Session Date:** 8/24/2023
 
-[[Cipher]] and [[Garf]] make it to the same AP that Garf found previously. They do the stuff.
+[[Cipher]] and [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] make it to the same AP that Garf found previously. They do the stuff.
 
 ---
 

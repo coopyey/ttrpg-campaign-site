@@ -1,17 +1,19 @@
 ---
 Class: Player Character
 Campaign: The Withering Heart
-Player Class: Nosferatu
+Player Class: Caitiff
 Subclass:
 Status: Alive
 ---
-**Player:** Doom
+**Player:** Dud
 # General Information
-**Generation:** 12th
+**Full Name:** Sean Gomez
 
-**Clan:**  Nosferatu
+**Generation:** 12th or 13th
 
-**Predator Type:** Sandman
+**Clan:**  Caitiff
+
+**Predator Type:** Bagger
 
 **Concept:** 
 
@@ -19,7 +21,7 @@ Status: Alive
 **Actual Age:** 
 
 **Date of Death:** \
-**Apparent Age:** 
+**Apparent Age:** 28
 
 *Note: dates of birth, death, and actual age will only be added when the party finds out, or if the campaign ends, or the character dies.*
 # Disciplines

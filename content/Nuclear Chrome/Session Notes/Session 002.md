@@ -7,7 +7,7 @@ Session Date: 2023-01-26
 
 Combat start.
 
-There is a sharp whirring metallic sound that [[Garf]] notices, and a spray of bullets launches at [[Omen]] that he manages to dodge.
+There is a sharp whirring metallic sound that [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] notices, and a spray of bullets launches at [[Omen]] that he manages to dodge.
 
 We dispatch of the scavs that were hiding out and Emerick approaches the final door and hears that there is someone inside. Emerick says that he knows they are there and is joined by [[Net]] and Omen while Garf looks around the apartment. Emerick tells them to keep their hands up and the team enters slowly.
 

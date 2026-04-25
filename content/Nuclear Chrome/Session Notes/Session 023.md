@@ -27,7 +27,7 @@ Emerick returns to the lounge area and just hangs out until it’s time to help 
 
 ---
 
-[[Garf]] goes in to check on [[Cipher]] and make sure he’s okay. [[Net]] warns [[Trash Tablet]] about an exotic coming by. Garf does show up and is approached by a gang member, asking if they’re Garf. They said Net mentioned them and the gang member — Trash Tablet — said that Net mentioned she might show up. Trash leads Garf back to his place so that she can see Net and Cipher, who are hanging in the living space of the building.
+[[content/Nuclear Chrome/Player Characters/Deceased/Garf]] goes in to check on [[Cipher]] and make sure he’s okay. [[Net]] warns [[Trash Tablet]] about an exotic coming by. Garf does show up and is approached by a gang member, asking if they’re Garf. They said Net mentioned them and the gang member — Trash Tablet — said that Net mentioned she might show up. Trash leads Garf back to his place so that she can see Net and Cipher, who are hanging in the living space of the building.
 
 Garf offers to rebuild Cipher’s cyberdeck. Garf gives Cipher her cyberdeck until she manages to rebuild it. Cipher isn’t sure what to say and tries to refuse the cyberdeck, but ultimately does take it and gives Garf his.
 

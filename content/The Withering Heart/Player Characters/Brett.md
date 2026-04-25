@@ -7,6 +7,8 @@ Status: Alive
 ---
 **Player:** Dragoon
 # General Information
+**Full Name:** Brett Moran
+
 **Generation:** 12th
 
 **Clan:**  Ventrue
@@ -23,7 +25,8 @@ Status: Alive
 
 *Note: dates of birth, death, and actual age will only be added when the party finds out, or if the campaign ends, or the character dies.*
 # Disciplines
-To be added.
+## Dominate
+- Mesmerize
 # Background
 Born to parents already fat from the profits of the just beginning World War 2, Brett Moran never had to struggle a day in his life. His birth was marked as a modern miracle by his parents — Owen and Katherine — who believed that his mother was barren. His family owned a couple of firearm manufacturing plants within the greater Boston area, supplying the Allied forces with American firepower throughout WW2, and modernizing as needed whenever the Cold War began.
 

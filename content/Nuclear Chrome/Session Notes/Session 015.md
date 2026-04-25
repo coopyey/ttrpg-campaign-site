@@ -9,7 +9,7 @@ The club episode was on Sunday, so we woke up **Monday morning.**
 
 [[Net]] stayed with [[Esperanza]].
 [[Cipher]] stayed with [[Mamá Rosa]].
-[[Garf]] wakes up in a dumpster, [[Omen]] finds her.
+[[content/Nuclear Chrome/Player Characters/Deceased/Garf]] wakes up in a dumpster, [[Omen]] finds her.
 [[Emerick]] wakes up at the safehouse.
 
 ---

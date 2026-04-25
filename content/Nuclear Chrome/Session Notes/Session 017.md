@@ -7,7 +7,7 @@ Session Date: 2023-07-06
 
 Housekeeping:
 - [[Omen]]: acquired the van & driver, disguised the van with [[Net]]
-- [[Garf]]: netrunning and shipment discussion
+- [[content/Nuclear Chrome/Player Characters/Deceased/Garf]]: netrunning and shipment discussion
 - [[Emerick]]: created a fake website and forged invoice
 
 ---

@@ -23,7 +23,7 @@ He falls to the ground and dies.
 
 ---
 
-[[Omen]] was hiding behind some shipping containers as [[Garf]] and [[Net]] were escorted to the Militech boss. He texts Net and Garf and asks if he should help distract the guards, and Net says he should leave if he can, absolutely do not engage. Garf says she already has a plan to smooth this over and fix things.
+[[Omen]] was hiding behind some shipping containers as [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] and [[Net]] were escorted to the Militech boss. He texts Net and Garf and asks if he should help distract the guards, and Net says he should leave if he can, absolutely do not engage. Garf says she already has a plan to smooth this over and fix things.
 
 Omen tries to sneak towards the office and his caught, so he stops and raises his hands as the guards approach. He says he was distracted and got separated, so the guard handcuffs him and takes him to the back office. He's pushed into the office, trips, then gets up and looks around the room. It's not long before Garf lashes out at everyone and Omen realizes he is the only one that is handcuffed.
 

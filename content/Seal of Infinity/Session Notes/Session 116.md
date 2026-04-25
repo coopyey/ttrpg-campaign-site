@@ -13,7 +13,7 @@ The colors here are strange - the grass is purple. As we walk closer to the tree
 
 Faylen thinks of birds and birdsong begins, and Mary can tell that there's nothing behind it, it's just gibberish.
 
-[[Bosch]]climbs one of the trees and takes some leaves and they tear like paper.
+[[Bosch]] climbs one of the trees and takes some leaves and they tear like paper.
 
 Edeis looks around and she's extremely creeped out. Faylen ultimately pulls her aside and voices his concerns: the creature that is responsible for the eye in the sky seems to be creating this place and holding the people here perhaps stuck? The creature is likely working to collect power and will eventually turn this place into the Dark Demesne. Edeis agrees that lacking other theories, that's entirely possible. She asks if we should contact the creature, and Faylen says he imagines that siphoning magic from the creature is what we'll need to do, but contacting the creature likely isn't a good idea either. She agrees and then suggests we continue to gather data and look around at this point. Faylen doesn't love it but agrees, as there's nothing else we can do.
 

@@ -26,7 +26,7 @@ ID Numbers:
 - Omen: 42070
 - Net: 42071
 - [[Emerick]]: 42072
-- [[Garf]]: 42073
+- [[content/Nuclear Chrome/Player Characters/Deceased/Garf]]: 42073
 - [[Cipher]]: 42074
 - Phoenix: 42075
 

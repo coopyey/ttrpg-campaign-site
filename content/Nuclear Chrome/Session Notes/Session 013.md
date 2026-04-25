@@ -15,7 +15,7 @@ In summary, Net explains:
 - explains the bag of what used to be Bruce
 - explains no information was given, they were not tracked
 
-Juice asks if the others have anything to add, and [[Omen]] flips him off. [[Garf]] says it's time to do it the fun way. She gesture's for [[Snowball]]'s grenade launcher. There is a delay as Juice says he can help with that and in the blink of an eye, [[Ogre]] is in front of Garf.
+Juice asks if the others have anything to add, and [[Omen]] flips him off. [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] says it's time to do it the fun way. She gesture's for [[Snowball]]'s grenade launcher. There is a delay as Juice says he can help with that and in the blink of an eye, [[Ogre]] is in front of Garf.
 
 Juice says that he will just take care of things. Ogre grabs Garf by the neck. When Snowball moves to try to help, Juice tells her not to do so, because he has the firepower here. Garf falls unconscious.
 
@@ -63,7 +63,7 @@ Net and Cipher spend a moment of comforting each other, and Cipher reminds Rosa 
 
 ---
 
-[[Omen]] and [[Garf]] wake up on the couches in the safehouse.
+[[Omen]] and [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] wake up on the couches in the safehouse.
 
 Omen shoots awake, then goes and pats Garf to make sure she's alive. Garf and Omen start talking with each other, with Garf explaining she feels like shit, then asking how they got here. Omen recalls meeting Snowball, and also maybe Net and Cipher?
 

@@ -15,7 +15,7 @@ Emerick texts the group chat to ask where everyone is. [[Net]] texts and says he
 
 ---
 
-Everyone but [[Cipher]] (who is still asleep) shows at Phoenix’s warehouse. Net and [[Omen]] are putting the finishing touches on the van while everyone else is vibing. [[Garf]] is playing with her new kraken and dragon, [[Torrent]] is going up to people asking what they’re doing very loudly, Omen is asking why the smoker (Net) is breathing in bad air. Net says that he’s probably going to die before 30 so what’s it matter. They finish the van and Net steps back and throws the cigarette down and crushes it out.
+Everyone but [[Cipher]] (who is still asleep) shows at Phoenix’s warehouse. Net and [[Omen]] are putting the finishing touches on the van while everyone else is vibing. [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] is playing with her new kraken and dragon, [[Torrent]] is going up to people asking what they’re doing very loudly, Omen is asking why the smoker (Net) is breathing in bad air. Net says that he’s probably going to die before 30 so what’s it matter. They finish the van and Net steps back and throws the cigarette down and crushes it out.
 
 Emerick gives Omen his two doses of blue glass, Garf her one, and tries to give Net two doses. Net tries to push it back, and Emerick pushes them back toward Net and tells him to give them to Cipher, then. Net blinks at him, then backs down and puts the doses in his jacket for Cipher.
 

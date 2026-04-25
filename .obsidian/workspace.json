@@ -4,42 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "877d2e27e126e707",
+        "id": "d344a4096897c05f",
         "type": "tabs",
         "children": [
           {
-            "id": "c8bb22650f00986d",
+            "id": "32d7fc5a96962a68",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "metamenu/Dashboard.canvas",
-                "viewState": {
-                  "x": -60,
-                  "y": -104,
-                  "zoom": -0.11450169838831946
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "6c14e742d8873ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Seal of Infinity/Session Notes/Session 116.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 116"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +61,7 @@
         "currentTab": 1
       },
       {
-        "id": "3ad742418c67b94f",
+        "id": "cd5358508ddb11ff",
         "type": "tabs",
         "children": [
           {
@@ -191,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,12 +180,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "6c14e742d8873ec6",
+  "active": "32d7fc5a96962a68",
   "lastOpenFiles": [
+    "content/The Withering Heart/Session Notes/Session 001.md",
+    "content/The Withering Heart/NPCs/Adsila.md",
+    "content/The Withering Heart/Player Characters/Lorn.md",
+    "content/The Withering Heart/NPCs/Neculai.md",
+    "content/The Withering Heart/NPCs/Streiqer.md",
+    "content/The Withering Heart/Player Characters/Afton VI.md",
+    "content/The Withering Heart/NPCs/Afton Eichman V.md",
+    "content/The Withering Heart/Player Characters/Sean.md",
+    "content/The Withering Heart/Player Characters/Brett.md",
+    "content/The Withering Heart/Player Characters/Garf.md",
+    "content/The Withering Heart/NPCs/Oliver Medvedík.md",
+    "content/The Withering Heart/Player Characters/Dawn.md",
+    "content/The Withering Heart/NPCs/Valgerd.md",
+    "content/The Withering Heart/Misc Notes/The Book of Nod.md",
     "metamenu/Dashboard.canvas",
+    "content/The Withering Heart/Organizations/Camarilla.md",
+    "content/Seal of Infinity/Session Notes/Session 117.md",
+    "content/Danse Macabre/Session Notes/Session 085.md",
     "content/Seal of Infinity/Session Notes/Session 116.md",
     "content/Danse Macabre/Session Notes/Session 084.md",
     "content/Danse Macabre/Session Notes/Session 083.md",
@@ -218,22 +213,6 @@
     "content/DM Blast to the Past/Session Notes/Session 016.md",
     "content/DM Blast to the Past/Session Notes/Session 015.md",
     "content/DM Blast to the Past/Session Notes/Session 014.md",
-    "content/DM Blast to the Past/Session Notes/Session 013.md",
-    "content/DM Blast to the Past/Session Notes/Session 012.md",
-    "content/DM Blast to the Past/Session Notes/Session 011.md",
-    "content/DM Blast to the Past/Session Notes/Session 010.md",
-    "content/DM Blast to the Past/Session Notes/Session 009.md",
-    "content/DM Blast to the Past/Session Notes/Session 008.md",
-    "content/DM Blast to the Past/Session Notes/Session 007.md",
-    "content/DM Blast to the Past/Session Notes/Session 006.md",
-    "content/DM Blast to the Past/Session Notes/Session 005.md",
-    "content/DM Blast to the Past/Session Notes/Session 004.md",
-    "content/DM Blast to the Past/Session Notes/Session 002.md",
-    "content/DM Blast to the Past/Session Notes/Session 001.md",
-    "content/DM Blast to the Past/Session Notes/Sesion 003.md",
-    "content/DM Blast to the Past/Player Characters/Zimri.md",
-    "content/DM Blast to the Past/Player Characters/Silver.md",
-    "content/DM Blast to the Past/Player Characters/Ravyn.md",
     "content/DM Blast to the Past/Session Notes",
     "content/DM Blast to the Past/Player Characters",
     "content/DM Blast to the Past/NPCs",

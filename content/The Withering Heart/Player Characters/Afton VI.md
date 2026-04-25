@@ -1,19 +1,19 @@
 ---
 Class: Player Character
 Campaign: The Withering Heart
-Player Class: Toreador
+Player Class: Nosferatu
 Subclass:
 Status: Alive
 ---
-**Player:** Rico
+**Player:** Doom
 # General Information
-**Nickname:** Dawn
+**Full Name:** Afton Eichman VI
 
-**Generation:** 12th 
+**Generation:** 12th
 
-**Clan:**  Toreador
+**Clan:**  Nosferatu
 
-**Predator Type:** Scene Queen
+**Predator Type:** Sandman
 
 **Concept:** 
 
@@ -21,10 +21,12 @@ Status: Alive
 **Actual Age:** 
 
 **Date of Death:** \
-**Apparent Age:** 26
+**Apparent Age:** 
 
 *Note: dates of birth, death, and actual age will only be added when the party finds out, or if the campaign ends, or the character dies.*
 # Disciplines
-To be added.
+## Animalism
+- Hunt the Beast (Homebrew)
+	- Smell the essence of a Supernatural beast to track your target, while also sensing when your prey's emotional state changes.
 # Background
 To be added.

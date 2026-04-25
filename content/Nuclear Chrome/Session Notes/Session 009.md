@@ -5,7 +5,7 @@ Session Date: 2023-03-16
 ---
 **Session Date:** 3/16/2023
 
-We continue combat, opening with [[Garf]] taking a shotgun blast to the face.
+We continue combat, opening with [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] taking a shotgun blast to the face.
 
 We finally end combat and Garf starts mutilating the corpse of the Bozo that had the shotgun and shot her. She eventually collapses as she's bleeding. We all start to come to terms with the state of everything, and [[Emerick]] calls [[Torrent]] for help.
 
@@ -31,7 +31,7 @@ We all settle down and when Bruce arrives back from the hospital he gets out of 
 
 Seo calls Net and says they're ready. Net takes some time to preen, then goes to the stakeout location to meet up with the rest of us. Garf also does her own preening while waiting. She does an okay job, but she needs Net's magic touch to fix up the rest of her fit.
 
-[[Garf]] changes her fur to a royal blue color. Net and Seo work together to make Garf completely look the part, then they work together to make Net look more like a corpo bodyguard, and they pull it off. They remove Garf's behavior chip at her request, with Net holding onto it for later.
+[[content/Nuclear Chrome/Player Characters/Deceased/Garf]] changes her fur to a royal blue color. Net and Seo work together to make Garf completely look the part, then they work together to make Net look more like a corpo bodyguard, and they pull it off. They remove Garf's behavior chip at her request, with Net holding onto it for later.
 
 Garf explains the plan:
 >*Net is a security expert, and they are representatives for [[Nuclear Chrome]]. They heard of the difficulties in this area so they are going to check the security of the place and pick up this high value package early so that it is not raided.*

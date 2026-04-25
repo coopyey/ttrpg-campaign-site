@@ -5,7 +5,7 @@ Session Date: 2023-04-13
 ---
 **Session Date:** 4/13/2023
 
-[[Garf]], [[Net]], and [[Omen]] are in a skill-check based boss fight. They need 3 successes *before* three failures.
+[[content/Nuclear Chrome/Player Characters/Deceased/Garf]], [[Net]], and [[Omen]] are in a skill-check based boss fight. They need 3 successes *before* three failures.
 
 ---
 

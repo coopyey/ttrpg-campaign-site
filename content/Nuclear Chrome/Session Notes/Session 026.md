@@ -9,7 +9,7 @@ We all turn to see [[Juice]] holding a gun after having shot [[Charley]], with [
 
 Juice calls [[Emerick]] over to help him, saying he needs assistance, and he announces that [[Curb Stomping Word Vomit]] won't be performing in these conditions. He says if they want to help then he will drop a piece of paper on the floor, then starts to walk away. [[Omen]] picks up the paper and sees that there's someone named [[Saint]] on it, with a number, and that they're a medtech.
 
-Everyone immediately starts arguing about what to do with [[Garf]] yelling to get him ready and she'll get him on the bike and take him to the hospital, and then Net freaking out about him being on the bike. Garf asks if we're going to wait for a fucking car, and they fight until Emerick speaks up.
+Everyone immediately starts arguing about what to do with [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] yelling to get him ready and she'll get him on the bike and take him to the hospital, and then Net freaking out about him being on the bike. Garf asks if we're going to wait for a fucking car, and they fight until Emerick speaks up.
 
 Emerick grabs Net's arm and asks him to make sure that [[Charley]] is okay and makes it through this, and net agrees, and then Emerick glances at [[Seo]] and then gets up and follows after Juice. Once Emerick makes it to Ogre, Ogre finally stands down and starts to walk out. Charley starts to come to and asks what to do about this, and Net instructs him to keep pressure on the dressing he put together for Charley and asks Seo for help carrying him to the car. [[Alice]] and [[Ri]] call out that they'll meet the group for Charley at the hospital, asking for the info to be texted to them.
 

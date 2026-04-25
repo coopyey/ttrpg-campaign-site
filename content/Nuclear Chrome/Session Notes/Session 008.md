@@ -27,7 +27,7 @@ A combat cab pulls up and Net comes out, around noon on Monday at this time.
 
 Net and Bruce meet, exchanging pleasantries. Bruce is keeping watch as Net moves further into the building. [[Seo]] tells Net about the fights we had, and [[Emerick]] explains about the shipment that we hadn't been expecting that arrived.
 
-We discuss if we wish to take this surprise shipment. It is in a large, specialized container and will be rather tough to grab, but we realize if we go the corporate route we can pretend to be associated to the company that funds them. Net starts off by suggesting Emerick pose as a corpo, since he refuses to let Seo put himself into this kind of danger. [[Garf]] convinces Net to let her be the corpo in this situation. Net and Seo are going to go back to the [[Curb Stomping Word Vomit]] warehouse to pick up some things to help with this plan - namely, to make Garf look like a corpo.
+We discuss if we wish to take this surprise shipment. It is in a large, specialized container and will be rather tough to grab, but we realize if we go the corporate route we can pretend to be associated to the company that funds them. Net starts off by suggesting Emerick pose as a corpo, since he refuses to let Seo put himself into this kind of danger. [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] convinces Net to let her be the corpo in this situation. Net and Seo are going to go back to the [[Curb Stomping Word Vomit]] warehouse to pick up some things to help with this plan - namely, to make Garf look like a corpo.
 
 On making it back to the safehouse, [[Charley]] is pulling up. Seo gets out and greets Charley, who looks rather contemplative. Net gives Charley a very sharp look and asks if they can talk while Seo heads inside.
 

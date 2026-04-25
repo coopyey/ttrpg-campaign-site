@@ -6,7 +6,7 @@ Session Date: 2024-09-27
 **Session Date:** 09/27/2024
 # Saturday, September 2nd, 2045
 ## Garf
-[[Garf]] wakes up the morning of September 2nd and [[Omen]] is not home. She doesn't think much of it as she takes a shower.
+[[content/Nuclear Chrome/Player Characters/Deceased/Garf]] wakes up the morning of September 2nd and [[Omen]] is not home. She doesn't think much of it as she takes a shower.
 ## Emerick
 [[Emerick]] looks up the coordinates to figure out what's in the area and around there. He scouts out the area ahead of time. He finds out:
 - It's in the middle of fucking nowhere outside of Night City

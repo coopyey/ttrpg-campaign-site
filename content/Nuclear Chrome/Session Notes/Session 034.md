@@ -8,7 +8,7 @@ Session Date: 2024-10-11
 ## The Group Chat
 [[Emerick]] has sent out a message to the group about what's going on with [[Omen]] and one way or another we create a second group chat without Omen. The group discusses what's going on and [[Net]] lets on that Omen had gone to the coordinates that Emerick had found with regards to [[Mr. Steele]] and [[Audun Bredall]].
 
-[[Garf]] comments she's going to go get [[Saint]] and Net is working on cleaning up the van that Garf had brought him.
+[[content/Nuclear Chrome/Player Characters/Deceased/Garf]] comments she's going to go get [[Saint]] and Net is working on cleaning up the van that Garf had brought him.
 
 Garf heads towards Saint. She calls her nomad pack, Mercury Chrome, and asks for reinforcements. She makes it to Saint's to pick him up. Saint is getting ready to go to bed and Garf pounds on his door, dragging him away from the possibility of bed. She puts Saint in the side car of her bike and they speed toward the coordinates.
 

@@ -5,7 +5,7 @@ Session Date: 2024-12-06
 ---
 **Session Date:** 12/06/2024
 # Week of Sunday, September 3rd, 2045
-The week passes by and everyone does what was outlined in [[content/Nuclear Chrome/Session Notes/Session 037|Session 037]]. Over the course of the week, Emerick works with the Mercury Riders to give [[Omen]] a proper burial for a nomad that would make him happy. [[El Charro Negro]] (Javier) and the gang add [[Garf]] and omen to an ofrenda to honor them as well.
+The week passes by and everyone does what was outlined in [[content/Nuclear Chrome/Session Notes/Session 037|Session 037]]. Over the course of the week, Emerick works with the Mercury Riders to give [[Omen]] a proper burial for a nomad that would make him happy. [[El Charro Negro]] (Javier) and the gang add [[content/Nuclear Chrome/Player Characters/Deceased/Garf]] and omen to an ofrenda to honor them as well.
 # Sunday, September 10th, 2045
 Everyone gets a text message from [[Juice]] saying that he has news to announce to everyone and we need to report to the warehouse. 
 

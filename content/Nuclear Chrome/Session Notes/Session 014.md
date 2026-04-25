@@ -19,7 +19,7 @@ He says that things are fine, and he's getting along, but she can tell he's lyin
 
 ---
 
-[[Garf]] goes out and fights a hoe to take out her frustration. She wins.
+[[content/Nuclear Chrome/Player Characters/Deceased/Garf]] goes out and fights a hoe to take out her frustration. She wins.
 
 ---
 

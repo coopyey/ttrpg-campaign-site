@@ -16,7 +16,7 @@ Session Date: 2023-07-13
 
 ----
 
-[[Garf]] is currently glassed out and her dragon gets fucked over. She decides to unsafely jack out and she loses her worm and dragon both. Phoenix asks what is going on and Garf tries to say that she is okay and Phoenix demands to know what the hell is wrong. Garf explains that she's tripping out and Phoenix tells her that they need to fix whatever the fuck is going on. The two quickly leave and get into the car to see [[Katchya]] for treatment.
+[[content/Nuclear Chrome/Player Characters/Deceased/Garf]] is currently glassed out and her dragon gets fucked over. She decides to unsafely jack out and she loses her worm and dragon both. Phoenix asks what is going on and Garf tries to say that she is okay and Phoenix demands to know what the hell is wrong. Garf explains that she's tripping out and Phoenix tells her that they need to fix whatever the fuck is going on. The two quickly leave and get into the car to see [[Katchya]] for treatment.
 
 [[Torrent]] explains what happened and Phoenix admits to Garf that she doesn't like putting this kind of money into strangers and asks for reassurance that the job will get done. Garf reassures her. Phoenix says that we need to get her treated once the job is over, but for now Garf needs to dose blue glass until then so that nothing sneaks up on her again.
 
