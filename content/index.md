@@ -30,7 +30,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **System:** Cyberpunk RED \
 **DM:** Ceildread \
 **Start Date:** January 19, 2023 \
-**Schedule:** First Friday of the month @ 7:00pm CST \
+**Schedule:** First & Third Friday of the month @ 7:00pm CST \
 **Character:** [[Emerick]] Kline; 5 Media, 3 Exec \
 **Vibe:**
 > A cyberpunk horror campaign in which the group works for a ruthless, abusive fixer that only cares about making money at any cost. As in any cyberpunk fiction, everything's terrible all of the time and the group is only trying to make it through the ruthless Night City unscathed. *Please note that Cyberpunk RED is set in 2045 so you will not see Cyberpunk 2077 wireless mechanics such as quickhacking.*
@@ -38,7 +38,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **System:** Dungeons & Dragons 5E -> Pathfinder 2E \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** January 22, 2023 \
-**Schedule:** Weekly; Sundays @ 1:00pm CST; Alt. w/Blast to Past \
+**Schedule:** Weekly; Sundays @ 1:00pm CST \
 **Character:** [[Arythas]] Ialdethish; Silver Dragon Guardian \
 **Vibe:**
 > Mystery horror campaign where the undead did not exist until now. Something is stirring and rousing the dead from their rest, and the group is tasked with the task of trying to figure out what is causing it, and to stop it if possible.
@@ -55,7 +55,7 @@ These are in order of start date, so the longest-running campaigns are going to 
 **System:** Vampire the Masquerade 5E \
 **DM:** Ceildread \
 **Start Date:** April 17th, 2026 \
-**Schedule:** Third Friday of the month @ 7:00pm CST \
+**Schedule:** Second & Fourth Friday of the month @ 7:00pm CST \
 **Character:** Lorn; 12th Gen Tremere \
 **Vibe:**
 > A horror campaign of 12/13th generation vampires set in 1998 Cleveland, OH. The Tzimisce princess of Cleveland is bordering on a huge Masquerade break as she takes the hearts out of her lovers to make macabre statues. Everyone's looking for the Book of Nod and choices must be made on where allegiances lie. What will become of the Coeterie made up of one arrogant Ventrue, a time-lost Toreador, a gentle goth Tremere sorcerer, a Nosferatu with a wish to command beasts, and the back alley doctor Caitiff?
