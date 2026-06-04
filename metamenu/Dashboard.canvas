@@ -2,11 +2,11 @@
 	"nodes":[
 		{"id":"dffdd89b1279a0d0","type":"text","text":"# Seal of Infinity\n```mdm\nClass: \"Session\"\nview: SealLastSession\nfiles per page: 1\n```","x":-160,"y":-440,"width":440,"height":212},
 		{"id":"4b75a1d21ab569f8","type":"text","text":"# Starfinder 2\n```mdm\nClass: \"Session\"\nview: Starfinder2Session\nfiles per page: 1\n```","x":-620,"y":-212,"width":440,"height":212},
-		{"id":"209f14195e93d553","type":"text","text":"# Nuclear Chrome\n```mdm\nClass: \"Session\"\nview: NuclearLastSession\nfiles per page: 1\n```","x":-620,"y":20,"width":440,"height":212},
 		{"id":"2f5ba237fc287d3e","type":"text","text":"# Stepstone Isles\n```mdm\nClass: \"Session\"\nview: StepsLastSession\nfiles per page: 1\n```","x":-160,"y":-212,"width":440,"height":212},
 		{"id":"37ddeaaee32038b4","type":"text","text":"# The Withering Heart\n```mdm\nClass: \"Session\"\nview: WitheringLastSession\nfiles per page: 1\n```","x":-160,"y":20,"width":440,"height":212},
 		{"id":"d771f33b20229b03","type":"text","text":"# Danse Macabre\n```mdm\nClass: \"Session\"\nview: DanseLastSession\nfiles per page: 1\n```","x":-620,"y":-440,"width":440,"height":212},
-		{"id":"3bd5b552b3a3e177","type":"text","text":"`BUTTON[new-session]`\n\n`BUTTON[new-npc]`\n\n`BUTTON[new-location]`\n\n`BUTTON[new-organization]`\n\n`BUTTON[new-note]`\n\n`BUTTON[new-player]`","x":320,"y":-254,"width":180,"height":297,"color":"6"}
+		{"id":"3bd5b552b3a3e177","type":"text","text":"`BUTTON[new-session]`\n\n`BUTTON[new-npc]`\n\n`BUTTON[new-location]`\n\n`BUTTON[new-organization]`\n\n`BUTTON[new-note]`\n\n`BUTTON[new-player]`","x":320,"y":-254,"width":180,"height":297,"color":"6"},
+		{"id":"209f14195e93d553","type":"text","text":"# Nuclear Chrome\n```mdm\nClass: \"Session\"\nview: NuclearLastSession\nfiles per page: 1\n```","x":-620,"y":20,"width":440,"height":212}
 	],
 	"edges":[]
 }

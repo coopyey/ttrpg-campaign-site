@@ -13,7 +13,7 @@ Status: Alive
 
 **Clan:**  Brujah
 
-**Predator Type:** 
+**Predator Type:** Alleycat
 
 **Concept:** 
 
