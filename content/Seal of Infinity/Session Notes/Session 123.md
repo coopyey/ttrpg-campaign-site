@@ -23,13 +23,13 @@ Axamonar speaks up to say he would like some improvements on this physical form 
 - Abs
 - Being larger
 # The Party (sans Faylen)
-Clapperclaw explains that the party can never go back to that bar again. [[Bosch]] is disappointed because someone at that bar owed him a favor, but he can find someone else. She says they can still go to the bar but it will be at our peril. [[Mary]] says that they'll keep an eye on the place since they don't know where Faylen will be.
+[[Bobbi]] Clapperclaw explains that the party can never go back to that bar again. [[Bosch]] is disappointed because someone at that bar owed him a favor, but he can find someone else. She says they can still go to the bar but it will be at our peril. [[Mary]] says that they'll keep an eye on the place since they don't know where Faylen will be.
 
 We explain that Sage Axamonar is here (Clapperclaw asks if he'll be clutching his pearls, [[Tabby]] says he doesn't know how that man thinks) and Mary then explains that the reason the prison fell was because we went to rescue Axamonar. She is surprised that [[Izoraxx]] is just jailing other sages, and comments that he will be violently dealing with Izoraxx when they run into him. 
 
-Clapperclaw is disappointed at the leshy appearance and Mary explains that he and Faylen left to find the magic district to fix the overall form for Axamonar to fix that.
+Bobbi is disappointed at the leshy appearance and Mary explains that he and Faylen left to find the magic district to fix the overall form for Axamonar to fix that.
 
-Clapperclaw asks what we need and Bosch explains:
+Bobbi asks what we need and Bosch explains:
 - Something to deal with Izoraxx
 - Deal with Kincaid
 # The Party Together

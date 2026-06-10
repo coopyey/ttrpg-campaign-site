@@ -4,42 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d344a4096897c05f",
+        "id": "d8999341e27ef8f4",
         "type": "tabs",
         "children": [
           {
-            "id": "32d7fc5a96962a68",
+            "id": "63ae33c05e005078",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "metamenu/Dashboard.canvas",
-                "viewState": {
-                  "x": -60,
-                  "y": -104,
-                  "zoom": -0.11450169838831946
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "723f757efee15400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Seal of Infinity/Session Notes/Session 123.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 123"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,14 +185,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "723f757efee15400",
+  "active": "63ae33c05e005078",
   "lastOpenFiles": [
-    "content/Seal of Infinity/NPCs/Clapperclaw.md",
-    "content/Seal of Infinity/NPCs/Grandfather Walker.md",
-    "content/Seal of Infinity/NPCs/Bobbi.md",
+    "content/Seal of Infinity/Session Notes/Session 124.md",
+    "content/Seal of Infinity/Locations/Noxitudo.md",
+    "content/Seal of Infinity/NPCs/Kovar Anranios.md",
+    "content/Seal of Infinity/Locations/Point Chasm.md",
     "content/Seal of Infinity/Session Notes/Session 123.md",
-    "Pasted image 20260511183845.png",
+    "content/Seal of Infinity/NPCs/Emer Kaine.md",
+    "content/Seal of Infinity/NPCs/Bobbi.md",
+    "content/Seal of Infinity/NPCs/Clapperclaw.md",
     "metamenu/Dashboard.canvas",
+    "content/Seal of Infinity/NPCs/Grandfather Walker.md",
+    "Pasted image 20260511183845.png",
     "content/Danse Macabre/NPCs/Hercan.md",
     "content/Danse Macabre/Session Notes/Session 088.md",
     "content/Seal of Infinity/Session Notes/Session 120.md",
@@ -232,11 +215,6 @@
     "content/The Withering Heart/NPCs/Afton Eichman V.md",
     "content/The Withering Heart/Player Characters/Sean.md",
     "content/The Withering Heart/Player Characters/Brett.md",
-    "content/The Withering Heart/NPCs/Oliver Medvedík.md",
-    "content/The Withering Heart/Player Characters/Dawn.md",
-    "content/The Withering Heart/NPCs/Valgerd.md",
-    "content/The Withering Heart/Misc Notes/The Book of Nod.md",
-    "content/The Withering Heart/Organizations/Camarilla.md",
     "content/DM Blast to the Past/Session Notes",
     "content/DM Blast to the Past/Player Characters",
     "content/DM Blast to the Past/NPCs",
