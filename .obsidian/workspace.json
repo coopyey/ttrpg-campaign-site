@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8999341e27ef8f4",
+        "id": "69878af3a3939482",
         "type": "tabs",
         "children": [
           {
-            "id": "63ae33c05e005078",
+            "id": "f04e58bc1ab718b0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -185,8 +185,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "63ae33c05e005078",
+  "active": "f04e58bc1ab718b0",
   "lastOpenFiles": [
+    "metamenu/Dashboard.canvas",
+    "content/The Withering Heart/Session Notes/Session 001.md",
+    "content/The Withering Heart/Session Notes/Session 002.md",
     "content/Seal of Infinity/Session Notes/Session 124.md",
     "content/Seal of Infinity/Locations/Noxitudo.md",
     "content/Seal of Infinity/NPCs/Kovar Anranios.md",
@@ -195,7 +198,6 @@
     "content/Seal of Infinity/NPCs/Emer Kaine.md",
     "content/Seal of Infinity/NPCs/Bobbi.md",
     "content/Seal of Infinity/NPCs/Clapperclaw.md",
-    "metamenu/Dashboard.canvas",
     "content/Seal of Infinity/NPCs/Grandfather Walker.md",
     "Pasted image 20260511183845.png",
     "content/Danse Macabre/NPCs/Hercan.md",
@@ -206,15 +208,12 @@
     "content/Danse Macabre/Session Notes/Session 087.md",
     "content/Danse Macabre/Session Notes/Session 086.md",
     "content/The Withering Heart/Player Characters/Garf.md",
-    "content/The Withering Heart/Session Notes/Session 001.md",
     "content/The Withering Heart/NPCs/Adsila.md",
     "content/The Withering Heart/Player Characters/Lorn.md",
     "content/The Withering Heart/NPCs/Neculai.md",
     "content/The Withering Heart/NPCs/Streiqer.md",
     "content/The Withering Heart/Player Characters/Afton VI.md",
     "content/The Withering Heart/NPCs/Afton Eichman V.md",
-    "content/The Withering Heart/Player Characters/Sean.md",
-    "content/The Withering Heart/Player Characters/Brett.md",
     "content/DM Blast to the Past/Session Notes",
     "content/DM Blast to the Past/Player Characters",
     "content/DM Blast to the Past/NPCs",
