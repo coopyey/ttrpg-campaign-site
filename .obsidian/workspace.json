@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69878af3a3939482",
+        "id": "81c619fe4fb6080d",
         "type": "tabs",
         "children": [
           {
-            "id": "f04e58bc1ab718b0",
+            "id": "5cdc3f16d528b5c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -185,9 +185,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "f04e58bc1ab718b0",
+  "active": "5cdc3f16d528b5c1",
   "lastOpenFiles": [
+    "README.md",
+    "CODE_OF_CONDUCT.md",
     "metamenu/Dashboard.canvas",
+    "content/Seal of Infinity/Session Notes/Session 128.md",
     "content/The Withering Heart/Session Notes/Session 001.md",
     "content/The Withering Heart/Session Notes/Session 002.md",
     "content/Seal of Infinity/Session Notes/Session 124.md",
@@ -212,8 +215,6 @@
     "content/The Withering Heart/Player Characters/Lorn.md",
     "content/The Withering Heart/NPCs/Neculai.md",
     "content/The Withering Heart/NPCs/Streiqer.md",
-    "content/The Withering Heart/Player Characters/Afton VI.md",
-    "content/The Withering Heart/NPCs/Afton Eichman V.md",
     "content/DM Blast to the Past/Session Notes",
     "content/DM Blast to the Past/Player Characters",
     "content/DM Blast to the Past/NPCs",
