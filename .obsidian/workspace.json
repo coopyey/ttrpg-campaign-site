@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0b1e46e5e00088e",
+        "id": "b4ed16e215cdd71f",
         "type": "tabs",
         "children": [
           {
-            "id": "2c680d468b24ffc8",
+            "id": "68003be4f7d494a0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -185,14 +185,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c680d468b24ffc8",
+  "active": "68003be4f7d494a0",
   "lastOpenFiles": [
+    "metamenu/Dashboard.canvas",
+    "content/Seal of Infinity/Session Notes/Session 128.md",
+    "content/Seal of Infinity/Session Notes/Session 129.md",
     "content/Seal of Infinity/NPCs/Grayrazor.md",
     "content/Seal of Infinity/NPCs/Blackjack Davion.md",
     "content/Seal of Infinity/NPCs/Wulfgang van Hond.md",
-    "content/Seal of Infinity/Session Notes/Session 128.md",
     "content/Seal of Infinity/Locations/Point Chasm.md",
-    "metamenu/Dashboard.canvas",
     "README.md",
     "CODE_OF_CONDUCT.md",
     "content/The Withering Heart/Session Notes/Session 001.md",
@@ -213,8 +214,6 @@
     "content/Seal of Infinity/Session Notes/Session 118.md",
     "content/Danse Macabre/Session Notes/Session 087.md",
     "content/Danse Macabre/Session Notes/Session 086.md",
-    "content/The Withering Heart/Player Characters/Garf.md",
-    "content/The Withering Heart/NPCs/Adsila.md",
     "content/DM Blast to the Past/Session Notes",
     "content/DM Blast to the Past/Player Characters",
     "content/DM Blast to the Past/NPCs",
